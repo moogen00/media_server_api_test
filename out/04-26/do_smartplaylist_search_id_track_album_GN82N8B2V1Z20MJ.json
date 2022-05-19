@@ -1,0 +1,80 @@
+search do_smartplaylist_search_id_track_album ===========================================
+{
+   "item" : [
+      {
+         "album" : {
+            "albumId" : "GN82N8B2V1Z20MJ",
+            "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/DB0E/B34C/10EC/CC7B_xlarge_front.jpg",
+            "albumName" : "Catch up, latency",
+            "trackCount" : "3"
+         },
+         "artist" : {
+            "artistId" : "GN0AH22ZGPYGQA2",
+            "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/655A/5BAE/03ED/B3F6_xlarge_front.jpg",
+            "artistName" : "UNISON SQUARE GARDEN"
+         },
+         "category" : {
+            "genreId" : "31311",
+            "genreName" : "J Guitar Rock: Indie",
+            "moodId" : "34382",
+            "moodName" : "Loud, Wild & Rowdy"
+         },
+         "duration" : "286826",
+         "ord" : 1,
+         "releaseYear" : 2018,
+         "tidalTrackId" : null,
+         "trackId" : "GNFN3GVXJ15AASQ",
+         "trackName" : "Catch up, latency"
+      },
+      {
+         "album" : {
+            "albumId" : "GN82N8B2V1Z20MJ",
+            "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/DB0E/B34C/10EC/CC7B_xlarge_front.jpg",
+            "albumName" : "Catch up, latency",
+            "trackCount" : "3"
+         },
+         "artist" : {
+            "artistId" : "GN0AH22ZGPYGQA2",
+            "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/655A/5BAE/03ED/B3F6_xlarge_front.jpg",
+            "artistName" : "UNISON SQUARE GARDEN"
+         },
+         "category" : {
+            "genreId" : "31311",
+            "genreName" : "J Guitar Rock: Indie",
+            "moodId" : "34172",
+            "moodName" : "Smoky Tender Emotion"
+         },
+         "duration" : "210720",
+         "ord" : 2,
+         "releaseYear" : 2018,
+         "tidalTrackId" : null,
+         "trackId" : "GN079VWYP2BYHP8",
+         "trackName" : "ãããã°ãããã"
+      },
+      {
+         "album" : {
+            "albumId" : "GN82N8B2V1Z20MJ",
+            "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/DB0E/B34C/10EC/CC7B_xlarge_front.jpg",
+            "albumName" : "Catch up, latency",
+            "trackCount" : "3"
+         },
+         "artist" : {
+            "artistId" : "GN0AH22ZGPYGQA2",
+            "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/655A/5BAE/03ED/B3F6_xlarge_front.jpg",
+            "artistName" : "UNISON SQUARE GARDEN"
+         },
+         "category" : {
+            "genreId" : "31311",
+            "genreName" : "J Guitar Rock: Indie",
+            "moodId" : "34374",
+            "moodName" : "Heavy Alienated / Brooding"
+         },
+         "duration" : "181679",
+         "ord" : 3,
+         "releaseYear" : 2018,
+         "tidalTrackId" : null,
+         "trackId" : "GNEEW2NHMH9GW0V",
+         "trackName" : "ããã§ä¼ã£ããããã®é"
+      }
+   ]
+}

@@ -1,0 +1,107 @@
+smartplaylist_mood_category do_smartplaylist_mood_category ===========================================
+[
+   {
+      "moodId" : "91154",
+      "moodName" : "Aggressive"
+   },
+   {
+      "moodId" : "91150",
+      "moodName" : "Brooding"
+   },
+   {
+      "moodId" : "91145",
+      "moodName" : "Cool"
+   },
+   {
+      "moodId" : "91153",
+      "moodName" : "Defiant"
+   },
+   {
+      "moodId" : "91141",
+      "moodName" : "Easygoing"
+   },
+   {
+      "moodId" : "91158",
+      "moodName" : "Empowering"
+   },
+   {
+      "moodId" : "91157",
+      "moodName" : "Energizing"
+   },
+   {
+      "moodId" : "91156",
+      "moodName" : "Excited"
+   },
+   {
+      "moodId" : "91151",
+      "moodName" : "Fiery"
+   },
+   {
+      "moodId" : "91146",
+      "moodName" : "Gritty"
+   },
+   {
+      "moodId" : "91160",
+      "moodName" : "Lively"
+   },
+   {
+      "moodId" : "91148",
+      "moodName" : "Melancholy"
+   },
+   {
+      "moodId" : "91162",
+      "moodName" : "Other"
+   },
+   {
+      "moodId" : "91137",
+      "moodName" : "Peaceful"
+   },
+   {
+      "moodId" : "91138",
+      "moodName" : "Romantic"
+   },
+   {
+      "moodId" : "91155",
+      "moodName" : "Rowdy"
+   },
+   {
+      "moodId" : "91144",
+      "moodName" : "Sensual"
+   },
+   {
+      "moodId" : "91139",
+      "moodName" : "Sentimental"
+   },
+   {
+      "moodId" : "91149",
+      "moodName" : "Serious"
+   },
+   {
+      "moodId" : "91147",
+      "moodName" : "Somber"
+   },
+   {
+      "moodId" : "91143",
+      "moodName" : "Sophisticated"
+   },
+   {
+      "moodId" : "91159",
+      "moodName" : "Stirring"
+   },
+   {
+      "moodId" : "91140",
+      "moodName" : "Tender"
+   },
+   {
+      "moodId" : "91161",
+      "moodName" : "Upbeat"
+   },
+   {
+      "moodId" : "91152",
+      "moodName" : "Urgent"
+   },
+   {
+      "moodId" : "91142",
+      "moodName" : "Yearning"
+   }
+]

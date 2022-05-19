@@ -1,0 +1,128 @@
+custom_contextual do_contextual_smartPlayList_personal_plThemeIds ===========================================
+{
+   "language" : "en",
+   "limit" : 20,
+   "origin" : "NA",
+   "plThemeName" : "PL007",
+   "priority" : "Random",
+   "trackList" : [
+      {
+         "album" : {
+            "albumID" : "GN2GCVJGN8T9VX9",
+            "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/DE73/97E6/1868/EEDC_xlarge_front.jpg",
+            "albumName" : "I Don't Care [Acoustic]"
+         },
+         "artists" : {
+            "artistID" : "GN9JMQGF8KZ0F04",
+            "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/4EE2/66B2/CDF9/94F8_medium_front.jpg",
+            "artistName" : "Ed Sheeran"
+         },
+         "category" : {
+            "genreId" : "88041",
+            "genreName" : "Indie Folk Rave-Up",
+            "moodId" : "89973",
+            "moodName" : "Mellow / Folksy"
+         },
+         "duration" : "238220",
+         "recordingId" : "GNFTDQVWKBSZR6K",
+         "recordingName" : "I Don't Care [Acoustic]",
+         "tidalTrackId" : "109961752"
+      },
+      {
+         "album" : {
+            "albumID" : "GN5NQB4SKFXF810",
+            "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/3A6D/14F6/3A3A/4C96_xlarge_front.jpg",
+            "albumName" : "Landslide"
+         },
+         "artists" : {
+            "artistID" : "GN4BZT5ZCZ4TSDC",
+            "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/58E5/98D1/FACB/E555_xlarge_front.jpg",
+            "artistName" : "The Chicks"
+         },
+         "duration" : "228013",
+         "recordingId" : "GNC9FQ10T7ANRGE",
+         "recordingName" : "Landslide (Remix)",
+         "tidalTrackId" : "92593729"
+      },
+      {
+         "album" : {
+            "albumID" : "GN16NZ5WHWEXWRN",
+            "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/4FFB/EF6A/2985/7413_xlarge_front.jpg",
+            "albumName" : "In Between Dreams"
+         },
+         "artists" : {
+            "artistID" : "GN4PY1EK1C2AJ5D",
+            "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/9BCA/E7F6/210B/CE3A_xlarge_front.jpg",
+            "artistName" : "Jack Johnson"
+         },
+         "duration" : "201720",
+         "recordingId" : "GN2TJ8DRZE5AEZ8",
+         "recordingName" : "Constellations",
+         "tidalTrackId" : "111528102"
+      },
+      {
+         "album" : {
+            "albumID" : "GN8JHH8THE9J1CB",
+            "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/45EB/76C9/863A/DE97_xlarge_front.jpg",
+            "albumName" : "Sleep Through The Static"
+         },
+         "artists" : {
+            "artistID" : "GN4PY1EK1C2AJ5D",
+            "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/9BCA/E7F6/210B/CE3A_xlarge_front.jpg",
+            "artistName" : "Jack Johnson"
+         },
+         "duration" : "123199",
+         "recordingId" : "GN3A2AAXP4ZJCAM",
+         "recordingName" : "Angel",
+         "tidalTrackId" : "161315"
+      },
+      {
+         "album" : {
+            "albumID" : "GN0C14YNWJKE10P",
+            "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/C7E7/4A2C/CC37/40E6_xlarge_front.jpg",
+            "albumName" : "Crosby, Stills & Nash"
+         },
+         "artists" : {
+            "artistID" : "GN73PTQFVGX0JJQ",
+            "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/319A/5875/B2B9/DA7E_xlarge_front.jpg",
+            "artistName" : "Crosby, Stills & Nash"
+         },
+         "duration" : "161173",
+         "recordingId" : "GN5HVXV3E05934V",
+         "recordingName" : "Helplessly Hoping",
+         "tidalTrackId" : "68711107"
+      },
+      {
+         "album" : {
+            "albumID" : "GN6TCQ31HYRBD2Y",
+            "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/50BE/5E50/9355/9999_xlarge_front.jpg",
+            "albumName" : "The Very Best Of Cat Stevens"
+         },
+         "artists" : {
+            "artistID" : "GN435CCGP3DK0ZA",
+            "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/05A8/E569/6F25/F296_large_front.jpg",
+            "artistName" : "Cat Stevens"
+         },
+         "duration" : "221000",
+         "recordingId" : "GNCVF0SPZWZY6T0",
+         "recordingName" : "Father And Son",
+         "tidalTrackId" : "77647238"
+      },
+      {
+         "album" : {
+            "albumID" : "GN6TCQ31HYRBD2Y",
+            "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/50BE/5E50/9355/9999_xlarge_front.jpg",
+            "albumName" : "The Very Best Of Cat Stevens"
+         },
+         "artists" : {
+            "artistID" : "GN435CCGP3DK0ZA",
+            "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/05A8/E569/6F25/F296_large_front.jpg",
+            "artistName" : "Cat Stevens"
+         },
+         "duration" : "232133",
+         "recordingId" : "GN2W8S4YMFKD308",
+         "recordingName" : "Where Do The Children Play?",
+         "tidalTrackId" : "77647229"
+      }
+   ]
+}

@@ -1,0 +1,73 @@
+3.7 Track Endpoint do_track_search ===========================================
+{
+   "albums" : {
+      "items" : [],
+      "limit" : 3,
+      "offset" : 0,
+      "totalNumberOfItems" : 0
+   },
+   "artists" : {
+      "items" : [],
+      "limit" : 3,
+      "offset" : 0,
+      "totalNumberOfItems" : 0
+   },
+   "tracks" : {
+      "items" : [
+         {
+            "album" : {
+               "cover" : "ebbc911f-560c-4bc0-9ee3-f8cd59552cf3",
+               "id" : 160351543,
+               "title" : "Positions"
+            },
+            "artists" : [
+               {
+                  "id" : 4332277,
+                  "name" : "Ariana Grande",
+                  "picture" : "6b7554b8-5899-40a8-8c13-09af915f1ba7"
+               }
+            ],
+            "duration" : 172,
+            "id" : 160351555,
+            "title" : "positions"
+         },
+         {
+            "album" : {
+               "cover" : "93841e56-29fa-4597-8170-e3a191b6f3c2",
+               "id" : 35699537,
+               "title" : "The Massacre"
+            },
+            "artists" : [
+               {
+                  "id" : 17548,
+                  "name" : "50 Cent",
+                  "picture" : "5067c307-a417-48b7-93b3-83eece517f1a"
+               }
+            ],
+            "duration" : 192,
+            "id" : 35699554,
+            "title" : "Position Of Power"
+         },
+         {
+            "album" : {
+               "cover" : "d85a1d67-1d25-4563-a4c0-ac0bdd41c100",
+               "id" : 103698349,
+               "title" : "Position To Win"
+            },
+            "artists" : [
+               {
+                  "id" : 5024748,
+                  "name" : "Migos",
+                  "picture" : "ae9dda61-51a5-4b21-9b59-1ab4fe558bb4"
+               }
+            ],
+            "duration" : 185,
+            "id" : 103698350,
+            "title" : "Position To Win"
+         }
+      ],
+      "limit" : 3,
+      "offset" : 0,
+      "totalNumberOfItems" : 300
+   }
+}

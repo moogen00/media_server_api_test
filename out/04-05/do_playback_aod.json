@@ -1,0 +1,490 @@
+3.6 Aod Playback Endpoint do_playback_aod ===========================================
+{
+   "data" : [
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/fecaf10d-16c7-4784-9631-c90baef539fc/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=fecaf10d-16c7-4784-9631-c90baef539fc&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 27740437
+         },
+         "description" : "The former special counsel, Robert S. Mueller III, testified on Wednesday before Congress. He declared that his two-year investigation did not exonerate President Trump and that Russia would meddle again in American elections. Guest: Michael S. Schmidt, who has been covering the special counsel investigation for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily. Background reading:Lawmakers hunted for viral sound bites and tried to score political points, but Mr. Mueller consistently refused to accommodate them in his long-awaited appearance before Congress.Here are seven takeaways from the hearings.",
+         "durationSeconds" : 1715,
+         "episodeID" : "GA0000P000GhCP1",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/fecaf10d-16c7-4784-9631-c90baef539fc/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "The former special counsel, Robert S. Mueller III, testified on Wednesday before Congress. He declared that his two-year investigation did not exonerate President Trump and that Russia would meddle again in American elections. Guest: Michael S. Schmidt, who has been covering the special counsel investigation for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.Â \n\nBackground reading:Lawmakers hunted for viral sound bites and tried to score political points, but Mr. Mueller consistently refused to accommodate them in his long-awaited appearance before Congress.Here are seven takeaways from the hearings.",
+         "summary" : "The former special counsel, Robert S. Mueller III, testified on Wednesday before Congress. He declared that his two-year investigation did not exonerate President Trump and that Russia would meddle again in American elections. Guest: Michael S. Schmidt, who has been covering the special counsel investigation for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.Â \n\nBackground reading:Lawmakers hunted for viral sound bites and tried to score political points, but Mr. Mueller consistently refused to accommodate them in his long-awaited appearance before Congress.Here are seven takeaways from the hearings.",
+         "title" : "Robert Muellerâs Testimony"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/328f00d4-0283-4284-b764-4102a5d22f1a/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=328f00d4-0283-4284-b764-4102a5d22f1a&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 19251275
+         },
+         "description" : "The New York Times has found that one of the White Houseâs own lawyers, Don McGahn, has cooperated extensively in the investigation led by the special counsel, Robert Mueller. And he has shared far more information than the president thought. Guest: Michael S. Schmidt, one of the reporters who broke the story. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1185,
+         "episodeID" : "GA0000P0000FGXB",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/328f00d4-0283-4284-b764-4102a5d22f1a/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "The New York Times has found that one of the White Houseâs own lawyers, Don McGahn, has cooperated extensively in the investigation led by the special counsel, Robert Mueller. And he has shared far more information than the president thought. Guest: Michael S. Schmidt, one of the reporters who broke the story. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "The New York Times has found that one of the White Houseâs own lawyers, Don McGahn, has cooperated extensively in the investigation led by the special counsel, Robert Mueller. And he has shared far more information than the president thought. Guest: Michael S. Schmidt, one of the reporters who broke the story. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Robert Muellerâs Unlikely Witness"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/00287cc3-ca46-44aa-98dc-6168cf6174d0/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=00287cc3-ca46-44aa-98dc-6168cf6174d0&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 20223434
+         },
+         "description" : "On Thursday, the Republican tax bill seemed to have all the momentum it needed. But a vote was delayed after a report found the calculations were off by a trillion dollars. Also, the White House has a plan to replace the secretary of state with the head of the C.I.A., and the head of the C.I.A. with a sitting senator. Guests: Jim Tankersley, who covers taxes and the economy for The New York Times; Peter Baker, The Timesâs chief White House correspondent. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1245,
+         "episodeID" : "GA0000P0000FGP9",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/00287cc3-ca46-44aa-98dc-6168cf6174d0/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "On Thursday, the Republican tax bill seemed to have all the momentum it needed. But a vote was delayed after a report found the calculations were off by a trillion dollars. Also, the White House has a plan to replace the secretary of state with the head of the C.I.A., and the head of the C.I.A. with a sitting senator. Guests: Jim Tankersley, who covers taxes and the economy for The New York Times; Peter Baker, The Timesâs chief White House correspondent. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "On Thursday, the Republican tax bill seemed to have all the momentum it needed. But a vote was delayed after a report found the calculations were off by a trillion dollars. Also, the White House has a plan to replace the secretary of state with the head of the C.I.A., and the head of the C.I.A. with a sitting senator. Guests: Jim Tankersley, who covers taxes and the economy for The New York Times; Peter Baker, The Timesâs chief White House correspondent. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Friday, Dec. 1, 2017"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/2021e792-a610-4427-bc45-01dde5c61573/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=2021e792-a610-4427-bc45-01dde5c61573&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 20921861
+         },
+         "description" : "Under President Xi Jinping, China is pioneering a new form of governance by surveillance. In the first of a two-part series, we look at how China tested that system by targeting one minority group. Guest: Paul Mozur, a technology reporter for The New York Times based in Shanghai. For more information on todayâs episode, visit nytimes.com/thedaily. Background reading: Chinese authorities are expanding an extensive surveillance net by using a vast, secret system of facial recognition technology to control the Uighurs, a largely Muslim minority.Technology built for Chinaâs surveillance system is now being applied â and sometimes abused â by other governments.",
+         "durationSeconds" : 1288,
+         "episodeID" : "GA0000P0000FGrr",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/2021e792-a610-4427-bc45-01dde5c61573/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "Under President Xi Jinping, China is pioneering a new form of governance by surveillance. In the first of a two-part series, we look at how China tested that system by targeting one minority group. Guest: Paul Mozur, a technology reporter for The New York Times based in Shanghai. For more information on todayâs episode, visit nytimes.com/thedaily. \n\nBackground reading: Chinese authorities are expanding an extensive surveillance net by using a vast, secret system of facial recognition technology to control the Uighurs, a largely Muslim minority.Technology built for Chinaâs surveillance system is now being applied â and sometimes abused â by other governments.",
+         "summary" : "Under President Xi Jinping, China is pioneering a new form of governance by surveillance. In the first of a two-part series, we look at how China tested that system by targeting one minority group. Guest: Paul Mozur, a technology reporter for The New York Times based in Shanghai. For more information on todayâs episode, visit nytimes.com/thedaily. \n\nBackground reading: Chinese authorities are expanding an extensive surveillance net by using a vast, secret system of facial recognition technology to control the Uighurs, a largely Muslim minority.Technology built for Chinaâs surveillance system is now being applied â and sometimes abused â by other governments.",
+         "title" : "The Chinese Surveillance State, Part 1"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/545c0695-281a-4e3f-bad7-927b24974035/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=545c0695-281a-4e3f-bad7-927b24974035&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 26649555
+         },
+         "description" : "This year, Chicagoâs top prosecutor, Kim Foxx, took the unusual step of asking women to come forward with allegations against the musician R. Kelly. In an interview, she explained that decision. Guest: John Eligon, a national correspondent for The New York Times, spoke with Ms. Foxx. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1646,
+         "episodeID" : "GA0000P0000FGr3",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/545c0695-281a-4e3f-bad7-927b24974035/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "This year, Chicagoâs top prosecutor, Kim Foxx, took the unusual step of asking women to come forward with allegations against the musician R. Kelly. In an interview, she explained that decision. Guest: John Eligon, a national correspondent for The New York Times, spoke with Ms. Foxx. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "This year, Chicagoâs top prosecutor, Kim Foxx, took the unusual step of asking women to come forward with allegations against the musician R. Kelly. In an interview, she explained that decision. Guest: John Eligon, a national correspondent for The New York Times, spoke with Ms. Foxx. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Prosecuting R. Kelly"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/8fea2ecd-59da-4b71-9871-91abc215d8b0/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=8fea2ecd-59da-4b71-9871-91abc215d8b0&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 28403732
+         },
+         "description" : "Nearly eight years ago, an earthquake devastated Haiti, the poorest country in the Western Hemisphere. The capitalâs morgues were so overwhelmed that thousands of bodies were dumped into mass graves. But one group of men stepped in, collecting abandoned bodies to bury them. A New York Times reporter talked to the heroes of Burial Road. Guests: Catherine Porter, a New York Times reporter, talked to the men who tend to the unclaimed bodies of Port-au-Prince, Haiti. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1757,
+         "episodeID" : "GA0000P0000FGPT",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/8fea2ecd-59da-4b71-9871-91abc215d8b0/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "Nearly eight years ago, an earthquake devastated Haiti, the poorest country in the Western Hemisphere. The capitalâs morgues were so overwhelmed that thousands of bodies were dumped into mass graves. But one group of men stepped in, collecting abandoned bodies to bury them. A New York Times reporter talked to the heroes of Burial Road.\n\nGuests: Catherine Porter, a New York Times reporter, talked to the men who tend to the unclaimed bodies of Port-au-Prince, Haiti. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "Nearly eight years ago, an earthquake devastated Haiti, the poorest country in the Western Hemisphere. The capitalâs morgues were so overwhelmed that thousands of bodies were dumped into mass graves. But one group of men stepped in, collecting abandoned bodies to bury them. A New York Times reporter talked to the heroes of Burial Road.\n\nGuests: Catherine Porter, a New York Times reporter, talked to the men who tend to the unclaimed bodies of Port-au-Prince, Haiti. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Tuesday, Dec. 19, 2017"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/33e865da-c012-4fad-a0d1-5b4883381f5d/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=33e865da-c012-4fad-a0d1-5b4883381f5d&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 35026715
+         },
+         "description" : "The Daily is revisiting our favorite episodes of the year â listening back, and then hearing whatâs happened since the stories first ran. Today, weâre going back to a conversation that first ran this summer, two weeks after a white supremacist rally in Charlottesville, Va. turned violent and right after President Trump drew intense criticism by saying there were âsome very fine people on both sides.â Guest: Derek Black, who had been poised to lead the white nationalist movement but then left, betraying his father, a former grand master of the Ku Klux Klan. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 2170,
+         "episodeID" : "GA0000P0000FGPb",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/33e865da-c012-4fad-a0d1-5b4883381f5d/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "The Daily is revisiting our favorite episodes of the year â listening back, and then hearing whatâs happened since the stories first ran. Today, weâre going back to a conversation that first ran this summer, two weeks after a white supremacist rally in Charlottesville, Va. turned violent and right after President Trump drew intense criticism by saying there were âsome very fine people on both sides.â Guest: Derek Black, who had been poised to lead the white nationalist movement but then left, betraying his father, a former grand master of the Ku Klux Klan. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "The Daily is revisiting our favorite episodes of the year â listening back, and then hearing whatâs happened since the stories first ran. Today, weâre going back to a conversation that first ran this summer, two weeks after a white supremacist rally in Charlottesville, Va. turned violent and right after President Trump drew intense criticism by saying there were âsome very fine people on both sides.â Guest: Derek Black, who had been poised to lead the white nationalist movement but then left, betraying his father, a former grand master of the Ku Klux Klan. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Wednesday, Dec. 27, 2017"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/4925b5a7-e101-4d9f-b9c7-1786529fe24a/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=4925b5a7-e101-4d9f-b9c7-1786529fe24a&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 19646651
+         },
+         "description" : "Student debt levels are soaring â and so are defaults on educational loans. A New York Times investigation found that some creditors are taking extreme measures to get paid. In many cases, those measures are costing people the jobs they need to pay back the loans they took out to get those jobs in the first place. Guests: Jessica Silver-Greenberg, a business reporter for The Times; Shannon Otto, who had her nursing license suspended after she fell behind on loan payments. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1209,
+         "episodeID" : "GA0000P0000FGPR",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/4925b5a7-e101-4d9f-b9c7-1786529fe24a/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "Student debt levels are soaring â and so are defaults on educational loans. A New York Times investigation found that some creditors are taking extreme measures to get paid. In many cases, those measures are costing people the jobs they need to pay back the loans they took out to get those jobs in the first place.\n\nGuests: Jessica Silver-Greenberg, a business reporter for The Times; Shannon Otto, who had her nursing license suspended after she fell behind on loan payments. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "Student debt levels are soaring â and so are defaults on educational loans. A New York Times investigation found that some creditors are taking extreme measures to get paid. In many cases, those measures are costing people the jobs they need to pay back the loans they took out to get those jobs in the first place.\n\nGuests: Jessica Silver-Greenberg, a business reporter for The Times; Shannon Otto, who had her nursing license suspended after she fell behind on loan payments. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Friday, Dec. 15, 2017"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/f699c452-329f-4e06-81c3-8967808f8c5c/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=f699c452-329f-4e06-81c3-8967808f8c5c&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 21894435
+         },
+         "description" : "President Trump arrived in Israel with a message from the Muslim world: If Israel wants peace with its Arab neighbors, itâll have to compromise with the Palestinians. And Michael Flynn has been out of the White House for three months. But his saga continues. Guests: Peter Baker, who is traveling with the president; Matthew Rosenberg, who has been reporting on Mr. Flynn. For more information on todayâs episode, visit http://nyti.ms/2qOCsTu.",
+         "durationSeconds" : 1349,
+         "episodeID" : "GA0000P0000FGH2",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/f699c452-329f-4e06-81c3-8967808f8c5c/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "President Trump arrived in Israel with a message from the Muslim world: If Israel wants peace with its Arab neighbors, itâll have to compromise with the Palestinians. And Michael Flynn has been out of the White House for three months. But his saga continues. Guests: Peter Baker, who is traveling with the president; Matthew Rosenberg, who has been reporting on Mr. Flynn. For more information on todayâs episode, visit http://nyti.ms/2qOCsTu.",
+         "summary" : "President Trump arrived in Israel with a message from the Muslim world: If Israel wants peace with its Arab neighbors, itâll have to compromise with the Palestinians. And Michael Flynn has been out of the White House for three months. But his saga continues. Guests: Peter Baker, who is traveling with the president; Matthew Rosenberg, who has been reporting on Mr. Flynn. For more information on todayâs episode, visit http://nyti.ms/2qOCsTu.",
+         "title" : "Tuesday, May 23, 2017"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/2b7e8b5d-baab-4217-8c5e-c1bdbd7b06c9/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=2b7e8b5d-baab-4217-8c5e-c1bdbd7b06c9&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 20648081
+         },
+         "description" : "President Trump is to announce today whether heâll withdraw the United States from the Paris climate agreement. What would it mean for the biggest carbon polluter in history to abandon the most ambitious effort to fight climate change? Guests: Justin Gillis, who covers the science and policy implications of climate change; Max Fisher and Amanda Taub, who write the Interpreter column. For more information on todayâs episode, visit http://nyti.ms/2qIOb7K.",
+         "durationSeconds" : 1271,
+         "episodeID" : "GA0000P0000FGH8",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/2b7e8b5d-baab-4217-8c5e-c1bdbd7b06c9/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "President Trump is to announce today whether heâll withdraw the United States from the Paris climate agreement. What would it mean for the biggest carbon polluter in history to abandon the most ambitious effort to fight climate change? Guests: Justin Gillis, who covers the science and policy implications of climate change; Max Fisher and Amanda Taub, who write the Interpreter column. For more information on todayâs episode, visit http://nyti.ms/2qIOb7K.",
+         "summary" : "President Trump is to announce today whether heâll withdraw the United States from the Paris climate agreement. What would it mean for the biggest carbon polluter in history to abandon the most ambitious effort to fight climate change? Guests: Justin Gillis, who covers the science and policy implications of climate change; Max Fisher and Amanda Taub, who write the Interpreter column. For more information on todayâs episode, visit http://nyti.ms/2qIOb7K.",
+         "title" : "Thursday, June 1, 2017"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/5d7255b2-f21e-434b-87b7-ae44a64d0f0d/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=5d7255b2-f21e-434b-87b7-ae44a64d0f0d&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 23543715
+         },
+         "description" : "Last week, Victorina Morales came forward and said that for the last five years, she had been working as an undocumented immigrant at President Trumpâs golf club in New Jersey. A couple of days ago, we visited her in her home with Miriam Jordan, the New York Times reporter who first broke the story. Guest: Victorina Morales, a former housekeeper at the Trump National Golf Club in Bedminster, N.J., and Miriam Jordan, who covers immigration for The Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1452,
+         "episodeID" : "GA0000P0000FGbh",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/5d7255b2-f21e-434b-87b7-ae44a64d0f0d/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "Last week, Victorina Morales came forward and said that for the last five years, she had been working as an undocumented immigrant at President Trumpâs golf club in New Jersey. A couple of days ago, we visited her in her home with Miriam Jordan, the New York Times reporter who first broke the story. Guest: Victorina Morales, a former housekeeper at the Trump National Golf Club in Bedminster, N.J., and Miriam Jordan, who covers immigration for The Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "Last week, Victorina Morales came forward and said that for the last five years, she had been working as an undocumented immigrant at President Trumpâs golf club in New Jersey. A couple of days ago, we visited her in her home with Miriam Jordan, the New York Times reporter who first broke the story. Guest: Victorina Morales, a former housekeeper at the Trump National Golf Club in Bedminster, N.J., and Miriam Jordan, who covers immigration for The Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Undocumented and Working for Trump"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/24c99e0e-ec4c-45e8-b368-7468c209d114/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=24c99e0e-ec4c-45e8-b368-7468c209d114&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 20195867
+         },
+         "description" : "Turkey is on the verge of an economic meltdown that could infect the global financial system. We examine how the countryâs slide toward authoritarianism helped trigger the crisis. Guest: Jim Tankersley, who covers economic policy for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1244,
+         "episodeID" : "GA0000P0000FGX7",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/24c99e0e-ec4c-45e8-b368-7468c209d114/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "Turkey is on the verge of an economic meltdown that could infect the global financial system. We examine how the countryâs slide toward authoritarianism helped trigger the crisis. Guest: Jim Tankersley, who covers economic policy for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "Turkey is on the verge of an economic meltdown that could infect the global financial system. We examine how the countryâs slide toward authoritarianism helped trigger the crisis. Guest: Jim Tankersley, who covers economic policy for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "The Economic Cost of Authoritarian Rule"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/9bdf288a-b0d4-46e0-b5e6-9a9b47de49c4/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=9bdf288a-b0d4-46e0-b5e6-9a9b47de49c4&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 23208089
+         },
+         "description" : "Iran is warning that it may resume production on its nuclear program, reviving a crisis that had been contained by the signing of the Iran nuclear deal four years ago. One man within the United States government may have intentionally brought us to this point. Guest: Mark Landler, who covers the White House for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily. Background reading: After President Hassan Rouhani of Iran declared that he would begin to walk away from the terms of the nuclear deal, the Trump administration responded with a new round of sanctions.The lack of ideological coherence in President Trumpâs approach to foreign intervention has played to the advantage of more hawkish advisers.",
+         "durationSeconds" : 1431,
+         "episodeID" : "GA0000P0000FGt3",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/9bdf288a-b0d4-46e0-b5e6-9a9b47de49c4/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "Iran is warning that it may resume production on its nuclear program, reviving a crisis that had been contained by the signing of the Iran nuclear deal four years ago. One man within the United States government may have intentionally brought us to this point. Guest: Mark Landler, who covers the White House for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.\n\nBackground reading: After President Hassan Rouhani of Iran declared that he would begin to walk away from the terms of the nuclear deal, the Trump administration responded with a new round of sanctions.The lack of ideological coherence in President Trumpâs approach to foreign intervention has played to the advantage of more hawkish advisers.",
+         "summary" : "Iran is warning that it may resume production on its nuclear program, reviving a crisis that had been contained by the signing of the Iran nuclear deal four years ago. One man within the United States government may have intentionally brought us to this point. Guest: Mark Landler, who covers the White House for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.\n\nBackground reading: After President Hassan Rouhani of Iran declared that he would begin to walk away from the terms of the nuclear deal, the Trump administration responded with a new round of sanctions.The lack of ideological coherence in President Trumpâs approach to foreign intervention has played to the advantage of more hawkish advisers.",
+         "title" : "John Boltonâs Plan for Iran"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/3f380c11-243d-449c-ad49-354a6531f6df/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=3f380c11-243d-449c-ad49-354a6531f6df&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 17358327
+         },
+         "description" : "After the dramatic return of John McCain, the Senate narrowly agrees to begin work on the repeal of Obamacare â then promptly votes down a plan to do exactly that. Plus: The president steps up the attacks on his attorney general. Guest: Jeremy W. Peters, who covers politics from Washington. For more information on todayâs episode, visit http://nyti.ms/2vomsLp.",
+         "durationSeconds" : 1066,
+         "episodeID" : "GA0000P0000FGJF",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/3f380c11-243d-449c-ad49-354a6531f6df/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "After the dramatic return of John McCain, the Senate narrowly agrees to begin work on the repeal of Obamacare â then promptly votes down a plan to do exactly that. Plus: The president steps up the attacks on his attorney general. Guest: Jeremy W. Peters, who covers politics from Washington. For more information on todayâs episode, visit http://nyti.ms/2vomsLp.",
+         "summary" : "After the dramatic return of John McCain, the Senate narrowly agrees to begin work on the repeal of Obamacare â then promptly votes down a plan to do exactly that. Plus: The president steps up the attacks on his attorney general. Guest: Jeremy W. Peters, who covers politics from Washington. For more information on todayâs episode, visit http://nyti.ms/2vomsLp.",
+         "title" : "Wednesday, July 26, 2017"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/a9078758-82af-4b61-969b-97421acd0772/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=a9078758-82af-4b61-969b-97421acd0772&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 17613279
+         },
+         "description" : "Why Senate leaders are crafting the most important legislation of the Trump presidency in secret. Guest: Carl Hulse, who covers Congress. For more information on todayâs episode, visit http://nyti.ms/2rIs7dC.",
+         "durationSeconds" : 1082,
+         "episodeID" : "GA0000P0000FGHR",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/a9078758-82af-4b61-969b-97421acd0772/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "Why Senate leaders are crafting the most important legislation of the Trump presidency in secret. Guest: Carl Hulse, who covers Congress. For more information on todayâs episode, visit http://nyti.ms/2rIs7dC.",
+         "summary" : "Why Senate leaders are crafting the most important legislation of the Trump presidency in secret. Guest: Carl Hulse, who covers Congress. For more information on todayâs episode, visit http://nyti.ms/2rIs7dC.",
+         "title" : "Monday, June 19, 2017"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/65a595d5-0c91-4f98-adb6-ee800dd3bf8d/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=65a595d5-0c91-4f98-adb6-ee800dd3bf8d&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 19624499
+         },
+         "description" : "Where did Stephen Miller come from, and how will his views on immigration influence the presidency? Also, farmers torn between support for President Trump and fear that he might deport their employees. Guests: Glenn Thrush, White House correspondent for The New York Times; Caitlin Dickerson, a reporter for The Times; and Jeff Marchini, a radicchio farmer in California. For more information on todayâs episode, visit http://nyti.ms/2kiWbsF.",
+         "durationSeconds" : 1207,
+         "episodeID" : "GA0000P0000FGDZ",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/65a595d5-0c91-4f98-adb6-ee800dd3bf8d/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "Where did Stephen Miller come from, and how will his views on immigration influence the presidency? Also, farmers torn between support for President Trump and fear that he might deport their employees. Guests: Glenn Thrush, White House correspondent for The New York Times; Caitlin Dickerson, a reporter for The Times; and Jeff Marchini, a radicchio farmer in California. For more information on todayâs episode, visit http://nyti.ms/2kiWbsF.",
+         "summary" : "Where did Stephen Miller come from, and how will his views on immigration influence the presidency? Also, farmers torn between support for President Trump and fear that he might deport their employees. Guests: Glenn Thrush, White House correspondent for The New York Times; Caitlin Dickerson, a reporter for The Times; and Jeff Marchini, a radicchio farmer in California. For more information on todayâs episode, visit http://nyti.ms/2kiWbsF.",
+         "title" : "Monday, Feb. 13, 2017"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/663dfd12-f418-4167-bdfe-13f9021cf0f0/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=663dfd12-f418-4167-bdfe-13f9021cf0f0&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 27209219
+         },
+         "description" : "Thirty years ago, the United States had a chance to stop global warming in its tracks. Almost nothing stood in the way â except human resistance. Guests: Rafe Pomerance, an environmentalist who became involved with the climate movement in its earliest days; Nathaniel Rich, who reported on the history of climate politics for The New York Times Magazine. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1681,
+         "episodeID" : "GA0000P0000FGXR",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/663dfd12-f418-4167-bdfe-13f9021cf0f0/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "Thirty years ago, the United States had a chance to stop global warming in its tracks. Almost nothing stood in the way â except human resistance. Guests: Rafe Pomerance, an environmentalist who became involved with the climate movement in its earliest days; Nathaniel Rich, who reported on the history of climate politics for The New York Times Magazine. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "Thirty years ago, the United States had a chance to stop global warming in its tracks. Almost nothing stood in the way â except human resistance. Guests: Rafe Pomerance, an environmentalist who became involved with the climate movement in its earliest days; Nathaniel Rich, who reported on the history of climate politics for The New York Times Magazine. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "When We Almost Stopped Climate Change"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/63f8bba8-dbcc-4d29-a571-01113c8a45f9/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=63f8bba8-dbcc-4d29-a571-01113c8a45f9&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 23474763
+         },
+         "description" : "The New York Times has introduced a documentary audio series that follows Rukmini Callimachi, who covers terrorism for The Times, on her quest to understand ISIS. Today, as a special episode of âThe Daily,â we offer Chapter 3 of âCaliphate,â in which ISIS turns fantasy into reality for a new recruit. For more information about the series, visit nytimes.com/caliphate. This episode includes disturbing language and scenes of graphic violence.",
+         "durationSeconds" : 1448,
+         "episodeID" : "GA0000P0000FGTV",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/63f8bba8-dbcc-4d29-a571-01113c8a45f9/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "The New York Times has introduced a documentary audio series that follows Rukmini Callimachi, who covers terrorism for The Times, on her quest to understand ISIS. Today, as a special episode of âThe Daily,â we offer Chapter 3 of âCaliphate,â in which ISIS turns fantasy into reality for a new recruit. For more information about the series, visit nytimes.com/caliphate.\n\nThis episode includes disturbing language and scenes of graphic violence.",
+         "summary" : "The New York Times has introduced a documentary audio series that follows Rukmini Callimachi, who covers terrorism for The Times, on her quest to understand ISIS. Today, as a special episode of âThe Daily,â we offer Chapter 3 of âCaliphate,â in which ISIS turns fantasy into reality for a new recruit. For more information about the series, visit nytimes.com/caliphate.\n\nThis episode includes disturbing language and scenes of graphic violence.",
+         "title" : "The Daily Presents âCaliphate,â Chapter 3"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/2eb8e269-7245-4224-a1fa-5fe8b79748fd/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=2eb8e269-7245-4224-a1fa-5fe8b79748fd&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 24151007
+         },
+         "description" : "The number of measles cases in the United States has risen to nearly 700 â the highest annual number recorded since 2000, when the disease was declared eliminated in the country. Many of those cases can be traced to ultra-Orthodox Jewish communities in New York. Guest: Sarah Maslin Nir, who covers New York City for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily. Background reading:Officials in New York have taken extraordinary measures to fight the measles outbreak, including $1,000 fines and bans on unvaccinated children in public.The outbreak has Orthodox Jewish communities fearing a rise in anti-Semitism.How is measles transmitted? How safe is the vaccine? Here are answers to some questions about the disease.",
+         "durationSeconds" : 1490,
+         "episodeID" : "GA0000P0000FGrW",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/2eb8e269-7245-4224-a1fa-5fe8b79748fd/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "The number of measles cases in the United States has risen to nearly 700 â the highest annual number recorded since 2000, when the disease was declared eliminated in the country. Many of those cases can be traced to ultra-Orthodox Jewish communities in New York. Guest: Sarah Maslin Nir, who covers New York City for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.\n\nBackground reading:Officials in New York have taken extraordinary measures to fight the measles outbreak, including $1,000 fines and bans on unvaccinated children in public.The outbreak has Orthodox Jewish communities fearing a rise in anti-Semitism.How is measles transmitted? How safe is the vaccine? Here are answers to some questions about the disease.",
+         "summary" : "The number of measles cases in the United States has risen to nearly 700 â the highest annual number recorded since 2000, when the disease was declared eliminated in the country. Many of those cases can be traced to ultra-Orthodox Jewish communities in New York. Guest: Sarah Maslin Nir, who covers New York City for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.\n\nBackground reading:Officials in New York have taken extraordinary measures to fight the measles outbreak, including $1,000 fines and bans on unvaccinated children in public.The outbreak has Orthodox Jewish communities fearing a rise in anti-Semitism.How is measles transmitted? How safe is the vaccine? Here are answers to some questions about the disease.",
+         "title" : "How the Measles Outbreak Started"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/5b0158c6-859b-4e36-99da-be4ea00a5881/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=5b0158c6-859b-4e36-99da-be4ea00a5881&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 20679879
+         },
+         "description" : "Many women are passed over for promotions and raises when they become pregnant. Part 2 of this series examines the subtle sidelining of pregnant women and mothers in corporate America. Guests: Natalie Kitroeff, who covers the economy for The New York Times, and Erin Murphy, who alleges that she was denied opportunities by her employer, Glencore, once she became a mother. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1273,
+         "episodeID" : "GA0000P0000FGW4",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/5b0158c6-859b-4e36-99da-be4ea00a5881/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "Many women are passed over for promotions and raises when they become pregnant. Part 2 of this series examines the subtle sidelining of pregnant women and mothers in corporate America. Guests: Natalie Kitroeff, who covers the economy for The New York Times, and Erin Murphy, who alleges that she was denied opportunities by her employer, Glencore, once she became a mother. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "Many women are passed over for promotions and raises when they become pregnant. Part 2 of this series examines the subtle sidelining of pregnant women and mothers in corporate America. Guests: Natalie Kitroeff, who covers the economy for The New York Times, and Erin Murphy, who alleges that she was denied opportunities by her employer, Glencore, once she became a mother. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "The Rampant Problem of Pregnancy Discrimination, Part 2"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/16ebd95d-215b-45ef-be74-d8f223906c2f/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=16ebd95d-215b-45ef-be74-d8f223906c2f&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 21394975
+         },
+         "description" : "The Daily is revisiting favorite episodes of the year â listening back, and then hearing whatâs happened in the time since the stories first ran. Today weâre going back to an episode from the early weeks of the Trump administration, when we met a man named Carlos who got caught up in the presidentâs crackdown on immigrants already living in the U.S. illegally. Guests: Monica Davey, the Chicago bureau chief for The New York Times; Tim Grigsby, a print shop owner in West Frankfort, Ill. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1318,
+         "episodeID" : "GA0000P0000FGPZ",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/16ebd95d-215b-45ef-be74-d8f223906c2f/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "The Daily is revisiting favorite episodes of the year â listening back, and then hearing whatâs happened in the time since the stories first ran. Today weâre going back to an episode from the early weeks of the Trump administration, when we met a man named Carlos who got caught up in the presidentâs crackdown on immigrants already living in the U.S. illegally. Guests: Monica Davey, the Chicago bureau chief for The New York Times; Tim Grigsby, a print shop owner in West Frankfort, Ill. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "The Daily is revisiting favorite episodes of the year â listening back, and then hearing whatâs happened in the time since the stories first ran. Today weâre going back to an episode from the early weeks of the Trump administration, when we met a man named Carlos who got caught up in the presidentâs crackdown on immigrants already living in the U.S. illegally. Guests: Monica Davey, the Chicago bureau chief for The New York Times; Tim Grigsby, a print shop owner in West Frankfort, Ill. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Tuesday, Dec. 26, 2017"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/7cc78ffb-9c47-4759-adbc-5d6a2babcf6d/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=7cc78ffb-9c47-4759-adbc-5d6a2babcf6d&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 30280393
+         },
+         "description" : "Through his media empire, Rupert Murdoch has reshaped the politics of countries across the English-speaking world, pushing their governments to the right. We look inside the struggle over who will control that empire once heâs gone. Guests: Jonathan Mahler and Jim Rutenberg, who spent six months investigating the Murdoch family for The New York Times Magazine. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1873,
+         "episodeID" : "GA0000P0000FGr9",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/7cc78ffb-9c47-4759-adbc-5d6a2babcf6d/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "Through his media empire, Rupert Murdoch has reshaped the politics of countries across the English-speaking world, pushing their governments to the right. We look inside the struggle over who will control that empire once heâs gone. Guests: Jonathan Mahler and Jim Rutenberg, who spent six months investigating the Murdoch family for The New York Times Magazine. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "Through his media empire, Rupert Murdoch has reshaped the politics of countries across the English-speaking world, pushing their governments to the right. We look inside the struggle over who will control that empire once heâs gone. Guests: Jonathan Mahler and Jim Rutenberg, who spent six months investigating the Murdoch family for The New York Times Magazine. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "The Battle to Control the Murdoch Media Empire"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/6f27db56-ea9c-45d3-8f03-5dd8cf5b7b2a/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=6f27db56-ea9c-45d3-8f03-5dd8cf5b7b2a&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 17708587
+         },
+         "description" : "At the start of 2018, the biggest threat to the Trump presidency was an investigation into his campaignâs ties to Russia. As the year draws to a close, itâs his hush payments to women. We look at whatâs behind that change â and how the threat may change again next year. Guests: Mark Mazzetti and Michael S. Schmidt, New York Times reporters who have been covering the special counsel investigation. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1088,
+         "episodeID" : "GA0000P0000FGbr",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/6f27db56-ea9c-45d3-8f03-5dd8cf5b7b2a/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "At the start of 2018, the biggest threat to the Trump presidency was an investigation into his campaignâs ties to Russia. As the year draws to a close, itâs his hush payments to women. We look at whatâs behind that change â and how the threat may change again next year. Guests: Mark Mazzetti and Michael S. Schmidt, New York Times reporters who have been covering the special counsel investigation. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "At the start of 2018, the biggest threat to the Trump presidency was an investigation into his campaignâs ties to Russia. As the year draws to a close, itâs his hush payments to women. We look at whatâs behind that change â and how the threat may change again next year. Guests: Mark Mazzetti and Michael S. Schmidt, New York Times reporters who have been covering the special counsel investigation. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "A Year in the Russia Investigation"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/41518ff4-a645-42e4-887e-445f536b32a8/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=41518ff4-a645-42e4-887e-445f536b32a8&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 23726349
+         },
+         "description" : "As a teenager, Noura Jackson was convicted of killing her mother, and then spent nine years in prison. But from the start, prosecutors possessed a document that could have set her free. Why the omission of evidence, despite its life-altering consequences, is hard to detect â and rarely punished. Guest: Emily Bazelon, a writer for The New York Times Magazine who has been following Ms. Jacksonâs case. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1464,
+         "episodeID" : "GA0000P0000FGJT",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/41518ff4-a645-42e4-887e-445f536b32a8/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "As a teenager, Noura Jackson was convicted of killing her mother, and then spent nine years in prison. But from the start, prosecutors possessed a document that could have set her free. Why the omission of evidence, despite its life-altering consequences, is hard to detect â and rarely punished. Guest: Emily Bazelon, a writer for The New York Times Magazine who has been following Ms. Jacksonâs case. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "As a teenager, Noura Jackson was convicted of killing her mother, and then spent nine years in prison. But from the start, prosecutors possessed a document that could have set her free. Why the omission of evidence, despite its life-altering consequences, is hard to detect â and rarely punished. Guest: Emily Bazelon, a writer for The New York Times Magazine who has been following Ms. Jacksonâs case. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Monday, Aug. 7, 2017"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/027e8a0d-0d77-4828-91f3-cde98f40bfbd/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=027e8a0d-0d77-4828-91f3-cde98f40bfbd&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 19989795
+         },
+         "description" : "By Monday, the third straight day of flooding, Hurricane Harvey had left much of the region underwater, and the city of Houston looked like a sea dotted by islands. We hear from some people in the city about the view from the ground as the waters keep rising. Guests: Alan Blinder, a Times correspondent who has been reporting from Houston; Jacqueline Herrera, who talks to us us from her home in Houston where she is, for now, staying put. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1230,
+         "episodeID" : "GA0000P0000FGM7",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/027e8a0d-0d77-4828-91f3-cde98f40bfbd/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "By Monday, the third straight day of flooding, Hurricane Harvey had left much of the region underwater, and the city of Houston looked like a sea dotted by islands. We hear from some people in the city about the view from the ground as the waters keep rising. Guests: Alan Blinder, a Times correspondent who has been reporting from Houston; Jacqueline Herrera, who talks to us us from her home in Houston where she is, for now, staying put. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "By Monday, the third straight day of flooding, Hurricane Harvey had left much of the region underwater, and the city of Houston looked like a sea dotted by islands. We hear from some people in the city about the view from the ground as the waters keep rising. Guests: Alan Blinder, a Times correspondent who has been reporting from Houston; Jacqueline Herrera, who talks to us us from her home in Houston where she is, for now, staying put. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Tuesday, Aug 29, 2017"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/a761ec49-dc91-4e9d-a907-cfaa4fd919df/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=a761ec49-dc91-4e9d-a907-cfaa4fd919df&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 27584962
+         },
+         "description" : "With the rise of online retailers like Amazon, consumersâ expectations about the speed of delivery have been transformed. A New York Times investigation examines the cost of that transformation. Guests: Jessica Silver-Greenberg, a business reporter for The Times; Tasha Murrell, a warehouse employee who shared her experience. For more information on todayâs episode, visit nytimes.com/thedaily. This episode includes disturbing language.",
+         "durationSeconds" : 1705,
+         "episodeID" : "GA0000P0000FGbG",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/a761ec49-dc91-4e9d-a907-cfaa4fd919df/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "With the rise of online retailers like Amazon, consumersâ expectations about the speed of delivery have been transformed. A New York Times investigation examines the cost of that transformation. Guests: Jessica Silver-Greenberg, a business reporter for The Times; Tasha Murrell, a warehouse employee who shared her experience. For more information on todayâs episode, visit nytimes.com/thedaily.\n\nThis episode includes disturbing language.",
+         "summary" : "With the rise of online retailers like Amazon, consumersâ expectations about the speed of delivery have been transformed. A New York Times investigation examines the cost of that transformation. Guests: Jessica Silver-Greenberg, a business reporter for The Times; Tasha Murrell, a warehouse employee who shared her experience. For more information on todayâs episode, visit nytimes.com/thedaily.\n\nThis episode includes disturbing language.",
+         "title" : "The Human Toll of Instant Delivery"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/c43fd21f-57bb-4119-8a6c-afc5eeb413fb/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=c43fd21f-57bb-4119-8a6c-afc5eeb413fb&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 22087546
+         },
+         "description" : "William P. Barr, President Trumpâs nominee for attorney general, is set to go before senators today for the beginning of his confirmation hearings. What would it mean for the president and the special counsel to have an attorney general who is in charge of the Russia investigation? Guest: Katie Benner, who covers the Justice Department for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1361,
+         "episodeID" : "GA0000P0000FGhJ",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/c43fd21f-57bb-4119-8a6c-afc5eeb413fb/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "William P. Barr, President Trumpâs nominee for attorney general, is set to go before senators today for the beginning of his confirmation hearings. What would it mean for the president and the special counsel to have an attorney general who is in charge of the Russia investigation? Guest: Katie Benner, who covers the Justice Department for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "William P. Barr, President Trumpâs nominee for attorney general, is set to go before senators today for the beginning of his confirmation hearings. What would it mean for the president and the special counsel to have an attorney general who is in charge of the Russia investigation? Guest: Katie Benner, who covers the Justice Department for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Trumpâs Pick for Attorney General"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/9d2a7827-8109-4817-a892-fd2be68e4386/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=9d2a7827-8109-4817-a892-fd2be68e4386&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 27486324
+         },
+         "description" : "In a historic summit meeting, North and South Korea vowed to pursue a peace treaty to formally end the Korean War after more than 65 years. That could bring reunions for the thousands of families who have been separated since the war broke out. Guest: Sylvia Nam, whose grandfather went to North Korea just after the Korean War started and never returned. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1699,
+         "episodeID" : "GA0000P0000FGTN",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/9d2a7827-8109-4817-a892-fd2be68e4386/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "In a historic summit meeting, North and South Korea vowed to pursue a peace treaty to formally end the Korean War after more than 65 years. That could bring reunions for the thousands of families who have been separated since the war broke out. Guest: Sylvia Nam, whose grandfather went to North Korea just after the Korean War started and never returned. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "In a historic summit meeting, North and South Korea vowed to pursue a peace treaty to formally end the Korean War after more than 65 years. That could bring reunions for the thousands of families who have been separated since the war broke out. Guest: Sylvia Nam, whose grandfather went to North Korea just after the Korean War started and never returned. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "A Family Divided by the Korean War"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/28af7ae3-6524-49c6-a6a3-c644c450f3c5/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=28af7ae3-6524-49c6-a6a3-c644c450f3c5&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 22238018
+         },
+         "description" : "A 5-year-old boy named JosÃ© and his father fled the violence in Honduras and headed to the United States. They were separated at the border. What has happened to them in the weeks since? Guest: Miriam Jordan, who covers immigration for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1371,
+         "episodeID" : "GA0000P0000FGVr",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/28af7ae3-6524-49c6-a6a3-c644c450f3c5/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "A 5-year-old boy named JosÃ© and his father fled the violence in Honduras and headed to the United States. They were separated at the border. What has happened to them in the weeks since? Guest: Miriam Jordan, who covers immigration for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "A 5-year-old boy named JosÃ© and his father fled the violence in Honduras and headed to the United States. They were separated at the border. What has happened to them in the weeks since? Guest: Miriam Jordan, who covers immigration for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Father and Son, Forced Apart at the Border"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/29a23f7c-d572-4997-8397-1f37e550a62b/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=29a23f7c-d572-4997-8397-1f37e550a62b&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 19644561
+         },
+         "description" : "Who are the 500 private citizens with unprecedented access to President Trump on the weekends? And what is the âdeep stateâ? Guests: Scott Shane, who has covered national security and the U.S. intelligence community for The Times for decades, and Nicholas Confessore and Maggie Haberman, who unmasked the secret list of Mar-a-Lago members. For more information on todayâs episode, visit http://nyti.ms/2lEWRbt.",
+         "durationSeconds" : 1209,
+         "episodeID" : "GA0000P0000FGDt",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/29a23f7c-d572-4997-8397-1f37e550a62b/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "Who are the 500 private citizens with unprecedented access to President Trump on the weekends? And what is the âdeep stateâ? Guests: Scott Shane, who has covered national security and the U.S. intelligence community for The Times for decades, and Nicholas Confessore and Maggie Haberman, who unmasked the secret list of Mar-a-Lago members. For more information on todayâs episode, visit http://nyti.ms/2lEWRbt.",
+         "summary" : "Who are the 500 private citizens with unprecedented access to President Trump on the weekends? And what is the âdeep stateâ? Guests: Scott Shane, who has covered national security and the U.S. intelligence community for The Times for decades, and Nicholas Confessore and Maggie Haberman, who unmasked the secret list of Mar-a-Lago members. For more information on todayâs episode, visit http://nyti.ms/2lEWRbt.",
+         "title" : "Tuesday, Feb. 21, 2017"
+      }
+   ],
+   "meta" : {
+      "limit" : 30,
+      "offset" : 0,
+      "total" : 1487
+   }
+}

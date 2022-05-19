@@ -1,0 +1,962 @@
+3.10 Aod Episodes Endpoint do_aod_episode ===========================================
+{
+   "data" : {
+      "data" : [
+         {
+            "audioEnclosure" : {
+               "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chtbl.com/track/3417G2/pdst.fm/e/traffic.omny.fm/d/clips/885ace83-027a-47ad-ad67-aca7002f1df8/7bdc2f7e-cc52-4dd7-b327-aca8005d16cb/ad5bf61d-2b57-4783-ac3e-aca8006772e2/audio.mp3?utm_source=Podcast&in_playlist=4a6219e8-f1d3-4cf7-bd93-aca8005d16e7",
+               "mimeType" : "audio/mpeg",
+               "sizeBytes" : 69551848
+            },
+            "availabilities" : [
+               {
+                  "license" : "Open",
+                  "name" : "All"
+               }
+            ],
+            "categories" : [
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90265",
+                     "display" : "Comedy",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90315",
+                     "display" : "Comedy Couples",
+                     "level" : 2
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90265",
+                     "display" : "Comedy",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90306",
+                     "display" : "Comedy Interviews",
+                     "level" : 2
+                  }
+               ]
+            ],
+            "credits" : [
+               {
+                  "name" : "Bobby Lee",
+                  "personID" : "232744",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               },
+               {
+                  "name" : "Khalyla Kuhn",
+                  "personID" : "1316439",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               }
+            ],
+            "description" : "\r\nBobo is very sleepy. Khaloko double pees. Gilbo gets rice cookerâd. Pink D... knows Job. We talk death clouds, tentacles, sudden deafness, and brittle bones.Â  Â  Â ",
+            "durationSeconds" : 4343,
+            "editorialStatus" : "enhanced",
+            "episodeID" : "GA0000P00003TCM",
+            "episodeNumber" : null,
+            "language" : "en",
+            "lastUpdateDateTime" : "2021-08-04T13:05:24Z",
+            "objectType" : "episode",
+            "publishDateTime" : "2017-12-06T07:30:00Z",
+            "seasonNumber" : null,
+            "seriesReference" : {
+               "href" : "/series?seriesIDs=GA0000N000000Rt",
+               "seriesID" : "GA0000N000000Rt",
+               "title" : "TigerBelly"
+            },
+            "sourceFeed" : {
+               "author" : null,
+               "categories" : null,
+               "contentType" : null,
+               "copyright" : null,
+               "description" : "Bobo is very sleepy. Khaloko double pees. Gilbo gets rice cookerâd. Pink Dick knows Job. We talk death clouds, tentacles, sudden deafness, and brittle bones.Â \n\nSee omnystudio.com/listener for privacy information.",
+               "explicitLanguage" : "false",
+               "feedUrl" : null,
+               "generator" : null,
+               "imageUrl" : "https://www.omnycontent.com/d/clips/885ace83-027a-47ad-ad67-aca7002f1df8/7bdc2f7e-cc52-4dd7-b327-aca8005d16cb/ad5bf61d-2b57-4783-ac3e-aca8006772e2/image.jpg?t=1609913804&size=Large",
+               "keywords" : null,
+               "language" : null,
+               "owner" : null,
+               "websiteUrl" : "https://omny.fm/shows/tigerbelly/episode-120-angel-with-no-wings"
+            },
+            "subtitle" : "Bobo is very sleepy. Khaloko double pees. Gilbo gets rice cookerâd. Pink Dick knows Job. We talk death clouds, tentacles, sudden deafness, and brittle bones.",
+            "summary" : "Bobo is very sleepy. Khaloko double pees. Gilbo gets rice cookerâd. Pink Dick knows Job. We talk death clouds, tentacles, sudden deafness, and brittle bones.",
+            "title" : "Episode 120: Angel With No Wings"
+         },
+         {
+            "audioEnclosure" : {
+               "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chtbl.com/track/3417G2/pdst.fm/e/traffic.omny.fm/d/clips/885ace83-027a-47ad-ad67-aca7002f1df8/7bdc2f7e-cc52-4dd7-b327-aca8005d16cb/661bad00-4996-49a4-852c-aca80065ec85/audio.mp3?utm_source=Podcast&in_playlist=4a6219e8-f1d3-4cf7-bd93-aca8005d16e7",
+               "mimeType" : "audio/mpeg",
+               "sizeBytes" : 67131457
+            },
+            "availabilities" : [
+               {
+                  "license" : "Open",
+                  "name" : "All"
+               }
+            ],
+            "categories" : [
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90265",
+                     "display" : "Comedy",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90315",
+                     "display" : "Comedy Couples",
+                     "level" : 2
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90265",
+                     "display" : "Comedy",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90306",
+                     "display" : "Comedy Interviews",
+                     "level" : 2
+                  }
+               ]
+            ],
+            "credits" : [
+               {
+                  "name" : "Bobby Lee",
+                  "personID" : "232744",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               },
+               {
+                  "name" : "Khalyla Kuhn",
+                  "personID" : "1316439",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               },
+               {
+                  "name" : "Joey Diaz",
+                  "personID" : "254856",
+                  "role" : {
+                     "display" : "Guest"
+                  }
+               }
+            ],
+            "description" : "\r\nCoco and Bobo talk lobster tails, fat balls, Santeria, signs from the universe, and how to make an extra $27 in one night. ",
+            "durationSeconds" : 4192,
+            "editorialStatus" : "enhanced",
+            "episodeID" : "GA0000P00003TDB",
+            "episodeNumber" : null,
+            "language" : "en",
+            "lastUpdateDateTime" : "2021-08-04T13:05:25Z",
+            "objectType" : "episode",
+            "publishDateTime" : "2018-05-23T10:23:07Z",
+            "seasonNumber" : null,
+            "seriesReference" : {
+               "href" : "/series?seriesIDs=GA0000N000000Rt",
+               "seriesID" : "GA0000N000000Rt",
+               "title" : "TigerBelly"
+            },
+            "sourceFeed" : {
+               "author" : null,
+               "categories" : null,
+               "contentType" : null,
+               "copyright" : null,
+               "description" : "Coco and Bobo talk lobster tails, fat balls, Santeria, signs from the universe, and how to make an extra $27 in one night.\n\nSponsor Links:Â \n\nLEESA: http://www.leesa.com/belly\n\nAWAY: http://www.awaytravel.com/bellyÂ Promo Code: belly\n\nREBELS REFINERY:Â http://www.rebelsrefinery.com/Â Promo Code: tigerbelly & also available at Target.\n\nSee omnystudio.com/listener for privacy information.",
+               "explicitLanguage" : "true",
+               "feedUrl" : null,
+               "generator" : null,
+               "imageUrl" : "https://www.omnycontent.com/d/clips/885ace83-027a-47ad-ad67-aca7002f1df8/7bdc2f7e-cc52-4dd7-b327-aca8005d16cb/661bad00-4996-49a4-852c-aca80065ec85/image.jpg?t=1609913474&size=Large",
+               "keywords" : null,
+               "language" : null,
+               "owner" : null,
+               "websiteUrl" : "https://omny.fm/shows/tigerbelly/episode-143-joey-diaz-american-ingenuity"
+            },
+            "subtitle" : "Coco and Bobo talk lobster tails, fat balls, Santeria, signs from the universe, and how to make an extra $27 in one night. Sponsor Links:Â  LEESA: AWAY: Â Promo Code: belly REBELS REFINERY:Â Â Promo Code: tigerbelly & also...",
+            "summary" : "Coco and Bobo talk lobster tails, fat balls, Santeria, signs from the universe, and how to make an extra $27 in one night. Sponsor Links:Â  LEESA: AWAY: Â Promo Code: belly REBELS REFINERY:Â Â Promo Code: tigerbelly & also...",
+            "title" : "Episode 143: Joey Diaz & American Ingenuity"
+         },
+         {
+            "audioEnclosure" : {
+               "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chtbl.com/track/3417G2/pdst.fm/e/traffic.omny.fm/d/clips/885ace83-027a-47ad-ad67-aca7002f1df8/7bdc2f7e-cc52-4dd7-b327-aca8005d16cb/3dfa601d-6af2-485a-852f-aca800639a24/audio.mp3?utm_source=Podcast&in_playlist=4a6219e8-f1d3-4cf7-bd93-aca8005d16e7",
+               "mimeType" : "audio/mpeg",
+               "sizeBytes" : 99208991
+            },
+            "availabilities" : [
+               {
+                  "license" : "Open",
+                  "name" : "All"
+               }
+            ],
+            "categories" : [
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90265",
+                     "display" : "Comedy",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90315",
+                     "display" : "Comedy Couples",
+                     "level" : 2
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90280",
+                     "display" : "TV & Film",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90513",
+                     "display" : "Entertainment Talk",
+                     "level" : 2
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90265",
+                     "display" : "Comedy",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90306",
+                     "display" : "Comedy Interviews",
+                     "level" : 2
+                  }
+               ]
+            ],
+            "credits" : [
+               {
+                  "name" : "Bobby Lee",
+                  "personID" : "232744",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               },
+               {
+                  "name" : "Khalyla Kuhn",
+                  "personID" : "1316439",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               },
+               {
+                  "name" : "Dillon Francis",
+                  "personID" : "914356",
+                  "role" : {
+                     "display" : "Guest"
+                  }
+               }
+            ],
+            "description" : "Dillon takes credit for Spider-Man. Bobo gets a fast pass to a holy place. We talk Taco Bell hot sauce, angry yogis, the baptism of Gilbo Baggins, and a bar mitzvah to remember. \r\nBonus content every Monday: \r\nhttps://www.patreon.com/TigerBelly",
+            "durationSeconds" : 6197,
+            "editorialStatus" : "enhanced",
+            "episodeID" : "GA0000P00003TFG",
+            "episodeNumber" : null,
+            "language" : "en",
+            "lastUpdateDateTime" : "2021-08-04T13:05:27Z",
+            "objectType" : "episode",
+            "publishDateTime" : "2019-01-23T08:30:00Z",
+            "seasonNumber" : null,
+            "seriesReference" : {
+               "href" : "/series?seriesIDs=GA0000N000000Rt",
+               "seriesID" : "GA0000N000000Rt",
+               "title" : "TigerBelly"
+            },
+            "sourceFeed" : {
+               "author" : null,
+               "categories" : null,
+               "contentType" : null,
+               "copyright" : null,
+               "description" : "Dillon takes credit for Spider-Man. Bobo gets a fast pass to a holy place. We talk Taco Bell hot sauce, angry yogis, the baptism of Gilbo Baggins, and a bar mitzvah to remember.\n\nBonus content every Monday:\n\nhttps://www.patreon.com/TigerBelly\n\nSponsor Links:\n\nPostmates App (https://postmates.com/) Get $100 delivery credit with the promo code BELLY\n\nhttps://www.ridgewallet.com Promo Code: BELLY\n\nhttp://tiger.robinhood.com\n\n\n\nSee omnystudio.com/listener for privacy information.",
+               "explicitLanguage" : "true",
+               "feedUrl" : null,
+               "generator" : null,
+               "imageUrl" : "https://www.omnycontent.com/d/clips/885ace83-027a-47ad-ad67-aca7002f1df8/7bdc2f7e-cc52-4dd7-b327-aca8005d16cb/3dfa601d-6af2-485a-852f-aca800639a24/image.jpg?t=1609912977&size=Large",
+               "keywords" : null,
+               "language" : null,
+               "owner" : null,
+               "websiteUrl" : "https://omny.fm/shows/tigerbelly/episode-178-dillon-francis-shoots-to-the-moon"
+            },
+            "subtitle" : "Dillon takes credit for Spider-Man. Bobo gets a fast pass to a holy place. We talk Taco Bell hot sauce, angry yogis, the baptism of Gilbo Baggins, and a bar mitzvah to remember. Bonus content every Monday: Sponsor Links: Postmates App () Get $100...",
+            "summary" : "Dillon takes credit for Spider-Man. Bobo gets a fast pass to a holy place. We talk Taco Bell hot sauce, angry yogis, the baptism of Gilbo Baggins, and a bar mitzvah to remember. Bonus content every Monday: Sponsor Links: Postmates App () Get $100...",
+            "title" : "Episode 178: Dillon Francis Shoots to the Moon"
+         },
+         {
+            "audioEnclosure" : {
+               "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chtbl.com/track/3417G2/pdst.fm/e/traffic.omny.fm/d/clips/885ace83-027a-47ad-ad67-aca7002f1df8/7bdc2f7e-cc52-4dd7-b327-aca8005d16cb/f867c6f9-eeb9-45ba-b449-aca800659959/audio.mp3?utm_source=Podcast&in_playlist=4a6219e8-f1d3-4cf7-bd93-aca8005d16e7",
+               "mimeType" : "audio/mpeg",
+               "sizeBytes" : 101218112
+            },
+            "availabilities" : [
+               {
+                  "license" : "Open",
+                  "name" : "All"
+               }
+            ],
+            "categories" : [
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90265",
+                     "display" : "Comedy",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90306",
+                     "display" : "Comedy Interviews",
+                     "level" : 2
+                  }
+               ]
+            ],
+            "credits" : [
+               {
+                  "name" : "Bobby Lee",
+                  "personID" : "232744",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               },
+               {
+                  "name" : "Adam Ray",
+                  "personID" : "218036",
+                  "role" : {
+                     "display" : "Guest"
+                  }
+               }
+            ],
+            "description" : "Adam has Adamantium. Bobo is cooler. We talk 711 boner pills, Mr. Atsuki, a third-string Wolverine, and the attack of the bushes.",
+            "durationSeconds" : 6322,
+            "editorialStatus" : "enhanced",
+            "episodeID" : "GA0000P00003TDH",
+            "episodeNumber" : null,
+            "language" : "en",
+            "lastUpdateDateTime" : "2021-08-04T13:05:26Z",
+            "objectType" : "episode",
+            "publishDateTime" : "2018-06-27T08:00:00Z",
+            "seasonNumber" : null,
+            "seriesReference" : {
+               "href" : "/series?seriesIDs=GA0000N000000Rt",
+               "seriesID" : "GA0000N000000Rt",
+               "title" : "TigerBelly"
+            },
+            "sourceFeed" : {
+               "author" : null,
+               "categories" : null,
+               "contentType" : null,
+               "copyright" : null,
+               "description" : "Adam has Adamantium. Bobo is a cooler. We talk 711 boner pills, Mr. Atsuki, a third string Wolverine, and the attack of the bushes.\n\nSponsor Links:Â \n\nhttp://www.blueapron.com/belly\n\nhttps://www.forhims.com/belly\n\nhttp://www.leesa.com/belly\n\n\n\nSee omnystudio.com/listener for privacy information.",
+               "explicitLanguage" : "true",
+               "feedUrl" : null,
+               "generator" : null,
+               "imageUrl" : "https://www.omnycontent.com/d/clips/885ace83-027a-47ad-ad67-aca7002f1df8/7bdc2f7e-cc52-4dd7-b327-aca8005d16cb/f867c6f9-eeb9-45ba-b449-aca800659959/image.jpg?t=1609913411&size=Large",
+               "keywords" : null,
+               "language" : null,
+               "owner" : null,
+               "websiteUrl" : "https://omny.fm/shows/tigerbelly/episode-148-adam-ray-is-our-neighbor"
+            },
+            "subtitle" : "Adam has Adamantium. Bobo is a cooler. We talk 711 boner pills, Mr. Atsuki, a third string Wolverine, and the attack of the bushes. Sponsor Links:",
+            "summary" : "Adam has Adamantium. Bobo is a cooler. We talk 711 boner pills, Mr. Atsuki, a third string Wolverine, and the attack of the bushes. Sponsor Links:",
+            "title" : "Episode 148: Adam Ray is Our Neighbor"
+         },
+         {
+            "audioEnclosure" : {
+               "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chtbl.com/track/3417G2/pdst.fm/e/traffic.omny.fm/d/clips/885ace83-027a-47ad-ad67-aca7002f1df8/7bdc2f7e-cc52-4dd7-b327-aca8005d16cb/6ad3c315-e7f3-486c-a2aa-aca80064396d/audio.mp3?utm_source=Podcast&in_playlist=4a6219e8-f1d3-4cf7-bd93-aca8005d16e7",
+               "mimeType" : "audio/mpeg",
+               "sizeBytes" : 79396880
+            },
+            "availabilities" : [
+               {
+                  "license" : "Open",
+                  "name" : "All"
+               }
+            ],
+            "categories" : [
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90265",
+                     "display" : "Comedy",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90315",
+                     "display" : "Comedy Couples",
+                     "level" : 2
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90265",
+                     "display" : "Comedy",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90306",
+                     "display" : "Comedy Interviews",
+                     "level" : 2
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90280",
+                     "display" : "TV & Film",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90513",
+                     "display" : "Entertainment Talk",
+                     "level" : 2
+                  }
+               ]
+            ],
+            "credits" : [
+               {
+                  "name" : "Bobby Lee",
+                  "personID" : "232744",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               },
+               {
+                  "name" : "Khalyla Kuhn",
+                  "personID" : "1316439",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               },
+               {
+                  "name" : "David So",
+                  "personID" : "1051147",
+                  "role" : {
+                     "display" : "Guest"
+                  }
+               }
+            ],
+            "description" : "Bobo is a hot chick. David is Kathy. Koloko does Clint. We talk deforestation, prison barter, an overweight cat, and the history of FunDip. \r\nBonus content every Monday: \r\nhttps://www.patreon.com/TigerBelly",
+            "durationSeconds" : 4958,
+            "editorialStatus" : "enhanced",
+            "episodeID" : "GA0000P00003TF5",
+            "episodeNumber" : null,
+            "language" : "en",
+            "lastUpdateDateTime" : "2021-08-04T13:05:27Z",
+            "objectType" : "episode",
+            "publishDateTime" : "2018-11-21T09:36:15Z",
+            "seasonNumber" : null,
+            "seriesReference" : {
+               "href" : "/series?seriesIDs=GA0000N000000Rt",
+               "seriesID" : "GA0000N000000Rt",
+               "title" : "TigerBelly"
+            },
+            "sourceFeed" : {
+               "author" : null,
+               "categories" : null,
+               "contentType" : null,
+               "copyright" : null,
+               "description" : "Bobo is a hot chick. David is Kathy. Koloko does Clint. We talk deforestation, prison barter, an overweight cat, and the history of FunDip.\n\nBonus content every Monday:\n\nhttps://www.patreon.com/TigerBelly\n\nSponsor Links:\n\nhttps://www.ridgewallet.comÂ Promo Code: BELLY\n\nhttps://www.forhims.com/belly\n\nhttp://leesa.com/belly\n\n\n\nSee omnystudio.com/listener for privacy information.",
+               "explicitLanguage" : "true",
+               "feedUrl" : null,
+               "generator" : null,
+               "imageUrl" : "https://www.omnycontent.com/d/clips/885ace83-027a-47ad-ad67-aca7002f1df8/7bdc2f7e-cc52-4dd7-b327-aca8005d16cb/6ad3c315-e7f3-486c-a2aa-aca80064396d/image.jpg?t=1609913100&size=Large",
+               "keywords" : null,
+               "language" : null,
+               "owner" : null,
+               "websiteUrl" : "https://omny.fm/shows/tigerbelly/episode-169-david-so-is-david-fasso"
+            },
+            "subtitle" : "Bobo is a hot chick. David is Kathy. Koloko does Clint. We talk deforestation, prison barter, an overweight cat, and the history of FunDip. Bonus content every Monday: Sponsor Links: Â Promo Code: BELLY",
+            "summary" : "Bobo is a hot chick. David is Kathy. Koloko does Clint. We talk deforestation, prison barter, an overweight cat, and the history of FunDip. Bonus content every Monday: Sponsor Links: Â Promo Code: BELLY",
+            "title" : "Episode 169: David So is David Fasso"
+         },
+         {
+            "audioEnclosure" : {
+               "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chtbl.com/track/3417G2/pdst.fm/e/traffic.omny.fm/d/clips/885ace83-027a-47ad-ad67-aca7002f1df8/7bdc2f7e-cc52-4dd7-b327-aca8005d16cb/321a9e90-dbc1-42d7-89b9-aca80063e889/audio.mp3?utm_source=Podcast&in_playlist=4a6219e8-f1d3-4cf7-bd93-aca8005d16e7",
+               "mimeType" : "audio/mpeg",
+               "sizeBytes" : 68432144
+            },
+            "availabilities" : [
+               {
+                  "license" : "Open",
+                  "name" : "All"
+               }
+            ],
+            "categories" : [
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90265",
+                     "display" : "Comedy",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90315",
+                     "display" : "Comedy Couples",
+                     "level" : 2
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90280",
+                     "display" : "TV & Film",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90513",
+                     "display" : "Entertainment Talk",
+                     "level" : 2
+                  }
+               ]
+            ],
+            "credits" : [
+               {
+                  "name" : "Bobby Lee",
+                  "personID" : "232744",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               },
+               {
+                  "name" : "Khalyla Kuhn",
+                  "personID" : "1316439",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               },
+               {
+                  "name" : "Gilbert Galon",
+                  "personID" : "929203",
+                  "role" : {
+                     "display" : "Co-Host"
+                  }
+               }
+            ],
+            "description" : "Dumbfoundead auditions. Bobo auditions too. So does Gilbo...and Koloko. We talk ecstasy daddies, condor shit, a dick bone, and the blue blue sky.Â  \r\nBonus content every Monday: \r\nhttps://www.patreon.com/TigerBelly",
+            "durationSeconds" : 4273,
+            "editorialStatus" : "enhanced",
+            "episodeID" : "GA0000P00003TFB",
+            "episodeNumber" : null,
+            "language" : "en",
+            "lastUpdateDateTime" : "2021-08-04T13:05:27Z",
+            "objectType" : "episode",
+            "publishDateTime" : "2018-12-26T08:30:00Z",
+            "seasonNumber" : null,
+            "seriesReference" : {
+               "href" : "/series?seriesIDs=GA0000N000000Rt",
+               "seriesID" : "GA0000N000000Rt",
+               "title" : "TigerBelly"
+            },
+            "sourceFeed" : {
+               "author" : null,
+               "categories" : null,
+               "contentType" : null,
+               "copyright" : null,
+               "description" : "Dumbfoundead auditions. Bobo auditions too. So does Gilbo...and Koloko. We talk ecstasy daddies, condor shit, a dick bone, and the blue blue sky.Â \n\nBonus content every Monday:\n\nhttps://www.patreon.com/TigerBelly\n\nSponsor Links:\n\nhttp://leesa.com/belly\n\nhttps://www.ridgewallet.com Promo Code: BELLY\n\n\n\nSee omnystudio.com/listener for privacy information.",
+               "explicitLanguage" : "true",
+               "feedUrl" : null,
+               "generator" : null,
+               "imageUrl" : "https://www.omnycontent.com/d/clips/885ace83-027a-47ad-ad67-aca7002f1df8/7bdc2f7e-cc52-4dd7-b327-aca8005d16cb/321a9e90-dbc1-42d7-89b9-aca80063e889/image.jpg?t=1609913030&size=Large",
+               "keywords" : null,
+               "language" : null,
+               "owner" : null,
+               "websiteUrl" : "https://omny.fm/shows/tigerbelly/episode-174-dumfounded-is-the-councilman"
+            },
+            "subtitle" : "Dumbfoundead auditions. Bobo auditions too. So does Gilbo...and Koloko. We talk ecstasy daddies, condor shit, a dick bone, and the blue blue sky.Â  Bonus content every Monday: Sponsor Links: Promo Code: BELLY",
+            "summary" : "Dumbfoundead auditions. Bobo auditions too. So does Gilbo...and Koloko. We talk ecstasy daddies, condor shit, a dick bone, and the blue blue sky.Â  Bonus content every Monday: Sponsor Links: Promo Code: BELLY",
+            "title" : "Episode 174: Dumfounded is the Councilman"
+         },
+         {
+            "audioEnclosure" : {
+               "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chtbl.com/track/3417G2/pdst.fm/e/traffic.omny.fm/d/clips/885ace83-027a-47ad-ad67-aca7002f1df8/7bdc2f7e-cc52-4dd7-b327-aca8005d16cb/f4c07fd2-8485-49fe-a3ce-aca80065bb42/audio.mp3?utm_source=Podcast&in_playlist=4a6219e8-f1d3-4cf7-bd93-aca8005d16e7",
+               "mimeType" : "audio/mpeg",
+               "sizeBytes" : 82740973
+            },
+            "availabilities" : [
+               {
+                  "license" : "Open",
+                  "name" : "All"
+               }
+            ],
+            "categories" : [
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90265",
+                     "display" : "Comedy",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90306",
+                     "display" : "Comedy Interviews",
+                     "level" : 2
+                  }
+               ]
+            ],
+            "credits" : [
+               {
+                  "name" : "Bobby Lee",
+                  "personID" : "232744",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               },
+               {
+                  "name" : "Dillon Francis",
+                  "personID" : "914356",
+                  "role" : {
+                     "display" : "Guest"
+                  }
+               }
+            ],
+            "description" : "Dillon Francis Is Our CW: Bobo has a fantasy. Dillon is McGovern. We talk heroin heartbreaks, rattlesnakes, green bubbles, and a cinema standoff.",
+            "durationSeconds" : 5167,
+            "editorialStatus" : "enhanced",
+            "episodeID" : "GA0000P00003TDF",
+            "episodeNumber" : null,
+            "language" : "en",
+            "lastUpdateDateTime" : "2021-08-04T13:05:26Z",
+            "objectType" : "episode",
+            "publishDateTime" : "2018-06-13T07:30:00Z",
+            "seasonNumber" : null,
+            "seriesReference" : {
+               "href" : "/series?seriesIDs=GA0000N000000Rt",
+               "seriesID" : "GA0000N000000Rt",
+               "title" : "TigerBelly"
+            },
+            "sourceFeed" : {
+               "author" : null,
+               "categories" : null,
+               "contentType" : null,
+               "copyright" : null,
+               "description" : "DILLON FRANCIS IS OUR CW: Bobo has a fantasy. Dillon is McGovern. We talk heroin heartbreaks, rattlesnakes, green bubbles, and a cinema stand off.Â \n\nSponsor Links:\n\nhttps://www.forhims.com/bellyÂ One month trial for $5\n\nSee omnystudio.com/listener for privacy information.",
+               "explicitLanguage" : "false",
+               "feedUrl" : null,
+               "generator" : null,
+               "imageUrl" : "https://www.omnycontent.com/d/clips/885ace83-027a-47ad-ad67-aca7002f1df8/7bdc2f7e-cc52-4dd7-b327-aca8005d16cb/f4c07fd2-8485-49fe-a3ce-aca80065bb42/image.jpg?t=1609913432&size=Large",
+               "keywords" : null,
+               "language" : null,
+               "owner" : null,
+               "websiteUrl" : "https://omny.fm/shows/tigerbelly/episode-146-dillon-francis-is-our-cw"
+            },
+            "subtitle" : "DILLON FRANCIS IS OUR CW: Bobo has a fantasy. Dillon is McGovern. We talk heroin heartbreaks, rattlesnakes, green bubbles, and a cinema stand off.Â  Sponsor Links: Â One month trial for $5",
+            "summary" : "DILLON FRANCIS IS OUR CW: Bobo has a fantasy. Dillon is McGovern. We talk heroin heartbreaks, rattlesnakes, green bubbles, and a cinema stand off.Â  Sponsor Links: Â One month trial for $5",
+            "title" : "Episode 146: Dillon Francis is our CW"
+         },
+         {
+            "audioEnclosure" : {
+               "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chtbl.com/track/3417G2/pdst.fm/e/traffic.omny.fm/d/clips/885ace83-027a-47ad-ad67-aca7002f1df8/7bdc2f7e-cc52-4dd7-b327-aca8005d16cb/a6c9a9d3-f618-4309-bd9f-aca8006ba5c7/audio.mp3?utm_source=Podcast&in_playlist=4a6219e8-f1d3-4cf7-bd93-aca8005d16e7",
+               "mimeType" : "audio/mpeg",
+               "sizeBytes" : 61076043
+            },
+            "availabilities" : [
+               {
+                  "license" : "Open",
+                  "name" : "All"
+               }
+            ],
+            "categories" : [
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90265",
+                     "display" : "Comedy",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90315",
+                     "display" : "Comedy Couples",
+                     "level" : 2
+                  }
+               ]
+            ],
+            "credits" : [
+               {
+                  "name" : "Bobby Lee",
+                  "personID" : "232744",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               },
+               {
+                  "name" : "Khalyla Kuhn",
+                  "personID" : "1316439",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               },
+               {
+                  "name" : "Gilbert Galon",
+                  "personID" : "929203",
+                  "role" : {
+                     "display" : "Co-Host"
+                  }
+               }
+            ],
+            "description" : "\r\nBobby and Ggboy are peacocks. \r\nKhalyla loses in the court of law. \r\nWe talk Rio, Gus the Ghost, and give you an update on the green foot. \r\nÂ  \r\nÂ  \r\nRecorded August 8, 2016 \r\nMusic by Bobby Lee \r\nInstagram: @tigerbelly \r\nTwitter: @thetigerbelly \r\nYouTube.com/tigerbelly \r\nFacebook: thetigerbelly \r\nwww.thetigerbelly.com",
+            "durationSeconds" : 3813,
+            "editorialStatus" : "enhanced",
+            "episodeID" : "GA0000P00003T9B",
+            "episodeNumber" : null,
+            "language" : "en",
+            "lastUpdateDateTime" : "2021-08-04T13:05:21Z",
+            "objectType" : "episode",
+            "publishDateTime" : "2016-08-10T06:30:00Z",
+            "seasonNumber" : null,
+            "seriesReference" : {
+               "href" : "/series?seriesIDs=GA0000N000000Rt",
+               "seriesID" : "GA0000N000000Rt",
+               "title" : "TigerBelly"
+            },
+            "sourceFeed" : {
+               "author" : null,
+               "categories" : null,
+               "contentType" : null,
+               "copyright" : null,
+               "description" : "Bobby and Ggboy are peacocks.\n\nKhalyla loses in the court of law.\n\nWe talk Rio, Gus the Ghost, and give you an update on the green foot.\n\n\n\n\n\nRecorded August 8, 2016\n\nMusic by Bobby Lee\n\nInstagram: @tigerbelly\n\nTwitter: @thetigerbelly\n\nYouTube.com/tigerbelly\n\nFacebook: thetigerbelly\n\nwww.thetigerbelly.com\n\nSee omnystudio.com/listener for privacy information.",
+               "explicitLanguage" : "true",
+               "feedUrl" : null,
+               "generator" : null,
+               "imageUrl" : "https://www.omnycontent.com/d/clips/885ace83-027a-47ad-ad67-aca7002f1df8/7bdc2f7e-cc52-4dd7-b327-aca8005d16cb/a6c9a9d3-f618-4309-bd9f-aca8006ba5c7/image.jpg?t=1609914722&size=Large",
+               "keywords" : null,
+               "language" : null,
+               "owner" : null,
+               "websiteUrl" : "https://omny.fm/shows/tigerbelly/episode-53-blood-feet"
+            },
+            "subtitle" : "Bobby and Ggboy are peacocks. Khalyla loses in the court of law. We talk Rio, Gus the Ghost, and give you an update on the green foot. Â  Â  Recorded August 8, 2016 Music by Bobby Lee Instagram: @tigerbelly Twitter: @thetigerbelly...",
+            "summary" : "Bobby and Ggboy are peacocks. Khalyla loses in the court of law. We talk Rio, Gus the Ghost, and give you an update on the green foot. Â  Â  Recorded August 8, 2016 Music by Bobby Lee Instagram: @tigerbelly Twitter: @thetigerbelly...",
+            "title" : "Episode 53: Blood Feet"
+         },
+         {
+            "audioEnclosure" : {
+               "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chtbl.com/track/3417G2/pdst.fm/e/traffic.omny.fm/d/clips/885ace83-027a-47ad-ad67-aca7002f1df8/7bdc2f7e-cc52-4dd7-b327-aca8005d16cb/63bce904-75a3-4f0b-83ec-aca8006dc858/audio.mp3?utm_source=Podcast&in_playlist=4a6219e8-f1d3-4cf7-bd93-aca8005d16e7",
+               "mimeType" : "audio/mpeg",
+               "sizeBytes" : 65185005
+            },
+            "availabilities" : [
+               {
+                  "license" : "Open",
+                  "name" : "All"
+               }
+            ],
+            "categories" : [
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90265",
+                     "display" : "Comedy",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90315",
+                     "display" : "Comedy Couples",
+                     "level" : 2
+                  }
+               ]
+            ],
+            "credits" : [
+               {
+                  "name" : "Bobby Lee",
+                  "personID" : "232744",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               },
+               {
+                  "name" : "Khalyla Kuhn",
+                  "personID" : "1316439",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               },
+               {
+                  "name" : "Gilbert Galon",
+                  "personID" : "929203",
+                  "role" : {
+                     "display" : "Co-Host"
+                  }
+               }
+            ],
+            "description" : "\r\nWe love you, here's a Bonus Belly.\r\n\r\nGilbo Baggins receives a questionable text from Khaly.\r\n\r\nSomebody among us still eats boogers.\r\n\r\nKhaly says sorry from the bottom of her troubled heart.\r\n\r\nBlacksack says hello.\r\n\r\nÂ \r\n\r\nRecorded October 14, 2015\r\n\r\nMusic by Bobby Lee\r\n\r\nÂ \r\n\r\nInstagram: @tigerbelly\r\n\r\nTwitter: @thetigerbelly",
+            "durationSeconds" : 4070,
+            "editorialStatus" : "enhanced",
+            "episodeID" : "GA0000P00003T7m",
+            "episodeNumber" : null,
+            "language" : "en",
+            "lastUpdateDateTime" : "2021-08-04T13:05:19Z",
+            "objectType" : "episode",
+            "publishDateTime" : "2015-10-16T04:36:00Z",
+            "seasonNumber" : null,
+            "seriesReference" : {
+               "href" : "/series?seriesIDs=GA0000N000000Rt",
+               "seriesID" : "GA0000N000000Rt",
+               "title" : "TigerBelly"
+            },
+            "sourceFeed" : {
+               "author" : null,
+               "categories" : null,
+               "contentType" : null,
+               "copyright" : null,
+               "description" : "We love you, here's a Bonus Belly.\n\nGilbo Baggins receives a questionable text from Khaly.\n\nSomebody among us still eats boogers.\n\nKhaly says sorry from the bottom of her troubled heart.\n\nBlacksack says hello.\n\n\n\nRecorded October 14, 2015\n\nMusic by Bobby Lee\n\n\n\nInstagram: @tigerbelly\n\nTwitter: @thetigerbelly\n\nSee omnystudio.com/listener for privacy information.",
+               "explicitLanguage" : "true",
+               "feedUrl" : null,
+               "generator" : null,
+               "imageUrl" : "https://www.omnycontent.com/d/clips/885ace83-027a-47ad-ad67-aca7002f1df8/7bdc2f7e-cc52-4dd7-b327-aca8005d16cb/63bce904-75a3-4f0b-83ec-aca8006dc858/image.jpg?t=1609915188&size=Large",
+               "keywords" : null,
+               "language" : null,
+               "owner" : null,
+               "websiteUrl" : "https://omny.fm/shows/tigerbelly/episode-8-the-corruptibles"
+            },
+            "subtitle" : "We love you, here's a Bonus Belly.\r\nGilbo Baggins receives a questionable text from Khaly.\r\nSomebody among us still eats boogers.\r\nKhaly says sorry from the bottom of her troubled heart.\r\nBlacksack says hello.\r\nÂ \r\nRecorded October 14, 2015\r\nMusic...",
+            "summary" : "We love you, here's a Bonus Belly.\nGilbo Baggins receives a questionable text from Khaly.\nSomebody among us still eats boogers.\nKhaly says sorry from the bottom of her troubled heart.\nBlacksack says hello.\nÂ \nRecorded October 14, 2015\nMusic...",
+            "title" : "Episode 8: The Corruptibles"
+         },
+         {
+            "audioEnclosure" : {
+               "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chtbl.com/track/3417G2/pdst.fm/e/traffic.omny.fm/d/clips/885ace83-027a-47ad-ad67-aca7002f1df8/7bdc2f7e-cc52-4dd7-b327-aca8005d16cb/6286d552-3a42-4286-b4e2-aca8006715c1/audio.mp3?utm_source=Podcast&in_playlist=4a6219e8-f1d3-4cf7-bd93-aca8005d16e7",
+               "mimeType" : "audio/mpeg",
+               "sizeBytes" : 68609355
+            },
+            "availabilities" : [
+               {
+                  "license" : "Open",
+                  "name" : "All"
+               }
+            ],
+            "categories" : [
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90265",
+                     "display" : "Comedy",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90315",
+                     "display" : "Comedy Couples",
+                     "level" : 2
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90280",
+                     "display" : "TV & Film",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90513",
+                     "display" : "Entertainment Talk",
+                     "level" : 2
+                  }
+               ]
+            ],
+            "credits" : [
+               {
+                  "name" : "Bobby Lee",
+                  "personID" : "232744",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               },
+               {
+                  "name" : "Khalyla Kuhn",
+                  "personID" : "1316439",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               },
+               {
+                  "name" : "Tom Hanks",
+                  "personID" : "62982",
+                  "role" : {
+                     "display" : "Subject"
+                  }
+               },
+               {
+                  "name" : "Gilbert Galon",
+                  "personID" : "929203",
+                  "role" : {
+                     "display" : "Co-Host"
+                  }
+               }
+            ],
+            "description" : "\r\nBobo and Dante hold hands. Khaloko loves ogres. Gilbo is hungry. We talk park scuffles, defectors, and our beloved Tom Hanks.",
+            "durationSeconds" : 4284,
+            "editorialStatus" : "enhanced",
+            "episodeID" : "GA0000P00003TCV",
+            "episodeNumber" : null,
+            "language" : "en",
+            "lastUpdateDateTime" : "2021-08-04T13:05:25Z",
+            "objectType" : "episode",
+            "publishDateTime" : "2018-01-17T07:30:00Z",
+            "seasonNumber" : null,
+            "seriesReference" : {
+               "href" : "/series?seriesIDs=GA0000N000000Rt",
+               "seriesID" : "GA0000N000000Rt",
+               "title" : "TigerBelly"
+            },
+            "sourceFeed" : {
+               "author" : null,
+               "categories" : null,
+               "contentType" : null,
+               "copyright" : null,
+               "description" : "Bobo and Dante hold hands. Khaloko loves ogres. Gilbo is hungry. We talk park scuffles, defectors, and our beloved Tom Hanks.\n\nSee omnystudio.com/listener for privacy information.",
+               "explicitLanguage" : "false",
+               "feedUrl" : null,
+               "generator" : null,
+               "imageUrl" : "https://www.omnycontent.com/d/clips/885ace83-027a-47ad-ad67-aca7002f1df8/7bdc2f7e-cc52-4dd7-b327-aca8005d16cb/6286d552-3a42-4286-b4e2-aca8006715c1/image.jpg?t=1609913733&size=Large",
+               "keywords" : null,
+               "language" : null,
+               "owner" : null,
+               "websiteUrl" : "https://omny.fm/shows/tigerbelly/episode-125-dante-chang-renegotiates"
+            },
+            "subtitle" : "Bobo and Dante hold hands. Khaloko loves ogres. Gilbo is hungry. We talk park scuffles, defectors, and our beloved Tom Hanks.",
+            "summary" : "Bobo and Dante hold hands. Khaloko loves ogres. Gilbo is hungry. We talk park scuffles, defectors, and our beloved Tom Hanks.",
+            "title" : "Episode 125: Dante Chang Renegotiates"
+         }
+      ],
+      "meta" : {
+         "count" : 10,
+         "offset" : 0,
+         "total" : 365
+      }
+   },
+   "error" : null,
+   "success" : true
+}

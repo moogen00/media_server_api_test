@@ -1,0 +1,6 @@
+3.4 Smart PlayList Endpoint\n3.4.2 By Podcast Series ID do_smartplaylist_podcastcategoryid ===========================================
+{
+   "status" : "401",
+   "subStatus" : "3002",
+   "userMessage" : "Invalid Key"
+}

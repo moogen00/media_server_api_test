@@ -8,6 +8,7 @@ export PATH=${PATH}:${TOP_DIR}/api_sh
 # echo -e "${apis}" | tr ' ' '\n'
 
 export BASE_URL="https://bestream-api.com/api/v1"                        
+export HEADER_USER_TOKEN="USER-TOKEN:demo@obigo.com"
 export HEADER_CLIENT_KEY="CLIENT-KEY:DvbzjZagSY3aRiG5LDRH"
 export HEADER_CONTENT_TYPE="Content-Type:application/x-www-form-urlencoded"
 export CURL_CMD="curl -X GET"
@@ -22,6 +23,9 @@ OUTPUT=${TOP_DIR}/out/${TODAY}
 # resp=$(curl -X GET "https://bestream-api.com/api/v1/track/search?type=TRACK&query=bang" -H "CLIENT-KEY:DvbzjZagSY3aRiG5LDRH" -H "Content-Type:application/x-www-form-urlencoded")
 # echo $response | json_pp > contextual_themes.json
 # echo $resp | json_pp > search_track.json
+
+# curl -X GET "https://bestream-api.com/api/v1/track/search?type=TRACK&query=bang" -H "CLIENT-KEY:DvbzjZagSY3aRiG5LDRH" -H "Content-Type:application/x-www-form-urlencoded"
+
 
 do_check_file() 
 {
@@ -46,32 +50,44 @@ do_check_outdir()
 
 
 # 3.2 Contextual Theme
-do_contextual_themes()
+do_3_2_contextual_themes()
 {
+    # # fullname="USER INPUT"
+    # read -p "Enter fullname: " fullname
+    # # user="USER INPUT"
+    # read -p "Enter user: " user
+
+    # echo "fullname = ${fullname}"
+    # echo "user = ${user}"
+
     TITLE="3.2 Contextual Theme"
     OUTPUT_FILE=${FUNCNAME}.json
     do_check_file ${OUTPUT}/${OUTPUT_FILE}
     echo "${TITLE} ${FUNCNAME} ===========================================" >> ${OUTPUT}/${OUTPUT_FILE}
     # test_response="{\"timestamp\":1647253879743,\"status\":400,\"error\":\"Bad Request\",\"path\":\"/api/v1/contextual/themes"\}"
     PATH_URL="/contextual/themes"
-    echo "HEADER_CLIENT_KEY = ${HEADER_CLIENT_KEY}"
-    echo "HEADER_CONTENT_TYPE = ${HEADER_CONTENT_TYPE}"
+    echo "============================================================"
+    echo "TITLE = ${TITLE} End Point = ${PATH_URL}"
+    echo ""
+    # echo "HEADER_CLIENT_KEY = ${HEADER_CLIENT_KEY}"
+    # echo "HEADER_CONTENT_TYPE = ${HEADER_CONTENT_TYPE}"
+    echo "curl -X GET \"${BASE_URL}${PATH_URL}\" -H \"$HEADER_CLIENT_KEY\" -H \"$HEADER_CONTENT_TYPE\""
+    echo "============================================================"
     response=$(curl -X GET "${BASE_URL}${PATH_URL}" -H "${HEADER_CLIENT_KEY}" -H "${HEADER_CONTENT_TYPE}")
-    # response=$(curl -v -X GET "${BASE_URL}/contextual/themes" -H "${HEADER_CLIENT_KEY}" -H "${HEADER_CONTENT_TYPE}")
-    # response=$(curl -X GET "https://bestream-api.com/api/v1/contextual/themes" -H "CLIENT-KEY:DvbzjZagSY3aRiG5LDRH" -H "Content-Type:application/x-www-form-urlencoded")
-    #echo $test_response | grep "status"
     echo $response | json_pp >> ${OUTPUT}/${OUTPUT_FILE}
+    read -p "Do you read result? (Y/N): " confirm 
+    # && [[ $confirm == [yY] || $confirm == [yY][eE][sS] ]] && || echo "exit" && exit 1 
 }
 
 # 3.3 PL Theme Endpoint
-do_pl_themes()
+do_3_3_pl_themes()
 {
     TITLE="3.3 PL Theme Endpoint"
     OUTPUT_FILE=${FUNCNAME}.json
     do_check_file ${OUTPUT}/${OUTPUT_FILE}
     echo "${TITLE} ${FUNCNAME} ===========================================" >> ${OUTPUT}/${OUTPUT_FILE}
     # test_response="{\"timestamp\":1647253879743,\"status\":400,\"error\":\"Bad Request\",\"path\":\"/api/v1/contextual/themes"\}"
-    local PATH_URL="/contextual/plThemes/themeId?themeId=TM001"
+    local PATH_URL="/contextual/plThemes/themeId?themeId=TM003"
     echo "curl -X GET \"${BASE_URL}${PATH_URL}\" -H \"$HEADER_CLIENT_KEY\" -H \"$HEADER_CONTENT_TYPE\""
     response=$(curl -X GET "${BASE_URL}${PATH_URL}" -H "$HEADER_CLIENT_KEY" -H "$HEADER_CONTENT_TYPE")
     #echo $test_response | grep "status"
@@ -84,11 +100,12 @@ do_pl_themes()
 do_smartplaylist_plthemeid()
 {
     TITLE="3.4 Smart PlayList Endpoint\n3.4.1 By PL Theme ID"
-    OUTPUT_FILE=${FUNCNAME}.json
+    PLTHEMEID=$1
+    OUTPUT_FILE=${FUNCNAME}_${PLTHEMEID}.json
     do_check_file ${OUTPUT}/${OUTPUT_FILE}
     echo "${TITLE} ${FUNCNAME} ===========================================" >> ${OUTPUT}/${OUTPUT_FILE}
     # test_response="{\"timestamp\":1647253879743,\"status\":400,\"error\":\"Bad Request\",\"path\":\"/api/v1/contextual/themes"\}"    
-    local PATH_URL="/contextual/smartPlayList/plThemeId?ids=PL001"
+    local PATH_URL="/contextual/smartPlayList/plThemeId?ids=${PLTHEMEID}"
     echo "curl -X GET \"${BASE_URL}${PATH_URL}\" -H \"$HEADER_CLIENT_KEY\" -H \"$HEADER_CONTENT_TYPE\""
     response=$(curl -X GET "${BASE_URL}${PATH_URL}" -H "$HEADER_CLIENT_KEY" -H "$HEADER_CONTENT_TYPE")
     #echo $test_response | grep "status"
@@ -99,11 +116,12 @@ do_smartplaylist_plthemeid()
 do_smartplaylist_podcastcategoryid()
 {
     TITLE="3.4 Smart PlayList Endpoint\n3.4.2 By Podcast Series ID"
-    OUTPUT_FILE=${FUNCNAME}.json
+    CATEGORY_ID=$1
+    OUTPUT_FILE=${FUNCNAME}_${CATEGORY_ID}.json
     do_check_file ${OUTPUT}/${OUTPUT_FILE}
     echo "${TITLE} ${FUNCNAME} ===========================================" >> ${OUTPUT}/${OUTPUT_FILE}
     # test_response="{\"timestamp\":1647253879743,\"status\":400,\"error\":\"Bad Request\",\"path\":\"/api/v1/contextual/themes"\}"
-    local PATH_URL="/contextual/smartPlayList/podcastCategoryId?ids=90272"
+    local PATH_URL="/contextual/smartPlayList/podcastCategoryId?ids=${CATEGORY_ID}"
     echo "curl -X GET \"${BASE_URL}${PATH_URL}\" -H \"$HEADER_CLIENT_KEY\" -H \"$HEADER_CONTENT_TYPE\""
     response=$(curl -X GET "${BASE_URL}${PATH_URL}" -H "$HEADER_CLIENT_KEY" -H "$HEADER_CONTENT_TYPE")
     #echo $test_response | grep "status"
@@ -138,6 +156,22 @@ do_playback_aod()
     #echo $test_response | grep "status"
     echo $response | json_pp >> ${OUTPUT}/${OUTPUT_FILE}
 }
+
+# 3.6 Aod Playback Endpoint
+do_playback_aod_offset_limit()
+{
+    TITLE="3.6 Aod Playback Endpoint"
+    OUTPUT_FILE=${FUNCNAME}.json
+    do_check_file ${OUTPUT}/${OUTPUT_FILE}
+    echo "${TITLE} ${FUNCNAME} ===========================================" >> ${OUTPUT}/${OUTPUT_FILE}
+
+    # test_response="{\"timestamp\":1647253879743,\"status\":400,\"error\":\"Bad Request\",\"path\":\"/api/v1/contextual/themes"\}"
+    local PATH_URL="/playback/aod?seriesId=GA0000N000002h2&limit=10&offset=0"
+    response=$(curl -X GET "${BASE_URL}${PATH_URL}" -H "$HEADER_CLIENT_KEY" -H "$HEADER_CONTENT_TYPE")
+    #echo $test_response | grep "status"
+    echo $response | json_pp >> ${OUTPUT}/${OUTPUT_FILE}
+}
+
 
 # 3.7 Track Endpoint
 do_track_search()
@@ -192,11 +226,12 @@ do_aod_series()
 do_aod_episode()
 {
     TITLE="3.10 Aod Episodes Endpoint"
-    OUTPUT_FILE=${FUNCNAME}.json
+    SERIES_ID=$1
+    OUTPUT_FILE=${FUNCNAME}_${SERIES_ID}.json
     do_check_file ${OUTPUT}/${OUTPUT_FILE}
     echo "${TITLE} ${FUNCNAME} ===========================================" >> ${OUTPUT}/${OUTPUT_FILE}
     # test_response="{\"timestamp\":1647253879743,\"status\":400,\"error\":\"Bad Request\",\"path\":\"/api/v1/contextual/themes"\}"
-    local QUERY="/aod/episode?seriesId=GA0000N000002h2"
+    local QUERY="/aod/episode?seriesId=${SERIES_ID}"
     response=$(curl -X GET "${BASE_URL}${QUERY}" -H "$HEADER_CLIENT_KEY" -H "$HEADER_CONTENT_TYPE")
     #echo $test_response | grep "status"
     echo $response | json_pp >> ${OUTPUT}/${OUTPUT_FILE}
@@ -206,12 +241,19 @@ do_aod_episode()
 do_custom_personalization()
 {
     TITLE="3.11 Send Personality Data Endpoint"
+    EVENT_TYPE=$1
+    CONTENT_TYPE=$2
+    CONTENT_ID=$3
+    PLTHEME_ID=$4
     OUTPUT_FILE=${FUNCNAME}.json
     do_check_file ${OUTPUT}/${OUTPUT_FILE}
     echo "${TITLE} ${FUNCNAME} ===========================================" >> ${OUTPUT}/${OUTPUT_FILE}
     # test_response="{\"timestamp\":1647253879743,\"status\":400,\"error\":\"Bad Request\",\"path\":\"/api/v1/contextual/themes"\}"
-    local QUERY="/custom/personalization?eventType=user_select_track&contentType=music&contentId=GN4K7CK2A9FMNZS"
-    echo "curl -X GET \"${BASE_URL}${QUERY}\" -H \"$HEADER_CLIENT_KEY\" -H \"$HEADER_CONTENT_TYPE\""
+    local QUERY="/custom/personalization?eventType=${EVENT_TYPE}&contentType=${CONTENT_TYPE}&contentId=${CONTENT_ID}&plThemeId=${PLTHEME_ID}"
+    echo "HEADER_USER_TOKEN = ${HEADER_USER_TOKEN}"
+    echo "HEADER_CLIENT_KEY = ${HEADER_CLIENT_KEY}"
+    echo "HEADER_CONTENT_TYPE = ${HEADER_CONTENT_TYPE}"    
+    echo "curl -X GET \"${BASE_URL}${QUERY}\" -H \"$HEADER_CLIENT_KEY\" -H \"$HEADER_USER_TOKEN\" -H \"$HEADER_CONTENT_TYPE\"" >> ${OUTPUT}/${OUTPUT_FILE}
     response=$(curl -X GET "${BASE_URL}${QUERY}" -H "$HEADER_CLIENT_KEY" -H "$HEADER_CONTENT_TYPE")
     #echo $test_response | grep "status"
     echo $response | json_pp >> ${OUTPUT}/${OUTPUT_FILE}
@@ -292,24 +334,262 @@ do_bad_request()
 
 
 
-do_()
+# do_()
+# {
+#     TITLE="Bad Request"
+#     OUTPUT_FILE=${FUNCNAME}.json
+#     do_check_file ${OUTPUT}/${OUTPUT_FILE}
+#     echo "${TITLE} ${FUNCNAME} ===========================================" >> ${OUTPUT}/${OUTPUT_FILE}
+#     # test_response="{\"timestamp\":1647253879743,\"status\":400,\"error\":\"Bad Request\",\"path\":\"/api/v1/contextual/themes"\}"
+#     local QUERY="/aod/episode?seId=GA0000N000002h2"
+#     response=$(curl -X GET "${BASE_URL}${QUERY}" -H "$HEADER_CLIENT_KEY" -H "$HEADER_CONTENT_TYPE")
+#     #echo $test_response | grep "status"
+#     echo $response | json_pp >> ${OUTPUT}/${OUTPUT_FILE}
+# }
+
+
+# smartplaylist_genre_category
+do_smartplaylist_genre_category()
 {
-    TITLE="Bad Request"
+    TITLE="smartplaylist_genre_category"
     OUTPUT_FILE=${FUNCNAME}.json
     do_check_file ${OUTPUT}/${OUTPUT_FILE}
     echo "${TITLE} ${FUNCNAME} ===========================================" >> ${OUTPUT}/${OUTPUT_FILE}
-    # test_response="{\"timestamp\":1647253879743,\"status\":400,\"error\":\"Bad Request\",\"path\":\"/api/v1/contextual/themes"\}"
-    local QUERY="/aod/episode?seId=GA0000N000002h2"
-    response=$(curl -X GET "${BASE_URL}${QUERY}" -H "$HEADER_CLIENT_KEY" -H "$HEADER_CONTENT_TYPE")
-    #echo $test_response | grep "status"
+    QUERY="/smartplaylist/genre_category"
+    echo "HEADER_CLIENT_KEY = ${HEADER_CLIENT_KEY}"
+    echo "HEADER_CONTENT_TYPE = ${HEADER_CONTENT_TYPE}"
+    response=$(curl -X GET "${BASE_URL}${QUERY}" -H "${HEADER_CLIENT_KEY}" -H "${HEADER_CONTENT_TYPE}")
     echo $response | json_pp >> ${OUTPUT}/${OUTPUT_FILE}
 }
 
 
+# smartplaylist_genre_category
+do_smartplaylist_mood_category()
+{
+    TITLE="smartplaylist_mood_category"
+    OUTPUT_FILE=${FUNCNAME}.json
+    do_check_file ${OUTPUT}/${OUTPUT_FILE}
+    echo "${TITLE} ${FUNCNAME} ===========================================" >> ${OUTPUT}/${OUTPUT_FILE}
+    QUERY="/smartplaylist/mood_category"
+    echo "HEADER_CLIENT_KEY = ${HEADER_CLIENT_KEY}"
+    echo "HEADER_CONTENT_TYPE = ${HEADER_CONTENT_TYPE}"
+    response=$(curl -X GET "${BASE_URL}${QUERY}" -H "${HEADER_CLIENT_KEY}" -H "${HEADER_CONTENT_TYPE}")
+    echo $response | json_pp >> ${OUTPUT}/${OUTPUT_FILE}
+}
+
+
+# curl –X GET
+# “https://bestream-api.com/api/v1/custom/contextual?weather=cloudy&dayOfWeek=monday&tim
+# eOfDay=10:00&temperature=29c&destination=home&traffic=heavy”
+
+
+
+do_custom_contextual() 
+{
+    TITLE="custom_contextual"
+    OUTPUT_FILE=${FUNCNAME}.json
+    do_check_file ${OUTPUT}/${OUTPUT_FILE}
+    echo "${TITLE} ${FUNCNAME} ===========================================" >> ${OUTPUT}/${OUTPUT_FILE}
+    QUERY="/custom/contextual?weather=cloudy&dayOfWeek=monday&timeOfDay=10:00&temperature=29c&destination=home&traffic=heavy"
+    echo "HEADER_CLIENT_KEY = ${HEADER_CLIENT_KEY}"
+    echo "HEADER_CONTENT_TYPE = ${HEADER_CONTENT_TYPE}"
+    response=$(curl -X GET "${BASE_URL}${QUERY}" -H "${HEADER_CLIENT_KEY}" -H "${HEADER_CONTENT_TYPE}")
+    echo $response | json_pp >> ${OUTPUT}/${OUTPUT_FILE}    
+}
+
+
+# 3.13 Personal Smart PlayList Endpoint
+# v1/contextual/smartPlayList/personal/plThemeIds
+do_contextual_smartPlayList_personal_plThemeIds() 
+{
+    IDS=$1    
+    TITLE="custom_contextual"
+    OUTPUT_FILE=${FUNCNAME}_${IDS}.json
+    do_check_file ${OUTPUT}/${OUTPUT_FILE}
+    echo "${TITLE} ${FUNCNAME} ===========================================" >> ${OUTPUT}/${OUTPUT_FILE}
+    QUERY="/contextual/smartPlayList/personal/plThemeIds?ids=${IDS}"
+    echo "HEADER_USER_TOKEN = ${HEADER_USER_TOKEN}"
+    echo "HEADER_CLIENT_KEY = ${HEADER_CLIENT_KEY}"
+    echo "HEADER_CONTENT_TYPE = ${HEADER_CONTENT_TYPE}"
+    echo "curl -X GET \"${BASE_URL}${QUERY}\" -H \"$HEADER_USER_TOKEN\" -H \"$HEADER_CLIENT_KEY\" -H \"$HEADER_CONTENT_TYPE\""
+    response=$(curl -X GET "${BASE_URL}${QUERY}" -H "${HEADER_USER_TOKEN}" -H "${HEADER_CLIENT_KEY}" -H "${HEADER_CONTENT_TYPE}")
+    echo $response | json_pp >> ${OUTPUT}/${OUTPUT_FILE}    
+}
+
+
+# 3.14 3.14 Personal Aod PLTheme Endpoint
+# /v1/contextual/aod/personal
+do_contextual_aod_personal_themeIds() 
+{
+    IDS=$1    
+    TITLE="contextual_aod_personal"
+    OUTPUT_FILE=${FUNCNAME}_${IDS}.json
+    do_check_file ${OUTPUT}/${OUTPUT_FILE}
+    echo "${TITLE} ${FUNCNAME} ===========================================" >> ${OUTPUT}/${OUTPUT_FILE}
+    QUERY="/contextual/aod/personal?themeId=${IDS}"
+    echo "HEADER_USER_TOKEN = ${HEADER_USER_TOKEN}"
+    echo "HEADER_CLIENT_KEY = ${HEADER_CLIENT_KEY}"
+    echo "HEADER_CONTENT_TYPE = ${HEADER_CONTENT_TYPE}"
+    echo "curl -X GET \"${BASE_URL}${QUERY}\" -H \"$HEADER_USER_TOKEN\" -H \"$HEADER_CLIENT_KEY\" -H \"$HEADER_CONTENT_TYPE\""
+    response=$(curl -X GET "${BASE_URL}${QUERY}" -H "${HEADER_USER_TOKEN}" -H "${HEADER_CLIENT_KEY}" -H "${HEADER_CONTENT_TYPE}")
+    echo $response | json_pp >> ${OUTPUT}/${OUTPUT_FILE}    
+}
+
+
+
+do_smartplaylist_search_name_track() 
+{
+    PARAM=$1    
+    TITLE="search"
+    OUTPUT_FILE=${FUNCNAME}_${PARAM}.json
+    do_check_file ${OUTPUT}/${OUTPUT_FILE}
+    echo "${TITLE} ${FUNCNAME} ===========================================" >> ${OUTPUT}/${OUTPUT_FILE}
+    QUERY="/smartplaylist/searchName/track?param=${PARAM}"    
+    echo "HEADER_CLIENT_KEY = ${HEADER_CLIENT_KEY}"
+    echo "HEADER_CONTENT_TYPE = ${HEADER_CONTENT_TYPE}"
+    echo "curl -X GET \"${BASE_URL}${QUERY}\" -H \"$HEADER_CLIENT_KEY\" -H \"$HEADER_CONTENT_TYPE\""
+    response=$(curl -X GET "${BASE_URL}${QUERY}" -H "${HEADER_CLIENT_KEY}" -H "${HEADER_CONTENT_TYPE}")
+    echo $response | json_pp >> ${OUTPUT}/${OUTPUT_FILE}    
+}
+
+
+do_smartplaylist_search_name_album() 
+{
+    PARAM=$1    
+    TITLE="search"
+    OUTPUT_FILE=${FUNCNAME}_${PARAM}.json
+    do_check_file ${OUTPUT}/${OUTPUT_FILE}
+    echo "${TITLE} ${FUNCNAME} ===========================================" >> ${OUTPUT}/${OUTPUT_FILE}
+    QUERY="/smartplaylist/searchName/album?param=${PARAM}"    
+    echo "HEADER_CLIENT_KEY = ${HEADER_CLIENT_KEY}"
+    echo "HEADER_CONTENT_TYPE = ${HEADER_CONTENT_TYPE}"
+    echo "curl -X GET \"${BASE_URL}${QUERY}\" -H \"$HEADER_CLIENT_KEY\" -H \"$HEADER_CONTENT_TYPE\""
+    response=$(curl -X GET "${BASE_URL}${QUERY}" -H "${HEADER_CLIENT_KEY}" -H "${HEADER_CONTENT_TYPE}")
+    echo $response | json_pp >> ${OUTPUT}/${OUTPUT_FILE}    
+}
+
+
+do_smartplaylist_search_name_artist() 
+{
+    PARAM=$1    
+    TITLE="search"
+    OUTPUT_FILE=${FUNCNAME}_${PARAM}.json
+    do_check_file ${OUTPUT}/${OUTPUT_FILE}
+    echo "${TITLE} ${FUNCNAME} ===========================================" >> ${OUTPUT}/${OUTPUT_FILE}
+    QUERY="/smartplaylist/searchName/artist?param=${PARAM}"    
+    echo "HEADER_CLIENT_KEY = ${HEADER_CLIENT_KEY}"
+    echo "HEADER_CONTENT_TYPE = ${HEADER_CONTENT_TYPE}"
+    echo "curl -X GET \"${BASE_URL}${QUERY}\" -H \"$HEADER_CLIENT_KEY\" -H \"$HEADER_CONTENT_TYPE\""
+    response=$(curl -X GET "${BASE_URL}${QUERY}" -H "${HEADER_CLIENT_KEY}" -H "${HEADER_CONTENT_TYPE}")
+    echo $response | json_pp >> ${OUTPUT}/${OUTPUT_FILE}    
+}
+
+
+# /v1/smartplaylist/searchId/track/album GN82N8B2V1Z20MJ
+
+do_smartplaylist_search_id_track_album() 
+{
+    PARAM=$1    
+    TITLE="search"
+    OUTPUT_FILE=${FUNCNAME}_${PARAM}.json
+    do_check_file ${OUTPUT}/${OUTPUT_FILE}
+    echo "${TITLE} ${FUNCNAME} ===========================================" >> ${OUTPUT}/${OUTPUT_FILE}
+    QUERY="/smartplaylist/searchId/track/album?param=${PARAM}"    
+    echo "HEADER_CLIENT_KEY = ${HEADER_CLIENT_KEY}"
+    echo "HEADER_CONTENT_TYPE = ${HEADER_CONTENT_TYPE}"
+    echo "curl -X GET \"${BASE_URL}${QUERY}\" -H \"$HEADER_CLIENT_KEY\" -H \"$HEADER_CONTENT_TYPE\""
+    response=$(curl -X GET "${BASE_URL}${QUERY}" -H "${HEADER_CLIENT_KEY}" -H "${HEADER_CONTENT_TYPE}")
+    echo $response | json_pp >> ${OUTPUT}/${OUTPUT_FILE}    
+}
+
+
+# /v1/smartplaylist/searchId/track/artist GN0AH22ZGPYGQA2
+
+do_smartplaylist_search_id_track_artist() 
+{
+    PARAM=$1    
+    TITLE="search"
+    OUTPUT_FILE=${FUNCNAME}_${PARAM}.json
+    do_check_file ${OUTPUT}/${OUTPUT_FILE}
+    echo "${TITLE} ${FUNCNAME} ===========================================" >> ${OUTPUT}/${OUTPUT_FILE}
+    QUERY="/smartplaylist/searchId/track/artist?param=${PARAM}"    
+    echo "HEADER_CLIENT_KEY = ${HEADER_CLIENT_KEY}"
+    echo "HEADER_CONTENT_TYPE = ${HEADER_CONTENT_TYPE}"
+    echo "curl -X GET \"${BASE_URL}${QUERY}\" -H \"$HEADER_CLIENT_KEY\" -H \"$HEADER_CONTENT_TYPE\""
+    response=$(curl -X GET "${BASE_URL}${QUERY}" -H "${HEADER_CLIENT_KEY}" -H "${HEADER_CONTENT_TYPE}")
+    echo $response | json_pp >> ${OUTPUT}/${OUTPUT_FILE}    
+}
+
+# smartplaylist/searchId/track/album
+do_smartplaylist_search_id_album_track() 
+{
+    PARAM=$1    
+    TITLE="search"
+    OUTPUT_FILE=${FUNCNAME}_${PARAM}.json
+    do_check_file ${OUTPUT}/${OUTPUT_FILE}
+    echo "${TITLE} ${FUNCNAME} ===========================================" >> ${OUTPUT}/${OUTPUT_FILE}
+    QUERY="/smartplaylist/searchId/album/track?param=${PARAM}"    
+    echo "HEADER_CLIENT_KEY = ${HEADER_CLIENT_KEY}"
+    echo "HEADER_CONTENT_TYPE = ${HEADER_CONTENT_TYPE}"
+    echo "curl -X GET \"${BASE_URL}${QUERY}\" -H \"$HEADER_CLIENT_KEY\" -H \"$HEADER_CONTENT_TYPE\""
+    response=$(curl -X GET "${BASE_URL}${QUERY}" -H "${HEADER_CLIENT_KEY}" -H "${HEADER_CONTENT_TYPE}")
+    echo $response | json_pp >> ${OUTPUT}/${OUTPUT_FILE}    
+}
+
+# /smartplaylist/searchId/album/artist
+do_smartplaylist_search_id_album_artist() 
+{
+    PARAM=$1    
+    TITLE="search"
+    OUTPUT_FILE=${FUNCNAME}_${PARAM}.json
+    do_check_file ${OUTPUT}/${OUTPUT_FILE}
+    echo "${TITLE} ${FUNCNAME} ===========================================" >> ${OUTPUT}/${OUTPUT_FILE}
+    QUERY="/smartplaylist/searchId/album/artist?param=${PARAM}"    
+    echo "HEADER_CLIENT_KEY = ${HEADER_CLIENT_KEY}"
+    echo "HEADER_CONTENT_TYPE = ${HEADER_CONTENT_TYPE}"
+    echo "curl -X GET \"${BASE_URL}${QUERY}\" -H \"$HEADER_CLIENT_KEY\" -H \"$HEADER_CONTENT_TYPE\""
+    response=$(curl -X GET "${BASE_URL}${QUERY}" -H "${HEADER_CLIENT_KEY}" -H "${HEADER_CONTENT_TYPE}")
+    echo $response | json_pp >> ${OUTPUT}/${OUTPUT_FILE}    
+}
+
+
+# /smartplaylist/searchId/artist/track
+do_smartplaylist_search_id_artist_track() 
+{
+    PARAM=$1    
+    TITLE="search"
+    OUTPUT_FILE=${FUNCNAME}_${PARAM}.json
+    do_check_file ${OUTPUT}/${OUTPUT_FILE}
+    echo "${TITLE} ${FUNCNAME} ===========================================" >> ${OUTPUT}/${OUTPUT_FILE}
+    QUERY="/smartplaylist/searchId/artist/track?param=${PARAM}"    
+    echo "HEADER_CLIENT_KEY = ${HEADER_CLIENT_KEY}"
+    echo "HEADER_CONTENT_TYPE = ${HEADER_CONTENT_TYPE}"
+    echo "curl -X GET \"${BASE_URL}${QUERY}\" -H \"$HEADER_CLIENT_KEY\" -H \"$HEADER_CONTENT_TYPE\""
+    response=$(curl -X GET "${BASE_URL}${QUERY}" -H "${HEADER_CLIENT_KEY}" -H "${HEADER_CONTENT_TYPE}")
+    echo $response | json_pp >> ${OUTPUT}/${OUTPUT_FILE}    
+}
+
+
+# /smartplaylist/searchId/artist/album
+do_smartplaylist_search_id_artist_album() 
+{
+    PARAM=$1    
+    TITLE="search"
+    OUTPUT_FILE=${FUNCNAME}_${PARAM}.json
+    do_check_file ${OUTPUT}/${OUTPUT_FILE}
+    echo "${TITLE} ${FUNCNAME} ===========================================" >> ${OUTPUT}/${OUTPUT_FILE}
+    QUERY="/smartplaylist/searchId/artist/album?param=${PARAM}"    
+    echo "HEADER_CLIENT_KEY = ${HEADER_CLIENT_KEY}"
+    echo "HEADER_CONTENT_TYPE = ${HEADER_CONTENT_TYPE}"
+    echo "curl -X GET \"${BASE_URL}${QUERY}\" -H \"$HEADER_CLIENT_KEY\" -H \"$HEADER_CONTENT_TYPE\""
+    response=$(curl -X GET "${BASE_URL}${QUERY}" -H "${HEADER_CLIENT_KEY}" -H "${HEADER_CONTENT_TYPE}")
+    echo $response | json_pp >> ${OUTPUT}/${OUTPUT_FILE}    
+}
 
 
 
 ALL_FUNC=$(compgen -A function)
+
 
 test_main()
 { 
@@ -322,33 +602,137 @@ test_main()
 # do_custom_personalization
 # echo "func ${ALL_FUNC}"
 do_check_outdir
-for TEST_FUNC in ${ALL_FUNC[@]}; do
-    # echo "This is ${TEST_FUNC}"        
-    if [ "${TEST_FUNC}" = "do_aod_series" ]; then
-        echo "${TEST_FUNC} level 1"
-        ${TEST_FUNC} "90263"
-        echo "${TEST_FUNC} level 2"
-        ${TEST_FUNC} "90290"
-        echo "${TEST_FUNC} level 2"
-        ${TEST_FUNC} "90288"
-        echo "${TEST_FUNC} level 3"
-        ${TEST_FUNC} "90547"
-        echo "${TEST_FUNC} level 3"
-        ${TEST_FUNC} "90546"
-    elif [ "${TEST_FUNC}" = "do_track_search" ]; then
-        echo "${TEST_FUNC} TRACK position"
-        ${TEST_FUNC} "TRACK" "position"
-        echo "${TEST_FUNC} ALBUM Positions"
-        ${TEST_FUNC} "ALBUM" "Positions"
-        echo "${TEST_FUNC} ARTIST Ariana Grande"
-        ${TEST_FUNC} "ARTIST" "Ariana Grande"
-        echo "${TEST_FUNC} ARTIST Ari"
-        ${TEST_FUNC} "ARTIST" "Ari"
-    else
-        ${TEST_FUNC}
-    fi
 
+# echo "function = $(declare -F)"
+
+
+
+
+
+INDEX=0
+
+array=()
+IFS=$'\n'
+for f in $(declare -F); do
+#    echo "${f:11}"
+   array+=("${f:11}")
+   # echo ${INDEX}_${f:11}
+   let INDEX=${INDEX}+1
 done
+# echo "array[*] = ${array[*]}"
+
+PS3='Please enter your choice: '
+select opt in ${array[@]}
+do
+    case $opt in
+        *)
+        $opt
+        ;;
+    esac
+done
+
+
+
+
+# for TEST_FUNC in ${ALL_FUNC[@]}; do
+#     # echo "This is ${TEST_FUNC}"        
+#     if [ "${TEST_FUNC}" = "do_aod_series" ]; then
+#         echo "${TEST_FUNC} level 1"
+#         ${TEST_FUNC} "90263"
+#         echo "${TEST_FUNC} level 2"
+#         ${TEST_FUNC} "90277"
+#         # echo "${TEST_FUNC} level 2"
+#         # ${TEST_FUNC} "90288"
+#         # echo "${TEST_FUNC} level 3"
+#         # ${TEST_FUNC} "90547"
+#         # echo "${TEST_FUNC} level 3"
+#         # ${TEST_FUNC} "90546"
+#     elif [ "${TEST_FUNC}" = "do_track_search" ]; then
+#         echo "${TEST_FUNC} TRACK position"
+#         ${TEST_FUNC} "TRACK" "position"
+#         echo "${TEST_FUNC} ALBUM Positions"
+#         ${TEST_FUNC} "ALBUM" "Positions"
+#         echo "${TEST_FUNC} ARTIST Ariana Grande"
+#         ${TEST_FUNC} "ARTIST" "Ariana"
+#         echo "${TEST_FUNC} ARTIST Ari"
+#         ${TEST_FUNC} "ARTIST" "Ari"
+#         echo "${TEST_FUNC} ARTIST Paul"
+#         ${TEST_FUNC} "ARTIST" "Paul"
+#     elif [ "${TEST_FUNC}" = "do_smartplaylist_plthemeid" ]; then
+#         echo "${TEST_FUNC} PL007  ========="
+#         ${TEST_FUNC} "PL007"
+#         echo "${TEST_FUNC} PL008  ========="
+#         ${TEST_FUNC} "PL008"
+#         echo "${TEST_FUNC} PL009  ========="
+#         ${TEST_FUNC} "PL009"
+#     elif [ "${TEST_FUNC}" = "do_custom_personalization" ]; then
+#         # select music
+#         echo "${TEST_FUNC} user_select_track music GNFTDQVWKBSZR6K PL007"
+#         ${TEST_FUNC} "user_select_track" "music" "GNFTDQVWKBSZR6K" "PL007"
+
+#         echo "${TEST_FUNC} user_select_track aod GA0000N000000NS PL007"
+#         ${TEST_FUNC} "user_select_track" "aod" "GA0000N000000NS" "PL007"
+        
+#         echo "${TEST_FUNC} user_select_track aod GA0000N000000P0 PL007"
+#         ${TEST_FUNC} "user_select_track" "aod" "GA0000N000000P0" "PL007"
+#         # echo "${TEST_FUNC} user_select_track GNFTDQVWKBSZR6K PL007"
+#         # ${TEST_FUNC} "user_select_track" "GNFTDQVWKBSZR6K" "PL007"
+#         # echo "${TEST_FUNC} user_select_track GNFTDQVWKBSZR6K PL007"
+#         # ${TEST_FUNC} "user_select_track" "GNFTDQVWKBSZR6K" "PL007"
+#         # echo "${TEST_FUNC} user_select_track GNFTDQVWKBSZR6K PL007"
+#         # ${TEST_FUNC} "user_select_track" "GNFTDQVWKBSZR6K" "PL007"
+#     elif [ "${TEST_FUNC}" = "do_contextual_smartPlayList_personal_plThemeIds" ]; then
+#         echo "${TEST_FUNC} PL007  ========="
+#         ${TEST_FUNC} "PL007"
+#         echo "${TEST_FUNC} PL008  ========="
+#         ${TEST_FUNC} "PL008"
+#         echo "${TEST_FUNC} PL009  ========="
+#         ${TEST_FUNC} "PL009"        
+#     elif [ "${TEST_FUNC}" = "do_smartplaylist_search_name_track" ]; then
+#         ${TEST_FUNC} "savages" 
+#     elif [ "${TEST_FUNC}" = "do_smartplaylist_search_name_album" ]; then
+#         ${TEST_FUNC} "Catch" 
+#     elif [ "${TEST_FUNC}" = "do_smartplaylist_search_name_artist" ]; then
+#         ${TEST_FUNC} "Paul"
+#     elif [ "${TEST_FUNC}" = "do_smartplaylist_search_id_track_album" ]; then
+#         ${TEST_FUNC} "GN82N8B2V1Z20MJ"
+#     elif [ "${TEST_FUNC}" = "do_smartplaylist_search_id_track_artist" ]; then
+#         ${TEST_FUNC} "GN0AH22ZGPYGQA2"        
+
+#     elif [ "${TEST_FUNC}" = "do_smartplaylist_search_id_album_track" ]; then
+#         ${TEST_FUNC} "GN1ZNP8P02KB13B"        
+#     elif [ "${TEST_FUNC}" = "do_smartplaylist_search_id_album_artist" ]; then
+#         ${TEST_FUNC} "GN12EW2MCSHPP2R"
+#     elif [ "${TEST_FUNC}" = "do_smartplaylist_search_id_artist_track" ]; then
+#         ${TEST_FUNC} "GN1ZNP8P02KB13B"        
+#     elif [ "${TEST_FUNC}" = "do_smartplaylist_search_id_artist_album" ]; then
+#         ${TEST_FUNC} "GN2NBD1MV953H0G"
+#     elif [ "${TEST_FUNC}" = "do_contextual_aod_personal_themeIds" ]; then
+#         echo "${TEST_FUNC} TM001  ========="
+#         ${TEST_FUNC} "TM001"
+#         echo "${TEST_FUNC} TM002  ========="
+#         ${TEST_FUNC} "TM002"
+#         echo "${TEST_FUNC} TM003  ========="
+#         ${TEST_FUNC} "TM003"
+#     elif [ "${TEST_FUNC}" = "do_smartplaylist_podcastcategoryid" ]; then
+#         echo "${TEST_FUNC} 90279  ========="
+#         ${TEST_FUNC} "90279"
+#         echo "${TEST_FUNC} 90265  ========="
+#         ${TEST_FUNC} "90265"
+#         echo "${TEST_FUNC} 90271  ========="
+#         ${TEST_FUNC} "90271"
+#     elif [ "${TEST_FUNC}" = "do_aod_episode" ]; then
+#         echo "${TEST_FUNC} GA0000N000000RZ  ========="
+#         ${TEST_FUNC} "GA0000N000000RZ"
+#         echo "${TEST_FUNC} GA0000N000000Rt  ========="
+#         ${TEST_FUNC} "GA0000N000000Rt"
+#         echo "${TEST_FUNC} GA0000N000000RR  ========="
+#         ${TEST_FUNC} "GA0000N000000RR"            
+#     else
+#         ${TEST_FUNC}
+#     fi
+
+# done
 
     # TITLE="3.7 Track Endpoint"
     # TYPE=$1

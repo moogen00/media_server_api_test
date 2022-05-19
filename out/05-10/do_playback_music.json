@@ -1,0 +1,7 @@
+3.5 Music Playback Endpoint do_playback_music ===========================================
+{
+   "codec" : "AAC",
+   "soundQuality" : "HIGH",
+   "streamUrl" : "https://ab-pr-cf.audio.tidal.com/a1ab5c365f4023e00a4c0153d8f9b49b_37.mp4?Expires=1652179665&Signature=g2jh~5sg~dEZziNMNhn6pNOC5tt3E-TvDjJQu9V1TEKHunGhJotIWOsJ7GEtY1O6hd~3I92hMBIGAnRxL-fq~WaRnl6Axk6oNfj-Z3Rwi1019OU9qxSN7lm93xLuXyJzhKULyrNhcE4UmmtvQSU2IMo9jqtIzbLoBhZ9MwBzwzzBa1PvLhugg8D25oB4AkN1mUrrQ3LXyiGfhbURZx~XSq5FgaDWt~7glC78LtePZr98eYxlMvCYJjrDArsCACVqw5fMHPKu1JkAMpD1VTR6IWsWaX2odQsCqMgXyWVnejgNlX-kQw1vEMHe9R2N87udAFJApOOp1B2hRo7xLcB49g__&Key-Pair-Id=K14LZCZ9QUI4JL",
+   "tidalTrackId" : 199197493
+}

@@ -1,0 +1,2768 @@
+{
+   "data" : {
+      "data" : [
+         {
+            "children" : [
+               {
+                  "children" : [
+                     {
+                        "children" : [
+                           {
+                              "children" : null,
+                              "descriptorID" : "90523",
+                              "display" : "Books Aloud",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "90525",
+                              "display" : "Book Talk",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "90526",
+                              "display" : "Interviews With Authors",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "90527",
+                              "display" : "Poetry Aloud",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "90528",
+                              "display" : "Literary Criticism",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "90529",
+                              "display" : "Literary History & Biography",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "90530",
+                              "display" : "Publishing Business",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "90531",
+                              "display" : "Mystery & Suspense",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "90532",
+                              "display" : "Romance Literature",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "90533",
+                              "display" : "Science Fiction & Fantasy",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "90534",
+                              "display" : "Specific Books & Authors",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "90552",
+                              "display" : "Creative Writing",
+                              "level" : 3
+                           }
+                        ],
+                        "descriptorID" : "90282",
+                        "display" : "Books & Literature",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [
+                           {
+                              "children" : null,
+                              "descriptorID" : "91050",
+                              "display" : "Comic Books",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "91051",
+                              "display" : "Manga",
+                              "level" : 3
+                           }
+                        ],
+                        "descriptorID" : "90283",
+                        "display" : "Comic Books & Manga",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [
+                           {
+                              "children" : null,
+                              "descriptorID" : "90544",
+                              "display" : "Theater",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "90545",
+                              "display" : "Broadway & Musicals",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "90546",
+                              "display" : "Shakespeare",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "90547",
+                              "display" : "Dance",
+                              "level" : 3
+                           }
+                        ],
+                        "descriptorID" : "90285",
+                        "display" : "Performing Arts",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90286",
+                        "display" : "Design & Architecture",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [
+                           {
+                              "children" : null,
+                              "descriptorID" : "91056",
+                              "display" : "Photographic Arts",
+                              "level" : 3
+                           }
+                        ],
+                        "descriptorID" : "90287",
+                        "display" : "Visual Arts",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90288",
+                        "display" : "Art News",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90290",
+                        "display" : "History Of Art",
+                        "level" : 2
+                     }
+                  ],
+                  "descriptorID" : "90263",
+                  "display" : "Arts & Literature",
+                  "level" : 1
+               },
+               {
+                  "children" : [
+                     {
+                        "children" : [
+                           {
+                              "children" : null,
+                              "descriptorID" : "91057",
+                              "display" : "Financial Markets News",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "91058",
+                              "display" : "Global Business News",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "91059",
+                              "display" : "Tech Industry News",
+                              "level" : 3
+                           }
+                        ],
+                        "descriptorID" : "90292",
+                        "display" : "Business News",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90293",
+                        "display" : "Specific Companies",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [
+                           {
+                              "children" : null,
+                              "descriptorID" : "90561",
+                              "display" : "Career Motivation",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "90562",
+                              "display" : "Career Skills",
+                              "level" : 3
+                           }
+                        ],
+                        "descriptorID" : "90294",
+                        "display" : "Careers",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [
+                           {
+                              "children" : null,
+                              "descriptorID" : "90564",
+                              "display" : "Women In Business",
+                              "level" : 3
+                           }
+                        ],
+                        "descriptorID" : "90295",
+                        "display" : "Successful People",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90296",
+                        "display" : "Personal Finance",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90297",
+                        "display" : "Consumer Reporting",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [
+                           {
+                              "children" : null,
+                              "descriptorID" : "91060",
+                              "display" : "Financial Markets",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "91746",
+                              "display" : "Cryptocurrency",
+                              "level" : 3
+                           }
+                        ],
+                        "descriptorID" : "90298",
+                        "display" : "Investing",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90299",
+                        "display" : "Economics",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [
+                           {
+                              "children" : null,
+                              "descriptorID" : "90571",
+                              "display" : "Side Hustles",
+                              "level" : 3
+                           }
+                        ],
+                        "descriptorID" : "90300",
+                        "display" : "Entrepreneurship",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [
+                           {
+                              "children" : null,
+                              "descriptorID" : "91061",
+                              "display" : "Non-Profits Management & Fundraising",
+                              "level" : 3
+                           }
+                        ],
+                        "descriptorID" : "90301",
+                        "display" : "Management & Leadership",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [
+                           {
+                              "children" : null,
+                              "descriptorID" : "90575",
+                              "display" : "Digital Marketing",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "90576",
+                              "display" : "Communications",
+                              "level" : 3
+                           }
+                        ],
+                        "descriptorID" : "90302",
+                        "display" : "Marketing",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [
+                           {
+                              "children" : null,
+                              "descriptorID" : "90578",
+                              "display" : "House Flipping",
+                              "level" : 3
+                           }
+                        ],
+                        "descriptorID" : "90303",
+                        "display" : "Real Estate",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90304",
+                        "display" : "Agriculture",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "91734",
+                        "display" : "Startups",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "91735",
+                        "display" : "Venture Capital",
+                        "level" : 2
+                     }
+                  ],
+                  "descriptorID" : "90264",
+                  "display" : "Business",
+                  "level" : 1
+               },
+               {
+                  "children" : [
+                     {
+                        "children" : [],
+                        "descriptorID" : "90306",
+                        "display" : "Comedy Interviews",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90307",
+                        "display" : "Morning Shows",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90308",
+                        "display" : "Improv",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90309",
+                        "display" : "Prank Calls",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [
+                           {
+                              "children" : null,
+                              "descriptorID" : "91062",
+                              "display" : "Monologues",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "91063",
+                              "display" : "Stand-Up",
+                              "level" : 3
+                           }
+                        ],
+                        "descriptorID" : "90310",
+                        "display" : "Stand-Up / Monologues",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90311",
+                        "display" : "Political Comedy",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90312",
+                        "display" : "By & For Women",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90313",
+                        "display" : "LGBTQ Comedy",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90314",
+                        "display" : "Urban Comedy",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90315",
+                        "display" : "Comedy Couples",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90316",
+                        "display" : "Comedy Crews",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90317",
+                        "display" : "Female Comedy Duos",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90318",
+                        "display" : "Male Comedy Duos",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90319",
+                        "display" : "Funny Streamers",
+                        "level" : 2
+                     }
+                  ],
+                  "descriptorID" : "90265",
+                  "display" : "Comedy",
+                  "level" : 1
+               },
+               {
+                  "children" : [
+                     {
+                        "children" : [],
+                        "descriptorID" : "90321",
+                        "display" : "Learn Fun Stuff!",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90322",
+                        "display" : "Language Lessons",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90323",
+                        "display" : "For Teachers",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90324",
+                        "display" : "Education System",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90325",
+                        "display" : "Specific High Schools",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90326",
+                        "display" : "High School Life",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90327",
+                        "display" : "Specific Colleges & Universities",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90328",
+                        "display" : "College Life",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90329",
+                        "display" : "College Courses & Lectures",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90330",
+                        "display" : "College Prep & Admissions",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [
+                           {
+                              "children" : null,
+                              "descriptorID" : "90609",
+                              "display" : "Grad School Prep & Admissions",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "90610",
+                              "display" : "Business School",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "90611",
+                              "display" : "Law School",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "90612",
+                              "display" : "Med School",
+                              "level" : 3
+                           }
+                        ],
+                        "descriptorID" : "90331",
+                        "display" : "Grad School",
+                        "level" : 2
+                     }
+                  ],
+                  "descriptorID" : "90266",
+                  "display" : "Education",
+                  "level" : 1
+               },
+               {
+                  "children" : [
+                     {
+                        "children" : [
+                           {
+                              "children" : null,
+                              "descriptorID" : "90615",
+                              "display" : "Medicine",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "90616",
+                              "display" : "Nursing",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "90617",
+                              "display" : "Alternative Health",
+                              "level" : 3
+                           }
+                        ],
+                        "descriptorID" : "90333",
+                        "display" : "Health & Wellness",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90334",
+                        "display" : "Fitness & Workouts",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90335",
+                        "display" : "Running",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90336",
+                        "display" : "Yoga",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90337",
+                        "display" : "Nutrition",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90338",
+                        "display" : "Weight Loss",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90339",
+                        "display" : "Parenting",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90340",
+                        "display" : "Autism",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [
+                           {
+                              "children" : null,
+                              "descriptorID" : "90626",
+                              "display" : "Addiction & Recovery",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "90636",
+                              "display" : "Self-Help",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "90637",
+                              "display" : "Depression & Anxiety",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "91067",
+                              "display" : "Trauma",
+                              "level" : 3
+                           }
+                        ],
+                        "descriptorID" : "90341",
+                        "display" : "Mental Health",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [
+                           {
+                              "children" : null,
+                              "descriptorID" : "90628",
+                              "display" : "Gratitude",
+                              "level" : 3
+                           }
+                        ],
+                        "descriptorID" : "90342",
+                        "display" : "Mindfulness / Meditation",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [
+                           {
+                              "children" : null,
+                              "descriptorID" : "90630",
+                              "display" : "Marriage",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "90631",
+                              "display" : "Dating",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "90632",
+                              "display" : "Sexuality",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "90633",
+                              "display" : "LGBTQ Relationships",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "90634",
+                              "display" : "Breakups",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "90635",
+                              "display" : "Divorce",
+                              "level" : 3
+                           }
+                        ],
+                        "descriptorID" : "90343",
+                        "display" : "Love & Relationships",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "91042",
+                        "display" : "Pregnancy & Birth",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [
+                           {
+                              "children" : null,
+                              "descriptorID" : "91066",
+                              "display" : "Grief & Loss",
+                              "level" : 3
+                           }
+                        ],
+                        "descriptorID" : "91043",
+                        "display" : "Death & Dying",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "91736",
+                        "display" : "Sex Ed",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "91737",
+                        "display" : "ASMR / Audio Therapy",
+                        "level" : 2
+                     }
+                  ],
+                  "descriptorID" : "90267",
+                  "display" : "Health & Living",
+                  "level" : 1
+               },
+               {
+                  "children" : [
+                     {
+                        "children" : [],
+                        "descriptorID" : "90347",
+                        "display" : "Historical Figures",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90348",
+                        "display" : "Recent History",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90349",
+                        "display" : "American History",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90350",
+                        "display" : "World History",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90351",
+                        "display" : "Black History",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [
+                           {
+                              "children" : null,
+                              "descriptorID" : "91749",
+                              "display" : "World War II",
+                              "level" : 3
+                           }
+                        ],
+                        "descriptorID" : "90352",
+                        "display" : "Military History",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "91738",
+                        "display" : "Weird History",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "93034",
+                        "display" : "History Interviews",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "93035",
+                        "display" : "Spies & Espionage",
+                        "level" : 2
+                     }
+                  ],
+                  "descriptorID" : "90268",
+                  "display" : "History",
+                  "level" : 1
+               },
+               {
+                  "children" : [
+                     {
+                        "children" : [],
+                        "descriptorID" : "90354",
+                        "display" : "Kid's Music",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90355",
+                        "display" : "Kid's Stories",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90356",
+                        "display" : "Games & Make-Believe",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90358",
+                        "display" : "Famous Characters",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90359",
+                        "display" : "Science For Kids",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90360",
+                        "display" : "History For Kids",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90361",
+                        "display" : "Math For Kids",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90362",
+                        "display" : "Languages For Kids",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90363",
+                        "display" : "Book Talk For Kids",
+                        "level" : 2
+                     }
+                  ],
+                  "descriptorID" : "90269",
+                  "display" : "Kids",
+                  "level" : 1
+               },
+               {
+                  "children" : [
+                     {
+                        "children" : [],
+                        "descriptorID" : "90345",
+                        "display" : "Etiquette",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90365",
+                        "display" : "Life Hacks & How-Tos",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [
+                           {
+                              "children" : null,
+                              "descriptorID" : "91069",
+                              "display" : "Quiz Shows",
+                              "level" : 3
+                           }
+                        ],
+                        "descriptorID" : "90366",
+                        "display" : "Game Shows",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90367",
+                        "display" : "Hobbies",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90368",
+                        "display" : "Nerd Culture",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90369",
+                        "display" : "Conspiracy Theories",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90370",
+                        "display" : "Influencers & Vloggers",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90371",
+                        "display" : "Pets & Animals",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [
+                           {
+                              "children" : null,
+                              "descriptorID" : "91070",
+                              "display" : "Travel - Budget",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "91071",
+                              "display" : "Travel - Women",
+                              "level" : 3
+                           }
+                        ],
+                        "descriptorID" : "90372",
+                        "display" : "Travel",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [
+                           {
+                              "children" : null,
+                              "descriptorID" : "90670",
+                              "display" : "Fishing",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "90671",
+                              "display" : "Hunting",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "90672",
+                              "display" : "Camping",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "90673",
+                              "display" : "Hiking / Climbing",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "91072",
+                              "display" : "Boating / Sailing",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "91073",
+                              "display" : "Cycling",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "91074",
+                              "display" : "Motorcycling",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "91075",
+                              "display" : "Surfing / Skating",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "91076",
+                              "display" : "Skiing / Snowboarding",
+                              "level" : 3
+                           }
+                        ],
+                        "descriptorID" : "90374",
+                        "display" : "Outdoor Recreation",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [
+                           {
+                              "children" : null,
+                              "descriptorID" : "90681",
+                              "display" : "Shooting",
+                              "level" : 3
+                           }
+                        ],
+                        "descriptorID" : "90375",
+                        "display" : "Guns",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90376",
+                        "display" : "Fashion & Style",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90377",
+                        "display" : "Beauty",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [
+                           {
+                              "children" : null,
+                              "descriptorID" : "90687",
+                              "display" : "Celebrity Chefs",
+                              "level" : 3
+                           }
+                        ],
+                        "descriptorID" : "90378",
+                        "display" : "Food",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [
+                           {
+                              "children" : null,
+                              "descriptorID" : "90689",
+                              "display" : "Beer & Brewing",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "90690",
+                              "display" : "Wine",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "90691",
+                              "display" : "Cocktails & Spirits",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "90692",
+                              "display" : "Whiskey",
+                              "level" : 3
+                           }
+                        ],
+                        "descriptorID" : "90379",
+                        "display" : "Drinks",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90380",
+                        "display" : "Cannabis",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [
+                           {
+                              "children" : null,
+                              "descriptorID" : "90695",
+                              "display" : "Home Design & Renovation",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "90696",
+                              "display" : "Interior Design",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "90697",
+                              "display" : "Gardening",
+                              "level" : 3
+                           }
+                        ],
+                        "descriptorID" : "90381",
+                        "display" : "Home & Garden",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90382",
+                        "display" : "Cars & Driving",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90383",
+                        "display" : "Aviation",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [
+                           {
+                              "children" : null,
+                              "descriptorID" : "93043",
+                              "display" : "UFOs & Aliens",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "93044",
+                              "display" : "Ghosts & Hauntings",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "93045",
+                              "display" : "Cryptozoology",
+                              "level" : 3
+                           }
+                        ],
+                        "descriptorID" : "90384",
+                        "display" : "Paranormal",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [
+                           {
+                              "children" : null,
+                              "descriptorID" : "91077",
+                              "display" : "Knitting",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "91078",
+                              "display" : "Sewing",
+                              "level" : 3
+                           }
+                        ],
+                        "descriptorID" : "90385",
+                        "display" : "Crafts",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90386",
+                        "display" : "Photography",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90387",
+                        "display" : "Maker Culture",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [
+                           {
+                              "children" : null,
+                              "descriptorID" : "90707",
+                              "display" : "Tabletop Games",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "90708",
+                              "display" : "RPG",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "90711",
+                              "display" : "Gambling",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "90712",
+                              "display" : "Poker",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "90713",
+                              "display" : "Riddles & Puzzles",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "91079",
+                              "display" : "Dungeons & Dragons",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "91080",
+                              "display" : "PokÃ©mon",
+                              "level" : 3
+                           }
+                        ],
+                        "descriptorID" : "90388",
+                        "display" : "Games",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90389",
+                        "display" : "Astrology / Horoscopes",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "91044",
+                        "display" : "Survival",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "91045",
+                        "display" : "Weddings",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "91739",
+                        "display" : "Psychedelics",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "93036",
+                        "display" : "Psychics",
+                        "level" : 2
+                     }
+                  ],
+                  "descriptorID" : "90270",
+                  "display" : "Lifestyle",
+                  "level" : 1
+               },
+               {
+                  "children" : [
+                     {
+                        "children" : [],
+                        "descriptorID" : "90391",
+                        "display" : "New Music Releases",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90392",
+                        "display" : "Mixtapes",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90393",
+                        "display" : "Music News",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [
+                           {
+                              "children" : null,
+                              "descriptorID" : "90720",
+                              "display" : "Music History & Biography",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "90721",
+                              "display" : "Music Interviews",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "90722",
+                              "display" : "Music Analysis & Criticism",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "90723",
+                              "display" : "Specific Music Artists",
+                              "level" : 3
+                           }
+                        ],
+                        "descriptorID" : "90394",
+                        "display" : "Music Commentary & Analysis",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90395",
+                        "display" : "Music Business",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90396",
+                        "display" : "Music Gear & Production",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90397",
+                        "display" : "Hip-Hop",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90398",
+                        "display" : "Rock",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90399",
+                        "display" : "Pop",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90400",
+                        "display" : "R&B",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90401",
+                        "display" : "Country",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90402",
+                        "display" : "Classical",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90403",
+                        "display" : "Indie",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90404",
+                        "display" : "Electronica",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90405",
+                        "display" : "Jazz",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90406",
+                        "display" : "Soundtracks",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90407",
+                        "display" : "World",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90408",
+                        "display" : "Metal",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90409",
+                        "display" : "Punk",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90410",
+                        "display" : "Folk & Roots",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "91740",
+                        "display" : "Live Music",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "91741",
+                        "display" : "Reggae",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "93037",
+                        "display" : "Latin",
+                        "level" : 2
+                     }
+                  ],
+                  "descriptorID" : "90271",
+                  "display" : "Music",
+                  "level" : 1
+               },
+               {
+                  "children" : [
+                     {
+                        "children" : [],
+                        "descriptorID" : "90412",
+                        "display" : "Headline News",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90413",
+                        "display" : "News In Depth",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [
+                           {
+                              "children" : null,
+                              "descriptorID" : "90744",
+                              "display" : "News & Politics Interviews",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "90745",
+                              "display" : "World News",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "90746",
+                              "display" : "US & Canada News",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "90747",
+                              "display" : "LatAm News",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "90748",
+                              "display" : "Europe News",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "90749",
+                              "display" : "UK News",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "90750",
+                              "display" : "Asia News",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "90751",
+                              "display" : "Middle East News",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "90752",
+                              "display" : "Africa News",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "90753",
+                              "display" : "Australia & New Zealand News",
+                              "level" : 3
+                           }
+                        ],
+                        "descriptorID" : "90414",
+                        "display" : "News",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90415",
+                        "display" : "Weather",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [
+                           {
+                              "children" : null,
+                              "descriptorID" : "90756",
+                              "display" : "News Commentary",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "90757",
+                              "display" : "Political Commentary",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "90758",
+                              "display" : "Progressive Commentary",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "90759",
+                              "display" : "Conservative Commentary",
+                              "level" : 3
+                           }
+                        ],
+                        "descriptorID" : "90416",
+                        "display" : "News & Politics Commentary",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90418",
+                        "display" : "Talk Radio",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90419",
+                        "display" : "Government",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "91742",
+                        "display" : "COVID-19 / Health News",
+                        "level" : 2
+                     }
+                  ],
+                  "descriptorID" : "90272",
+                  "display" : "News & Politics",
+                  "level" : 1
+               },
+               {
+                  "children" : [
+                     {
+                        "children" : [],
+                        "descriptorID" : "90421",
+                        "display" : "Buddhism",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [
+                           {
+                              "children" : null,
+                              "descriptorID" : "91082",
+                              "display" : "Catholic",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "91083",
+                              "display" : "Protestant",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "91084",
+                              "display" : "LDS",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "91085",
+                              "display" : "Christian Lifestyle",
+                              "level" : 3
+                           }
+                        ],
+                        "descriptorID" : "90422",
+                        "display" : "Christianity",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90423",
+                        "display" : "Hinduism",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90424",
+                        "display" : "Judaism",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90425",
+                        "display" : "Islam",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90426",
+                        "display" : "Sikhism",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90427",
+                        "display" : "World Religions",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90428",
+                        "display" : "Sermons & Prayers",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [
+                           {
+                              "children" : null,
+                              "descriptorID" : "91086",
+                              "display" : "Theology",
+                              "level" : 3
+                           }
+                        ],
+                        "descriptorID" : "90429",
+                        "display" : "Spirituality",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90430",
+                        "display" : "Religion For Kids",
+                        "level" : 2
+                     }
+                  ],
+                  "descriptorID" : "90273",
+                  "display" : "Religion & Spirituality",
+                  "level" : 1
+               },
+               {
+                  "children" : [
+                     {
+                        "children" : [],
+                        "descriptorID" : "90432",
+                        "display" : "News & Breakthroughs",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90433",
+                        "display" : "Skeptical Thinking",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90434",
+                        "display" : "Astronomy & Space",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90435",
+                        "display" : "Mathematics",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [
+                           {
+                              "children" : null,
+                              "descriptorID" : "91087",
+                              "display" : "Physics",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "91088",
+                              "display" : "Chemistry",
+                              "level" : 3
+                           }
+                        ],
+                        "descriptorID" : "90436",
+                        "display" : "Physical Sciences",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [
+                           {
+                              "children" : null,
+                              "descriptorID" : "91089",
+                              "display" : "Nature",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "91090",
+                              "display" : "Biology",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "91091",
+                              "display" : "Neuroscience",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "91755",
+                              "display" : "Wildlife",
+                              "level" : 3
+                           }
+                        ],
+                        "descriptorID" : "90437",
+                        "display" : "Life Sciences",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [
+                           {
+                              "children" : null,
+                              "descriptorID" : "91092",
+                              "display" : "Geology",
+                              "level" : 3
+                           }
+                        ],
+                        "descriptorID" : "90438",
+                        "display" : "Earth Sciences",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90439",
+                        "display" : "Sustainability",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [
+                           {
+                              "children" : null,
+                              "descriptorID" : "91093",
+                              "display" : "Climate",
+                              "level" : 3
+                           }
+                        ],
+                        "descriptorID" : "90440",
+                        "display" : "Environment",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90441",
+                        "display" : "Anthropology",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [
+                           {
+                              "children" : null,
+                              "descriptorID" : "90798",
+                              "display" : "Urban Planning",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "90877",
+                              "display" : "Transportation / Transit",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "91094",
+                              "display" : "Psychology",
+                              "level" : 3
+                           }
+                        ],
+                        "descriptorID" : "90442",
+                        "display" : "Social Sciences",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "93038",
+                        "display" : "Science Interviews",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "93154",
+                        "display" : "Paleontology & Dinosaurs",
+                        "level" : 2
+                     }
+                  ],
+                  "descriptorID" : "90274",
+                  "display" : "Science",
+                  "level" : 1
+               },
+               {
+                  "children" : [
+                     {
+                        "children" : [],
+                        "descriptorID" : "90357",
+                        "display" : "Holiday Themed",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90445",
+                        "display" : "Culture Interviews",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [
+                           {
+                              "children" : null,
+                              "descriptorID" : "90803",
+                              "display" : "Women",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "90804",
+                              "display" : "LGBTQ",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "90805",
+                              "display" : "Black Experience",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "90806",
+                              "display" : "Latinx Experience",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "90807",
+                              "display" : "Asian Experience",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "90808",
+                              "display" : "South Asian Experience",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "90809",
+                              "display" : "Indigenous Communities",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "90810",
+                              "display" : "Rural Life",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "90811",
+                              "display" : "Military Life",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "91095",
+                              "display" : "Teens",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "91096",
+                              "display" : "Disabled Community",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "91756",
+                              "display" : "Muslim Life",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "91757",
+                              "display" : "Jewish Life",
+                              "level" : 3
+                           }
+                        ],
+                        "descriptorID" : "90446",
+                        "display" : "Communities",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90447",
+                        "display" : "Social Issues",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [
+                           {
+                              "children" : null,
+                              "descriptorID" : "91098",
+                              "display" : "Words & Language",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "91758",
+                              "display" : "Pop Culture",
+                              "level" : 3
+                           }
+                        ],
+                        "descriptorID" : "90448",
+                        "display" : "Culture",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90449",
+                        "display" : "Places",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90450",
+                        "display" : "Law",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [
+                           {
+                              "children" : null,
+                              "descriptorID" : "91759",
+                              "display" : "Atheism",
+                              "level" : 3
+                           }
+                        ],
+                        "descriptorID" : "90451",
+                        "display" : "Philosophy",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90452",
+                        "display" : "Non-Profit Organizations",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "91046",
+                        "display" : "Social Justice",
+                        "level" : 2
+                     }
+                  ],
+                  "descriptorID" : "90275",
+                  "display" : "Society & Culture",
+                  "level" : 1
+               },
+               {
+                  "children" : [
+                     {
+                        "children" : [],
+                        "descriptorID" : "90454",
+                        "display" : "Sports News",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90455",
+                        "display" : "Sports Talk",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90456",
+                        "display" : "Sports Interviews",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90457",
+                        "display" : "Sports Comedy",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90458",
+                        "display" : "Sports Documentary",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [
+                           {
+                              "children" : null,
+                              "descriptorID" : "91101",
+                              "display" : "Specific Baseball Teams",
+                              "level" : 3
+                           }
+                        ],
+                        "descriptorID" : "90459",
+                        "display" : "Baseball",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [
+                           {
+                              "children" : null,
+                              "descriptorID" : "91102",
+                              "display" : "Specific Basketball Teams",
+                              "level" : 3
+                           }
+                        ],
+                        "descriptorID" : "90460",
+                        "display" : "Basketball",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [
+                           {
+                              "children" : null,
+                              "descriptorID" : "91103",
+                              "display" : "Specific Football Teams",
+                              "level" : 3
+                           }
+                        ],
+                        "descriptorID" : "90461",
+                        "display" : "Football",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [
+                           {
+                              "children" : null,
+                              "descriptorID" : "91104",
+                              "display" : "Specific Hockey Teams",
+                              "level" : 3
+                           }
+                        ],
+                        "descriptorID" : "90462",
+                        "display" : "Hockey",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90463",
+                        "display" : "Motorsports",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [
+                           {
+                              "children" : null,
+                              "descriptorID" : "91761",
+                              "display" : "Specific Soccer Teams",
+                              "level" : 3
+                           }
+                        ],
+                        "descriptorID" : "90464",
+                        "display" : "Soccer",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90465",
+                        "display" : "Combat Sports",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90466",
+                        "display" : "Tennis",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90467",
+                        "display" : "Golf",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90468",
+                        "display" : "Extreme Sports",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [
+                           {
+                              "children" : null,
+                              "descriptorID" : "91105",
+                              "display" : "Cricket",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "91106",
+                              "display" : "Rugby",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "91107",
+                              "display" : "Volleyball",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "91108",
+                              "display" : "Swimming",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "91763",
+                              "display" : "Equestrian",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "91764",
+                              "display" : "Billiard Sports",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "93157",
+                              "display" : "Australian Rules Football",
+                              "level" : 3
+                           }
+                        ],
+                        "descriptorID" : "90469",
+                        "display" : "Other Sports",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90470",
+                        "display" : "Professional Sports",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [
+                           {
+                              "children" : null,
+                              "descriptorID" : "91765",
+                              "display" : "College Football",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "91766",
+                              "display" : "College Basketball",
+                              "level" : 3
+                           }
+                        ],
+                        "descriptorID" : "90471",
+                        "display" : "College Sports",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90472",
+                        "display" : "Local Sports",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90473",
+                        "display" : "Fantasy Sports",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "91047",
+                        "display" : "Sports Betting",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "91048",
+                        "display" : "Olympics",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "91743",
+                        "display" : "Athletics",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "91744",
+                        "display" : "Professional Wrestling",
+                        "level" : 2
+                     }
+                  ],
+                  "descriptorID" : "90276",
+                  "display" : "Sports",
+                  "level" : 1
+               },
+               {
+                  "children" : [
+                     {
+                        "children" : [
+                           {
+                              "children" : null,
+                              "descriptorID" : "91052",
+                              "display" : "Old Time Radio - Comedy",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "91053",
+                              "display" : "Old Time Radio - Crime",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "91054",
+                              "display" : "Old Time Radio - Drama",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "91055",
+                              "display" : "Old Time Radio - Horror",
+                              "level" : 3
+                           }
+                        ],
+                        "descriptorID" : "90284",
+                        "display" : "Old Time Radio",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90475",
+                        "display" : "True Stories",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90476",
+                        "display" : "Personal Stories",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [
+                           {
+                              "children" : null,
+                              "descriptorID" : "90852",
+                              "display" : "Surreal",
+                              "level" : 3
+                           }
+                        ],
+                        "descriptorID" : "90477",
+                        "display" : "Weird & Bizarre",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90478",
+                        "display" : "Fiction",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90479",
+                        "display" : "Biography",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90480",
+                        "display" : "Comedy Fiction",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90481",
+                        "display" : "Drama",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90482",
+                        "display" : "Fantasy",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90483",
+                        "display" : "Horror",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90484",
+                        "display" : "Mystery",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90485",
+                        "display" : "Mythology",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90486",
+                        "display" : "Romance",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90487",
+                        "display" : "Sci-Fi",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90488",
+                        "display" : "Young Adult",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90489",
+                        "display" : "Erotic",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "91049",
+                        "display" : "Adventure",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "91745",
+                        "display" : "Sleep / Bedtime Stories",
+                        "level" : 2
+                     }
+                  ],
+                  "descriptorID" : "90277",
+                  "display" : "Storytelling",
+                  "level" : 1
+               },
+               {
+                  "children" : [
+                     {
+                        "children" : [],
+                        "descriptorID" : "90491",
+                        "display" : "Engineering",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90492",
+                        "display" : "Tech News",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90493",
+                        "display" : "AI & Machine Learning",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [
+                           {
+                              "children" : null,
+                              "descriptorID" : "90874",
+                              "display" : "Hacking & Cyber Security",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "91110",
+                              "display" : "Open Source",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "91111",
+                              "display" : "Java",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "91112",
+                              "display" : "UX & UI",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "91113",
+                              "display" : ".NET",
+                              "level" : 3
+                           }
+                        ],
+                        "descriptorID" : "90494",
+                        "display" : "Software Development",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90495",
+                        "display" : "Hardware",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90496",
+                        "display" : "Gadgets / Devices",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90498",
+                        "display" : "Specific Tech Companies",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [
+                           {
+                              "children" : null,
+                              "descriptorID" : "90882",
+                              "display" : "Gaming Chat",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "90883",
+                              "display" : "Gaming Industry News",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "90886",
+                              "display" : "Gaming Design & Dev",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "90887",
+                              "display" : "eSports",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "90888",
+                              "display" : "Nintendo",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "90889",
+                              "display" : "Xbox",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "90890",
+                              "display" : "PlayStation",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "90891",
+                              "display" : "Overwatch",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "90892",
+                              "display" : "Fortnite",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "90893",
+                              "display" : "World Of Warcraft",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "90894",
+                              "display" : "Retro Gaming",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "91768",
+                              "display" : "Minecraft",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "91769",
+                              "display" : "Other Specific Video Games",
+                              "level" : 3
+                           }
+                        ],
+                        "descriptorID" : "90499",
+                        "display" : "Video Games",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90500",
+                        "display" : "Podcasting",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90501",
+                        "display" : "Social Media / The Internet",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "93155",
+                        "display" : "Robotics",
+                        "level" : 2
+                     }
+                  ],
+                  "descriptorID" : "90278",
+                  "display" : "Technology",
+                  "level" : 1
+               },
+               {
+                  "children" : [
+                     {
+                        "children" : [],
+                        "descriptorID" : "90503",
+                        "display" : "True Crime Comedy",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [
+                           {
+                              "children" : null,
+                              "descriptorID" : "90900",
+                              "display" : "Serial Killers",
+                              "level" : 3
+                           }
+                        ],
+                        "descriptorID" : "90504",
+                        "display" : "Murder",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [
+                           {
+                              "children" : null,
+                              "descriptorID" : "90903",
+                              "display" : "Cults",
+                              "level" : 3
+                           }
+                        ],
+                        "descriptorID" : "90505",
+                        "display" : "Cons & Frauds",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90506",
+                        "display" : "Organized Crime",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90507",
+                        "display" : "Missing Persons",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90508",
+                        "display" : "Cold Cases & Unsolved Crimes",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90509",
+                        "display" : "Law & Order",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "93039",
+                        "display" : "Heists",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "93040",
+                        "display" : "Sex Crimes",
+                        "level" : 2
+                     }
+                  ],
+                  "descriptorID" : "90279",
+                  "display" : "True Crime",
+                  "level" : 1
+               },
+               {
+                  "children" : [
+                     {
+                        "children" : [],
+                        "descriptorID" : "90511",
+                        "display" : "TV & Film New Releases",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [
+                           {
+                              "children" : null,
+                              "descriptorID" : "91114",
+                              "display" : "Celebrity Gossip",
+                              "level" : 3
+                           }
+                        ],
+                        "descriptorID" : "90512",
+                        "display" : "Entertainment News",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90513",
+                        "display" : "Entertainment Talk",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [
+                           {
+                              "children" : null,
+                              "descriptorID" : "90914",
+                              "display" : "TV & Film Interviews",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "90915",
+                              "display" : "TV & Film Criticism",
+                              "level" : 3
+                           },
+                           {
+                              "children" : null,
+                              "descriptorID" : "90916",
+                              "display" : "TV & Film History & Biography",
+                              "level" : 3
+                           }
+                        ],
+                        "descriptorID" : "90514",
+                        "display" : "TV & Film Commentary & Analysis",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90515",
+                        "display" : "TV & Film Business",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90516",
+                        "display" : "TV & Film Production",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [
+                           {
+                              "children" : null,
+                              "descriptorID" : "91115",
+                              "display" : "Specific Movies & Franchises",
+                              "level" : 3
+                           }
+                        ],
+                        "descriptorID" : "90517",
+                        "display" : "Movies",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [
+                           {
+                              "children" : null,
+                              "descriptorID" : "91116",
+                              "display" : "Specific TV Shows",
+                              "level" : 3
+                           }
+                        ],
+                        "descriptorID" : "90518",
+                        "display" : "TV",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90519",
+                        "display" : "Superheroes TV & Film",
+                        "level" : 2
+                     },
+                     {
+                        "children" : [],
+                        "descriptorID" : "90520",
+                        "display" : "Anime",
+                        "level" : 2
+                     }
+                  ],
+                  "descriptorID" : "90280",
+                  "display" : "TV & Film",
+                  "level" : 1
+               }
+            ],
+            "language" : "en",
+            "list" : "AUDIO-ON-DEMAND",
+            "revision" : "32"
+         }
+      ],
+      "meta" : {
+         "count" : 1,
+         "offset" : 0,
+         "total" : 1
+      }
+   },
+   "error" : null,
+   "success" : true
+}

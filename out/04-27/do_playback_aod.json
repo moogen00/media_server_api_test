@@ -1,0 +1,490 @@
+3.6 Aod Playback Endpoint do_playback_aod ===========================================
+{
+   "data" : [
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/96a85a99-28ff-4624-b6b1-183c9e09173a/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=96a85a99-28ff-4624-b6b1-183c9e09173a&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 26064857
+         },
+         "description" : "The family that built its fortune on the opioid painkiller OxyContin has never been held legally accountable for the epidemic that the drug helped unleash. Hereâs why that could change. Guest: Barry Meier, the author of âPain Killer: An Empire of Deceit and the Origin of Americaâs Opioid Epidemic,â who has reported on the opioid crisis for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1610,
+         "episodeID" : "GA0000P0000FGmX",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/96a85a99-28ff-4624-b6b1-183c9e09173a/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "The family that built its fortune on the opioid painkiller OxyContin has never been held legally accountable for the epidemic that the drug helped unleash. Hereâs why that could change. Guest: Barry Meier, the author of âPain Killer: An Empire of Deceit and the Origin of Americaâs Opioid Epidemic,â who has reported on the opioid crisis for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "The family that built its fortune on the opioid painkiller OxyContin has never been held legally accountable for the epidemic that the drug helped unleash. Hereâs why that could change. Guest: Barry Meier, the author of âPain Killer: An Empire of Deceit and the Origin of Americaâs Opioid Epidemic,â who has reported on the opioid crisis for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "The Family That Profited From the Opioid Crisis"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/28ca4508-2331-4ddb-b50a-5023a919af7b/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=28ca4508-2331-4ddb-b50a-5023a919af7b&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 19301418
+         },
+         "description" : "Congress needs to pass a budget. President Trump wants to use that budget to finance his signature domestic policy. Is the United States government about to shut down over the border wall? Guests: Jennifer Steinhauer and Jonathan Weisman, reporters at The New York Times. For more information on todayâs episode, visit http://nyti.ms/2oL35W1.",
+         "durationSeconds" : 1187,
+         "episodeID" : "GA0000P0000FGGD",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/28ca4508-2331-4ddb-b50a-5023a919af7b/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "Congress needs to pass a budget. President Trump wants to use that budget to finance his signature domestic policy. Is the United States government about to shut down over the border wall? Guests: Jennifer Steinhauer and Jonathan Weisman, reporters at The New York Times. For more information on todayâs episode, visit http://nyti.ms/2oL35W1.",
+         "summary" : "Congress needs to pass a budget. President Trump wants to use that budget to finance his signature domestic policy. Is the United States government about to shut down over the border wall? Guests: Jennifer Steinhauer and Jonathan Weisman, reporters at The New York Times. For more information on todayâs episode, visit http://nyti.ms/2oL35W1.",
+         "title" : "Tuesday, April 25, 2017"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/1190a026-bdce-4a19-962d-ca173b8649a7/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=1190a026-bdce-4a19-962d-ca173b8649a7&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 24635413
+         },
+         "description" : "Mark Zuckerberg, Facebookâs chief executive, returned to Capitol Hill on Wednesday for a second day of hearings on the companyâs mishandling of data. Unlike their Senate colleagues, House members came prepared with tough questions about privacy and the social media companyâs practices â as well as a counternarrative to the story Mr. Zuckerberg and his team have carefully crafted. And calls for congressional oversight are growing. Guest: Kevin Roose, who writes about technology for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1521,
+         "episodeID" : "GA0000P0000FGT5",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/1190a026-bdce-4a19-962d-ca173b8649a7/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "Mark Zuckerberg, Facebookâs chief executive, returned to Capitol Hill on Wednesday for a second day of hearings on the companyâs mishandling of data. Unlike their Senate colleagues, House members came prepared with tough questions about privacy and the social media companyâs practices â as well as a counternarrative to the story Mr. Zuckerberg and his team have carefully crafted. And calls for congressional oversight are growing. Guest: Kevin Roose, who writes about technology for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "Mark Zuckerberg, Facebookâs chief executive, returned to Capitol Hill on Wednesday for a second day of hearings on the companyâs mishandling of data. Unlike their Senate colleagues, House members came prepared with tough questions about privacy and the social media companyâs practices â as well as a counternarrative to the story Mr. Zuckerberg and his team have carefully crafted. And calls for congressional oversight are growing. Guest: Kevin Roose, who writes about technology for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Thursday, Apr. 12, 2018"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/023e7fec-cf3b-4246-9c5a-f19709f72260/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=023e7fec-cf3b-4246-9c5a-f19709f72260&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 31176471
+         },
+         "description" : "President Trumpâs first pardon went to a wildly divisive sheriff from Arizona. So who is Joe Arpaio? And how do presidential pardons work? Guests: Fernanda Santos, the former Phoenix bureau chief of The New York Times; Adam Liptak, our Supreme Court reporter. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1929,
+         "episodeID" : "GA0000P0000FGM6",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/023e7fec-cf3b-4246-9c5a-f19709f72260/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "President Trumpâs first pardon went to a wildly divisive sheriff from Arizona. So who is Joe Arpaio? And how do presidential pardons work? Guests: Fernanda Santos, the former Phoenix bureau chief of The New York Times; Adam Liptak, our Supreme Court reporter. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "President Trumpâs first pardon went to a wildly divisive sheriff from Arizona. So who is Joe Arpaio? And how do presidential pardons work? Guests: Fernanda Santos, the former Phoenix bureau chief of The New York Times; Adam Liptak, our Supreme Court reporter. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Monday, Aug 28, 2017"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/2a05b84d-1703-4738-9c69-2b020e3e815f/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=2a05b84d-1703-4738-9c69-2b020e3e815f&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 16615193
+         },
+         "description" : "There is no knock on the door, just the sound of a SWAT team smashing through it. Times reporter Kevin Sack talks about his year-long investigation into a controversial police tactic. For more information on todayâs episode, visit http://nyti.ms/2nAHfHi.",
+         "durationSeconds" : 1019,
+         "episodeID" : "GA0000P0000FGFN",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/2a05b84d-1703-4738-9c69-2b020e3e815f/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "There is no knock on the door, just the sound of a SWAT team smashing through it. Times reporter Kevin Sack talks about his year-long investigation into a controversial police tactic. For more information on todayâs episode, visit http://nyti.ms/2nAHfHi.",
+         "summary" : "There is no knock on the door, just the sound of a SWAT team smashing through it. Times reporter Kevin Sack talks about his year-long investigation into a controversial police tactic. For more information on todayâs episode, visit http://nyti.ms/2nAHfHi.",
+         "title" : "Monday, March 20, 2017"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/dd74076e-fd9f-4af2-b1a6-0a92bfaedca1/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=dd74076e-fd9f-4af2-b1a6-0a92bfaedca1&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 23653221
+         },
+         "description" : "President Trump seemed poised to avoid a government shutdown and to carry his fight for a border wall into 2019, when the House will be controlled by Democrats. Then he shot down the spending deal. So what happened? Also, to cap off a chaotic day of breaking news, Jim Mattis resigned as secretary of defense. Guest: Jonathan Weisman, the deputy Washington editor of The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1459,
+         "episodeID" : "GA0000P0000FGh1",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/dd74076e-fd9f-4af2-b1a6-0a92bfaedca1/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "President Trump seemed poised to avoid a government shutdown and to carry his fight for a border wall into 2019, when the House will be controlled by Democrats. Then he shot down the spending deal. So what happened? \n\nAlso, to cap off a chaotic day of breaking news, Jim Mattis resigned as secretary of defense. Guest: Jonathan Weisman, the deputy Washington editor of The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "President Trump seemed poised to avoid a government shutdown and to carry his fight for a border wall into 2019, when the House will be controlled by Democrats. Then he shot down the spending deal. So what happened? \n\nAlso, to cap off a chaotic day of breaking news, Jim Mattis resigned as secretary of defense. Guest: Jonathan Weisman, the deputy Washington editor of The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "The Latest Showdown Over a Shutdown"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/8c81ab24-c441-4f44-9a59-005184a95ec6/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=8c81ab24-c441-4f44-9a59-005184a95ec6&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 20865846
+         },
+         "description" : "After months of trying and failing to pass a deal on Britainâs withdrawal from the European Union, Prime Minister Theresa May had one final thing to offer: herself. Guest: Ellen Barry, chief international correspondent for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1285,
+         "episodeID" : "GA0000P0000FGr5",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/8c81ab24-c441-4f44-9a59-005184a95ec6/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "After months of trying and failing to pass a deal on Britainâs withdrawal from the European Union, Prime Minister Theresa May had one final thing to offer: herself. Guest: Ellen Barry, chief international correspondent for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "After months of trying and failing to pass a deal on Britainâs withdrawal from the European Union, Prime Minister Theresa May had one final thing to offer: herself. Guest: Ellen Barry, chief international correspondent for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "The Agony of Being Theresa May"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/afeb52a4-b646-4924-90c9-eadcfe26ffd8/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=afeb52a4-b646-4924-90c9-eadcfe26ffd8&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 26975999
+         },
+         "description" : "Justice Anthony Kennedy, often considered the Supreme Courtâs ideological center, announced that he would retire this summer. His departure could fundamentally change the direction of the court. Guests: Adam Liptak, who covers the Supreme Court for The New York Times, and Sheryl Gay Stolberg, a congressional correspondent for The Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1667,
+         "episodeID" : "GA0000P0000FGW6",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/afeb52a4-b646-4924-90c9-eadcfe26ffd8/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "Justice Anthony Kennedy, often considered the Supreme Courtâs ideological center, announced that he would retire this summer. His departure could fundamentally change the direction of the court. Guests: Adam Liptak, who covers the Supreme Court for The New York Times, and Sheryl Gay Stolberg, a congressional correspondent for The Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "Justice Anthony Kennedy, often considered the Supreme Courtâs ideological center, announced that he would retire this summer. His departure could fundamentally change the direction of the court. Guests: Adam Liptak, who covers the Supreme Court for The New York Times, and Sheryl Gay Stolberg, a congressional correspondent for The Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "The Supreme Court Loses Its Swing Vote"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/48e5487d-d877-4675-9ef6-dde491838fe9/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=48e5487d-d877-4675-9ef6-dde491838fe9&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 21616498
+         },
+         "description" : "President Trump abruptly canceled on Thursday the highly anticipated summit meeting with Kim Jong-un, the leader of North Korea, that was scheduled to take place on June 12. In a letter to Mr. Kim announcing his decision, Mr. Trump wrote, âThe world, and North Korea in particular, has lost a great opportunity for lasting peace.â Guest: Mark Landler, who covers the White House for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1332,
+         "episodeID" : "GA0000P0000FGV8",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/48e5487d-d877-4675-9ef6-dde491838fe9/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "President Trump abruptly canceled on Thursday the highly anticipated summit meeting with Kim Jong-un, the leader of North Korea, that was scheduled to take place on June 12. In a letter to Mr. Kim announcing his decision, Mr. Trump wrote, âThe world, and North Korea in particular, has lost a great opportunity for lasting peace.â Guest: Mark Landler, who covers the White House for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "President Trump abruptly canceled on Thursday the highly anticipated summit meeting with Kim Jong-un, the leader of North Korea, that was scheduled to take place on June 12. In a letter to Mr. Kim announcing his decision, Mr. Trump wrote, âThe world, and North Korea in particular, has lost a great opportunity for lasting peace.â Guest: Mark Landler, who covers the White House for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "âDear Mr. Chairman â¦â"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/6a945791-03c6-470a-a260-6d453911811f/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=6a945791-03c6-470a-a260-6d453911811f&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 21906557
+         },
+         "description" : "It was supposed to be a historic day for Republicans, with the House voting to repeal President Obamaâs health care law. At least that was the idea. What went awry? And we look at a battle over school choice in Iowa that may be a preview for a larger national fight over the White Houseâs vision for American education. Guests: Jennifer Steinhauer, who has been tracking the House health care vote; Dana Goldstein, who covers education for the Times. For more information on todayâs episode, visit http://nyti.ms/2nmKKOS.",
+         "durationSeconds" : 1350,
+         "episodeID" : "GA0000P0000FGFT",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/6a945791-03c6-470a-a260-6d453911811f/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "It was supposed to be a historic day for Republicans, with the House voting to repeal President Obamaâs health care law. At least that was the idea. What went awry? And we look at a battle over school choice in Iowa that may be a preview for a larger national fight over the White Houseâs vision for American education. Guests: Jennifer Steinhauer, who has been tracking the House health care vote; Dana Goldstein, who covers education for the Times. For more information on todayâs episode, visit http://nyti.ms/2nmKKOS.",
+         "summary" : "It was supposed to be a historic day for Republicans, with the House voting to repeal President Obamaâs health care law. At least that was the idea. What went awry? And we look at a battle over school choice in Iowa that may be a preview for a larger national fight over the White Houseâs vision for American education. Guests: Jennifer Steinhauer, who has been tracking the House health care vote; Dana Goldstein, who covers education for the Times. For more information on todayâs episode, visit http://nyti.ms/2nmKKOS.",
+         "title" : "Friday, March 24, 2017"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/c22cd864-0630-4b83-8fb7-90f4a5c5812b/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=c22cd864-0630-4b83-8fb7-90f4a5c5812b&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 22197472
+         },
+         "description" : "The Central Intelligence Agency is waging an unusual campaign to make Gina Haspel its next leader, despite her polarizing past. Why do officers see her most controversial quality as her greatest asset? Guests: Adam Goldman, a reporter who covers the intelligence community for The Times; John Bennett, a former chief of the C.I.A.âs clandestine service who retired in 2013. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1368,
+         "episodeID" : "GA0000P0000FGTX",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/c22cd864-0630-4b83-8fb7-90f4a5c5812b/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "The Central Intelligence Agency is waging an unusual campaign to make Gina Haspel its next leader, despite her polarizing past. Why do officers see her most controversial quality as her greatest asset? Guests: Adam Goldman, a reporter who covers the intelligence community for The Times; John Bennett, a former chief of the C.I.A.âs clandestine service who retired in 2013. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "The Central Intelligence Agency is waging an unusual campaign to make Gina Haspel its next leader, despite her polarizing past. Why do officers see her most controversial quality as her greatest asset? Guests: Adam Goldman, a reporter who covers the intelligence community for The Times; John Bennett, a former chief of the C.I.A.âs clandestine service who retired in 2013. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Gina Haspel and the Shadow of Torture"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/ecf41693-f35b-4928-9d3d-bb4c7971e719/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=ecf41693-f35b-4928-9d3d-bb4c7971e719&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 25431205
+         },
+         "description" : "At the Conservative Political Action Conference this weekend, one thing was clear: President Trump has taken over the conservative movement. His vision dominated, and, as one woman learned, there was little room for alternative views. Guest: Mona Charen, a conservative columnist who was booed while speaking on a panel at the conference. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1570,
+         "episodeID" : "GA0000P0000FGS4",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/ecf41693-f35b-4928-9d3d-bb4c7971e719/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "At the Conservative Political Action Conference this weekend, one thing was clear: President Trump has taken over the conservative movement. His vision dominated, and, as one woman learned, there was little room for alternative views. Guest: Mona Charen, a conservative columnist who was booed while speaking on a panel at the conference. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "At the Conservative Political Action Conference this weekend, one thing was clear: President Trump has taken over the conservative movement. His vision dominated, and, as one woman learned, there was little room for alternative views. Guest: Mona Charen, a conservative columnist who was booed while speaking on a panel at the conference. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Monday, Feb. 26, 2018"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/1c303136-92a0-4217-8b48-8d7760c63d14/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=1c303136-92a0-4217-8b48-8d7760c63d14&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 21447638
+         },
+         "description" : "In 1999, President Bill Clinton sent an envoy to North Korea for a rare negotiation aimed at stopping the countryâs nuclear development. That was the moment, the envoy says, when everything could have gone differently. Guest: William Perry, the secretary of defense from 1994 to 1997, who went on that diplomatic mission. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1321,
+         "episodeID" : "GA0000P0000FGJX",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/1c303136-92a0-4217-8b48-8d7760c63d14/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "In 1999, President Bill Clinton sent an envoy to North Korea for a rare negotiation aimed at stopping the countryâs nuclear development. That was the moment, the envoy says, when everything could have gone differently. Guest: William Perry, the secretary of defense from 1994 to 1997, who went on that diplomatic mission. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "In 1999, President Bill Clinton sent an envoy to North Korea for a rare negotiation aimed at stopping the countryâs nuclear development. That was the moment, the envoy says, when everything could have gone differently. Guest: William Perry, the secretary of defense from 1994 to 1997, who went on that diplomatic mission. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Thursday, Aug 10, 2017"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/f0e96ff0-de50-436f-aba8-42ade383bcb4/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=f0e96ff0-de50-436f-aba8-42ade383bcb4&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 20735440
+         },
+         "description" : "Since joining President Trumpâs legal team, Rudolph W. Giuliani has repeatedly made attention-grabbing TV appearances in which he has antagonized Robert S. Mueller III, the special counsel overseeing the Russia investigation. The strategy is reminiscent of one that Mr. Giuliani has used before â 30 years ago, as a prosecutor in New York City taking on the Mafia. Guest: Michael Winerip, who covered Mr. Giulianiâs rise as a Manhattan prosecutor in the 1980s for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1277,
+         "episodeID" : "GA0000P0000FGTW",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/f0e96ff0-de50-436f-aba8-42ade383bcb4/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "Since joining President Trumpâs legal team, Rudolph W. Giuliani has repeatedly made attention-grabbing TV appearances in which he has antagonized Robert S. Mueller III, the special counsel overseeing the Russia investigation. The strategy is reminiscent of one that Mr. Giuliani has used before â 30 years ago, as a prosecutor in New York City taking on the Mafia. Guest: Michael Winerip, who covered Mr. Giulianiâs rise as a Manhattan prosecutor in the 1980s for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "Since joining President Trumpâs legal team, Rudolph W. Giuliani has repeatedly made attention-grabbing TV appearances in which he has antagonized Robert S. Mueller III, the special counsel overseeing the Russia investigation. The strategy is reminiscent of one that Mr. Giuliani has used before â 30 years ago, as a prosecutor in New York City taking on the Mafia. Guest: Michael Winerip, who covered Mr. Giulianiâs rise as a Manhattan prosecutor in the 1980s for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "The Return of Rudy Giuliani"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/d81e1caa-b784-4069-b92a-080748adf0d1/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=d81e1caa-b784-4069-b92a-080748adf0d1&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 23321363
+         },
+         "description" : "The special counselâs team sent its report to the attorney general, William P. Barr, who sent a summary of that report to Congress. But some members of the special counselâs team have told associates that their findings are more troubling for President Trump than Mr. Barr indicated. Guests: Nicholas Fandos, who covers Congress for The New York Times, and Michael S. Schmidt, who has been covering the special counsel investigation. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1438,
+         "episodeID" : "GA0000P0000FGr8",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/d81e1caa-b784-4069-b92a-080748adf0d1/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "The special counselâs team sent its report to the attorney general, William P. Barr, who sent a summary of that report to Congress. But some members of the special counselâs team have told associates that their findings are more troubling for President Trump than Mr. Barr indicated. Guests: Nicholas Fandos, who covers Congress for The New York Times, and Michael S. Schmidt, who has been covering the special counsel investigation. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "The special counselâs team sent its report to the attorney general, William P. Barr, who sent a summary of that report to Congress. But some members of the special counselâs team have told associates that their findings are more troubling for President Trump than Mr. Barr indicated. Guests: Nicholas Fandos, who covers Congress for The New York Times, and Michael S. Schmidt, who has been covering the special counsel investigation. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "New Insights Into the Mueller Report"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/d109c3af-53ce-42de-9d56-006b4aaf0fd3/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=d109c3af-53ce-42de-9d56-006b4aaf0fd3&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 21824635
+         },
+         "description" : "In 2013, Abigail Fisher sued the University of Texas, saying she had been discriminated against for being white. Now, some students are suing Harvard, saying they were discriminated against for being Asian-American. Both lawsuits can be traced to the same man. But this time, the White House is taking up his cause. Guests: Michael Wang, one of dozens of Asian-American students who have filed a complaint against Harvard; Anemona Hartocollis, who is reporting on the lawsuit; Edward Blum, the man behind the action; Nikole Hannah-Jones, who writes about race and education for The New York Times Magazine. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1345,
+         "episodeID" : "GA0000P0000FGJS",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/d109c3af-53ce-42de-9d56-006b4aaf0fd3/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "In 2013, Abigail Fisher sued the University of Texas, saying she had been discriminated against for being white. Now, some students are suing Harvard, saying they were discriminated against for being Asian-American. Both lawsuits can be traced to the same man. But this time, the White House is taking up his cause. Guests: Michael Wang, one of dozens of Asian-American students who have filed a complaint against Harvard; Anemona Hartocollis, who is reporting on the lawsuit; Edward Blum, the man behind the action; Nikole Hannah-Jones, who writes about race and education for The New York Times Magazine. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "In 2013, Abigail Fisher sued the University of Texas, saying she had been discriminated against for being white. Now, some students are suing Harvard, saying they were discriminated against for being Asian-American. Both lawsuits can be traced to the same man. But this time, the White House is taking up his cause. Guests: Michael Wang, one of dozens of Asian-American students who have filed a complaint against Harvard; Anemona Hartocollis, who is reporting on the lawsuit; Edward Blum, the man behind the action; Nikole Hannah-Jones, who writes about race and education for The New York Times Magazine. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Friday, Aug. 4, 2017"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/ed675ad7-fc2f-4c48-8f07-626c321fd4a3/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=ed675ad7-fc2f-4c48-8f07-626c321fd4a3&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 23925731
+         },
+         "description" : "Nearly 30 million Latinos in the United States are eligible to vote, representing almost 13 percent of the American electorate. Why is so little attention being paid to them in the midterm elections? Guest: Jose A. Del Real, a national correspondent for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1476,
+         "episodeID" : "GA0000P0000FGZb",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/ed675ad7-fc2f-4c48-8f07-626c321fd4a3/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "Nearly 30 million Latinos in the United States are eligible to vote, representing almost 13 percent of the American electorate. Why is so little attention being paid to them in the midterm elections? Guest: Jose A. Del Real, a national correspondent for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "Nearly 30 million Latinos in the United States are eligible to vote, representing almost 13 percent of the American electorate. Why is so little attention being paid to them in the midterm elections? Guest: Jose A. Del Real, a national correspondent for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "The Voters Both Parties Are Ignoring"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/6f127080-5c1a-49f0-bde4-de7c97737390/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=6f127080-5c1a-49f0-bde4-de7c97737390&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 19857722
+         },
+         "description" : "Rukmini Callimachi takes us into Iraq to see if a major victory over the Islamic State is really at hand in the streets of Mosul. Guests: Ms. Callimachi, a New York Times correspondent covering terrorism; Nathaniel Popper, a Times reporter covering finance and technology. For more information on todayâs episode, visit http://nyti.ms/2lvdohI.",
+         "durationSeconds" : 1222,
+         "episodeID" : "GA0000P0000FGF1",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/6f127080-5c1a-49f0-bde4-de7c97737390/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "Rukmini Callimachi takes us into Iraq to see if a major victory over the Islamic State is really at hand in the streets of Mosul. Guests: Ms. Callimachi, a New York Times correspondent covering terrorism; Nathaniel Popper, a Times reporter covering finance and technology. For more information on todayâs episode, visit http://nyti.ms/2lvdohI.",
+         "summary" : "Rukmini Callimachi takes us into Iraq to see if a major victory over the Islamic State is really at hand in the streets of Mosul. Guests: Ms. Callimachi, a New York Times correspondent covering terrorism; Nathaniel Popper, a Times reporter covering finance and technology. For more information on todayâs episode, visit http://nyti.ms/2lvdohI.",
+         "title" : "Thursday, Feb. 23, 2017"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/28d19c72-bb1f-4938-baca-3d1dea744d17/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=28d19c72-bb1f-4938-baca-3d1dea744d17&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 18913133
+         },
+         "description" : "Hurricane Irma roared into Florida, where, in the wake of Hurricane Harvey, an apocalyptic forecast forced one of the largest evacuations in American history. Guests: Jean Eisen, a 93-year-old in Miami who refused to evacuate; Antonella Giannantonio, a 51-year-old Miami resident who drove north on Wednesday and stopped in Tampa, where she is now in the path of the storm; Jess Bidgood, a Times reporter in Tampa. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1163,
+         "episodeID" : "GA0000P0000FGMH",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/28d19c72-bb1f-4938-baca-3d1dea744d17/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "Hurricane Irma roared into Florida, where, in the wake of Hurricane Harvey, an apocalyptic forecast forced one of the largest evacuations in American history. Guests: Jean Eisen, a 93-year-old in Miami who refused to evacuate;Â Antonella Giannantonio, a 51-year-old Miami resident who drove north on Wednesday and stopped in Tampa, where she is now in the path of the storm; Jess Bidgood, a Times reporter in Tampa. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "Hurricane Irma roared into Florida, where, in the wake of Hurricane Harvey, an apocalyptic forecast forced one of the largest evacuations in American history. Guests: Jean Eisen, a 93-year-old in Miami who refused to evacuate;Â Antonella Giannantonio, a 51-year-old Miami resident who drove north on Wednesday and stopped in Tampa, where she is now in the path of the storm; Jess Bidgood, a Times reporter in Tampa. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Monday, Sept. 11, 2017"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/e5b4be8c-e7f1-47e1-b65b-887421dab0f3/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=e5b4be8c-e7f1-47e1-b65b-887421dab0f3&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 26502457
+         },
+         "description" : "Dr. Robert Grant developed a treatment â a daily pill known as pre-exposure prophylaxis, or PrEP â that could stop the AIDS crisis. We look at why that hasnât happened. Guests: Dr. Grant, who has been working on H.I.V. treatment and prevention for over 30 years, and Donald G. McNeil Jr., a science and health reporter for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily. Background reading: Gilead Sciences, the maker of Truvada, the only drug approved to prevent H.I.V. infection, will donate enough of the drug to supply 200,000 patients, but critics questioned the companyâs motives.The high cost of drugs remains a major obstacle to ending the AIDS epidemic.Hereâs more information about PrEP from the Centers for Disease Control and Prevention website.",
+         "durationSeconds" : 1637,
+         "episodeID" : "GA0000P000GhCJS",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/e5b4be8c-e7f1-47e1-b65b-887421dab0f3/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "Dr. Robert Grant developed a treatment â a daily pill known as pre-exposure prophylaxis, or PrEP â that could stop the AIDS crisis. We look at why that hasnât happened. Guests: Dr. Grant, who has been working on H.I.V. treatment and prevention for over 30 years, and Donald G. McNeil Jr., a science and health reporter for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily. \n\nBackground reading: Gilead Sciences, the maker of Truvada, the only drug approved to prevent H.I.V. infection, will donate enough of the drug to supply 200,000 patients, but critics questioned the companyâs motives.The high cost of drugs remains a major obstacle to ending the AIDS epidemic.Hereâs more information about PrEP from the Centers for Disease Control and Prevention website.",
+         "summary" : "Dr. Robert Grant developed a treatment â a daily pill known as pre-exposure prophylaxis, or PrEP â that could stop the AIDS crisis. We look at why that hasnât happened. Guests: Dr. Grant, who has been working on H.I.V. treatment and prevention for over 30 years, and Donald G. McNeil Jr., a science and health reporter for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily. \n\nBackground reading: Gilead Sciences, the maker of Truvada, the only drug approved to prevent H.I.V. infection, will donate enough of the drug to supply 200,000 patients, but critics questioned the companyâs motives.The high cost of drugs remains a major obstacle to ending the AIDS epidemic.Hereâs more information about PrEP from the Centers for Disease Control and Prevention website.",
+         "title" : "This Drug Could End H.I.V. Why Hasnât It?"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/5334f6ca-31f8-47e5-b8a1-50c5c8bba47e/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=5334f6ca-31f8-47e5-b8a1-50c5c8bba47e&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 30106520
+         },
+         "description" : "Democrats have waited two years for a chance to investigate President Trump on their own terms. Starting tomorrow, they can. We look at how they plan to use â and not use â that power. Guest: Jason Zengerle, a contributing writer for The New York Times Magazine. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1863,
+         "episodeID" : "GA0000P0000FGh7",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/5334f6ca-31f8-47e5-b8a1-50c5c8bba47e/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "Democrats have waited two years for a chance to investigate President Trump on their own terms. Starting tomorrow, they can. We look at how they plan to use â and not use â that power. Guest: Jason Zengerle, a contributing writer for The New York Times Magazine. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "Democrats have waited two years for a chance to investigate President Trump on their own terms. Starting tomorrow, they can. We look at how they plan to use â and not use â that power. Guest: Jason Zengerle, a contributing writer for The New York Times Magazine. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "What Will Democrats Do With Their New Power?"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/1ef52da2-dd08-4cb7-a1de-6a5f16c8fc5f/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=1ef52da2-dd08-4cb7-a1de-6a5f16c8fc5f&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 20965730
+         },
+         "description" : "Everyone wants to know where the coronavirus came from. In the absence of a clear explanation, several theories are circulating â including one, pushed by the Trump administration, that the pandemic started because of malpractice in a lab in Wuhan, China. But is that a secret the Chinese government is keeping, or a mystery no one knows the answer to? Guest: Julian E. Barnes, who covers national security for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily. \r\n\r\nBackground reading: Some national security analysts are worried that pressure from senior Trump administration officials could distort assessments about the origin of the coronavirus and be used as a weapon in an escalating battle with China.",
+         "durationSeconds" : 1291,
+         "episodeID" : "GA0000P0015Fr4M",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/1ef52da2-dd08-4cb7-a1de-6a5f16c8fc5f/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "Everyone wants to know where the coronavirus came from. In the absence of a clear explanation, several theories are circulating â including one, pushed by the Trump administration, that the pandemic started because of malpractice in a lab in Wuhan, China. But is that a secret the Chinese government is keeping, or a mystery no one knows the answer to? Guest: Julian E. Barnes, who covers national security for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.Â \n\nBackground reading:Â Leaders in the intelligence community have said there is no indication the virus is man-made, but have yet to reach a conclusion on its origins. While many scientists say the virus most likely made the leap from an animal to a human in southern China, Secretary of State Mike Pompeo and President Trump continue to link the outbreak to a government lab.Some national security analysts are worried that pressure from senior Trump administration officials could distort assessments about the origin of the coronavirus and be used as a weapon in an escalating battle with China.",
+         "summary" : "Everyone wants to know where the coronavirus came from. In the absence of a clear explanation, several theories are circulating â including one, pushed by the Trump administration, that the pandemic started because of malpractice in a lab in Wuhan, China. But is that a secret the Chinese government is keeping, or a mystery no one knows the answer to? Guest: Julian E. Barnes, who covers national security for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.Â \n\nBackground reading:Â Leaders in the intelligence community have said there is no indication the virus is man-made, but have yet to reach a conclusion on its origins. While many scientists say the virus most likely made the leap from an animal to a human in southern China, Secretary of State Mike Pompeo and President Trump continue to link the outbreak to a government lab.Some national security analysts are worried that pressure from senior Trump administration officials could distort assessments about the origin of the coronavirus and be used as a weapon in an escalating battle with China.",
+         "title" : "The Chinese Lab Theory"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/58f59d5f-31d6-425a-9f38-73c0798c0af2/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=58f59d5f-31d6-425a-9f38-73c0798c0af2&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 20893424
+         },
+         "description" : "It started with a report on Fox News, and ended with calls for United States troops at the border with Mexico. We look at how President Trumpâs approach to immigration transformed over just 72 hours. Guest: Julie Hirschfeld Davis, who covers the White House for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1287,
+         "episodeID" : "GA0000P0000FGSt",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/58f59d5f-31d6-425a-9f38-73c0798c0af2/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "It started with a report on Fox News, and ended with calls for United States troops at the border with Mexico. We look at how President Trumpâs approach to immigration transformed over just 72 hours. Guest: Julie Hirschfeld Davis, who covers the White House for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "It started with a report on Fox News, and ended with calls for United States troops at the border with Mexico. We look at how President Trumpâs approach to immigration transformed over just 72 hours. Guest: Julie Hirschfeld Davis, who covers the White House for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Wednesday, Apr. 4, 2018"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/a430855a-5b06-4453-954a-ef7452f53b3a/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=a430855a-5b06-4453-954a-ef7452f53b3a&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 34141064
+         },
+         "description" : "Senator John McCain was proud of his reputation as a maverick in American politics. Through pivotal moments in his life â as a prisoner of war, a young congressman, a presidential candidate, and, ultimately, an elder statesman â that reputation was both validated and challenged. Guests: Elisabeth Bumiller, the Washington bureau chief for The New York Times; Carl Hulse, The Timesâs chief Washington correspondent; Mark Landler, who covers the White House for The Times; and Scott Shane, who writes about national security for The Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 2115,
+         "episodeID" : "GA0000P0000FGXJ",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/a430855a-5b06-4453-954a-ef7452f53b3a/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "Senator John McCain was proud of his reputation as a maverick in American politics. Through pivotal moments in his life â as a prisoner of war, a young congressman, a presidential candidate, and, ultimately, an elder statesman â that reputation was both validated and challenged. Guests: Elisabeth Bumiller, the Washington bureau chief for The New York Times; Carl Hulse, The Timesâs chief Washington correspondent; Mark Landler, who covers the White House for The Times; and Scott Shane, who writes about national security for The Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "Senator John McCain was proud of his reputation as a maverick in American politics. Through pivotal moments in his life â as a prisoner of war, a young congressman, a presidential candidate, and, ultimately, an elder statesman â that reputation was both validated and challenged. Guests: Elisabeth Bumiller, the Washington bureau chief for The New York Times; Carl Hulse, The Timesâs chief Washington correspondent; Mark Landler, who covers the White House for The Times; and Scott Shane, who writes about national security for The Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "The Paradoxes of John McCain"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/58edab8a-0221-4045-956d-68388dbe0188/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=58edab8a-0221-4045-956d-68388dbe0188&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 20189998
+         },
+         "description" : "For months, the federal investigation into possible links between the Trump campaign and Russia focused on Washington. Now, the inquiry has led back to New York, the presidentâs hometown, and to one man: Michael D. Cohen. Guest: Jim Rutenberg, who has been reporting on Mr. Cohen, President Trumpâs longtime personal lawyer, for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1243,
+         "episodeID" : "GA0000P0000FGT8",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/58edab8a-0221-4045-956d-68388dbe0188/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "For months, the federal investigation into possible links between the Trump campaign and Russia focused on Washington. Now, the inquiry has led back to New York, the presidentâs hometown, and to one man: Michael D. Cohen. Guest: Jim Rutenberg, who has been reporting on Mr. Cohen, President Trumpâs longtime personal lawyer, for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "For months, the federal investigation into possible links between the Trump campaign and Russia focused on Washington. Now, the inquiry has led back to New York, the presidentâs hometown, and to one man: Michael D. Cohen. Guest: Jim Rutenberg, who has been reporting on Mr. Cohen, President Trumpâs longtime personal lawyer, for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Tuesday, Apr. 17, 2018"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/24c397fa-028c-4ce0-a381-96922b0779d4/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=24c397fa-028c-4ce0-a381-96922b0779d4&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 27134395
+         },
+         "description" : "After trying and failing to withdraw Britain from the European Union, Theresa May will resign this week as the countryâs prime minister. Hereâs how the man expected to succeed her, Boris Johnson, made Brexit â and how Brexit may soon make him prime minister. Guest: Sarah Lyall, a writer at large for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily. Background reading:Mr. Johnson has become one of the great escape artists of British politics.Some of Mr. Johnsonâs family members, once staunch opponents of Brexit, have had to perform a complicated political jujitsu around his candidacy for prime minister.Prime Minister Theresa May is scheduled to step down on Wednesday. Only 160,000 Conservative Party members can vote for the next leader, sidelining 99 percent of registered voters.",
+         "durationSeconds" : 1677,
+         "episodeID" : "GA0000P000GhCNX",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/24c397fa-028c-4ce0-a381-96922b0779d4/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "After trying and failing to withdraw Britain from the European Union, Theresa May will resign this week as the countryâs prime minister. Hereâs how the man expected to succeed her, Boris Johnson, made Brexit â and how Brexit may soon make him prime minister. Guest: Sarah Lyall, a writer at large for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.Â \n\nBackground reading:Mr. Johnson has become one of the great escape artists of British politics.Some of Mr. Johnsonâs family members, once staunch opponents of Brexit, have had to perform a complicated political jujitsu around his candidacy for prime minister.Prime Minister Theresa May is scheduled to step down on Wednesday. Only 160,000 Conservative Party members can vote for the next leader, sidelining 99 percent of registered voters.",
+         "summary" : "After trying and failing to withdraw Britain from the European Union, Theresa May will resign this week as the countryâs prime minister. Hereâs how the man expected to succeed her, Boris Johnson, made Brexit â and how Brexit may soon make him prime minister. Guest: Sarah Lyall, a writer at large for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.Â \n\nBackground reading:Mr. Johnson has become one of the great escape artists of British politics.Some of Mr. Johnsonâs family members, once staunch opponents of Brexit, have had to perform a complicated political jujitsu around his candidacy for prime minister.Prime Minister Theresa May is scheduled to step down on Wednesday. Only 160,000 Conservative Party members can vote for the next leader, sidelining 99 percent of registered voters.",
+         "title" : "The Making of Boris Johnson"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/1e5e96b3-eada-4651-bd75-d8eb76976dda/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=1e5e96b3-eada-4651-bd75-d8eb76976dda&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 40860596
+         },
+         "description" : "Three months ago, a recording of Sterling Van Wagenen, a founder of the Sundance Film Festival, appeared on an obscure website for whistle-blowers in the Mormon Church. The âDailyâ producer Annie Brown spoke with our colleague about the story that recording told. Guest: Elizabeth Harris, a culture reporter for The New York Times, talked to Sean Escobar, who made the recording of Mr. Van Wagenen. For more information on todayâs episode, visit nytimes.com/thedaily. This episode contains descriptions of abuse. Background reading:Read about how Mr. Escobarâs actions led to the arrest of Mr. Van Wagenen.Mr. Van Wagenen is expected to go to prison for at least six years after pleading guilty to child sexual abuse.",
+         "durationSeconds" : 2535,
+         "episodeID" : "GA0000P000GhCJ7",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/1e5e96b3-eada-4651-bd75-d8eb76976dda/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "Three months ago, a recording of Sterling Van Wagenen, a founder of the Sundance Film Festival, appeared on an obscure website for whistle-blowers in the Mormon Church. The âDailyâ producer Annie Brown spoke with our colleague about the story that recording told. Guest: Elizabeth Harris, a culture reporter for The New York Times, talked to Sean Escobar, who made the recording of Mr. Van Wagenen.\n\nFor more information on todayâs episode, visit nytimes.com/thedaily. This episode contains descriptions of abuse.\n\nBackground reading:Read about how Mr. Escobarâs actions led to the arrest of Mr. Van Wagenen.Mr. Van Wagenen is expected to go to prison for at least six years after pleading guilty to child sexual abuse.",
+         "summary" : "Three months ago, a recording of Sterling Van Wagenen, a founder of the Sundance Film Festival, appeared on an obscure website for whistle-blowers in the Mormon Church. The âDailyâ producer Annie Brown spoke with our colleague about the story that recording told. Guest: Elizabeth Harris, a culture reporter for The New York Times, talked to Sean Escobar, who made the recording of Mr. Van Wagenen.\n\nFor more information on todayâs episode, visit nytimes.com/thedaily. This episode contains descriptions of abuse.\n\nBackground reading:Read about how Mr. Escobarâs actions led to the arrest of Mr. Van Wagenen.Mr. Van Wagenen is expected to go to prison for at least six years after pleading guilty to child sexual abuse.",
+         "title" : "Confronting a Childhood Abuser"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/3db4819c-54f5-46b9-b3a7-06b53171e066/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=3db4819c-54f5-46b9-b3a7-06b53171e066&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 21056429
+         },
+         "description" : "Eight years ago, the United States and Russia agreed to a spy swap that sent a Russian double agent to safety in Britain. That former spy and his daughter were poisoned by a nerve agent this month, and the Kremlin has been accused of orchestrating the attack. Why did it happen now? Guest: Peter Baker, the chief White House correspondent for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1297,
+         "episodeID" : "GA0000P0000FGSX",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/3db4819c-54f5-46b9-b3a7-06b53171e066/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "Eight years ago, the United States and Russia agreed to a spy swap that sent a Russian double agent to safety in Britain. That former spy and his daughter were poisoned by a nerve agent this month, and the Kremlin has been Â accused of orchestrating the attack. Why did it happen now? Guest: Peter Baker, the chief White House correspondent for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "Eight years ago, the United States and Russia agreed to a spy swap that sent a Russian double agent to safety in Britain. That former spy and his daughter were poisoned by a nerve agent this month, and the Kremlin has been Â accused of orchestrating the attack. Why did it happen now? Guest: Peter Baker, the chief White House correspondent for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Tuesday, March 27, 2018"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/2a504971-9265-40a4-a221-2e72b4d39c88/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=2a504971-9265-40a4-a221-2e72b4d39c88&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 19057747
+         },
+         "description" : "The lines being drawn in Washington arenât entirely partisan. Are Democrats and Republicans in Congress banding together to block the president? Plus: We discuss the White Houseâs on-again off-again relationship with Russia. Guests: Carl Hulse, who covers Congress; Julie Davis, a White House correspondent; Peter Baker, a White House correspondent. For more information on todayâs episode, visit http://nyti.ms/2pNzK0u.",
+         "durationSeconds" : 1172,
+         "episodeID" : "GA0000P0000FGGN",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/2a504971-9265-40a4-a221-2e72b4d39c88/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "The lines being drawn in Washington arenât entirely partisan. Are Democrats and Republicans in Congress banding together to block the president? Plus: We discuss the White Houseâs on-again off-again relationship with Russia. Guests: Carl Hulse, who covers Congress; Julie Davis, a White House correspondent; Peter Baker, a White House correspondent. For more information on todayâs episode, visit http://nyti.ms/2pNzK0u.",
+         "summary" : "The lines being drawn in Washington arenât entirely partisan. Are Democrats and Republicans in Congress banding together to block the president? Plus: We discuss the White Houseâs on-again off-again relationship with Russia. Guests: Carl Hulse, who covers Congress; Julie Davis, a White House correspondent; Peter Baker, a White House correspondent. For more information on todayâs episode, visit http://nyti.ms/2pNzK0u.",
+         "title" : "Wednesday, May 3, 2017"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/d6d87403-677f-406d-b3dd-8d342aa8c465/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=d6d87403-677f-406d-b3dd-8d342aa8c465&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 23238593
+         },
+         "description" : "An expansion of power. A rewriting of the Constitution. Is democracy coming to an end in Venezuela? Plus: What does it mean for a retired four-star general to enter a chaotic White House? Guests: Nicholas Casey, our Andes bureau chief; Michael D. Shear, White House correspondent. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1433,
+         "episodeID" : "GA0000P0000FGJP",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/d6d87403-677f-406d-b3dd-8d342aa8c465/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "An expansion of power. A rewriting of the Constitution. Is democracy coming to an end in Venezuela? Plus: What does it mean for a retired four-star general to enter a chaotic White House? Guests: Nicholas Casey, our Andes bureau chief; Michael D. Shear, White House correspondent. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "An expansion of power. A rewriting of the Constitution. Is democracy coming to an end in Venezuela? Plus: What does it mean for a retired four-star general to enter a chaotic White House? Guests: Nicholas Casey, our Andes bureau chief; Michael D. Shear, White House correspondent. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Wednesday, Aug. 2, 2017"
+      }
+   ],
+   "meta" : {
+      "limit" : 30,
+      "offset" : 0,
+      "total" : 1506
+   }
+}

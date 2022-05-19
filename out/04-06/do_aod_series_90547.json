@@ -1,0 +1,7 @@
+3.9 Aod Series Endpoint do_aod_series ===========================================
+{
+   "error" : "Not Found",
+   "path" : "/api/v1/aod/series",
+   "status" : 404,
+   "timestamp" : 1649228122986
+}

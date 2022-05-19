@@ -1,0 +1,416 @@
+3.4 Smart PlayList Endpoint\n3.4.1 By PL Theme ID do_smartplaylist_plthemeid ===========================================
+{
+   "playlistsOption" : {
+      "language" : "en",
+      "limit" : 20,
+      "origin" : "NA",
+      "plThemeName" : "PL001",
+      "priority" : "Random"
+   },
+   "tracks" : {
+      "count" : 20,
+      "offset" : 0,
+      "trackList" : [
+         {
+            "album" : {
+               "albumId" : "GNEVC3XG8A1XA31",
+               "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/9E25/09B8/BAC2/F62A_xlarge_front.jpg",
+               "albumName" : "Bad Habits"
+            },
+            "artists" : {
+               "artistId" : "GN9JMQGF8KZ0F04",
+               "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/4EE2/66B2/CDF9/94F8_medium_front.jpg",
+               "artistName" : "Ed Sheeran"
+            },
+            "duration" : "231041",
+            "genreId" : "84398",
+            "genreName" : "Contemporary Rhythmic Pop",
+            "moodId" : "90180",
+            "moodName" : "Dreamy Glossy Power-Soaring",
+            "recordingId" : "GN2XQDSXYCS6HM9",
+            "recordingName" : "Bad Habits",
+            "tidalTrackId" : "188267445"
+         },
+         {
+            "album" : {
+               "albumId" : "GNCTE5F9ECW99ST",
+               "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/156D/CC7E/B599/B33C_xlarge_front.jpg",
+               "albumName" : "Positions"
+            },
+            "artists" : {
+               "artistId" : "GN5ER0KA63DQZP6",
+               "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/55A1/6F76/C960/E6D3_xlarge_front.jpg",
+               "artistName" : "Ariana Grande"
+            },
+            "duration" : "172324",
+            "genreId" : "88074",
+            "genreName" : "Urban Crossover: Bass",
+            "moodId" : "90020",
+            "moodName" : "Expressive Pulsing Desirous Groove",
+            "recordingId" : "GN9JSNJPAKWJRXE",
+            "recordingName" : "positions",
+            "tidalTrackId" : "160351555"
+         },
+         {
+            "album" : {
+               "albumId" : "GN8WNGHDB3TTXHZ",
+               "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/359F/690A/D17F/DB0E_xlarge_front.jpg",
+               "albumName" : "MONTERO"
+            },
+            "artists" : {
+               "artistId" : "GN4562G277VJWBJ",
+               "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/BAA9/1D79/6986/491E_xlarge_front.jpg",
+               "artistName" : "Lil Nas X"
+            },
+            "duration" : "143901",
+            "genreId" : "84281",
+            "genreName" : "Urban Crossover: Pop",
+            "moodId" : "90180",
+            "moodName" : "Dreamy Glossy Power-Soaring",
+            "recordingId" : "GNDWYS6CKPZDVW3",
+            "recordingName" : "THATS WHAT I WANT",
+            "tidalTrackId" : "197645628"
+         },
+         {
+            "album" : {
+               "albumId" : "GN8TBTQQF8VWERP",
+               "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/C8D2/4DDE/A342/8C50_xlarge_front.jpg",
+               "albumName" : "Shivers"
+            },
+            "artists" : {
+               "artistId" : "GN9JMQGF8KZ0F04",
+               "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/4EE2/66B2/CDF9/94F8_medium_front.jpg",
+               "artistName" : "Ed Sheeran"
+            },
+            "duration" : "207853",
+            "genreId" : "84398",
+            "genreName" : "Contemporary Rhythmic Pop",
+            "moodId" : "90021",
+            "moodName" : "Urgent Lite Desirous Groove",
+            "recordingId" : "GNA57XM2D2YDY2G",
+            "recordingName" : "Shivers",
+            "tidalTrackId" : "196495959"
+         },
+         {
+            "album" : {
+               "albumId" : "GNDZ4Y6229WSN2N",
+               "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/8F3F/9D5E/FA51/2946_xlarge_front.jpg",
+               "albumName" : "Bravo Hits, Vol. 108"
+            },
+            "artists" : {
+               "artistId" : "GN3ZQYRAWQ5ZW4A",
+               "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/6E68/9041/26EB/1201_xlarge_front.jpg",
+               "artistName" : "Justin Bieber"
+            },
+            "duration" : "208506",
+            "genreId" : "88071",
+            "genreName" : "Trapsoul",
+            "moodId" : "90019",
+            "moodName" : "Serious Upfront Expressive Sensual Beats",
+            "recordingId" : "GNCSTT0CS0ZNVYE",
+            "recordingName" : "Yummy",
+            "tidalTrackId" : "127125284"
+         },
+         {
+            "album" : {
+               "albumId" : "GN7QDJB00HBRYGG",
+               "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/D212/E9CA/0744/36DC_xlarge_front.jpg",
+               "albumName" : "Butter"
+            },
+            "artists" : {
+               "artistId" : "GNAM9QY8PQ0Z6HV",
+               "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/8E3E/AB38/6E86/2F68_xlarge_front.jpg",
+               "artistName" : "BTS"
+            },
+            "duration" : "166307",
+            "genreId" : "84331",
+            "genreName" : "Urban Contemporary: R&B",
+            "moodId" : "90197",
+            "moodName" : "Edgy Fiery Intense Beat",
+            "recordingId" : "GN1KQ7N9H3RZ84V",
+            "recordingName" : "Butter",
+            "tidalTrackId" : "207713495"
+         },
+         {
+            "album" : {
+               "albumId" : "GN009M38BG690FS",
+               "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/832A/9C2C/05CF/F318_xlarge_front.jpg",
+               "albumName" : "Future Nostalgia"
+            },
+            "artists" : {
+               "artistId" : "GN37XF236A19G3B",
+               "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/E22E/A25C/3690/B6D5_xlarge_front.jpg",
+               "artistName" : "Dua Lipa"
+            },
+            "duration" : "203807",
+            "genreId" : "84332",
+            "genreName" : "Urban Contemporary: Pop",
+            "moodId" : "90109",
+            "moodName" : "Fiery Forceful Brash Compelling Sexy Groove",
+            "recordingId" : "GNECH50BDMV986S",
+            "recordingName" : "Levitating",
+            "tidalTrackId" : "135236245"
+         },
+         {
+            "album" : {
+               "albumId" : "GN3X6F3XS3MV56Y",
+               "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/EC40/A79C/A73B/8A0D_xlarge_front.jpg",
+               "albumName" : "MONTERO (Call Me By Your Name)"
+            },
+            "artists" : {
+               "artistId" : "GN4562G277VJWBJ",
+               "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/BAA9/1D79/6986/491E_xlarge_front.jpg",
+               "artistName" : "Lil Nas X"
+            },
+            "duration" : "137704",
+            "genreId" : "84331",
+            "genreName" : "Urban Contemporary: R&B",
+            "moodId" : "90018",
+            "moodName" : "Edgy Slow Sensual Groove",
+            "recordingId" : "GNBPZS8K8Z9SVVK",
+            "recordingName" : "MONTERO (Call Me By Your Name)",
+            "tidalTrackId" : "178064500"
+         },
+         {
+            "album" : {
+               "albumId" : "GN7H279ZHFF8WM9",
+               "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/B00E/C8CC/C8FA/B388_xlarge_front.jpg",
+               "albumName" : "Planet Her"
+            },
+            "artists" : {
+               "artistId" : "GNCRK0N790QZPJJ",
+               "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/4984/8829/0D4D/BC0C_xlarge_front.jpg",
+               "artistName" : "Doja Cat"
+            },
+            "duration" : "172626",
+            "genreId" : "84283",
+            "genreName" : "Urban Crossover: Rhythmic",
+            "moodId" : "34398",
+            "moodName" : "Edgy / Sexy Rhythmic",
+            "recordingId" : "GN909S8JRN1XHDR",
+            "recordingName" : "Woman",
+            "tidalTrackId" : "188472390"
+         },
+         {
+            "album" : {
+               "albumId" : "GNBD2SFH0KGX16A",
+               "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/7667/2355/D3D5/237A_xlarge_front.jpg",
+               "albumName" : "Certified Lover Boy"
+            },
+            "artists" : {
+               "artistId" : "GN02SNT7761HRG7",
+               "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/76FC/3BC3/F89F/DED0_large_front.jpg",
+               "artistName" : "Drake"
+            },
+            "duration" : "245131",
+            "genreId" : "88072",
+            "genreName" : "Sad Trapsoul",
+            "moodId" : "90018",
+            "moodName" : "Edgy Slow Sensual Groove",
+            "recordingId" : "GN09D1EG4A9019W",
+            "recordingName" : "Fucking Fans",
+            "tidalTrackId" : "207342527"
+         },
+         {
+            "album" : {
+               "albumId" : "GN3A8JEYCV8CVB0",
+               "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/4AFD/1E01/ED0A/C54D_xlarge_front.jpg",
+               "albumName" : "We're Good"
+            },
+            "artists" : {
+               "artistId" : "GN37XF236A19G3B",
+               "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/E22E/A25C/3690/B6D5_xlarge_front.jpg",
+               "artistName" : "Dua Lipa"
+            },
+            "duration" : "165506",
+            "genreId" : "88074",
+            "genreName" : "Urban Crossover: Bass",
+            "moodId" : "90021",
+            "moodName" : "Urgent Lite Desirous Groove",
+            "recordingId" : "GN9V1MP0BN5A1QK",
+            "recordingName" : "We're Good",
+            "tidalTrackId" : "171413013"
+         },
+         {
+            "album" : {
+               "albumId" : "GN08B6GQKPC9021",
+               "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/19FB/F1E6/7E65/08AE_xlarge_front.jpg",
+               "albumName" : "SOUR"
+            },
+            "artists" : {
+               "artistId" : "GNCFR47A639Z6WG",
+               "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/A23A/1C2C/5F04/2662_xlarge_front.jpg",
+               "artistName" : "Olivia Rodrigo"
+            },
+            "duration" : "173160",
+            "genreId" : "84134",
+            "genreName" : "Post-Modern Art Pop",
+            "moodId" : "90182",
+            "moodName" : "Sassy Fun",
+            "recordingId" : "GN25JE5NXSSY38S",
+            "recordingName" : "Jealousy, Jealousy",
+            "tidalTrackId" : "184786802"
+         },
+         {
+            "album" : {
+               "albumId" : "GNC255VKYMARQQG",
+               "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/9671/A3C6/DE62/2963_xlarge_front.jpg",
+               "albumName" : "Much Dance 2008"
+            },
+            "artists" : {
+               "artistId" : "GNFYEQEM7AMG05T",
+               "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/BAA8/F0EB/4AB5/AF46_xlarge_front.jpg",
+               "artistName" : "Rihanna"
+            },
+            "duration" : "237586",
+            "genreId" : "84281",
+            "genreName" : "Urban Crossover: Pop",
+            "moodId" : "34398",
+            "moodName" : "Edgy / Sexy Rhythmic",
+            "recordingId" : "GN34SGFK1QY60RR",
+            "recordingName" : "Umbrella",
+            "tidalTrackId" : "1771727"
+         },
+         {
+            "album" : {
+               "albumId" : "GNACCH2JXA8HPWD",
+               "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/41B2/1B56/791F/1CAB_xlarge_front.jpg",
+               "albumName" : "Shake It Off"
+            },
+            "artists" : {
+               "artistId" : "GN8N93HE9C63FG1",
+               "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/06B5/E52E/4ACD/DAB2_xlarge_front.jpg",
+               "artistName" : "Taylor Swift"
+            },
+            "duration" : "219200",
+            "genreId" : "84243",
+            "genreName" : "Contemporary Pop Power Ballad",
+            "moodId" : "90174",
+            "moodName" : "Driving Energized Fun Beat",
+            "recordingId" : "GNDA62WP0ZPAYQF",
+            "recordingName" : "Shake It Off",
+            "tidalTrackId" : "121444600"
+         },
+         {
+            "album" : {
+               "albumId" : "GNDKPTG5H83QAX1",
+               "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/201F/8721/52AA/307E_xlarge_front.jpg",
+               "albumName" : "Permission To Dance"
+            },
+            "artists" : {
+               "artistId" : "GNAM9QY8PQ0Z6HV",
+               "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/8E3E/AB38/6E86/2F68_xlarge_front.jpg",
+               "artistName" : "BTS"
+            },
+            "duration" : "189027",
+            "genreId" : "84248",
+            "genreName" : "Mainstream Pop",
+            "moodId" : "90021",
+            "moodName" : "Urgent Lite Desirous Groove",
+            "recordingId" : "GNEYEWZ9NVK79SS",
+            "recordingName" : "Permission To Dance",
+            "tidalTrackId" : "207713496"
+         },
+         {
+            "album" : {
+               "albumId" : "GNDZ4Y6229WSN2N",
+               "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/8F3F/9D5E/FA51/2946_xlarge_front.jpg",
+               "albumName" : "Bravo Hits, Vol. 108"
+            },
+            "artists" : {
+               "artistId" : "GNA5QNBGTQAS646",
+               "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/E2DA/7B60/33F9/E8BF_xlarge_front.jpg",
+               "artistName" : "Roddy Ricch"
+            },
+            "duration" : "196652",
+            "genreId" : "88071",
+            "genreName" : "Trapsoul",
+            "moodId" : "90019",
+            "moodName" : "Serious Upfront Expressive Sensual Beats",
+            "recordingId" : "GN61Z88N7NRTWYN",
+            "recordingName" : "The Box",
+            "tidalTrackId" : "124616531"
+         },
+         {
+            "album" : {
+               "albumId" : "GNEVTHCATWP6QP9",
+               "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/C0A9/684D/955D/3A56_medium_front.jpg",
+               "albumName" : "Scorpion"
+            },
+            "artists" : {
+               "artistId" : "GN02SNT7761HRG7",
+               "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/76FC/3BC3/F89F/DED0_large_front.jpg",
+               "artistName" : "Drake"
+            },
+            "duration" : "217991",
+            "genreId" : "84278",
+            "genreName" : "Trap",
+            "moodId" : "90021",
+            "moodName" : "Urgent Lite Desirous Groove",
+            "recordingId" : "GN2WMVF5X5VB6VV",
+            "recordingName" : "In My Feelings",
+            "tidalTrackId" : "92761304"
+         },
+         {
+            "album" : {
+               "albumId" : "GNFGRK0282ZY5JN",
+               "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/2E09/8463/E059/B83D_xlarge_front.jpg",
+               "albumName" : "So Fresh: The Hits Of Autumn 2021"
+            },
+            "artists" : {
+               "artistId" : "GNCRK0N790QZPJJ",
+               "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/4984/8829/0D4D/BC0C_xlarge_front.jpg",
+               "artistName" : "Doja Cat"
+            },
+            "duration" : "228137",
+            "genreId" : "88071",
+            "genreName" : "Trapsoul",
+            "moodId" : "90019",
+            "moodName" : "Serious Upfront Expressive Sensual Beats",
+            "recordingId" : "GNEDMEAEYQ096SX",
+            "recordingName" : "Streets",
+            "tidalTrackId" : "121740469"
+         },
+         {
+            "album" : {
+               "albumId" : "GNCTE5F9ECW99ST",
+               "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/156D/CC7E/B599/B33C_xlarge_front.jpg",
+               "albumName" : "Positions"
+            },
+            "artists" : {
+               "artistId" : "GN5ER0KA63DQZP6",
+               "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/55A1/6F76/C960/E6D3_xlarge_front.jpg",
+               "artistName" : "Ariana Grande"
+            },
+            "duration" : "173710",
+            "genreId" : "88074",
+            "genreName" : "Urban Crossover: Bass",
+            "moodId" : "34181",
+            "moodName" : "Soft Sensual / Intimate",
+            "recordingId" : "GNFAQ7WWYZD0YGN",
+            "recordingName" : "34+35",
+            "tidalTrackId" : "160351545"
+         },
+         {
+            "album" : {
+               "albumId" : "GN7XZXZ8V0KRPC0",
+               "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/E01D/5FB4/8241/537E_xlarge_front.jpg",
+               "albumName" : "Don't Start Now"
+            },
+            "artists" : {
+               "artistId" : "GN37XF236A19G3B",
+               "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/E22E/A25C/3690/B6D5_xlarge_front.jpg",
+               "artistName" : "Dua Lipa"
+            },
+            "duration" : "183290",
+            "genreId" : "84398",
+            "genreName" : "Contemporary Rhythmic Pop",
+            "moodId" : "34203",
+            "moodName" : "Passionate Dramatic Fiery Groove",
+            "recordingId" : "GNEQD5F58Q36W4H",
+            "recordingName" : "Don't Start Now",
+            "tidalTrackId" : "121210884"
+         }
+      ]
+   }
+}

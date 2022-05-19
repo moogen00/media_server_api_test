@@ -1,0 +1,1009 @@
+3.10 Aod Episodes Endpoint do_aod_episode ===========================================
+{
+   "data" : {
+      "data" : [
+         {
+            "audioEnclosure" : {
+               "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/d4d4d14a-f961-4cda-8c3d-5f99ab185b7a/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=d4d4d14a-f961-4cda-8c3d-5f99ab185b7a&feed=54nAGcIl",
+               "mimeType" : "audio/mpeg",
+               "sizeBytes" : 20747916
+            },
+            "availabilities" : [
+               {
+                  "license" : "Open",
+                  "name" : "All"
+               }
+            ],
+            "categories" : [
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90272",
+                     "display" : "News & Politics",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90414",
+                     "display" : "News",
+                     "level" : 2
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90745",
+                     "display" : "World News",
+                     "level" : 3
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90264",
+                     "display" : "Business",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90292",
+                     "display" : "Business News",
+                     "level" : 2
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90272",
+                     "display" : "News & Politics",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90414",
+                     "display" : "News",
+                     "level" : 2
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90744",
+                     "display" : "News & Politics Interviews",
+                     "level" : 3
+                  }
+               ]
+            ],
+            "credits" : [
+               {
+                  "name" : "Michael Barbaro",
+                  "personID" : "1314610",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               },
+               {
+                  "name" : "Jack Nicas",
+                  "personID" : "1335851",
+                  "role" : {
+                     "display" : "Guest"
+                  }
+               }
+            ],
+            "description" : "\r\nUkraine and Russia are enormous producers of wheat, corn, barley, sunflower oil and fertilizer. One study calculated that the two countries accounted for 12 percent of the worldâs calories.\r\nWith Ukraine under attack and Russia hit with strict sanctions, a huge supply of food is suddenly trapped â with Africa and the Middle East particularly imperiled.\r\nGuest: Jack Nicas, the Brazil bureau chief for The New York Times.\r\nWant more from The Daily? For one big idea on the news each week from our team, subscribe to our newsletter.Â \r\nBackground reading:Â An increase in world hunger could be one of the repercussions of the war in Ukraine.\r\nFor more information on todayâs episode, visit nytimes.com/thedaily. Transcripts of each episode will be made available by the next workday.Â ",
+            "durationSeconds" : 1297,
+            "editorialStatus" : "enhanced",
+            "episodeID" : "GA0000P002hMRFN",
+            "episodeNumber" : null,
+            "language" : "en",
+            "lastUpdateDateTime" : "2022-04-05T19:16:31Z",
+            "objectType" : "episode",
+            "publishDateTime" : "2022-04-05T09:45:00Z",
+            "seasonNumber" : null,
+            "seriesReference" : {
+               "href" : "/series?seriesIDs=GA0000N000002h2",
+               "seriesID" : "GA0000N000002h2",
+               "title" : "The Daily"
+            },
+            "subtitle" : "Ukraine and Russia are enormous producers of wheat, corn, barley, sunflower oil and fertilizer. One study calculated that the two countries accounted for 12 percent of the worldâs calories.\r\n\r\nWith Ukraine under attack and Russia hit with strict sanctions, a huge supply of food is suddenly trapped â with Africa and the Middle East particularly imperiled.\r\n\r\nGuest: Jack Nicas, the Brazil bureau chief for The New York Times.",
+            "summary" : "Ukraine and Russia are enormous producers of wheat, corn, barley, sunflower oil and fertilizer. One study calculated that the two countries accounted for 12 percent of the worldâs calories.\n\nWith Ukraine under attack and Russia hit with strict sanctions, a huge supply of food is suddenly trapped â with Africa and the Middle East particularly imperiled.\n\nGuest: Jack Nicas, the Brazil bureau chief for The New York Times.",
+            "title" : "War in Ukraine Kindles a Global Food Crisis"
+         },
+         {
+            "audioEnclosure" : {
+               "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/bb7dc466-6982-4a73-9769-27145c110ac1/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=bb7dc466-6982-4a73-9769-27145c110ac1&feed=54nAGcIl",
+               "mimeType" : "audio/mpeg",
+               "sizeBytes" : 23132169
+            },
+            "availabilities" : [
+               {
+                  "license" : "Open",
+                  "name" : "All"
+               }
+            ],
+            "categories" : [
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90272",
+                     "display" : "News & Politics",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90419",
+                     "display" : "Government",
+                     "level" : 2
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90275",
+                     "display" : "Society & Culture",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90450",
+                     "display" : "Law",
+                     "level" : 2
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90272",
+                     "display" : "News & Politics",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90416",
+                     "display" : "News & Politics Commentary",
+                     "level" : 2
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90757",
+                     "display" : "Political Commentary",
+                     "level" : 3
+                  }
+               ]
+            ],
+            "credits" : [
+               {
+                  "name" : "Michael Barbaro",
+                  "personID" : "1314610",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               },
+               {
+                  "name" : "Luke Broadwater",
+                  "personID" : "1406863",
+                  "role" : {
+                     "display" : "Guest"
+                  }
+               },
+               {
+                  "name" : "Donald Trump",
+                  "personID" : "1805",
+                  "role" : {
+                     "display" : "Subject"
+                  }
+               },
+               {
+                  "name" : "John Eastman",
+                  "personID" : "531422",
+                  "role" : {
+                     "display" : "Subject"
+                  }
+               }
+            ],
+            "description" : "\r\nAfter months of investigation by a congressional committee, a federal judge has found that President Donald J. Trump and his allies most likely engaged in illegal activity in the wake of the 2020 election.\r\nHow did the committee achieve that ruling?\r\nGuest: Luke Broadwater, a congressional reporter for The New York Times.\r\nHave you lost a loved one during the pandemic? The Daily is working on a special episode memorializing those we have lost to the coronavirus. If you would like to share their name on the episode, please record a voice memo and send it to us at thedaily@nytimes.com. You can find more information and specific instructions here.\r\nBackground reading:Â The judgeâs comments in the civil case of a lawyer, John Eastman, who advised Mr. Trump, marked a significant breakthrough for the House committee.The ruling does not necessarily mean that a prosecution would arrive at the same conclusion. Hereâs an explanation.\r\nWant more from The Daily? For one big idea on the news each week from our team, subscribe to our newsletter.Â \r\nFor more information on todayâs episode, visit nytimes.com/thedaily. Transcripts of each episode will be made available by the next workday.Â ",
+            "durationSeconds" : 1446,
+            "editorialStatus" : "enhanced",
+            "episodeID" : "GA0000P002hGTFG",
+            "episodeNumber" : null,
+            "language" : "en",
+            "lastUpdateDateTime" : "2022-04-04T20:12:13Z",
+            "objectType" : "episode",
+            "publishDateTime" : "2022-04-04T09:45:00Z",
+            "seasonNumber" : null,
+            "seriesReference" : {
+               "href" : "/series?seriesIDs=GA0000N000002h2",
+               "seriesID" : "GA0000N000002h2",
+               "title" : "The Daily"
+            },
+            "subtitle" : "After months of investigation by a congressional committee, a federal judge has found that President Donald J. Trump and his allies most likely engaged in illegal activity in the wake of the 2020 election.\r\n\r\nHow did the committee achieve that ruling?\r\n\r\nGuest: Luke Broadwater, a congressional reporter for The New York Times.",
+            "summary" : "After months of investigation by a congressional committee, a federal judge has found that President Donald J. Trump and his allies most likely engaged in illegal activity in the wake of the 2020 election.\n\nHow did the committee achieve that ruling?\n\nGuest: Luke Broadwater, a congressional reporter for The New York Times.",
+            "title" : "âThe Illegality of the Plan Was Obviousâ"
+         },
+         {
+            "audioEnclosure" : {
+               "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/7bdc5a63-b60f-40a8-b601-ce8d4487f8d8/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=7bdc5a63-b60f-40a8-b601-ce8d4487f8d8&feed=54nAGcIl",
+               "mimeType" : "audio/mpeg",
+               "sizeBytes" : 64704763
+            },
+            "availabilities" : [
+               {
+                  "license" : "Open",
+                  "name" : "All"
+               }
+            ],
+            "categories" : [
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90272",
+                     "display" : "News & Politics",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90414",
+                     "display" : "News",
+                     "level" : 2
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90745",
+                     "display" : "World News",
+                     "level" : 3
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90272",
+                     "display" : "News & Politics",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90414",
+                     "display" : "News",
+                     "level" : 2
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90744",
+                     "display" : "News & Politics Interviews",
+                     "level" : 3
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90275",
+                     "display" : "Society & Culture",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90447",
+                     "display" : "Social Issues",
+                     "level" : 2
+                  }
+               ]
+            ],
+            "credits" : [
+               {
+                  "name" : "Michael Barbaro",
+                  "personID" : "1314610",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               },
+               {
+                  "name" : "Alex W. Palmer",
+                  "personID" : "1785355",
+                  "role" : {
+                     "display" : "Guest"
+                  }
+               },
+               {
+                  "name" : "SeÃ¡n Binder",
+                  "personID" : "1785357",
+                  "role" : {
+                     "display" : "Subject"
+                  }
+               }
+            ],
+            "description" : "\r\nExploring the personal experiences of Sara Mardini and SeÃ¡n Binder, two volunteers who were arrested in February 2018 after helping migrants cross safely into Lesbos, Greece, the journalist Alex W. Palmer outlines the complex situation aid workers in Europe find themselves in: increasingly demonized by local authorities while also facing pressure from different ends of the international political spectrum.\r\nPalmer traces the origins of the problem, explaining how, in the early days of the migrant crisis, the grass-roots response embodied the broadly held values of E.U. citizens: to be a place of refuge and compassion, to create a new future from the ashes of two world wars and to set an example based on morality rather than power.\r\nBut, as Palmer discovers, this idea was never unanimous, and it was only a matter of time before this compassion and idealism was eclipsed by anger and resentment. Many rejected the idea of newcomers entirely. Terrorist attacks and acts of criminality committed by asylum seekers further worsened collective sentiments and heightened public unease about the challenges of integration. The topic became a pawn for far-right media outlets and politicians, who helped stoke the growing anti-immigrant temper, portraying Europe as on the brink of being overrun by foreign hordes â and aid workers as part of the problem.\r\nA highly politicized issue, the debate surrounding the migrant crisis continues to rage. As volunteers are targeted, whatâs next for migrant aid in Europe?\r\nThis story was written by Alex W. Palmer and recorded by Audm. To hear more audio stories from publications like The New York Times, download Audm for iPhone or Android.\r\nÂ ",
+            "durationSeconds" : 4044,
+            "editorialStatus" : "enhanced",
+            "episodeID" : "GA0000P002hF1P7",
+            "episodeNumber" : null,
+            "language" : "en",
+            "lastUpdateDateTime" : "2022-04-04T20:12:12Z",
+            "objectType" : "episode",
+            "publishDateTime" : "2022-04-03T10:00:00Z",
+            "seasonNumber" : null,
+            "seriesReference" : {
+               "href" : "/series?seriesIDs=GA0000N000002h2",
+               "seriesID" : "GA0000N000002h2",
+               "title" : "The Daily"
+            },
+            "subtitle" : "Exploring the personal experiences of Sara Mardini and SeÃ¡n Binder, two volunteers who were arrested in February 2018 after helping migrants cross safely into Lesbos, Greece, the journalist Alex W. Palmer outlines the complex situation aid workers in Europe find themselves in: increasingly demonized by local authorities while also facing pressure from different ends of the international political spectrum. \r\n\r\nPalmer traces the origins of the problem, explaining how, in the early days of the migrant crisis, the grass-roots response embodied the broadly held values of E.U. citizens: to be a place of refuge and compassion, to create a new future from the ashes of two world wars and to set an example based on morality rather than power.\r\n\r\nBut, as Palmer discovers, this idea was never unanimous, and it was only a matter of time before this compassion and idealism was eclipsed by anger and resentment. Many rejected the idea of newcomers entirely. Terrorist attacks and acts of criminality committed by asylum seekers further worsened collective sentiments and heightened public unease about the challenges of integration. The topic became a pawn for far-right media outlets and politicians, who helped stoke the growing anti-immigrant temper, portraying Europe as on the brink of being overrun by foreign hordes â and aid workers as part of the problem. \r\n\r\nA highly politicized issue, the debate surrounding the migrant crisis continues to rage. As volunteers are targeted, whatâs next for migrant aid in Europe?",
+            "summary" : "Exploring the personal experiences of Sara Mardini and SeÃ¡n Binder, two volunteers who were arrested in February 2018 after helping migrants cross safely into Lesbos, Greece, the journalist Alex W. Palmer outlines the complex situation aid workers in Europe find themselves in: increasingly demonized by local authorities while also facing pressure from different ends of the international political spectrum. \n\nPalmer traces the origins of the problem, explaining how, in the early days of the migrant crisis, the grass-roots response embodied the broadly held values of E.U. citizens: to be a place of refuge and compassion, to create a new future from the ashes of two world wars and to set an example based on morality rather than power.\n\nBut, as Palmer discovers, this idea was never unanimous, and it was only a matter of time before this compassion and idealism was eclipsed by anger and resentment. Many rejected the idea of newcomers entirely. Terrorist attacks and acts of criminality committed by asylum seekers further worsened collective sentiments and heightened public unease about the challenges of integration. The topic became a pawn for far-right media outlets and politicians, who helped stoke the growing anti-immigrant temper, portraying Europe as on the brink of being overrun by foreign hordes â and aid workers as part of the problem. \n\nA highly politicized issue, the debate surrounding the migrant crisis continues to rage. As volunteers are targeted, whatâs next for migrant aid in Europe?",
+            "title" : "The Sunday Read: âThey Came To Help Migrants. Now, Europe Has Turned on Them.â"
+         },
+         {
+            "audioEnclosure" : {
+               "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/1eff123b-bcc8-49e7-957c-b4db685535a5/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=1eff123b-bcc8-49e7-957c-b4db685535a5&feed=54nAGcIl",
+               "mimeType" : "audio/mpeg",
+               "sizeBytes" : 25154606
+            },
+            "availabilities" : [
+               {
+                  "license" : "Open",
+                  "name" : "All"
+               }
+            ],
+            "categories" : [
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90272",
+                     "display" : "News & Politics",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90414",
+                     "display" : "News",
+                     "level" : 2
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90748",
+                     "display" : "Europe News",
+                     "level" : 3
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90272",
+                     "display" : "News & Politics",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90416",
+                     "display" : "News & Politics Commentary",
+                     "level" : 2
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90757",
+                     "display" : "Political Commentary",
+                     "level" : 3
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90272",
+                     "display" : "News & Politics",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90419",
+                     "display" : "Government",
+                     "level" : 2
+                  }
+               ]
+            ],
+            "credits" : [
+               {
+                  "name" : "Michael Barbaro",
+                  "personID" : "1314610",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               },
+               {
+                  "name" : "Valerie Hopkins",
+                  "personID" : "1590449",
+                  "role" : {
+                     "display" : "Guest"
+                  }
+               }
+            ],
+            "description" : "\r\nThis episode details graphic scenes.Â \r\nRussia has mounted a brutal siege around the port city of Mariupol for more than a month, framing it as the key to a war of liberation. In reality, itâs a campaign against a city that is critical to Russiaâs strategy â it would help open an important supply route and serve as a symbol of victory.Â \r\nWhat is happening inside Mariupol, and what does the fighting mean for the future of Russiaâs war on Ukraine?Â \r\nGuest: Valerie Hopkins, a correspondent for The New York Times, currently based in Ukraine.\r\nHave you lost a loved one during the pandemic? The Daily is working on a special episode memorializing those we have lost to the coronavirus. If you would like to share their name on the episode, please record a voice memo and send it to us at thedaily@nytimes.com. You can find more information and specific instructions here.\r\nBackground reading:Â In Mariupol, Russia is using hunger as a weapon of war. Residents described how they are surviving a monthlong siege of the southern port with little food and other necessities.As the war in Ukraine moves into its second month, fears grow of Mariupolâs fall to Russia.\r\nWant more from The Daily? For one big idea on the news each week from our team, subscribe to our newsletter.Â \r\nFor more information on todayâs episode, visit nytimes.com/thedaily. Transcripts of each episode will be made available by the next workday.Â ",
+            "durationSeconds" : 1573,
+            "editorialStatus" : "enhanced",
+            "episodeID" : "GA0000P002h9SM1",
+            "episodeNumber" : null,
+            "language" : "en",
+            "lastUpdateDateTime" : "2022-04-04T20:12:11Z",
+            "objectType" : "episode",
+            "publishDateTime" : "2022-04-01T09:50:00Z",
+            "seasonNumber" : null,
+            "seriesReference" : {
+               "href" : "/series?seriesIDs=GA0000N000002h2",
+               "seriesID" : "GA0000N000002h2",
+               "title" : "The Daily"
+            },
+            "subtitle" : "This episode details graphic scenes. \r\n\r\nRussia has mounted a brutal siege around the port city of Mariupol for more than a month, framing it as the key to a war of liberation. In reality, itâs a campaign against a city that is critical to Russiaâs strategy â it would help open an important supply route and serve as a symbol of victory. \r\n\r\nWhat is happening inside Mariupol, and what does the fighting mean for the future of Russiaâs war on Ukraine? \r\n\r\nGuest: Valerie Hopkins, a correspondent for The New York Times, currently based in Ukraine.",
+            "summary" : "This episode details graphic scenes. \n\nRussia has mounted a brutal siege around the port city of Mariupol for more than a month, framing it as the key to a war of liberation. In reality, itâs a campaign against a city that is critical to Russiaâs strategy â it would help open an important supply route and serve as a symbol of victory. \n\nWhat is happening inside Mariupol, and what does the fighting mean for the future of Russiaâs war on Ukraine? \n\nGuest: Valerie Hopkins, a correspondent for The New York Times, currently based in Ukraine.",
+            "title" : "Inside Mariupol"
+         },
+         {
+            "audioEnclosure" : {
+               "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/96bbabfb-88c3-48d1-a5bd-d378904bc67d/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=96bbabfb-88c3-48d1-a5bd-d378904bc67d&feed=54nAGcIl",
+               "mimeType" : "audio/mpeg",
+               "sizeBytes" : 23832972
+            },
+            "availabilities" : [
+               {
+                  "license" : "Open",
+                  "name" : "All"
+               }
+            ],
+            "categories" : [
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90272",
+                     "display" : "News & Politics",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90416",
+                     "display" : "News & Politics Commentary",
+                     "level" : 2
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90757",
+                     "display" : "Political Commentary",
+                     "level" : 3
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90272",
+                     "display" : "News & Politics",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90419",
+                     "display" : "Government",
+                     "level" : 2
+                  }
+               ]
+            ],
+            "credits" : [
+               {
+                  "name" : "Michael Barbaro",
+                  "personID" : "1314610",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               },
+               {
+                  "name" : "Nate Cohn",
+                  "personID" : "1123847",
+                  "role" : {
+                     "display" : "Guest"
+                  }
+               }
+            ],
+            "description" : "\r\nIn the past, Republicans have been able to secure what some see as an unfair political advantage by gerrymandering political districts.\r\nBut after the recent redrawing of zones, the congressional map across the U.S. is perhaps more evenly split than at any time in the past 50 years.\r\nWhat happened?\r\nGuest: Nate Cohn, a domestic correspondent for The Upshot at The New York Times.\r\nHave you lost a loved one during the pandemic? The Daily is working on a special episode memorializing those we have lost to the coronavirus. If you would like to share their name on the episode, please record a voice memo and send it to us at thedaily@nytimes.com. You can find more information and specific instructions here.\r\nBackground reading:Â The surprisingly fair congressional map defies the expectations of many analysts â and it is something of an accident.\r\nWant more from The Daily? For one big idea on the news each week from our team, subscribe to our newsletter.Â \r\nFor more information on todayâs episode, visit nytimes.com/thedaily. Transcripts of each episode will be made available by the next workday.Â ",
+            "durationSeconds" : 1489,
+            "editorialStatus" : "enhanced",
+            "episodeID" : "GA0000P002h6F1D",
+            "episodeNumber" : null,
+            "language" : "en",
+            "lastUpdateDateTime" : "2022-03-31T18:21:27Z",
+            "objectType" : "episode",
+            "publishDateTime" : "2022-03-31T09:45:00Z",
+            "seasonNumber" : null,
+            "seriesReference" : {
+               "href" : "/series?seriesIDs=GA0000N000002h2",
+               "seriesID" : "GA0000N000002h2",
+               "title" : "The Daily"
+            },
+            "subtitle" : "In the past, Republicans have been able to secure what some see as an unfair political advantage by gerrymandering political districts.\r\n\r\nBut after the recent redrawing of zones, the congressional map across the U.S. is perhaps more evenly split than at any time in the past 50 years.\r\n\r\nWhat happened?\r\n\r\nGuest: Nate Cohn, a domestic correspondent for The Upshot at The New York Times.",
+            "summary" : "In the past, Republicans have been able to secure what some see as an unfair political advantage by gerrymandering political districts.\n\nBut after the recent redrawing of zones, the congressional map across the U.S. is perhaps more evenly split than at any time in the past 50 years.\n\nWhat happened?\n\nGuest: Nate Cohn, a domestic correspondent for The Upshot at The New York Times.",
+            "title" : "How Democrats Evened the Congressional Map"
+         },
+         {
+            "audioEnclosure" : {
+               "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/2150394b-3ada-4638-bb95-87016fc32e9f/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=2150394b-3ada-4638-bb95-87016fc32e9f&feed=54nAGcIl",
+               "mimeType" : "audio/mpeg",
+               "sizeBytes" : 30610678
+            },
+            "availabilities" : [
+               {
+                  "license" : "Open",
+                  "name" : "All"
+               }
+            ],
+            "categories" : [
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90272",
+                     "display" : "News & Politics",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90419",
+                     "display" : "Government",
+                     "level" : 2
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90272",
+                     "display" : "News & Politics",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90416",
+                     "display" : "News & Politics Commentary",
+                     "level" : 2
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90757",
+                     "display" : "Political Commentary",
+                     "level" : 3
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90275",
+                     "display" : "Society & Culture",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90450",
+                     "display" : "Law",
+                     "level" : 2
+                  }
+               ]
+            ],
+            "credits" : [
+               {
+                  "name" : "Michael Barbaro",
+                  "personID" : "1314610",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               },
+               {
+                  "name" : "Jo Becker",
+                  "personID" : "1776046",
+                  "role" : {
+                     "display" : "Guest"
+                  }
+               },
+               {
+                  "name" : "Ginni Thomas",
+                  "personID" : "1744299",
+                  "role" : {
+                     "display" : "Subject"
+                  }
+               },
+               {
+                  "name" : "Clarence Thomas",
+                  "personID" : "985730",
+                  "role" : {
+                     "display" : "Subject"
+                  }
+               }
+            ],
+            "description" : "\r\nA series of text messages released in the past week show how Ginni Thomas, wife of Justice Clarence Thomas of the Supreme Court, urged White House officials to push to overturn the result of the 2020 election.\r\nThere has never been a spouse of a sitting justice who has been as overt a political activist as Ms. Thomas â and that presents a real conundrum for the court.\r\nGuest: Jo Becker, an investigative reporter for The New York Times.Â \r\nHave you lost a loved one during the pandemic? The Daily is working on a special episode memorializing those we have lost to the coronavirus. If you would like to share their name on the episode, please record a voice memo and send it to us at thedaily@nytimes.com. You can find more information and specific instructions here.\r\nBackground reading:Â The long crusade of the Thomases has taken them from the fringes of the conservative movement to the very center of it. In the aftermath of the 2020 presidential election, Ginni Thomas was involved in a range of efforts to keep President Donald J. Trump in power.\r\nWant more from The Daily? For one big idea on the news each week from our team, subscribe to our newsletter.Â \r\nFor more information on todayâs episode, visit nytimes.com/thedaily. Transcripts of each episode will be made available by the next workday.Â ",
+            "durationSeconds" : 1914,
+            "editorialStatus" : "enhanced",
+            "episodeID" : "GA0000P002h0Gt9",
+            "episodeNumber" : null,
+            "language" : "en",
+            "lastUpdateDateTime" : "2022-03-31T18:21:26Z",
+            "objectType" : "episode",
+            "publishDateTime" : "2022-03-30T09:50:00Z",
+            "seasonNumber" : null,
+            "seriesReference" : {
+               "href" : "/series?seriesIDs=GA0000N000002h2",
+               "seriesID" : "GA0000N000002h2",
+               "title" : "The Daily"
+            },
+            "subtitle" : "A series of text messages released in the past week show how Ginni Thomas, wife of Justice Clarence Thomas of the Supreme Court, urged White House officials to push to overturn the result of the 2020 election.\r\n\r\nThere has never been a spouse of a sitting justice who has been as overt a political activist as Ms. Thomas â and that presents a real conundrum for the court.\r\n\r\nGuest: Jo Becker, an investigative reporter for The New York Times.",
+            "summary" : "A series of text messages released in the past week show how Ginni Thomas, wife of Justice Clarence Thomas of the Supreme Court, urged White House officials to push to overturn the result of the 2020 election.\n\nThere has never been a spouse of a sitting justice who has been as overt a political activist as Ms. Thomas â and that presents a real conundrum for the court.\n\nGuest: Jo Becker, an investigative reporter for The New York Times.",
+            "title" : "The Political Lives of Clarence and Ginni Thomas"
+         },
+         {
+            "audioEnclosure" : {
+               "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/f11c289b-cdd1-44c1-97fe-4f2e0c2f3e08/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=f11c289b-cdd1-44c1-97fe-4f2e0c2f3e08&feed=54nAGcIl",
+               "mimeType" : "audio/mpeg",
+               "sizeBytes" : 30117515
+            },
+            "availabilities" : [
+               {
+                  "license" : "Open",
+                  "name" : "All"
+               }
+            ],
+            "categories" : [
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90272",
+                     "display" : "News & Politics",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90419",
+                     "display" : "Government",
+                     "level" : 2
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90272",
+                     "display" : "News & Politics",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90416",
+                     "display" : "News & Politics Commentary",
+                     "level" : 2
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90757",
+                     "display" : "Political Commentary",
+                     "level" : 3
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90275",
+                     "display" : "Society & Culture",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90450",
+                     "display" : "Law",
+                     "level" : 2
+                  }
+               ]
+            ],
+            "credits" : [
+               {
+                  "name" : "Michael Barbaro",
+                  "personID" : "1314610",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               },
+               {
+                  "name" : "Christopher Flavelle",
+                  "personID" : "1418852",
+                  "role" : {
+                     "display" : "Guest"
+                  }
+               },
+               {
+                  "name" : "Joe Manchin",
+                  "personID" : "713469",
+                  "role" : {
+                     "display" : "Subject"
+                  }
+               }
+            ],
+            "description" : "\r\nAt every step of his political career, Senator Joe Manchin III has helped a West Virginia power plant that is the sole customer of his private coal business, including by blocking ambitious climate action.\r\nA Times investigation has revealed the strands of the unusual relationship between Mr. Manchin and that especially dirty power plant, showing just how entwined they are.\r\nGuest: Christopher Flavelle, a climate reporter for The New York Times.\r\nHave you lost a loved one during the pandemic? The Daily is working on a special episode memorializing those we have lost to the coronavirus. If you would like to share their name on the episode, please record a voice memo and send it to us at thedaily@nytimes.com. You can find more information and specific instructions here.\r\nBackground reading:Â How Mr. Manchin aided coal, stymied climate legislation, and made a fortune.\r\nWant more from The Daily? For one big idea on the news each week from our team, subscribe to our newsletter.Â \r\nFor more information on todayâs episode, visit nytimes.com/thedaily. Transcripts of each episode will be made available by the next workday.Â ",
+            "durationSeconds" : 1882,
+            "editorialStatus" : "enhanced",
+            "episodeID" : "GA0000P002bh3MB",
+            "episodeNumber" : null,
+            "language" : "en",
+            "lastUpdateDateTime" : "2022-03-31T18:21:25Z",
+            "objectType" : "episode",
+            "publishDateTime" : "2022-03-29T09:56:36Z",
+            "seasonNumber" : null,
+            "seriesReference" : {
+               "href" : "/series?seriesIDs=GA0000N000002h2",
+               "seriesID" : "GA0000N000002h2",
+               "title" : "The Daily"
+            },
+            "subtitle" : "At every step of his political career, Senator Joe Manchin III has helped a West Virginia power plant that is the sole customer of his private coal business, including by blocking ambitious climate action.\r\n\r\nA Times investigation has revealed the strands of the unusual relationship between Mr. Manchin and that especially dirty power plant, showing just how entwined they are.\r\n\r\nGuest: Christopher Flavelle, a climate reporter for The New York Times.",
+            "summary" : "At every step of his political career, Senator Joe Manchin III has helped a West Virginia power plant that is the sole customer of his private coal business, including by blocking ambitious climate action.\n\nA Times investigation has revealed the strands of the unusual relationship between Mr. Manchin and that especially dirty power plant, showing just how entwined they are.\n\nGuest: Christopher Flavelle, a climate reporter for The New York Times.",
+            "title" : "Senator Joe Manchinâs Conflict of Interest"
+         },
+         {
+            "audioEnclosure" : {
+               "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/51d922ef-4d5f-453c-af18-afdddbc9e5dc/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=51d922ef-4d5f-453c-af18-afdddbc9e5dc&feed=54nAGcIl",
+               "mimeType" : "audio/mpeg",
+               "sizeBytes" : 41897856
+            },
+            "availabilities" : [
+               {
+                  "license" : "Open",
+                  "name" : "All"
+               }
+            ],
+            "categories" : [
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90272",
+                     "display" : "News & Politics",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90414",
+                     "display" : "News",
+                     "level" : 2
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90748",
+                     "display" : "Europe News",
+                     "level" : 3
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90275",
+                     "display" : "Society & Culture",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90445",
+                     "display" : "Culture Interviews",
+                     "level" : 2
+                  }
+               ]
+            ],
+            "credits" : [
+               {
+                  "name" : "Clare Toeniskoetter",
+                  "personID" : "1325212",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               },
+               {
+                  "name" : "Iryna Baramidze",
+                  "personID" : "1781091",
+                  "role" : {
+                     "display" : "Guest"
+                  }
+               }
+            ],
+            "description" : "\r\nSince the beginning of Russiaâs war in Ukraine, 10 million Ukrainians â about a quarter of the population â have been displaced, and about four million have fled the country.\r\nIryna Baramidze is one of them. From a middle-class neighborhood of Kyiv, the Ukrainian capital, she has been married to her husband for 12 years and has an 11-year-old son, Yuri.\r\nOver three weeks, our producer Clare Toeniskoetter followed Iryna as she made an impossible choice.\r\nHave you lost a loved one during the pandemic? The Daily is working on a special episode memorializing those we have lost to the coronavirus. If you would like to share their name on the episode, please record a voice memo and send it to us at thedaily@nytimes.com. You can find more information and specific instructions here.\r\nBackground reading:Â After meeting with Ukrainian refugees in Poland last week, President Biden called Vladimir Putin âa butcher.âAs Ukrainians flood into Poland, the travel industry has become part of an effort to supply transportation, accommodation, and more to the refugees.\r\nWant more from The Daily? For one big idea on the news each week from our team, subscribe to our newsletter.Â \r\nFor more information on todayâs episode, visit nytimes.com/thedaily. Transcripts of each episode will be made available by the next workday.Â ",
+            "durationSeconds" : 2619,
+            "editorialStatus" : "enhanced",
+            "episodeID" : "GA0000P002bXVZH",
+            "episodeNumber" : null,
+            "language" : "en",
+            "lastUpdateDateTime" : "2022-03-31T18:21:24Z",
+            "objectType" : "episode",
+            "publishDateTime" : "2022-03-28T09:45:00Z",
+            "seasonNumber" : null,
+            "seriesReference" : {
+               "href" : "/series?seriesIDs=GA0000N000002h2",
+               "seriesID" : "GA0000N000002h2",
+               "title" : "The Daily"
+            },
+            "subtitle" : "Since the beginning of Russiaâs war in Ukraine, 10 million Ukrainians â about a quarter of the population â have been displaced, and about four million have fled the country.\r\n\r\nIryna Baramidze is one of them. From a middle-class neighborhood of Kyiv, the Ukrainian capital, she has been married to her husband for 12 years and has an 11 year-old son, Yuri.\r\n\r\nOver three weeks, our producer Clare Toeniskoetter followed Iryna as she made an impossible choice.",
+            "summary" : "Since the beginning of Russiaâs war in Ukraine, 10 million Ukrainians â about a quarter of the population â have been displaced, and about four million have fled the country.\n\nIryna Baramidze is one of them. From a middle-class neighborhood of Kyiv, the Ukrainian capital, she has been married to her husband for 12 years and has an 11 year-old son, Yuri.\n\nOver three weeks, our producer Clare Toeniskoetter followed Iryna as she made an impossible choice.",
+            "title" : "Four Million Ukrainians in Limbo"
+         },
+         {
+            "audioEnclosure" : {
+               "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/afd7a72d-d42b-467f-97f0-f9acaa431c59/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=afd7a72d-d42b-467f-97f0-f9acaa431c59&feed=54nAGcIl",
+               "mimeType" : "audio/mpeg",
+               "sizeBytes" : 44514091
+            },
+            "availabilities" : [
+               {
+                  "license" : "Open",
+                  "name" : "All"
+               }
+            ],
+            "categories" : [
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90267",
+                     "display" : "Health & Living",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90333",
+                     "display" : "Health & Wellness",
+                     "level" : 2
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90616",
+                     "display" : "Nursing",
+                     "level" : 3
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90275",
+                     "display" : "Society & Culture",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90448",
+                     "display" : "Culture",
+                     "level" : 2
+                  }
+               ]
+            ],
+            "credits" : [
+               {
+                  "name" : "Michael Barbaro",
+                  "personID" : "1314610",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               },
+               {
+                  "name" : "Lauren Hilgers",
+                  "personID" : "1704788",
+                  "role" : {
+                     "display" : "Guest"
+                  }
+               }
+            ],
+            "description" : "Demand for traveling nurses skyrocketed during the pandemic. In March 2020, there were over 12,000 job opportunities for traveling nurses, but by early December of that year, the number had grown to more than 30,000 open positions. Lauren Hilgers details the experiences of Americaâs traveling nurses and questions whether this âboomâ will continue.\r\n\r\nMyriad factors compelled thousands to abandon their permanent posts, among them the flexible nature of being a traveling nurse and its associated lifestyle (fewer hours, better pay). Traveling nurses can often make more in months than they would make as staff nurses in a year. Insufficient support to deal with waves of coronavirus sufferers at hospitals has driven many away.\r\n\r\nBut, as Hilgers writes, while hospitals have scrambled to hire traveling nurses, many have been chafing at the rising price tag. A number of states are exploring the option to cap travel-nursing pay, and the American Hospital Association is pushing for a congressional inquiry into the pricing practices of travel-nursing agencies. However, Hilgers concludes, the problem is unlikely to be solved until hospitals start considering how to make bedside jobs more desirable.\r\n\r\nAfter two years, nurses in the United States have borne witness to hundreds of thousands of Covid deaths. Should their pay reflect this?",
+            "durationSeconds" : 2783,
+            "editorialStatus" : "enhanced",
+            "episodeID" : "GA0000P002bW11J",
+            "episodeNumber" : null,
+            "language" : "en",
+            "lastUpdateDateTime" : "2022-03-31T18:21:24Z",
+            "objectType" : "episode",
+            "publishDateTime" : "2022-03-27T10:00:00Z",
+            "seasonNumber" : null,
+            "seriesReference" : {
+               "href" : "/series?seriesIDs=GA0000N000002h2",
+               "seriesID" : "GA0000N000002h2",
+               "title" : "The Daily"
+            },
+            "subtitle" : "Demand for traveling nurses skyrocketed during the pandemic. In March 2020, there were over 12,000 job opportunities for traveling nurses, but by early December of that year, the number had grown to more than 30,000 open positions. Lauren Hilgers details the experiences of Americaâs traveling nurses and questions whether this âboomâ will continue.\r\n\r\nMyriad factors compelled thousands to abandon their permanent posts, among them the flexible nature of being a traveling nurse and its associated lifestyle (fewer hours, better pay). Traveling nurses can often make more in months than they would make as staff nurses in a year. Insufficient support to deal with waves of coronavirus sufferers at hospitals has driven many away.\r\n\r\nBut, as Hilgers writes, while hospitals have scrambled to hire traveling nurses, many have been chafing at the rising price tag. A number of states are exploring the option to cap travel-nursing pay, and the American Hospital Association is pushing for a congressional inquiry into the pricing practices of travel-nursing agencies. However, Hilgers concludes, the problem is unlikely to be solved until hospitals start considering how to make bedside jobs more desirable.\r\n\r\nAfter two years, nurses in the United States have borne witness to hundreds of thousands of Covid deaths. Should their pay reflect this?",
+            "summary" : "Demand for traveling nurses skyrocketed during the pandemic. In March 2020, there were over 12,000 job opportunities for traveling nurses, but by early December of that year, the number had grown to more than 30,000 open positions. Lauren Hilgers details the experiences of Americaâs traveling nurses and questions whether this âboomâ will continue.\n\nMyriad factors compelled thousands to abandon their permanent posts, among them the flexible nature of being a traveling nurse and its associated lifestyle (fewer hours, better pay). Traveling nurses can often make more in months than they would make as staff nurses in a year. Insufficient support to deal with waves of coronavirus sufferers at hospitals has driven many away.\n\nBut, as Hilgers writes, while hospitals have scrambled to hire traveling nurses, many have been chafing at the rising price tag. A number of states are exploring the option to cap travel-nursing pay, and the American Hospital Association is pushing for a congressional inquiry into the pricing practices of travel-nursing agencies. However, Hilgers concludes, the problem is unlikely to be solved until hospitals start considering how to make bedside jobs more desirable.\n\nAfter two years, nurses in the United States have borne witness to hundreds of thousands of Covid deaths. Should their pay reflect this?",
+            "title" : "The Sunday Read: âNurses Have Finally Learned What Theyâre Worthâ"
+         },
+         {
+            "audioEnclosure" : {
+               "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/decbccc3-0048-4ef2-a7ec-de8e323e6258/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=decbccc3-0048-4ef2-a7ec-de8e323e6258&feed=54nAGcIl",
+               "mimeType" : "audio/mpeg",
+               "sizeBytes" : 39058043
+            },
+            "availabilities" : [
+               {
+                  "license" : "Open",
+                  "name" : "All"
+               }
+            ],
+            "categories" : [
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90272",
+                     "display" : "News & Politics",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90416",
+                     "display" : "News & Politics Commentary",
+                     "level" : 2
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90757",
+                     "display" : "Political Commentary",
+                     "level" : 3
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90275",
+                     "display" : "Society & Culture",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90445",
+                     "display" : "Culture Interviews",
+                     "level" : 2
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90275",
+                     "display" : "Society & Culture",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90447",
+                     "display" : "Social Issues",
+                     "level" : 2
+                  }
+               ]
+            ],
+            "credits" : [
+               {
+                  "name" : "Michael Barbaro",
+                  "personID" : "1314610",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               },
+               {
+                  "name" : "Lynsea Garrison",
+                  "personID" : "1689476",
+                  "role" : {
+                     "display" : "Guest"
+                  }
+               },
+               {
+                  "name" : "Stella Tan",
+                  "personID" : "1340008",
+                  "role" : {
+                     "display" : "Guest"
+                  }
+               }
+            ],
+            "description" : "\r\nSince the Taliban took control of Afghanistan last year, thousands of women and girls who were in school or had jobs were forced back into their homes.\r\nThe Daily producers Lynsea Garrison and Stella Tan have been talking to women and girls across the country about their lives under Taliban rule â and about what kind of future they now face.\r\nBackground reading:Â The Taliban has reneged on its promise to open Afghanistanâs girlsâ schools. The reversal could threaten aid as international officials had made girlsâ education a condition for greater assistance.\r\nWant more from The Daily? For one big idea on the news each week from our team, subscribe to our newsletter.Â \r\nFor more information on todayâs episode, visitÂ \r\nnytimes.com/thedaily\r\n. Transcripts of each episode will be made available by the next workday.",
+            "durationSeconds" : 2442,
+            "editorialStatus" : "enhanced",
+            "episodeID" : "GA0000P002bPW57",
+            "episodeNumber" : null,
+            "language" : "en",
+            "lastUpdateDateTime" : "2022-03-25T15:35:48Z",
+            "objectType" : "episode",
+            "publishDateTime" : "2022-03-25T09:45:00Z",
+            "seasonNumber" : null,
+            "seriesReference" : {
+               "href" : "/series?seriesIDs=GA0000N000002h2",
+               "seriesID" : "GA0000N000002h2",
+               "title" : "The Daily"
+            },
+            "subtitle" : "Since the Taliban took control of Afghanistan last year, thousands of women and girls who were in school or had jobs were forced back into their homes.\r\n\r\nThe Daily producers Lynsea Garrison and Stella Tan have been talking to women and girls across the country about their lives under Taliban rule â and about what kind of future they now face.",
+            "summary" : "Since the Taliban took control of Afghanistan last year, thousands of women and girls who were in school or had jobs were forced back into their homes.\n\nThe Daily producers Lynsea Garrison and Stella Tan have been talking to women and girls across the country about their lives under Taliban rule â and about what kind of future they now face.",
+            "title" : "âThe Dreams We Had Are Like a Dreamâ"
+         }
+      ],
+      "meta" : {
+         "count" : 10,
+         "offset" : 0,
+         "total" : 1488
+      }
+   },
+   "error" : null,
+   "success" : true
+}

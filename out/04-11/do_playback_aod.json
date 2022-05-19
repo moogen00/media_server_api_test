@@ -1,0 +1,490 @@
+3.6 Aod Playback Endpoint do_playback_aod ===========================================
+{
+   "data" : [
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/5cddc7f8-32ca-41a6-acb4-a308001eed3f/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=5cddc7f8-32ca-41a6-acb4-a308001eed3f&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 20694925
+         },
+         "description" : "After the divisiveness of the 2016 election, the Womenâs March became a major symbol of unity. But two years later, a rift in the movement has grown. Guest: Farah Stockman, a national reporter for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1274,
+         "episodeID" : "GA0000P0000FGhP",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/5cddc7f8-32ca-41a6-acb4-a308001eed3f/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "After the divisiveness of the 2016 election, the Womenâs March became a major symbol of unity. But two years later, a rift in the movement has grown. Guest: Farah Stockman, a national reporter for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "After the divisiveness of the 2016 election, the Womenâs March became a major symbol of unity. But two years later, a rift in the movement has grown. Guest: Farah Stockman, a national reporter for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "A Rift Over Power and Privilege in the Womenâs March"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/10d6a8ae-b90a-4f6f-a9c7-d4de2df981af/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=10d6a8ae-b90a-4f6f-a9c7-d4de2df981af&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 22901332
+         },
+         "description" : "The most interesting figure in the Mueller report may be the man who was hired to protect President Trump, but turned out to be the most damaging witness against him. We look at the role of Donald F. McGahn II, the former White House counsel. Guest: Michael S. Schmidt, who has been covering the special counsel investigation for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily. Background reading:Mr. McGahnâs interviews â including an account of being asked by President Trump to remove the special counsel â were cited in the Mueller report 157 times, more than any other witness.Mr. McGahn is one of many Trump aides who took notes of their interactions with the president. In some cases, it was to help them do their jobs, but in others it was for self-preservation.",
+         "durationSeconds" : 1412,
+         "episodeID" : "GA0000P0000FGrR",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/10d6a8ae-b90a-4f6f-a9c7-d4de2df981af/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "The most interesting figure in the Mueller report may be the man who was hired to protect President Trump, but turned out to be the most damaging witness against him. We look at the role of Donald F. McGahn II, the former White House counsel. Guest: Michael S. Schmidt, who has been covering the special counsel investigation for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.\n\nBackground reading:Mr. McGahnâs interviews â including an account of being asked by President Trump to remove the special counsel â Â were cited in the Mueller report 157 times, more than any other witness.Mr. McGahn is one of many Trump aides who took notes of their interactions with the president. In some cases, it was to help them do their jobs, but in others it was for self-preservation.",
+         "summary" : "The most interesting figure in the Mueller report may be the man who was hired to protect President Trump, but turned out to be the most damaging witness against him. We look at the role of Donald F. McGahn II, the former White House counsel. Guest: Michael S. Schmidt, who has been covering the special counsel investigation for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.\n\nBackground reading:Mr. McGahnâs interviews â including an account of being asked by President Trump to remove the special counsel â Â were cited in the Mueller report 157 times, more than any other witness.Mr. McGahn is one of many Trump aides who took notes of their interactions with the president. In some cases, it was to help them do their jobs, but in others it was for self-preservation.",
+         "title" : "How Trumpâs Protector Became Muellerâs Best Witness"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/373b8293-9df1-4a98-a917-433515ddccd1/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=373b8293-9df1-4a98-a917-433515ddccd1&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 27825261
+         },
+         "description" : "The New York Times has a new five-part podcast series that tries to solve a real-life problem with a surprising story. So today, instead of or usual show, we offer âChange Agent,â hosted by Charles Duhigg, a Pulitzer Prize-winning journalist and author of âThe Power of Habit.â",
+         "durationSeconds" : 1711,
+         "episodeID" : "GA0000P0000FGSB",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/373b8293-9df1-4a98-a917-433515ddccd1/3000x3000/8e91b5e09f64f5f52b093e6cdd7c2ac462b77045321f15063d767bfae3d4917b4c59c151ad29a792d636f331d105fa2e640a65d6effe372287ef8abc05763997.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "The New York Times has a new five-part podcast series that tries to solve a real-life problem with a surprising story. So today, instead of or usual show, we offer âChange Agent,â hosted by Charles Duhigg, a Pulitzer Prize-winning journalist and author of âThe Power of Habit.â",
+         "summary" : "The New York Times has a new five-part podcast series that tries to solve a real-life problem with a surprising story. So today, instead of or usual show, we offer âChange Agent,â hosted by Charles Duhigg, a Pulitzer Prize-winning journalist and author of âThe Power of Habit.â",
+         "title" : "Tuesday, Mar. 6, 2018"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/45a800b1-80ae-433b-b42d-5cd65e2afd9c/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=45a800b1-80ae-433b-b42d-5cd65e2afd9c&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 24811805
+         },
+         "description" : "In testimony before the Senate Judiciary Committee, Attorney General William Barr defended his handling of the Mueller report, saying he did not misrepresent its findings. We spoke with our colleague who spent the day in the hearing room. Guest: Nicholas Fandos, who covers Congress for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily. Background reading: At a contentious hearing marked by a deep partisan divide, the center of the clash was nothing less than the presidency and the integrity of the law enforcement system.Here are the highlights of Mr. Barrâs testimony on Wednesday.",
+         "durationSeconds" : 1532,
+         "episodeID" : "GA0000P0000FGrh",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/45a800b1-80ae-433b-b42d-5cd65e2afd9c/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "In testimony before the Senate Judiciary Committee, Attorney General William Barr defended his handling of the Mueller report, saying he did not misrepresent its findings. We spoke with our colleague who spent the day in the hearing room. Guest: Nicholas Fandos, who covers Congress for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily. \n\nBackground reading: At a contentious hearing marked by a deep partisan divide, the center of the clash was nothing less than the presidency and the integrity of the law enforcement system.Here are the highlights of Mr. Barrâs testimony on Wednesday.",
+         "summary" : "In testimony before the Senate Judiciary Committee, Attorney General William Barr defended his handling of the Mueller report, saying he did not misrepresent its findings. We spoke with our colleague who spent the day in the hearing room. Guest: Nicholas Fandos, who covers Congress for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily. \n\nBackground reading: At a contentious hearing marked by a deep partisan divide, the center of the clash was nothing less than the presidency and the integrity of the law enforcement system.Here are the highlights of Mr. Barrâs testimony on Wednesday.",
+         "title" : "The Senate Testimony of William Barr"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/e2b3432e-7015-46ea-ade9-cf0306f52236/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=e2b3432e-7015-46ea-ade9-cf0306f52236&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 32788557
+         },
+         "description" : "The Supreme Court ruled with little controversy in 1973 that women had a constitutional right to abortion. How did the decision give way to the deep and enduring political rifts we face today? Guest: Sabrina Tavernise, a New York Times correspondent who reported on the story of Roe v. Wade for âThe Daily.â For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 2030,
+         "episodeID" : "GA0000P0000FGWV",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/e2b3432e-7015-46ea-ade9-cf0306f52236/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "The Supreme Court ruled with little controversy in 1973 that women had a constitutional right to abortion. How did the decision give way to the deep and enduring political rifts we face today? Guest: Sabrina Tavernise, a New York Times correspondent who reported on the story of Roe v. Wade for âThe Daily.â For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "The Supreme Court ruled with little controversy in 1973 that women had a constitutional right to abortion. How did the decision give way to the deep and enduring political rifts we face today? Guest: Sabrina Tavernise, a New York Times correspondent who reported on the story of Roe v. Wade for âThe Daily.â For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Roe v. Wade, Part 2: The Culture Wars"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/15ecf71c-8514-427c-b32f-50e4cc6fb20d/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=15ecf71c-8514-427c-b32f-50e4cc6fb20d&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 18203020
+         },
+         "description" : "Inside the New York Times investigation into accusations of harassment and other inappropriate behavior by Bill OâReilly, and the lengths to which Fox News went to to keep the allegations quiet. Guest: Emily Steel, who has spent the last few months investigating this story. For more information on todayâs episode, visit http://nyti.ms/2oHxCV8.",
+         "durationSeconds" : 1119,
+         "episodeID" : "GA0000P0000FGFh",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/15ecf71c-8514-427c-b32f-50e4cc6fb20d/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "Inside the New York Times investigation into accusations of harassment and other inappropriate behavior by Bill OâReilly, and the lengths to which Fox News went to to keep the allegations quiet. Guest: Emily Steel, who has spent the last few months investigating this story. For more information on todayâs episode, visit http://nyti.ms/2oHxCV8.",
+         "summary" : "Inside the New York Times investigation into accusations of harassment and other inappropriate behavior by Bill OâReilly, and the lengths to which Fox News went to to keep the allegations quiet. Guest: Emily Steel, who has spent the last few months investigating this story. For more information on todayâs episode, visit http://nyti.ms/2oHxCV8.",
+         "title" : "Monday, April 3, 2017"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/6e250cde-4a69-4969-b8eb-ad90aa03eaa4/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=6e250cde-4a69-4969-b8eb-ad90aa03eaa4&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 19038522
+         },
+         "description" : "In his speech to Congress on Tuesday night, President Trump tells the story of America. Itâs a story that looks back, but it also looks forward with an optimistic view of where weâll be nine years from now, on our 250th anniversary. Guests: Patrick Healy, the deputy culture editor and a former political reporter for The New York Times; Carl Hulse, The Timesâs chief Washington correspondent. For more information on todayâs episode, visit http://nyti.ms/2mes1ab.",
+         "durationSeconds" : 1171,
+         "episodeID" : "GA0000P0000FGF5",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/6e250cde-4a69-4969-b8eb-ad90aa03eaa4/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "In his speech to Congress on Tuesday night, President Trump tells the story of America. Itâs a story that looks back, but it also looks forward with an optimistic view of where weâll be nine years from now, on our 250th anniversary. Guests: Patrick Healy, the deputy culture editor and a former political reporter for The New York Times; Carl Hulse, The Timesâs chief Washington correspondent. For more information on todayâs episode, visit http://nyti.ms/2mes1ab.",
+         "summary" : "In his speech to Congress on Tuesday night, President Trump tells the story of America. Itâs a story that looks back, but it also looks forward with an optimistic view of where weâll be nine years from now, on our 250th anniversary. Guests: Patrick Healy, the deputy culture editor and a former political reporter for The New York Times; Carl Hulse, The Timesâs chief Washington correspondent. For more information on todayâs episode, visit http://nyti.ms/2mes1ab.",
+         "title" : "Wednesday, Mar. 1, 2017"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/fa9a9d3c-ed8f-4ea5-8b67-4f2ec55be839/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=fa9a9d3c-ed8f-4ea5-8b67-4f2ec55be839&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 26155531
+         },
+         "description" : "A 16-year-old boy who sometimes wore skirts and makeup to school was killed in Iowa. Then the Justice Department sent a federal hate-crimes lawyer to aid in the prosecution. The trial has become part of the national debate over gender identity. Guests: Monica Davey, The New York Timesâs Chicago bureau chief; Matt Apuzzo, who covers law enforcement; Shaunda Campbell, a former counselor at Burlington High School; Tremell Jones, a friend who was with Kedarie Johnson the night he was killed. Sabrina Tavernise is our host; Michael Barbaro will return tomorrow. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1616,
+         "episodeID" : "GA0000P0000FGNX",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/fa9a9d3c-ed8f-4ea5-8b67-4f2ec55be839/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "A 16-year-old boy who sometimes wore skirts and makeup to school was killed in Iowa. Then the Justice Department sent a federal hate-crimes lawyer to aid in the prosecution. The trial has become part of the national debate over gender identity. Guests: Monica Davey, The New York Timesâs Chicago bureau chief; Matt Apuzzo, who covers law enforcement; Shaunda Campbell, a former counselor at Burlington High School; Tremell Jones, a friend who was with Kedarie Johnson the night he was killed. Sabrina Tavernise is our host; Michael Barbaro will return tomorrow. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "A 16-year-old boy who sometimes wore skirts and makeup to school was killed in Iowa. Then the Justice Department sent a federal hate-crimes lawyer to aid in the prosecution. The trial has become part of the national debate over gender identity. Guests: Monica Davey, The New York Timesâs Chicago bureau chief; Matt Apuzzo, who covers law enforcement; Shaunda Campbell, a former counselor at Burlington High School; Tremell Jones, a friend who was with Kedarie Johnson the night he was killed. Sabrina Tavernise is our host; Michael Barbaro will return tomorrow. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Wednesday, Nov. 8, 2017"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/9a0c5ca5-1dba-4f13-a4b5-c3da4c4b2a59/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=9a0c5ca5-1dba-4f13-a4b5-c3da4c4b2a59&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 21405422
+         },
+         "description" : "Donald J. Trumpâs life and career have been defined by his legal battles. But what will they mean for his presidency? Guest: Jonathan Mahler, staff writer for The New York Times Magazine; Jay Goldberg, Mr. Trumpâs exclusive litigator from 1990 to 2005. For more information on todayâs episode, visit http://nyti.ms/2tHoXq1.",
+         "durationSeconds" : 1319,
+         "episodeID" : "GA0000P0000FGJ0",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/9a0c5ca5-1dba-4f13-a4b5-c3da4c4b2a59/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "Donald J. Trumpâs life and career have been defined by his legal battles. But what will they mean for his presidency? Guest: Jonathan Mahler, staff writer for The New York Times Magazine; Jay Goldberg, Mr. Trumpâs exclusive litigator from 1990 to 2005. For more information on todayâs episode, visit http://nyti.ms/2tHoXq1.",
+         "summary" : "Donald J. Trumpâs life and career have been defined by his legal battles. But what will they mean for his presidency? Guest: Jonathan Mahler, staff writer for The New York Times Magazine; Jay Goldberg, Mr. Trumpâs exclusive litigator from 1990 to 2005. For more information on todayâs episode, visit http://nyti.ms/2tHoXq1.",
+         "title" : "Friday, July 7, 2017"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/48e5487d-d877-4675-9ef6-dde491838fe9/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=48e5487d-d877-4675-9ef6-dde491838fe9&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 21616498
+         },
+         "description" : "President Trump abruptly canceled on Thursday the highly anticipated summit meeting with Kim Jong-un, the leader of North Korea, that was scheduled to take place on June 12. In a letter to Mr. Kim announcing his decision, Mr. Trump wrote, âThe world, and North Korea in particular, has lost a great opportunity for lasting peace.â Guest: Mark Landler, who covers the White House for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1332,
+         "episodeID" : "GA0000P0000FGV8",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/48e5487d-d877-4675-9ef6-dde491838fe9/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "President Trump abruptly canceled on Thursday the highly anticipated summit meeting with Kim Jong-un, the leader of North Korea, that was scheduled to take place on June 12. In a letter to Mr. Kim announcing his decision, Mr. Trump wrote, âThe world, and North Korea in particular, has lost a great opportunity for lasting peace.â Guest: Mark Landler, who covers the White House for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "President Trump abruptly canceled on Thursday the highly anticipated summit meeting with Kim Jong-un, the leader of North Korea, that was scheduled to take place on June 12. In a letter to Mr. Kim announcing his decision, Mr. Trump wrote, âThe world, and North Korea in particular, has lost a great opportunity for lasting peace.â Guest: Mark Landler, who covers the White House for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "âDear Mr. Chairman â¦â"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/2c7b3990-c645-430f-8924-5617d32f5f45/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=2c7b3990-c645-430f-8924-5617d32f5f45&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 22994539
+         },
+         "description" : "New Zealand is holding a national day of remembrance today for the 50 people killed in the mosque shootings in Christchurch. Our colleague spent several days with one family of one man who died in the attack. Guest: Charlotte Graham-McLay, who spent time with the family of Atta Elayyan. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1418,
+         "episodeID" : "GA0000P0000FGr4",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/2c7b3990-c645-430f-8924-5617d32f5f45/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "New Zealand is holding a national day of remembrance today for the 50 people killed in the mosque shootings in Christchurch. Our colleague spent several days with one family of one man who died in the attack. Guest: Charlotte Graham-McLay, who spent time with the family of Atta Elayyan. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "New Zealand is holding a national day of remembrance today for the 50 people killed in the mosque shootings in Christchurch. Our colleague spent several days with one family of one man who died in the attack. Guest: Charlotte Graham-McLay, who spent time with the family of Atta Elayyan. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "One Familyâs Story of Survival and Loss in New Zealand"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/aecf38c4-9f25-49b6-b65c-bf4fd13aeaa3/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=aecf38c4-9f25-49b6-b65c-bf4fd13aeaa3&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 24044002
+         },
+         "description" : "At the height of the 2016 election, exaggerated reports of a brutal crime turned the town of Twin Falls, Idaho, upside down. The fake news has had real consequences. Guest: Caitlin Dickerson, who covers immigration for The Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1484,
+         "episodeID" : "GA0000P0000FGMb",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/aecf38c4-9f25-49b6-b65c-bf4fd13aeaa3/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "At the height of the 2016 election, exaggerated reports of a brutal crime turned the town of Twin Falls, Idaho, upside down. The fake news has had real consequences. Guest: Caitlin Dickerson, who covers immigration for The Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "At the height of the 2016 election, exaggerated reports of a brutal crime turned the town of Twin Falls, Idaho, upside down. The fake news has had real consequences. Guest: Caitlin Dickerson, who covers immigration for The Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Wednesday, Sept.27, 2017"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/53f9824a-e251-4750-b8b9-78f772171eed/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=53f9824a-e251-4750-b8b9-78f772171eed&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 26799188
+         },
+         "description" : "The firing of a professional cheerleader has drawn attention to an industry that seemed to be operating outside the #MeToo movement. But now, sports teams are being drawn into it. Guest: Annie Brown, a producer on âThe Daily,â speaks with Bailey Davis, the New Orleans Saints cheerleader who was fired for violating the teamâs social media policy. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1656,
+         "episodeID" : "GA0000P0000FGT9",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/53f9824a-e251-4750-b8b9-78f772171eed/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "The firing of a professional cheerleader has drawn attention to an industry that seemed to be operating outside the #MeToo movement. But now, sports teams are being drawn into it. Guest: Annie Brown, a producer on âThe Daily,â speaks with Bailey Davis, the New Orleans Saints cheerleader who was fired for violating the teamâs social media policy. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "The firing of a professional cheerleader has drawn attention to an industry that seemed to be operating outside the #MeToo movement. But now, sports teams are being drawn into it. Guest: Annie Brown, a producer on âThe Daily,â speaks with Bailey Davis, the New Orleans Saints cheerleader who was fired for violating the teamâs social media policy. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Wednesday, Apr. 18, 2018"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/af1d7511-1a00-48bc-ae6b-fc5298d3b86e/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=af1d7511-1a00-48bc-ae6b-fc5298d3b86e&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 24622066
+         },
+         "description" : "Alarm over the election of Donald Trump spurred dozens of first-time candidates to run for Congress. Some of those candidates now present a problem for the Democratic Party. Guests: Mai Khanh Tran, a Democratic candidate running for the United States House in California; Alexander Burns, who covers national politics for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1520,
+         "episodeID" : "GA0000P0000FGVF",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/af1d7511-1a00-48bc-ae6b-fc5298d3b86e/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "Alarm over the election of Donald Trump spurred dozens of first-time candidates to run for Congress. Some of those candidates now present a problem for the Democratic Party. Guests: Mai Khanh Tran, a Democratic candidate running for the United States House in California; Alexander Burns, who covers national politics for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "Alarm over the election of Donald Trump spurred dozens of first-time candidates to run for Congress. Some of those candidates now present a problem for the Democratic Party. Guests: Mai Khanh Tran, a Democratic candidate running for the United States House in California; Alexander Burns, who covers national politics for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "When Democratic Newcomers Challenge the Party Line"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/3a9bc679-ae0d-4297-8857-8d903a288cb2/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=3a9bc679-ae0d-4297-8857-8d903a288cb2&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 20491789
+         },
+         "description" : "In a 5-to-4 vote, the Supreme Court upheld President Trumpâs ban on travel into the United States by citizens of several predominantly Muslim countries. What does the decision say about the extent of the presidentâs power to control immigration? Guest: Adam Liptak, who covers the Supreme Court for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1262,
+         "episodeID" : "GA0000P0000FGW5",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/3a9bc679-ae0d-4297-8857-8d903a288cb2/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "In a 5-to-4 vote, the Supreme Court upheld President Trumpâs ban on travel into the United States by citizens of several predominantly Muslim countries. What does the decision say about the extent of the presidentâs power to control immigration? Guest: Adam Liptak, who covers the Supreme Court for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "In a 5-to-4 vote, the Supreme Court upheld President Trumpâs ban on travel into the United States by citizens of several predominantly Muslim countries. What does the decision say about the extent of the presidentâs power to control immigration? Guest: Adam Liptak, who covers the Supreme Court for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "The Supreme Court Upholds Trumpâs Travel Ban"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/58edab8a-0221-4045-956d-68388dbe0188/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=58edab8a-0221-4045-956d-68388dbe0188&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 20189998
+         },
+         "description" : "For months, the federal investigation into possible links between the Trump campaign and Russia focused on Washington. Now, the inquiry has led back to New York, the presidentâs hometown, and to one man: Michael D. Cohen. Guest: Jim Rutenberg, who has been reporting on Mr. Cohen, President Trumpâs longtime personal lawyer, for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1243,
+         "episodeID" : "GA0000P0000FGT8",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/58edab8a-0221-4045-956d-68388dbe0188/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "For months, the federal investigation into possible links between the Trump campaign and Russia focused on Washington. Now, the inquiry has led back to New York, the presidentâs hometown, and to one man: Michael D. Cohen. Guest: Jim Rutenberg, who has been reporting on Mr. Cohen, President Trumpâs longtime personal lawyer, for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "For months, the federal investigation into possible links between the Trump campaign and Russia focused on Washington. Now, the inquiry has led back to New York, the presidentâs hometown, and to one man: Michael D. Cohen. Guest: Jim Rutenberg, who has been reporting on Mr. Cohen, President Trumpâs longtime personal lawyer, for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Tuesday, Apr. 17, 2018"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/6f127080-5c1a-49f0-bde4-de7c97737390/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=6f127080-5c1a-49f0-bde4-de7c97737390&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 19857722
+         },
+         "description" : "Rukmini Callimachi takes us into Iraq to see if a major victory over the Islamic State is really at hand in the streets of Mosul. Guests: Ms. Callimachi, a New York Times correspondent covering terrorism; Nathaniel Popper, a Times reporter covering finance and technology. For more information on todayâs episode, visit http://nyti.ms/2lvdohI.",
+         "durationSeconds" : 1222,
+         "episodeID" : "GA0000P0000FGF1",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/6f127080-5c1a-49f0-bde4-de7c97737390/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "Rukmini Callimachi takes us into Iraq to see if a major victory over the Islamic State is really at hand in the streets of Mosul. Guests: Ms. Callimachi, a New York Times correspondent covering terrorism; Nathaniel Popper, a Times reporter covering finance and technology. For more information on todayâs episode, visit http://nyti.ms/2lvdohI.",
+         "summary" : "Rukmini Callimachi takes us into Iraq to see if a major victory over the Islamic State is really at hand in the streets of Mosul. Guests: Ms. Callimachi, a New York Times correspondent covering terrorism; Nathaniel Popper, a Times reporter covering finance and technology. For more information on todayâs episode, visit http://nyti.ms/2lvdohI.",
+         "title" : "Thursday, Feb. 23, 2017"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/023e7fec-cf3b-4246-9c5a-f19709f72260/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=023e7fec-cf3b-4246-9c5a-f19709f72260&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 31176471
+         },
+         "description" : "President Trumpâs first pardon went to a wildly divisive sheriff from Arizona. So who is Joe Arpaio? And how do presidential pardons work? Guests: Fernanda Santos, the former Phoenix bureau chief of The New York Times; Adam Liptak, our Supreme Court reporter. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1929,
+         "episodeID" : "GA0000P0000FGM6",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/023e7fec-cf3b-4246-9c5a-f19709f72260/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "President Trumpâs first pardon went to a wildly divisive sheriff from Arizona. So who is Joe Arpaio? And how do presidential pardons work? Guests: Fernanda Santos, the former Phoenix bureau chief of The New York Times; Adam Liptak, our Supreme Court reporter. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "President Trumpâs first pardon went to a wildly divisive sheriff from Arizona. So who is Joe Arpaio? And how do presidential pardons work? Guests: Fernanda Santos, the former Phoenix bureau chief of The New York Times; Adam Liptak, our Supreme Court reporter. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Monday, Aug 28, 2017"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/8adc1243-547e-486d-9450-2d54036c7aa6/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=8adc1243-547e-486d-9450-2d54036c7aa6&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 19096202
+         },
+         "description" : "President Trump addresses the United Nations General Assembly for the first time, and says itâs every nation for itself. We look at the speech, and the people who crafted its message. Guests: Mark Landler, who covered the presidentâs speech; Maggie Haberman, a White House correspondent. For more information on todayâs episode, visit nytimes.com/thedaily. You can support \"The Daily\" by subscribing to The Times. We're offering listeners one month free, then 50% off for a year. Go to nytimes.com/thedailyoffer for more information.",
+         "durationSeconds" : 1174,
+         "episodeID" : "GA0000P0000FGMT",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/8adc1243-547e-486d-9450-2d54036c7aa6/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "President Trump addresses the United Nations General Assembly for the first time, and says itâs every nation for itself. We look at the speech, and the people who crafted its message. Guests: Mark Landler, who covered the presidentâs speech; Maggie Haberman, a White House correspondent. For more information on todayâs episode, visitÂ nytimes.com/thedaily. You can support \"The Daily\" by subscribing to The Times. We're offering listeners one month free, then 50% off for a year. Go toÂ nytimes.com/thedailyofferÂ for more information.",
+         "summary" : "President Trump addresses the United Nations General Assembly for the first time, and says itâs every nation for itself. We look at the speech, and the people who crafted its message. Guests: Mark Landler, who covered the presidentâs speech; Maggie Haberman, a White House correspondent. For more information on todayâs episode, visitÂ nytimes.com/thedaily. You can support \"The Daily\" by subscribing to The Times. We're offering listeners one month free, then 50% off for a year. Go toÂ nytimes.com/thedailyofferÂ for more information.",
+         "title" : "Wednesday, Sept. 20, 2017"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/c0ac9007-fc24-44ff-a5ac-e8dded9d7c8a/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=c0ac9007-fc24-44ff-a5ac-e8dded9d7c8a&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 15007751
+         },
+         "description" : "The Mueller report has been sent to the attorney general. Hereâs a look at what this means and what comes next. Guest: Michael S. Schmidt, who has been covering the special counsel investigation for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 919,
+         "episodeID" : "GA0000P0000FGmt",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/c0ac9007-fc24-44ff-a5ac-e8dded9d7c8a/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "The Mueller report has been sent to the attorney general. Hereâs a look at what this means and what comes next. Guest: Michael S. Schmidt, who has been covering the special counsel investigation for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "The Mueller report has been sent to the attorney general. Hereâs a look at what this means and what comes next. Guest: Michael S. Schmidt, who has been covering the special counsel investigation for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Special Edition: Robert Mueller Submits His Report"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/db313efd-d271-40ca-89c7-f3d82c66f36f/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=db313efd-d271-40ca-89c7-f3d82c66f36f&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 23875195
+         },
+         "description" : "On the 12th day of the government shutdown, the Democratic congressional leaders went to the White House and proposed that the president reopen the government while the two sides ironed out differences on funding for a border wall. A couple of hours after that meeting, we spoke with Senator Chuck Schumer, the Senate minority leader, about his newly emboldened approach and how he and Ms. Pelosi plan to stick together in a divided Washington. Guest: Senator Chuck Schumer of New York, the Senate minority leader. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1473,
+         "episodeID" : "GA0000P0000FGh8",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/db313efd-d271-40ca-89c7-f3d82c66f36f/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "On the 12th day of the government shutdown, the Democratic congressional leaders went to the White House and proposed that the president reopen the government while the two sides ironed out differences on funding for a border wall. A couple of hours after that meeting, we spoke with Senator Chuck Schumer, the Senate minority leader, about his newly emboldened approach and how he and Ms. Pelosi plan to stick together in a divided Washington. Guest: Senator Chuck Schumer of New York, the Senate minority leader. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "On the 12th day of the government shutdown, the Democratic congressional leaders went to the White House and proposed that the president reopen the government while the two sides ironed out differences on funding for a border wall. A couple of hours after that meeting, we spoke with Senator Chuck Schumer, the Senate minority leader, about his newly emboldened approach and how he and Ms. Pelosi plan to stick together in a divided Washington. Guest: Senator Chuck Schumer of New York, the Senate minority leader. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Chuck Schumer on the Wall, the Shutdown and the Era of Divided Government"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/e0dd2ec9-03ad-4012-af2f-090ec63ef05f/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=e0dd2ec9-03ad-4012-af2f-090ec63ef05f&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 34860366
+         },
+         "description" : "The Daily is revisiting our favorite episodes of the year â listening back, and then hearing whatâs happened since the stories first ran. Today, we return to the story of two Americans, Abraham Davis and Hisham Yasin. Theirs is a story of vandalism and forgiveness. Guest: Sabrina Tavernise, a national correspondent for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 2160,
+         "episodeID" : "GA0000P0000FGPh",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/e0dd2ec9-03ad-4012-af2f-090ec63ef05f/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "The Daily is revisiting our favorite episodes of the year â listening back, and then hearing whatâs happened since the stories first ran. Today, we return to the story of two Americans, Abraham Davis and Hisham Yasin. Theirs is a story of vandalism and forgiveness. Guest: Sabrina Tavernise, a national correspondent for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "The Daily is revisiting our favorite episodes of the year â listening back, and then hearing whatâs happened since the stories first ran. Today, we return to the story of two Americans, Abraham Davis and Hisham Yasin. Theirs is a story of vandalism and forgiveness. Guest: Sabrina Tavernise, a national correspondent for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Thursday, Dec. 28, 2017"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/7fdfb337-d71f-42c6-b5a8-cc9261d2fd6e/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=7fdfb337-d71f-42c6-b5a8-cc9261d2fd6e&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 28675414
+         },
+         "description" : "Michael Cohen is headed to prison for lying on behalf of Donald Trump. On Wednesday, he told Congress that heâs done protecting the president. Guest: Maggie Haberman, who covers the White House for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1774,
+         "episodeID" : "GA0000P0000FGmG",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/7fdfb337-d71f-42c6-b5a8-cc9261d2fd6e/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "Michael Cohen is headed to prison for lying on behalf of Donald Trump. On Wednesday, he told Congress that heâs done protecting the president. Guest: Maggie Haberman, who covers the White House for The New York Times. Â For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "Michael Cohen is headed to prison for lying on behalf of Donald Trump. On Wednesday, he told Congress that heâs done protecting the president. Guest: Maggie Haberman, who covers the White House for The New York Times. Â For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "The Testimony of Michael Cohen"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/c22cd864-0630-4b83-8fb7-90f4a5c5812b/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=c22cd864-0630-4b83-8fb7-90f4a5c5812b&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 22197472
+         },
+         "description" : "The Central Intelligence Agency is waging an unusual campaign to make Gina Haspel its next leader, despite her polarizing past. Why do officers see her most controversial quality as her greatest asset? Guests: Adam Goldman, a reporter who covers the intelligence community for The Times; John Bennett, a former chief of the C.I.A.âs clandestine service who retired in 2013. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1368,
+         "episodeID" : "GA0000P0000FGTX",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/c22cd864-0630-4b83-8fb7-90f4a5c5812b/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "The Central Intelligence Agency is waging an unusual campaign to make Gina Haspel its next leader, despite her polarizing past. Why do officers see her most controversial quality as her greatest asset? Guests: Adam Goldman, a reporter who covers the intelligence community for The Times; John Bennett, a former chief of the C.I.A.âs clandestine service who retired in 2013. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "The Central Intelligence Agency is waging an unusual campaign to make Gina Haspel its next leader, despite her polarizing past. Why do officers see her most controversial quality as her greatest asset? Guests: Adam Goldman, a reporter who covers the intelligence community for The Times; John Bennett, a former chief of the C.I.A.âs clandestine service who retired in 2013. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Gina Haspel and the Shadow of Torture"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/d543131c-2b6b-495e-8080-1b1d5bb90d62/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=d543131c-2b6b-495e-8080-1b1d5bb90d62&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 27735833
+         },
+         "description" : "Basim Razzo lost his family and his home in an airstrike by the American-led coalition fighting the Islamic State. Video of the strike shows a target hit with military precision. In Part 2 of our look at civilian casualties in Iraq, Mr. Razzo sets out to learn why his home was targeted. Guests: Basim Razzo; Azmat Khan, an investigative reporter who has been looking into civilian deaths in the fight against ISIS. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1714,
+         "episodeID" : "GA0000P0000FGP0",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/d543131c-2b6b-495e-8080-1b1d5bb90d62/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "Basim Razzo lost his family and his home in an airstrike by the American-led coalition fighting the Islamic State. Video of the strike shows a target hit with military precision. In Part 2 of our look at civilian casualties in Iraq, Mr. Razzo sets out to learn why his home was targeted. Guests: Basim Razzo; Azmat Khan, an investigative reporter who has been looking into civilian deaths in the fight against ISIS. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "Basim Razzo lost his family and his home in an airstrike by the American-led coalition fighting the Islamic State. Video of the strike shows a target hit with military precision. In Part 2 of our look at civilian casualties in Iraq, Mr. Razzo sets out to learn why his home was targeted. Guests: Basim Razzo; Azmat Khan, an investigative reporter who has been looking into civilian deaths in the fight against ISIS. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Friday, Nov. 17, 2017"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/28d19c72-bb1f-4938-baca-3d1dea744d17/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=28d19c72-bb1f-4938-baca-3d1dea744d17&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 18913133
+         },
+         "description" : "Hurricane Irma roared into Florida, where, in the wake of Hurricane Harvey, an apocalyptic forecast forced one of the largest evacuations in American history. Guests: Jean Eisen, a 93-year-old in Miami who refused to evacuate; Antonella Giannantonio, a 51-year-old Miami resident who drove north on Wednesday and stopped in Tampa, where she is now in the path of the storm; Jess Bidgood, a Times reporter in Tampa. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1163,
+         "episodeID" : "GA0000P0000FGMH",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/28d19c72-bb1f-4938-baca-3d1dea744d17/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "Hurricane Irma roared into Florida, where, in the wake of Hurricane Harvey, an apocalyptic forecast forced one of the largest evacuations in American history. Guests: Jean Eisen, a 93-year-old in Miami who refused to evacuate;Â Antonella Giannantonio, a 51-year-old Miami resident who drove north on Wednesday and stopped in Tampa, where she is now in the path of the storm; Jess Bidgood, a Times reporter in Tampa. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "Hurricane Irma roared into Florida, where, in the wake of Hurricane Harvey, an apocalyptic forecast forced one of the largest evacuations in American history. Guests: Jean Eisen, a 93-year-old in Miami who refused to evacuate;Â Antonella Giannantonio, a 51-year-old Miami resident who drove north on Wednesday and stopped in Tampa, where she is now in the path of the storm; Jess Bidgood, a Times reporter in Tampa. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Monday, Sept. 11, 2017"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/5abfdea3-109f-436d-a18b-45b31503294b/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=5abfdea3-109f-436d-a18b-45b31503294b&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 20022836
+         },
+         "description" : "From the very beginning, the West was certain that China would not pull off its economic experiment. That certainty came from a set of assumptions about how societies function and political freedoms emerge. But those assumptions were wrong â and China became stronger than ever. Guest: Philip P. Pan, the Asia editor for The New York Times, spoke with us from Beijing. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1232,
+         "episodeID" : "GA0000P0000FGbR",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/5abfdea3-109f-436d-a18b-45b31503294b/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "From the very beginning, the West was certain that China would not pull off its economic experiment. That certainty came from a set of assumptions about how societies function and political freedoms emerge. But those assumptions were wrong â and China became stronger than ever. Guest: Philip P. Pan, the Asia editor for The New York Times, spoke with us from Beijing. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "From the very beginning, the West was certain that China would not pull off its economic experiment. That certainty came from a set of assumptions about how societies function and political freedoms emerge. But those assumptions were wrong â and China became stronger than ever. Guest: Philip P. Pan, the Asia editor for The New York Times, spoke with us from Beijing. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "What the West Got Wrong About China, Part 1"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/afeb52a4-b646-4924-90c9-eadcfe26ffd8/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=afeb52a4-b646-4924-90c9-eadcfe26ffd8&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 26975999
+         },
+         "description" : "Justice Anthony Kennedy, often considered the Supreme Courtâs ideological center, announced that he would retire this summer. His departure could fundamentally change the direction of the court. Guests: Adam Liptak, who covers the Supreme Court for The New York Times, and Sheryl Gay Stolberg, a congressional correspondent for The Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1667,
+         "episodeID" : "GA0000P0000FGW6",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/afeb52a4-b646-4924-90c9-eadcfe26ffd8/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "Justice Anthony Kennedy, often considered the Supreme Courtâs ideological center, announced that he would retire this summer. His departure could fundamentally change the direction of the court. Guests: Adam Liptak, who covers the Supreme Court for The New York Times, and Sheryl Gay Stolberg, a congressional correspondent for The Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "Justice Anthony Kennedy, often considered the Supreme Courtâs ideological center, announced that he would retire this summer. His departure could fundamentally change the direction of the court. Guests: Adam Liptak, who covers the Supreme Court for The New York Times, and Sheryl Gay Stolberg, a congressional correspondent for The Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "The Supreme Court Loses Its Swing Vote"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/056b0821-1d28-4cda-87a4-2206cca8c4eb/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=056b0821-1d28-4cda-87a4-2206cca8c4eb&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 20016570
+         },
+         "description" : "Federal prosecutors were confident that, this time, justice would be served in the case of Jeffrey Epstein. What happens to the case against him now that he is dead? Guest: Benjamin Weiser, an investigative criminal justice reporter for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily. Background reading:Despite Jeffrey Epstein's death, the criminal investigation that led to the sex-trafficking charges continues. Prosecutors will focus on those who may have aided him.At Mr. Epsteinâs Palm Beach home, it was hard for workers to miss what was happening, with about 100 masseuses seen there at various times.",
+         "durationSeconds" : 1232,
+         "episodeID" : "GA0000P000JMVZP",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/056b0821-1d28-4cda-87a4-2206cca8c4eb/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "Federal prosecutors were confident that, this time, justice would be served in the case of Jeffrey Epstein. What happens to the case against him now that he is dead?Â  Guest: Benjamin Weiser, an investigative criminal justice reporter for The New York Times.\n\nFor more information on todayâs episode, visit nytimes.com/thedaily.Â \n\nBackground reading:Despite Jeffrey Epstein's death, the criminal investigation that led to the sex-trafficking charges continues. Prosecutors will focus on those who may have aided him.At Mr. Epsteinâs Palm Beach home, it was hard for workers to miss what was happening, with about 100 masseuses seen there at various times.",
+         "summary" : "Federal prosecutors were confident that, this time, justice would be served in the case of Jeffrey Epstein. What happens to the case against him now that he is dead?Â  Guest: Benjamin Weiser, an investigative criminal justice reporter for The New York Times.\n\nFor more information on todayâs episode, visit nytimes.com/thedaily.Â \n\nBackground reading:Despite Jeffrey Epstein's death, the criminal investigation that led to the sex-trafficking charges continues. Prosecutors will focus on those who may have aided him.At Mr. Epsteinâs Palm Beach home, it was hard for workers to miss what was happening, with about 100 masseuses seen there at various times.",
+         "title" : "The Epstein Investigation, Now That Heâs Dead"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/ec05567e-d91b-47c9-9ed3-a2cf1cb75b25/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=ec05567e-d91b-47c9-9ed3-a2cf1cb75b25&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 22780097
+         },
+         "description" : "Millions of Americans watched on Tuesday night as President Trump made his case for a wall on the southern border, and as Democratic leaders dismissed his talk of crisis. Guests: Michael M. Grynbaum, who covers the media for The New York Times, and Mark Landler, a White House correspondent. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1405,
+         "episodeID" : "GA0000P0000FGhD",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/ec05567e-d91b-47c9-9ed3-a2cf1cb75b25/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "Millions of Americans watched on Tuesday night as President Trump made his case for a wall on the southern border, and as Democratic leaders dismissed his talk of crisis. Guests: Michael M. Grynbaum, who covers the media for The New York Times, and Mark Landler, a White House correspondent. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "Millions of Americans watched on Tuesday night as President Trump made his case for a wall on the southern border, and as Democratic leaders dismissed his talk of crisis. Guests: Michael M. Grynbaum, who covers the media for The New York Times, and Mark Landler, a White House correspondent. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Trumpâs Prime-Time Address"
+      }
+   ],
+   "meta" : {
+      "limit" : 30,
+      "offset" : 0,
+      "total" : 1492
+   }
+}

@@ -1,0 +1,58 @@
+3.7 Track Endpoint do_track_search ===========================================
+{
+   "albums" : {
+      "items" : [
+         {
+            "artists" : [
+               {
+                  "id" : 4332277,
+                  "name" : "Ariana Grande",
+                  "picture" : "6b7554b8-5899-40a8-8c13-09af915f1ba7"
+               }
+            ],
+            "cover" : "ebbc911f-560c-4bc0-9ee3-f8cd59552cf3",
+            "id" : 160351543,
+            "title" : "Positions"
+         },
+         {
+            "artists" : [
+               {
+                  "id" : 4332277,
+                  "name" : "Ariana Grande",
+                  "picture" : "6b7554b8-5899-40a8-8c13-09af915f1ba7"
+               }
+            ],
+            "cover" : "41d09605-7b89-4c57-93f9-0f34f115a5df",
+            "id" : 174185102,
+            "title" : "Positions (Deluxe)"
+         },
+         {
+            "artists" : [
+               {
+                  "id" : 4332277,
+                  "name" : "Ariana Grande",
+                  "picture" : "6b7554b8-5899-40a8-8c13-09af915f1ba7"
+               }
+            ],
+            "cover" : "73f94d45-c62b-49bf-bec1-eea66b597f04",
+            "id" : 160351719,
+            "title" : "Positions"
+         }
+      ],
+      "limit" : 3,
+      "offset" : 0,
+      "totalNumberOfItems" : 300
+   },
+   "artists" : {
+      "items" : [],
+      "limit" : 3,
+      "offset" : 0,
+      "totalNumberOfItems" : 0
+   },
+   "tracks" : {
+      "items" : [],
+      "limit" : 3,
+      "offset" : 0,
+      "totalNumberOfItems" : 0
+   }
+}

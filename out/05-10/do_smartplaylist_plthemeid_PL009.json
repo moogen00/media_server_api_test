@@ -1,0 +1,416 @@
+3.4 Smart PlayList Endpoint\n3.4.1 By PL Theme ID do_smartplaylist_plthemeid ===========================================
+{
+   "playlistsOption" : {
+      "language" : "en",
+      "limit" : 20,
+      "origin" : "NA",
+      "plThemeName" : "PL009",
+      "priority" : "Random"
+   },
+   "tracks" : {
+      "count" : 20,
+      "offset" : 0,
+      "trackList" : [
+         {
+            "album" : {
+               "albumId" : "GNAVBKA075D05Y6",
+               "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/F52A/8F10/132F/8F6F_xlarge_front.jpg",
+               "albumName" : "Ã·"
+            },
+            "artists" : {
+               "artistId" : "GN9JMQGF8KZ0F04",
+               "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/4EE2/66B2/CDF9/94F8_medium_front.jpg",
+               "artistName" : "Ed Sheeran"
+            },
+            "duration" : "263471",
+            "genreId" : "84321",
+            "genreName" : "Neo-Soul",
+            "moodId" : "89996",
+            "moodName" : "Heartfelt Lite Glossy Wistful Sensitive",
+            "recordingId" : "GN4K7CK2A9FMNZS",
+            "recordingName" : "Perfect",
+            "tidalTrackId" : "70891471"
+         },
+         {
+            "album" : {
+               "albumId" : "GNB6GJ8VBFSRDVD",
+               "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/592F/EACE/75C5/530A_xlarge_front.jpg",
+               "albumName" : "Back from the Edge"
+            },
+            "artists" : {
+               "artistId" : "GND0C94097TBZD7",
+               "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/2D8B/77AB/4B8E/A747_xlarge_front.jpg",
+               "artistName" : "James Arthur"
+            },
+            "duration" : "208800",
+            "genreId" : "88071",
+            "genreName" : "Trapsoul",
+            "moodId" : "89996",
+            "moodName" : "Heartfelt Lite Glossy Wistful Sensitive",
+            "recordingId" : "GN817T1RJAKENJ7",
+            "recordingName" : "Train Wreck",
+            "tidalTrackId" : "64819711"
+         },
+         {
+            "album" : {
+               "albumId" : "GNFD8AGS00HZPNK",
+               "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/384A/3259/8FEB/F58D_xlarge_front.jpg",
+               "albumName" : "Doo-Wops & Hooligans"
+            },
+            "artists" : {
+               "artistId" : "GNBK8J86JWQRB64",
+               "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/C6FD/B918/AA09/27D8_xlarge_front.jpg",
+               "artistName" : "Bruno Mars"
+            },
+            "duration" : "217866",
+            "genreId" : "84319",
+            "genreName" : "Classic Soul Ballad",
+            "moodId" : "89993",
+            "moodName" : "Serious Glossy Intense Loving Emotion",
+            "recordingId" : "GNATSEB911ZCF50",
+            "recordingName" : "Talking To The Moon",
+            "tidalTrackId" : "208628447"
+         },
+         {
+            "album" : {
+               "albumId" : "GN0QRDW9XJGVEGG",
+               "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/5297/5A96/6AFB/97F2_xlarge_front.jpg",
+               "albumName" : "Beauty Behind The Madness"
+            },
+            "artists" : {
+               "artistId" : "GN7HC0B6B2DQD9W",
+               "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/B76D/C3C2/AEBF/D550_xlarge_front.jpg",
+               "artistName" : "The Weeknd"
+            },
+            "duration" : "277707",
+            "genreId" : "88071",
+            "genreName" : "Trapsoul",
+            "moodId" : "89995",
+            "moodName" : "Glossy Powerful Emotion & Strength",
+            "recordingId" : "GN3H7NBSW019MEC",
+            "recordingName" : "Earned It",
+            "tidalTrackId" : "39074876"
+         },
+         {
+            "album" : {
+               "albumId" : "GNAQKKX73P71XE2",
+               "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/38B1/1DA3/6FD8/A748_xlarge_front.jpg",
+               "albumName" : "25"
+            },
+            "artists" : {
+               "artistId" : "GND6CJFDB6BH1X3",
+               "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/13FF/F7F2/CF82/9DE5_large_front.jpg",
+               "artistName" : "Adele"
+            },
+            "duration" : "290906",
+            "genreId" : "84234",
+            "genreName" : "Adult Alternative Pop",
+            "moodId" : "89995",
+            "moodName" : "Glossy Powerful Emotion & Strength",
+            "recordingId" : "GN8M7RQJCN5FRCV",
+            "recordingName" : "When We Were Young",
+            "tidalTrackId" : "62300896"
+         },
+         {
+            "album" : {
+               "albumId" : "GN5YFTHCHV1B660",
+               "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/48E0/493E/5D51/E09E_xlarge_front.jpg",
+               "albumName" : "Dan + Shay"
+            },
+            "artists" : {
+               "artistId" : "GN00RFF1H92XGWX",
+               "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/6A9F/6CA4/091B/7CA6_medium_front.jpg",
+               "artistName" : "Dan + Shay"
+            },
+            "duration" : "213447",
+            "genreId" : "84234",
+            "genreName" : "Adult Alternative Pop",
+            "moodId" : "89945",
+            "moodName" : "Sensitive Earnest Uplifting",
+            "recordingId" : "GNA2877VKWMQSFT",
+            "recordingName" : "Speechless",
+            "tidalTrackId" : "209490158"
+         },
+         {
+            "album" : {
+               "albumId" : "GNCZFPHBMPCQE4S",
+               "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/8474/CF2E/465C/917C_xlarge_front.jpg",
+               "albumName" : "All I Want (Love That Lasts Mix)"
+            },
+            "artists" : {
+               "artistId" : "GNCFR47A639Z6WG",
+               "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/A23A/1C2C/5F04/2662_xlarge_front.jpg",
+               "artistName" : "Olivia Rodrigo"
+            },
+            "duration" : "175449",
+            "genreId" : "88043",
+            "genreName" : "Intimate Contemporary Pop",
+            "moodId" : "89993",
+            "moodName" : "Serious Glossy Intense Loving Emotion",
+            "recordingId" : "GN6R1Q64W78YHWP",
+            "recordingName" : "All I Want (Love That Lasts Mix)",
+            "tidalTrackId" : "141594844"
+         },
+         {
+            "album" : {
+               "albumId" : "GNAQKKX73P71XE2",
+               "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/38B1/1DA3/6FD8/A748_xlarge_front.jpg",
+               "albumName" : "25"
+            },
+            "artists" : {
+               "artistId" : "GND6CJFDB6BH1X3",
+               "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/13FF/F7F2/CF82/9DE5_large_front.jpg",
+               "artistName" : "Adele"
+            },
+            "duration" : "295493",
+            "genreId" : "84117",
+            "genreName" : "Indie Folk",
+            "moodId" : "89995",
+            "moodName" : "Glossy Powerful Emotion & Strength",
+            "recordingId" : "GNC6A9PA9KWNX7P",
+            "recordingName" : "Hello",
+            "tidalTrackId" : "62300893"
+         },
+         {
+            "album" : {
+               "albumId" : "GN3DP1C7CZ7RQYZ",
+               "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/8A93/A4B6/1AD1/C98B_xlarge_front.jpg",
+               "albumName" : "A Girl Like Me"
+            },
+            "artists" : {
+               "artistId" : "GNFYEQEM7AMG05T",
+               "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/BAA8/F0EB/4AB5/AF46_xlarge_front.jpg",
+               "artistName" : "Rihanna"
+            },
+            "duration" : "228546",
+            "genreId" : "84332",
+            "genreName" : "Urban Contemporary: Pop",
+            "moodId" : "34169",
+            "moodName" : "Glossy Positive Powerful Loving Emotion",
+            "recordingId" : "GN1J48JRXAA01F8",
+            "recordingName" : "Unfaithful",
+            "tidalTrackId" : "4883272"
+         },
+         {
+            "album" : {
+               "albumId" : "GNCTVKCK0T2V7B3",
+               "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/3F92/4C9F/4D7C/7240_xlarge_front.jpg",
+               "albumName" : "Hey World"
+            },
+            "artists" : {
+               "artistId" : "GN3FMAVT4YE318V",
+               "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/5761/3BC5/76F3/9070_large_front.jpg",
+               "artistName" : "Lee Brice"
+            },
+            "duration" : "180677",
+            "genreId" : "84036",
+            "genreName" : "Rockin' Country Groove",
+            "moodId" : "90214",
+            "moodName" : "Strong Steady Strumming Yearning",
+            "recordingId" : "GN2GPE0KKHF7GE6",
+            "recordingName" : "Memory I Don't Mess With",
+            "tidalTrackId" : "153969923"
+         },
+         {
+            "album" : {
+               "albumId" : "GNCK4SMEKKNBWHH",
+               "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/D0D8/2E01/54AD/C60B_xlarge_front.jpg",
+               "albumName" : "BRIT Awards 2012"
+            },
+            "artists" : {
+               "artistId" : "GNAZ1VTN1CAA2M9",
+               "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/EA3A/0D2D/5A5D/19C4_xlarge_front.jpg",
+               "artistName" : "BeyoncÃ©"
+            },
+            "duration" : "253746",
+            "genreId" : "84243",
+            "genreName" : "Contemporary Pop Power Ballad",
+            "moodId" : "90201",
+            "moodName" : "Glossy Positive Intense Powerful Loving Emotion",
+            "recordingId" : "GNFC6RT5YS95JN1",
+            "recordingName" : "Best Thing I Never Had",
+            "tidalTrackId" : "19646532"
+         },
+         {
+            "album" : {
+               "albumId" : "GNC11H1PAPVMTVJ",
+               "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/3847/5EC1/A372/6D2D_xlarge_front.jpg",
+               "albumName" : "Promo Only Rhythm Radio November 2008"
+            },
+            "artists" : {
+               "artistId" : "GNAZ1VTN1CAA2M9",
+               "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/EA3A/0D2D/5A5D/19C4_xlarge_front.jpg",
+               "artistName" : "BeyoncÃ©"
+            },
+            "duration" : "249234",
+            "genreId" : "84243",
+            "genreName" : "Contemporary Pop Power Ballad",
+            "moodId" : "89995",
+            "moodName" : "Glossy Powerful Emotion & Strength",
+            "recordingId" : "GNBKFEHZJSQAPAD",
+            "recordingName" : "If I Were A Boy",
+            "tidalTrackId" : "2024976"
+         },
+         {
+            "album" : {
+               "albumId" : "GN0K5G4EJTH6SF5",
+               "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/FF75/FD64/401E/5152_xlarge_front.jpg",
+               "albumName" : "+"
+            },
+            "artists" : {
+               "artistId" : "GN9JMQGF8KZ0F04",
+               "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/4EE2/66B2/CDF9/94F8_medium_front.jpg",
+               "artistName" : "Ed Sheeran"
+            },
+            "duration" : "526471",
+            "genreId" : "84234",
+            "genreName" : "Adult Alternative Pop",
+            "moodId" : "89945",
+            "moodName" : "Sensitive Earnest Uplifting",
+            "recordingId" : "GN5DS17XE5KDCFB",
+            "recordingName" : "Give Me Love",
+            "tidalTrackId" : "7967461"
+         },
+         {
+            "album" : {
+               "albumId" : "GN8MV2K61G5PZTV",
+               "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/EDE6/1379/3FEC/EBA4_xlarge_front.jpg",
+               "albumName" : "Lose You To Love Me"
+            },
+            "artists" : {
+               "artistId" : "GN3VNDHGQTCYZSC",
+               "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/FAE4/C45A/F049/0036_xlarge_front.jpg",
+               "artistName" : "Selena Gomez"
+            },
+            "duration" : "206453",
+            "genreId" : "88043",
+            "genreName" : "Intimate Contemporary Pop",
+            "moodId" : "89996",
+            "moodName" : "Heartfelt Lite Glossy Wistful Sensitive",
+            "recordingId" : "GN7T3QZKYK9SWJF",
+            "recordingName" : "Lose You To Love Me",
+            "tidalTrackId" : "127746471"
+         },
+         {
+            "album" : {
+               "albumId" : "GN4DD9QTGQRRQHW",
+               "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/0085/6C7A/CDBE/EC89_medium_front.jpg",
+               "albumName" : "Beautiful"
+            },
+            "artists" : {
+               "artistId" : "GNBMMTB89WFHX77",
+               "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/C71B/A0A1/EB94/DC80_xlarge_front.jpg",
+               "artistName" : "Christina Aguilera"
+            },
+            "duration" : "239000",
+            "genreId" : "84251",
+            "genreName" : "Pop Vocal Ballad",
+            "moodId" : "90001",
+            "moodName" : "Soulful Emotional Passionate Sad",
+            "recordingId" : "GNB7JVR6D1PM3DK",
+            "recordingName" : "Beautiful",
+            "tidalTrackId" : "1337283"
+         },
+         {
+            "album" : {
+               "albumId" : "GNCTE5F9ECW99ST",
+               "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/156D/CC7E/B599/B33C_xlarge_front.jpg",
+               "albumName" : "Positions"
+            },
+            "artists" : {
+               "artistId" : "GN5ER0KA63DQZP6",
+               "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/55A1/6F76/C960/E6D3_xlarge_front.jpg",
+               "artistName" : "Ariana Grande"
+            },
+            "duration" : "201882",
+            "genreId" : "88074",
+            "genreName" : "Urban Crossover: Bass",
+            "moodId" : "89995",
+            "moodName" : "Glossy Powerful Emotion & Strength",
+            "recordingId" : "GN2V44Y9JRFDJM6",
+            "recordingName" : "pov",
+            "tidalTrackId" : "160351557"
+         },
+         {
+            "album" : {
+               "albumId" : "GNCFG9WMRM06Q8Y",
+               "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/6939/85EA/587E/E6A6_xlarge_front.jpg",
+               "albumName" : "BE"
+            },
+            "artists" : {
+               "artistId" : "GNAM9QY8PQ0Z6HV",
+               "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/8E3E/AB38/6E86/2F68_xlarge_front.jpg",
+               "artistName" : "BTS"
+            },
+            "duration" : "254950",
+            "genreId" : "84234",
+            "genreName" : "Adult Alternative Pop",
+            "moodId" : "89995",
+            "moodName" : "Glossy Powerful Emotion & Strength",
+            "recordingId" : "GN1VX1BP7XKJPWN",
+            "recordingName" : "Blue & Grey",
+            "tidalTrackId" : "213529567"
+         },
+         {
+            "album" : {
+               "albumId" : "GN8NVDS49ATQW3G",
+               "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/C82A/8BCA/77BD/AE20_xlarge_front.jpg",
+               "albumName" : "Bangerz"
+            },
+            "artists" : {
+               "artistId" : "GN1HCS0766CRJ5X",
+               "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/5BDA/04C3/65B6/947D_xlarge_front.jpg",
+               "artistName" : "Miley Cyrus"
+            },
+            "duration" : "221360",
+            "genreId" : "84243",
+            "genreName" : "Contemporary Pop Power Ballad",
+            "moodId" : "89995",
+            "moodName" : "Glossy Powerful Emotion & Strength",
+            "recordingId" : "GN495JEN7VBDMBE",
+            "recordingName" : "Wrecking Ball",
+            "tidalTrackId" : "22769520"
+         },
+         {
+            "album" : {
+               "albumId" : "GN5KJJD8EQRJYCR",
+               "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/1F9B/A026/428D/8007_xlarge_front.jpg",
+               "albumName" : "Il Re Leone: Colonna Sonora Originale"
+            },
+            "artists" : {
+               "artistId" : "GNAZ1VTN1CAA2M9",
+               "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/EA3A/0D2D/5A5D/19C4_xlarge_front.jpg",
+               "artistName" : "BeyoncÃ©"
+            },
+            "duration" : "273120",
+            "genreId" : "84331",
+            "genreName" : "Urban Contemporary: R&B",
+            "moodId" : "90001",
+            "moodName" : "Soulful Emotional Passionate Sad",
+            "recordingId" : "GNDQQG1ETAQS7DN",
+            "recordingName" : "Spirit",
+            "tidalTrackId" : "77610757"
+         },
+         {
+            "album" : {
+               "albumId" : "GNBFQVYQV57B1FD",
+               "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/99C9/7F57/151B/7137_xlarge_front.jpg",
+               "albumName" : "God Whispered Your Name"
+            },
+            "artists" : {
+               "artistId" : "GN1ARBZPCTC8YZ0",
+               "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/6A8D/695C/BC09/36E7_xlarge_front.jpg",
+               "artistName" : "Keith Urban"
+            },
+            "duration" : "232160",
+            "genreId" : "84117",
+            "genreName" : "Indie Folk",
+            "moodId" : "90201",
+            "moodName" : "Glossy Positive Intense Powerful Loving Emotion",
+            "recordingId" : "GNC3VXAN6CDGV85",
+            "recordingName" : "God Whispered Your Name",
+            "tidalTrackId" : "131395123"
+         }
+      ]
+   }
+}

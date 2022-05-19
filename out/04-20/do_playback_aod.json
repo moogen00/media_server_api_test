@@ -1,0 +1,490 @@
+3.6 Aod Playback Endpoint do_playback_aod ===========================================
+{
+   "data" : [
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/b2db8ac0-2059-4722-9c72-64c73a95a8a7/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=b2db8ac0-2059-4722-9c72-64c73a95a8a7&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 22484175
+         },
+         "description" : "What weâve learned about President Trumpâs Oval Office meeting with top Russian officials the day after he fired James Comey, the F.B.I. director investigating his campaignâs ties to Russia. Plus: how efforts by the U.S. government to protect against a cyberattack may have enabled one. Guests: Matthew Rosenberg, who covers intelligence and national security; David E. Sanger, the chief Washington correspondent for The Times. For more information on todayâs episode, visit http://nyti.ms/2pVBUrl.",
+         "durationSeconds" : 1386,
+         "episodeID" : "GA0000P0000FGGh",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/b2db8ac0-2059-4722-9c72-64c73a95a8a7/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "What weâve learned about President Trumpâs Oval Office meeting with top Russian officials the day after he fired James Comey, the F.B.I. director investigating his campaignâs ties to Russia. Plus: how efforts by the U.S. government to protect against a cyberattack may have enabled one. Guests: Matthew Rosenberg, who covers intelligence and national security; David E. Sanger, the chief Washington correspondent for The Times. For more information on todayâs episode, visit http://nyti.ms/2pVBUrl.",
+         "summary" : "What weâve learned about President Trumpâs Oval Office meeting with top Russian officials the day after he fired James Comey, the F.B.I. director investigating his campaignâs ties to Russia. Plus: how efforts by the U.S. government to protect against a cyberattack may have enabled one. Guests: Matthew Rosenberg, who covers intelligence and national security; David E. Sanger, the chief Washington correspondent for The Times. For more information on todayâs episode, visit http://nyti.ms/2pVBUrl.",
+         "title" : "Tuesday, May 16, 2017"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/e258eaec-297b-4d97-8b22-1240ea4d6f9f/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=e258eaec-297b-4d97-8b22-1240ea4d6f9f&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 27154893
+         },
+         "description" : "On Tuesday evening, President Trump fired the director of the F.B.I., citing his handling of the inquiry into Hillary Clintonâs emails. In case you missed it, hereâs our earlier episode on how Mr. Comey handled investigations into Mrs. Clintonâs conduct and Mr. Trumpâs associates, and powerfully shaped the 2016 election. For more information on todayâs episode, visit http://nyti.ms/2pvfyRr.",
+         "durationSeconds" : 1678,
+         "episodeID" : "GA0000P0000FGGW",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/e258eaec-297b-4d97-8b22-1240ea4d6f9f/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "On Tuesday evening, President Trump fired the director of the F.B.I., citing his handling of the inquiry into Hillary Clintonâs emails. In case you missed it, hereâs our earlier episode on how Mr. Comey handled investigations into Mrs. Clintonâs conduct and Mr. Trumpâs associates, and powerfully shaped the 2016 election. For more information on todayâs episode, visit http://nyti.ms/2pvfyRr.",
+         "summary" : "On Tuesday evening, President Trump fired the director of the F.B.I., citing his handling of the inquiry into Hillary Clintonâs emails. In case you missed it, hereâs our earlier episode on how Mr. Comey handled investigations into Mrs. Clintonâs conduct and Mr. Trumpâs associates, and powerfully shaped the 2016 election. For more information on todayâs episode, visit http://nyti.ms/2pvfyRr.",
+         "title" : "Refresher: James Comey and the 2016 Election"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/c8fe4143-f545-46fc-9285-8dbc23562755/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=c8fe4143-f545-46fc-9285-8dbc23562755&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 17700634
+         },
+         "description" : "The rise of the far right in Europe. Why the populism that put Donald J. Trump in the White House is starting to sweep across the Continent, as voters there confront similar questions of national identity and immigration. Guests: Amanda Taub and Max Fisher, who write the Interpreter column for The New York Times. For more information on todayâs episode, visit http://nyti.ms/2n9sMC1.",
+         "durationSeconds" : 1087,
+         "episodeID" : "GA0000P0000FGFG",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/c8fe4143-f545-46fc-9285-8dbc23562755/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "The rise of the far right in Europe. Why the populism that put Donald J. Trump in the White House is starting to sweep across the Continent, as voters there confront similar questions of national identity and immigration. Guests: Amanda Taub and Max Fisher, who write the Interpreter column for The New York Times. For more information on todayâs episode, visit http://nyti.ms/2n9sMC1.",
+         "summary" : "The rise of the far right in Europe. Why the populism that put Donald J. Trump in the White House is starting to sweep across the Continent, as voters there confront similar questions of national identity and immigration. Guests: Amanda Taub and Max Fisher, who write the Interpreter column for The New York Times. For more information on todayâs episode, visit http://nyti.ms/2n9sMC1.",
+         "title" : "Tuesday, March 14, 2017"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/d7144935-6a2c-424a-8ef7-38d25f142330/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=d7144935-6a2c-424a-8ef7-38d25f142330&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 24283493
+         },
+         "description" : "The Trump administrationâs recent border policy is, in part, a response to the large numbers of migrants who have been making the journey to the United States from Central America. For many, staying in their native countries is no longer an option. Guest: Azam Ahmed, the New York Times bureau chief for Mexico, Central America and the Caribbean. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1499,
+         "episodeID" : "GA0000P0000FGW2",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/d7144935-6a2c-424a-8ef7-38d25f142330/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "The Trump administrationâs recent border policy is, in part, a response to the large numbers of migrants who have been making the journey to the United States from Central America. For many, staying in their native countries is no longer an option. Guest: Azam Ahmed, the New York Times bureau chief for Mexico, Central America and the Caribbean. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "The Trump administrationâs recent border policy is, in part, a response to the large numbers of migrants who have been making the journey to the United States from Central America. For many, staying in their native countries is no longer an option. Guest: Azam Ahmed, the New York Times bureau chief for Mexico, Central America and the Caribbean. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "What Migrants Are Fleeing"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/5c546414-764c-49f8-b2ba-bd95a1367329/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=5c546414-764c-49f8-b2ba-bd95a1367329&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 27324183
+         },
+         "description" : "Attorney General William P. Barr sent a letter to Congress summarizing the Mueller report: The special counsel investigation did not establish coordination with Russia, but there was a more complicated story when it came to obstruction of justice. Guests: The Times reporters Maggie Haberman, who covers the White House; and Michael S. Schmidt, who has been covering the special counsel investigation. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1689,
+         "episodeID" : "GA0000P0000FGr0",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/5c546414-764c-49f8-b2ba-bd95a1367329/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "Attorney General William P. Barr sent a letter to Congress summarizing the Mueller report: The special counsel investigation did not establish coordination with Russia, but there was a more complicated story when it came to obstruction of justice. Guests: The Times reporters Maggie Haberman, who covers the White House; and Michael S. Schmidt, who has been covering the special counsel investigation. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "Attorney General William P. Barr sent a letter to Congress summarizing the Mueller report: The special counsel investigation did not establish coordination with Russia, but there was a more complicated story when it came to obstruction of justice. Guests: The Times reporters Maggie Haberman, who covers the White House; and Michael S. Schmidt, who has been covering the special counsel investigation. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Coordination: Not Established. Obstruction: More Complicated."
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/508dcd31-06d4-41f7-bf02-1b43bf68a0c6/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=508dcd31-06d4-41f7-bf02-1b43bf68a0c6&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 34166973
+         },
+         "description" : "Tonya Harding had talent, but the world of figure skating wanted nothing to do with her. She was called âwhite trash.â And when Nancy Kerrigan was bashed in the knee just before the 1994 Winter Olympics, Ms. Harding became a villain. Now, 24 years later, her narrative is being revisited â and she is back in the spotlight. Guest: Taffy Brodesser-Akner, who interviewed Tonya Harding (now Tonya Price) for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 2116,
+         "episodeID" : "GA0000P0000FGRF",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/508dcd31-06d4-41f7-bf02-1b43bf68a0c6/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "Tonya Harding had talent, but the world of figure skating wanted nothing to do with her. She was called âwhite trash.â And when Nancy Kerrigan was bashed in the knee just before the 1994 Winter Olympics, Ms. Harding became a villain. Now, 24 years later, her narrative is being revisited â and she is back in the spotlight. Guest: Taffy Brodesser-Akner, who interviewed Tonya Harding (now Tonya Price) for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "Tonya Harding had talent, but the world of figure skating wanted nothing to do with her. She was called âwhite trash.â And when Nancy Kerrigan was bashed in the knee just before the 1994 Winter Olympics, Ms. Harding became a villain. Now, 24 years later, her narrative is being revisited â and she is back in the spotlight. Guest: Taffy Brodesser-Akner, who interviewed Tonya Harding (now Tonya Price) for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Wednesday, Jan. 24, 2018"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/105af68c-809c-46b0-b68f-0e9ecda07e05/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=105af68c-809c-46b0-b68f-0e9ecda07e05&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 20414024
+         },
+         "description" : "President Trump called the firing of Andrew G. McCabe, the deputy F.B.I. director, a âgreat day for democracy.â Mr. McCabe says itâs further evidence of the presidentâs efforts to undermine the Russia investigation. What really happened? Guest: Matt Apuzzo, a New York Times reporter in Washington. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1257,
+         "episodeID" : "GA0000P0000FGSP",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/105af68c-809c-46b0-b68f-0e9ecda07e05/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "President Trump called the firing of Andrew G. McCabe, the deputy F.B.I. director, a âgreat day for democracy.â Mr. McCabe says itâs further evidence of the presidentâs efforts to undermine the Russia investigation. What really happened? Guest: Matt Apuzzo, a New York Times reporter in Washington. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "President Trump called the firing of Andrew G. McCabe, the deputy F.B.I. director, a âgreat day for democracy.â Mr. McCabe says itâs further evidence of the presidentâs efforts to undermine the Russia investigation. What really happened? Guest: Matt Apuzzo, a New York Times reporter in Washington. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Monday, Mar. 19, 2018"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/6f127080-5c1a-49f0-bde4-de7c97737390/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=6f127080-5c1a-49f0-bde4-de7c97737390&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 19857722
+         },
+         "description" : "Rukmini Callimachi takes us into Iraq to see if a major victory over the Islamic State is really at hand in the streets of Mosul. Guests: Ms. Callimachi, a New York Times correspondent covering terrorism; Nathaniel Popper, a Times reporter covering finance and technology. For more information on todayâs episode, visit http://nyti.ms/2lvdohI.",
+         "durationSeconds" : 1222,
+         "episodeID" : "GA0000P0000FGF1",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/6f127080-5c1a-49f0-bde4-de7c97737390/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "Rukmini Callimachi takes us into Iraq to see if a major victory over the Islamic State is really at hand in the streets of Mosul. Guests: Ms. Callimachi, a New York Times correspondent covering terrorism; Nathaniel Popper, a Times reporter covering finance and technology. For more information on todayâs episode, visit http://nyti.ms/2lvdohI.",
+         "summary" : "Rukmini Callimachi takes us into Iraq to see if a major victory over the Islamic State is really at hand in the streets of Mosul. Guests: Ms. Callimachi, a New York Times correspondent covering terrorism; Nathaniel Popper, a Times reporter covering finance and technology. For more information on todayâs episode, visit http://nyti.ms/2lvdohI.",
+         "title" : "Thursday, Feb. 23, 2017"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/28d19c72-bb1f-4938-baca-3d1dea744d17/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=28d19c72-bb1f-4938-baca-3d1dea744d17&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 18913133
+         },
+         "description" : "Hurricane Irma roared into Florida, where, in the wake of Hurricane Harvey, an apocalyptic forecast forced one of the largest evacuations in American history. Guests: Jean Eisen, a 93-year-old in Miami who refused to evacuate; Antonella Giannantonio, a 51-year-old Miami resident who drove north on Wednesday and stopped in Tampa, where she is now in the path of the storm; Jess Bidgood, a Times reporter in Tampa. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1163,
+         "episodeID" : "GA0000P0000FGMH",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/28d19c72-bb1f-4938-baca-3d1dea744d17/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "Hurricane Irma roared into Florida, where, in the wake of Hurricane Harvey, an apocalyptic forecast forced one of the largest evacuations in American history. Guests: Jean Eisen, a 93-year-old in Miami who refused to evacuate;Â Antonella Giannantonio, a 51-year-old Miami resident who drove north on Wednesday and stopped in Tampa, where she is now in the path of the storm; Jess Bidgood, a Times reporter in Tampa. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "Hurricane Irma roared into Florida, where, in the wake of Hurricane Harvey, an apocalyptic forecast forced one of the largest evacuations in American history. Guests: Jean Eisen, a 93-year-old in Miami who refused to evacuate;Â Antonella Giannantonio, a 51-year-old Miami resident who drove north on Wednesday and stopped in Tampa, where she is now in the path of the storm; Jess Bidgood, a Times reporter in Tampa. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Monday, Sept. 11, 2017"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/58edab8a-0221-4045-956d-68388dbe0188/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=58edab8a-0221-4045-956d-68388dbe0188&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 20189998
+         },
+         "description" : "For months, the federal investigation into possible links between the Trump campaign and Russia focused on Washington. Now, the inquiry has led back to New York, the presidentâs hometown, and to one man: Michael D. Cohen. Guest: Jim Rutenberg, who has been reporting on Mr. Cohen, President Trumpâs longtime personal lawyer, for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1243,
+         "episodeID" : "GA0000P0000FGT8",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/58edab8a-0221-4045-956d-68388dbe0188/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "For months, the federal investigation into possible links between the Trump campaign and Russia focused on Washington. Now, the inquiry has led back to New York, the presidentâs hometown, and to one man: Michael D. Cohen. Guest: Jim Rutenberg, who has been reporting on Mr. Cohen, President Trumpâs longtime personal lawyer, for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "For months, the federal investigation into possible links between the Trump campaign and Russia focused on Washington. Now, the inquiry has led back to New York, the presidentâs hometown, and to one man: Michael D. Cohen. Guest: Jim Rutenberg, who has been reporting on Mr. Cohen, President Trumpâs longtime personal lawyer, for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Tuesday, Apr. 17, 2018"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/439dcddf-5cff-4426-94f3-d9d7bdbf51da/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=439dcddf-5cff-4426-94f3-d9d7bdbf51da&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 23825839
+         },
+         "description" : "While on his way to the historic summit meeting with Kim Jong-un of North Korea, President Trump isolated himself from other world leaders by refusing to endorse a joint statement of the Group of 7 nations, which had just met in Canada. Why is the president picking fights with Americaâs closest allies and embracing its longtime opponents? Guest: Mark Landler, a White House correspondent for The New York Times, who is reporting from Singapore on the talks between Mr. Trump and Mr. Kim. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1470,
+         "episodeID" : "GA0000P0000FGVS",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/439dcddf-5cff-4426-94f3-d9d7bdbf51da/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "While on his way to the historic summit meeting with Kim Jong-un of North Korea, President Trump isolated himself from other world leaders by refusing to endorse a joint statement of the Group of 7 nations, which had just met in Canada. Why is the president picking fights with Americaâs closest allies and embracing its longtime opponents? Guest: Mark Landler, a White House correspondent for The New York Times, who is reporting from Singapore on the talks between Mr. Trump and Mr. Kim. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "While on his way to the historic summit meeting with Kim Jong-un of North Korea, President Trump isolated himself from other world leaders by refusing to endorse a joint statement of the Group of 7 nations, which had just met in Canada. Why is the president picking fights with Americaâs closest allies and embracing its longtime opponents? Guest: Mark Landler, a White House correspondent for The New York Times, who is reporting from Singapore on the talks between Mr. Trump and Mr. Kim. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Alienating Allies and Wooing Enemies"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/4b71b140-ff1d-4751-ad29-9eff8fb2f1da/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=4b71b140-ff1d-4751-ad29-9eff8fb2f1da&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 33605257
+         },
+         "description" : "The New York Times has introduced a documentary audio series that follows Rukmini Callimachi, who covers terrorism for The Times, on her quest to understand ISIS. Today, as a special episode of âThe Daily,â we offer Chapter 8 of âCaliphate,â in which Rukmini finds a trove of secret documents that lead her to the mother of an ISIS official. For more information about the series, visit nytimes.com/caliphate. This episode includes disturbing language and scenes of graphic violence.",
+         "durationSeconds" : 2081,
+         "episodeID" : "GA0000P0000FGVR",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/4b71b140-ff1d-4751-ad29-9eff8fb2f1da/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "The New York Times has introduced a documentary audio series that follows Rukmini Callimachi, who covers terrorism for The Times, on her quest to understand ISIS. Today, as a special episode of âThe Daily,â we offer Chapter 8 of âCaliphate,â in which Rukmini finds a trove of secret documents that lead her to the mother of an ISIS official. For more information about the series, visit nytimes.com/caliphate.\n\nThis episode includes disturbing language and scenes of graphic violence.",
+         "summary" : "The New York Times has introduced a documentary audio series that follows Rukmini Callimachi, who covers terrorism for The Times, on her quest to understand ISIS. Today, as a special episode of âThe Daily,â we offer Chapter 8 of âCaliphate,â in which Rukmini finds a trove of secret documents that lead her to the mother of an ISIS official. For more information about the series, visit nytimes.com/caliphate.\n\nThis episode includes disturbing language and scenes of graphic violence.",
+         "title" : "The Daily Presents âCaliphate,â Chapter 8"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/f658e83e-70d2-41a3-8e5c-507799a6cb69/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=f658e83e-70d2-41a3-8e5c-507799a6cb69&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 19070705
+         },
+         "description" : "In a ceremony made for prime-time television, President Trump announced his Supreme Court nominee: Neil M. Gorsuch, a conservative judge with a sterling rÃ©sumÃ©. We spent the night at The New York Times talking with some of our most insightful colleagues about what the nomination means. We also get on the phone with the chief executive of Hobby Lobby, a company at the center of one of Judge Gorsuchâs most important cases.",
+         "durationSeconds" : 1173,
+         "episodeID" : "GA0000P0000FGDN",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/f658e83e-70d2-41a3-8e5c-507799a6cb69/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "In a ceremony made for prime-time television, President Trump announced his Supreme Court nominee: Neil M. Gorsuch, a conservative judge with a sterling rÃ©sumÃ©. We spent the night at The New York Times talking with some of our most insightful colleagues about what the nomination means. We also get on the phone with the chief executive of Hobby Lobby, a company at the center of one of Judge Gorsuchâs most important cases.",
+         "summary" : "In a ceremony made for prime-time television, President Trump announced his Supreme Court nominee: Neil M. Gorsuch, a conservative judge with a sterling rÃ©sumÃ©. We spent the night at The New York Times talking with some of our most insightful colleagues about what the nomination means. We also get on the phone with the chief executive of Hobby Lobby, a company at the center of one of Judge Gorsuchâs most important cases.",
+         "title" : "Wednesday, Feb. 1, 2017"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/9a0c5ca5-1dba-4f13-a4b5-c3da4c4b2a59/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=9a0c5ca5-1dba-4f13-a4b5-c3da4c4b2a59&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 21405422
+         },
+         "description" : "Donald J. Trumpâs life and career have been defined by his legal battles. But what will they mean for his presidency? Guest: Jonathan Mahler, staff writer for The New York Times Magazine; Jay Goldberg, Mr. Trumpâs exclusive litigator from 1990 to 2005. For more information on todayâs episode, visit http://nyti.ms/2tHoXq1.",
+         "durationSeconds" : 1319,
+         "episodeID" : "GA0000P0000FGJ0",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/9a0c5ca5-1dba-4f13-a4b5-c3da4c4b2a59/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "Donald J. Trumpâs life and career have been defined by his legal battles. But what will they mean for his presidency? Guest: Jonathan Mahler, staff writer for The New York Times Magazine; Jay Goldberg, Mr. Trumpâs exclusive litigator from 1990 to 2005. For more information on todayâs episode, visit http://nyti.ms/2tHoXq1.",
+         "summary" : "Donald J. Trumpâs life and career have been defined by his legal battles. But what will they mean for his presidency? Guest: Jonathan Mahler, staff writer for The New York Times Magazine; Jay Goldberg, Mr. Trumpâs exclusive litigator from 1990 to 2005. For more information on todayâs episode, visit http://nyti.ms/2tHoXq1.",
+         "title" : "Friday, July 7, 2017"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/3f2d70dd-b754-4702-89bd-b67e11a1784b/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=3f2d70dd-b754-4702-89bd-b67e11a1784b&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 27690699
+         },
+         "description" : "Last week, a long-awaited report showed that the worst consequences of global warming would occur even sooner than previously thought. Hereâs the story behind the findings. Guests: Coral Davenport, who covers energy and the environment for The New York Times, and William D. Nordhaus, who was awarded a Nobel this year for his work on the economics of climate change. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1712,
+         "episodeID" : "GA0000P0000FGZT",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/3f2d70dd-b754-4702-89bd-b67e11a1784b/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "Last week, a long-awaited report showed that the worst consequences of global warming would occur even sooner than previously thought. Hereâs the story behind the findings. Guests: Coral Davenport, who covers energy and the environment for The New York Times, and William D. Nordhaus, who was awarded a Nobel this year for his work on the economics of climate change. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "Last week, a long-awaited report showed that the worst consequences of global warming would occur even sooner than previously thought. Hereâs the story behind the findings. Guests: Coral Davenport, who covers energy and the environment for The New York Times, and William D. Nordhaus, who was awarded a Nobel this year for his work on the economics of climate change. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "A New Climate Tipping Point"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/64b91f63-c223-4118-b3e7-c2a121e1a123/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=64b91f63-c223-4118-b3e7-c2a121e1a123&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 20071719
+         },
+         "description" : "Why so many of President Trumpâs advisers are urging him to break a major promise on climate change. And the view from inside Scott Pruittâs Environmental Protection Agency, where staff members are rebelling against their new boss. Guests: Coral Davenport, who writes about energy and the environment for The New York Times; Mike Cox, a former E.P.A. official. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1235,
+         "episodeID" : "GA0000P0000FGG8",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/64b91f63-c223-4118-b3e7-c2a121e1a123/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "Why so many of President Trumpâs advisers are urging him to break a major promise on climate change. And the view from inside Scott Pruittâs Environmental Protection Agency, where staff members are rebelling against their new boss. Guests: Coral Davenport, who writes about energy and the environment for The New York Times; Mike Cox, a former E.P.A. official. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "Why so many of President Trumpâs advisers are urging him to break a major promise on climate change. And the view from inside Scott Pruittâs Environmental Protection Agency, where staff members are rebelling against their new boss. Guests: Coral Davenport, who writes about energy and the environment for The New York Times; Mike Cox, a former E.P.A. official. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Wednesday, April 19, 2017"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/076093ea-68fc-4c9a-b1b3-3368008ff108/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=076093ea-68fc-4c9a-b1b3-3368008ff108&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 20302435
+         },
+         "description" : "After a brutal 30-year reign, President Omar Hassan al-Bashir of Sudan has been deposed by his own generals. The story of one of those generals and his son could signal what comes next for the country. Guest: Declan Walsh, the Cairo bureau chief for The New York Times, spoke with Lt. Gen. Salah Abdelkhalig and Abdelkhalig Salah in Khartoum, Sudan. For more information on todayâs episode, visit nytimes.com/thedaily. Background reading: When Sudanâs Air Force chief stepped out to address a crowd calling for the ouster of the president, the chiefâs own son was among the protesters â a family split that mirrors broader tensions between the military and civilians.Mr. al-Bashir, who is under indictment by the International Criminal Court for genocide, war crimes and crimes against humanity, was unseated amid sweeping demonstrations that began in December over the price of bread.",
+         "durationSeconds" : 1250,
+         "episodeID" : "GA0000P0000FGrb",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/076093ea-68fc-4c9a-b1b3-3368008ff108/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "After a brutal 30-year reign, President Omar Hassan al-Bashir of Sudan has been deposed by his own generals. The story of one of those generals and his son could signal what comes next for the country. Guest: Declan Walsh, the Cairo bureau chief for The New York Times, spoke with Lt. Gen. Salah Abdelkhalig and Abdelkhalig Salah in Khartoum, Sudan. For more information on todayâs episode, visit nytimes.com/thedaily. \n\nBackground reading: When Sudanâs Air Force chief stepped out to address a crowd calling for the ouster of the president, the chiefâs own son was among the protesters â a family split that mirrors broader tensions between the military and civilians.Mr. al-Bashir, who is under indictment by the International Criminal Court for genocide, war crimes and crimes against humanity, was unseated amid sweeping demonstrations that began in December over the price of bread.",
+         "summary" : "After a brutal 30-year reign, President Omar Hassan al-Bashir of Sudan has been deposed by his own generals. The story of one of those generals and his son could signal what comes next for the country. Guest: Declan Walsh, the Cairo bureau chief for The New York Times, spoke with Lt. Gen. Salah Abdelkhalig and Abdelkhalig Salah in Khartoum, Sudan. For more information on todayâs episode, visit nytimes.com/thedaily. \n\nBackground reading: When Sudanâs Air Force chief stepped out to address a crowd calling for the ouster of the president, the chiefâs own son was among the protesters â a family split that mirrors broader tensions between the military and civilians.Mr. al-Bashir, who is under indictment by the International Criminal Court for genocide, war crimes and crimes against humanity, was unseated amid sweeping demonstrations that began in December over the price of bread.",
+         "title" : "A Dictatorâs Fall in Sudan"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/48e5487d-d877-4675-9ef6-dde491838fe9/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=48e5487d-d877-4675-9ef6-dde491838fe9&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 21616498
+         },
+         "description" : "President Trump abruptly canceled on Thursday the highly anticipated summit meeting with Kim Jong-un, the leader of North Korea, that was scheduled to take place on June 12. In a letter to Mr. Kim announcing his decision, Mr. Trump wrote, âThe world, and North Korea in particular, has lost a great opportunity for lasting peace.â Guest: Mark Landler, who covers the White House for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1332,
+         "episodeID" : "GA0000P0000FGV8",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/48e5487d-d877-4675-9ef6-dde491838fe9/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "President Trump abruptly canceled on Thursday the highly anticipated summit meeting with Kim Jong-un, the leader of North Korea, that was scheduled to take place on June 12. In a letter to Mr. Kim announcing his decision, Mr. Trump wrote, âThe world, and North Korea in particular, has lost a great opportunity for lasting peace.â Guest: Mark Landler, who covers the White House for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "President Trump abruptly canceled on Thursday the highly anticipated summit meeting with Kim Jong-un, the leader of North Korea, that was scheduled to take place on June 12. In a letter to Mr. Kim announcing his decision, Mr. Trump wrote, âThe world, and North Korea in particular, has lost a great opportunity for lasting peace.â Guest: Mark Landler, who covers the White House for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "âDear Mr. Chairman â¦â"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/aa9bdf52-a2ac-44c0-ac33-a680333748bc/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=aa9bdf52-a2ac-44c0-ac33-a680333748bc&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 17055723
+         },
+         "description" : "On the last day of its term, the Supreme Court said it would take the case about the legality of President Trumpâs travel ban. We discuss the path of the travel ban through the lower courts, the key role of two justices in determining the outcome and what this means for refugees. Guests: Adam Liptak, who covers the Supreme Court; Nicholas Kulish, who covers immigration. Caitlin Dickerson is our host; Michael Barbaro is on vacation. For more information on todayâs episode, visit http://nyti.ms/2tMr8XN.",
+         "durationSeconds" : 1047,
+         "episodeID" : "GA0000P0000FGHZ",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/aa9bdf52-a2ac-44c0-ac33-a680333748bc/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "On the last day of its term, the Supreme Court said it would take the case about the legality of President Trumpâs travel ban. We discuss the path of the travel ban through the lower courts, the key role of two justices in determining the outcome and what this means for refugees. Guests: Adam Liptak, who covers the Supreme Court; Nicholas Kulish, who covers immigration. Caitlin Dickerson is our host; Michael Barbaro is on vacation. For more information on todayâs episode, visit http://nyti.ms/2tMr8XN.",
+         "summary" : "On the last day of its term, the Supreme Court said it would take the case about the legality of President Trumpâs travel ban. We discuss the path of the travel ban through the lower courts, the key role of two justices in determining the outcome and what this means for refugees. Guests: Adam Liptak, who covers the Supreme Court; Nicholas Kulish, who covers immigration. Caitlin Dickerson is our host; Michael Barbaro is on vacation. For more information on todayâs episode, visit http://nyti.ms/2tMr8XN.",
+         "title" : "Tuesday, June 27, 2017"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/efc943e8-35da-41ef-a64c-ee36acb3e7e0/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=efc943e8-35da-41ef-a64c-ee36acb3e7e0&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 18816583
+         },
+         "description" : "President Trumpâs son-in-law wants to overhaul the prison system. The presidentâs attorney general bitterly opposes such a move. That has set the scene for a highly personal battle inside the White House. Guest: Matt Apuzzo, a New York Times reporter based in Washington. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1157,
+         "episodeID" : "GA0000P0000FGSm",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/efc943e8-35da-41ef-a64c-ee36acb3e7e0/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "President Trumpâs son-in-law wants to overhaul the prison system. The presidentâs attorney general bitterly opposes such a move. That has set the scene for a highly personal battle inside the White House. Guest: Matt Apuzzo, a New York Times reporter based in Washington. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "President Trumpâs son-in-law wants to overhaul the prison system. The presidentâs attorney general bitterly opposes such a move. That has set the scene for a highly personal battle inside the White House. Guest: Matt Apuzzo, a New York Times reporter based in Washington. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Monday, Apr. 2, 2018"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/4082ded3-dcb2-4a97-9233-8ec1903a73f6/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=4082ded3-dcb2-4a97-9233-8ec1903a73f6&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 18438331
+         },
+         "description" : "From his golf course in New Jersey on Tuesday, President Trump threatened North Korea âfire and furyâ and warned that the country âbest not make any more threats to the United States.â How should we interpret the latest escalation in tensions with Pyongyang? Plus: Why American law may block the biggest medical breakthrough in decades. Guests: Peter Baker, chief White House correspondent for The Times; Carl Zimmer, who writes about biology and genetics. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1133,
+         "episodeID" : "GA0000P0000FGJW",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/4082ded3-dcb2-4a97-9233-8ec1903a73f6/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "From his golf course in New Jersey on Tuesday, President Trump threatened North Korea âfire and furyâ and warned that the country âbest not make any more threats to the United States.â How should we interpret the latest escalation in tensions with Pyongyang? Plus: Why American law may block the biggest medical breakthrough in decades. Guests: Peter Baker, chief White House correspondent for The Times; Carl Zimmer, who writes about biology and genetics. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "From his golf course in New Jersey on Tuesday, President Trump threatened North Korea âfire and furyâ and warned that the country âbest not make any more threats to the United States.â How should we interpret the latest escalation in tensions with Pyongyang? Plus: Why American law may block the biggest medical breakthrough in decades. Guests: Peter Baker, chief White House correspondent for The Times; Carl Zimmer, who writes about biology and genetics. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Wednesday, Aug 9, 2017"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/b675cf7c-f68c-42a7-b91a-ce06a6f7f087/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=b675cf7c-f68c-42a7-b91a-ce06a6f7f087&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 38841872
+         },
+         "description" : "James B. Comey, the former F.B.I. director, had an elaborate plan to make public his memos documenting his interactions with President Trump, in the hopes of prompting the appointment of a special counsel. In an interview, he explains his decision to take matters into his own hands. Guest: Mr. Comey. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 2408,
+         "episodeID" : "GA0000P0000FGTC",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/b675cf7c-f68c-42a7-b91a-ce06a6f7f087/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "James B. Comey, the former F.B.I. director, had an elaborate plan to make public his memos documenting his interactions with President Trump, in the hopes of prompting the appointment of a special counsel. In an interview, he explains his decision to take matters into his own hands. Guest: Mr. Comey. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "James B. Comey, the former F.B.I. director, had an elaborate plan to make public his memos documenting his interactions with President Trump, in the hopes of prompting the appointment of a special counsel. In an interview, he explains his decision to take matters into his own hands. Guest: Mr. Comey. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "James Comey Opens Up About Ego, Distrust and More"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/65a595d5-0c91-4f98-adb6-ee800dd3bf8d/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=65a595d5-0c91-4f98-adb6-ee800dd3bf8d&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 19624499
+         },
+         "description" : "Where did Stephen Miller come from, and how will his views on immigration influence the presidency? Also, farmers torn between support for President Trump and fear that he might deport their employees. Guests: Glenn Thrush, White House correspondent for The New York Times; Caitlin Dickerson, a reporter for The Times; and Jeff Marchini, a radicchio farmer in California. For more information on todayâs episode, visit http://nyti.ms/2kiWbsF.",
+         "durationSeconds" : 1207,
+         "episodeID" : "GA0000P0000FGDZ",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/65a595d5-0c91-4f98-adb6-ee800dd3bf8d/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "Where did Stephen Miller come from, and how will his views on immigration influence the presidency? Also, farmers torn between support for President Trump and fear that he might deport their employees. Guests: Glenn Thrush, White House correspondent for The New York Times; Caitlin Dickerson, a reporter for The Times; and Jeff Marchini, a radicchio farmer in California. For more information on todayâs episode, visit http://nyti.ms/2kiWbsF.",
+         "summary" : "Where did Stephen Miller come from, and how will his views on immigration influence the presidency? Also, farmers torn between support for President Trump and fear that he might deport their employees. Guests: Glenn Thrush, White House correspondent for The New York Times; Caitlin Dickerson, a reporter for The Times; and Jeff Marchini, a radicchio farmer in California. For more information on todayâs episode, visit http://nyti.ms/2kiWbsF.",
+         "title" : "Monday, Feb. 13, 2017"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/02318aa2-bef2-4116-a019-048c593a08c1/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=02318aa2-bef2-4116-a019-048c593a08c1&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 12324433
+         },
+         "description" : "The day after President Trump fired James Comey, the president told top Russian officials that in dismissing the F.B.I. director, whom he called a ânut job,â the pressure was âtaken off.â Guests: Maggie Haberman and Matt Apuzzo, who broke the story. For more information on todayâs episode, visit http://nyti.ms/2q2jcD5.",
+         "durationSeconds" : 751,
+         "episodeID" : "GA0000P0000FGH0",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/02318aa2-bef2-4116-a019-048c593a08c1/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "The day after President Trump fired James Comey, the president told top Russian officials that in dismissing the F.B.I. director, whom he called a ânut job,â the pressure was âtaken off.â Guests: Maggie Haberman and Matt Apuzzo, who broke the story. For more information on todayâs episode, visit http://nyti.ms/2q2jcD5.",
+         "summary" : "The day after President Trump fired James Comey, the president told top Russian officials that in dismissing the F.B.I. director, whom he called a ânut job,â the pressure was âtaken off.â Guests: Maggie Haberman and Matt Apuzzo, who broke the story. For more information on todayâs episode, visit http://nyti.ms/2q2jcD5.",
+         "title" : "Special Edition: âNut Jobâ"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/af1d7511-1a00-48bc-ae6b-fc5298d3b86e/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=af1d7511-1a00-48bc-ae6b-fc5298d3b86e&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 24622066
+         },
+         "description" : "Alarm over the election of Donald Trump spurred dozens of first-time candidates to run for Congress. Some of those candidates now present a problem for the Democratic Party. Guests: Mai Khanh Tran, a Democratic candidate running for the United States House in California; Alexander Burns, who covers national politics for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1520,
+         "episodeID" : "GA0000P0000FGVF",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/af1d7511-1a00-48bc-ae6b-fc5298d3b86e/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "Alarm over the election of Donald Trump spurred dozens of first-time candidates to run for Congress. Some of those candidates now present a problem for the Democratic Party. Guests: Mai Khanh Tran, a Democratic candidate running for the United States House in California; Alexander Burns, who covers national politics for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "Alarm over the election of Donald Trump spurred dozens of first-time candidates to run for Congress. Some of those candidates now present a problem for the Democratic Party. Guests: Mai Khanh Tran, a Democratic candidate running for the United States House in California; Alexander Burns, who covers national politics for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "When Democratic Newcomers Challenge the Party Line"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/63f8bba8-dbcc-4d29-a571-01113c8a45f9/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=63f8bba8-dbcc-4d29-a571-01113c8a45f9&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 23474763
+         },
+         "description" : "The New York Times has introduced a documentary audio series that follows Rukmini Callimachi, who covers terrorism for The Times, on her quest to understand ISIS. Today, as a special episode of âThe Daily,â we offer Chapter 3 of âCaliphate,â in which ISIS turns fantasy into reality for a new recruit. For more information about the series, visit nytimes.com/caliphate. This episode includes disturbing language and scenes of graphic violence.",
+         "durationSeconds" : 1448,
+         "episodeID" : "GA0000P0000FGTV",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/63f8bba8-dbcc-4d29-a571-01113c8a45f9/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "The New York Times has introduced a documentary audio series that follows Rukmini Callimachi, who covers terrorism for The Times, on her quest to understand ISIS. Today, as a special episode of âThe Daily,â we offer Chapter 3 of âCaliphate,â in which ISIS turns fantasy into reality for a new recruit. For more information about the series, visit nytimes.com/caliphate.\n\nThis episode includes disturbing language and scenes of graphic violence.",
+         "summary" : "The New York Times has introduced a documentary audio series that follows Rukmini Callimachi, who covers terrorism for The Times, on her quest to understand ISIS. Today, as a special episode of âThe Daily,â we offer Chapter 3 of âCaliphate,â in which ISIS turns fantasy into reality for a new recruit. For more information about the series, visit nytimes.com/caliphate.\n\nThis episode includes disturbing language and scenes of graphic violence.",
+         "title" : "The Daily Presents âCaliphate,â Chapter 3"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/da3df928-375a-4847-a6bc-21c8abb08f33/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=da3df928-375a-4847-a6bc-21c8abb08f33&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 22429015
+         },
+         "description" : "After more than a year of mocking his attorney general, President Trump has forced Jeff Sessions to resign. The timing â only hours after the midterm elections â is not a coincidence. Guest: Michael S. Schmidt, who covers national security and federal investigations for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1383,
+         "episodeID" : "GA0000P0000FGb4",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/da3df928-375a-4847-a6bc-21c8abb08f33/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "After more than a year of mocking his attorney general, President Trump has forced Jeff Sessions to resign. The timing â only hours after the midterm elections â is not a coincidence. Guest: Michael S. Schmidt, who covers national security and federal investigations for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "After more than a year of mocking his attorney general, President Trump has forced Jeff Sessions to resign. The timing â only hours after the midterm elections â is not a coincidence. Guest: Michael S. Schmidt, who covers national security and federal investigations for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Why Trump Is Firing Sessions Now"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/0e3af9ca-d2a9-4859-88d1-564a6c3f33b3/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=0e3af9ca-d2a9-4859-88d1-564a6c3f33b3&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 32105176
+         },
+         "description" : "When we spoke with Representative Tom Rooney, a Florida Republican, in July, he said he was starting to feel defeated by the state of politics in Washington. Nine months later, we check back in, and he talks frankly about the Russia investigation, gun control and his decision not to run for re-election. Guest: Representative Tom Rooney, Republican of Florida. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1987,
+         "episodeID" : "GA0000P0000FGS8",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/0e3af9ca-d2a9-4859-88d1-564a6c3f33b3/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "When we spoke with Representative Tom Rooney, a Florida Republican, in July, he said he was starting to feel defeated by the state of politics in Washington. Nine months later, we check back in, and he talks frankly about the Russia investigation, gun control and his decision not to run for re-election. Guest: Representative Tom Rooney, Republican of Florida. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "When we spoke with Representative Tom Rooney, a Florida Republican, in July, he said he was starting to feel defeated by the state of politics in Washington. Nine months later, we check back in, and he talks frankly about the Russia investigation, gun control and his decision not to run for re-election. Guest: Representative Tom Rooney, Republican of Florida. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Friday, Mar. 2, 2018"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/a9078758-82af-4b61-969b-97421acd0772/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=a9078758-82af-4b61-969b-97421acd0772&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 17613279
+         },
+         "description" : "Why Senate leaders are crafting the most important legislation of the Trump presidency in secret. Guest: Carl Hulse, who covers Congress. For more information on todayâs episode, visit http://nyti.ms/2rIs7dC.",
+         "durationSeconds" : 1082,
+         "episodeID" : "GA0000P0000FGHR",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/a9078758-82af-4b61-969b-97421acd0772/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "Why Senate leaders are crafting the most important legislation of the Trump presidency in secret. Guest: Carl Hulse, who covers Congress. For more information on todayâs episode, visit http://nyti.ms/2rIs7dC.",
+         "summary" : "Why Senate leaders are crafting the most important legislation of the Trump presidency in secret. Guest: Carl Hulse, who covers Congress. For more information on todayâs episode, visit http://nyti.ms/2rIs7dC.",
+         "title" : "Monday, June 19, 2017"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/838e5b53-d7ad-4ffa-b3db-84be4f504591/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=838e5b53-d7ad-4ffa-b3db-84be4f504591&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 19482824
+         },
+         "description" : "A riot in Charlottesville, Va.; hurricanes in Houston and the Caribbean; shootings outside a music festival, in a church and on a baseball field. Big new jobs for Donald Trump and Neil Gorsuch; big jobs lost for Michael Flynn, James Comey, Bill OâReilly and Harvey Weinstein. A health care bill stymied; a tax bill fast-tracked. Hereâs what a breathtaking year sounded like, from start to finish. For more information on todayâs episode, visit nytimes.com/thedaily. We're taking Monday off for Christmas. For the rest of next week, weâll revisit our favorite episodes, adding what has happened since the stories first ran. Weâll be back with a new episode on Tuesday, Jan. 2.",
+         "durationSeconds" : 1199,
+         "episodeID" : "GA0000P0000FGPX",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/838e5b53-d7ad-4ffa-b3db-84be4f504591/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "A riot in Charlottesville, Va.; hurricanes in Houston and the Caribbean; shootings outside a music festival, in a church and on a baseball field. Big new jobs for Donald Trump and Neil Gorsuch; big jobs lost for Michael Flynn, James Comey, Bill OâReilly and Harvey Weinstein. A health care bill stymied; a tax bill fast-tracked. Hereâs what a breathtaking year sounded like, from start to finish. For more information on todayâs episode, visit nytimes.com/thedaily.Â \n\nWe're taking Monday off for Christmas. For the rest of next week, weâll revisit our favorite episodes, adding what has happened since the stories first ran. Weâll be back with a new episode on Tuesday, Jan. 2.",
+         "summary" : "A riot in Charlottesville, Va.; hurricanes in Houston and the Caribbean; shootings outside a music festival, in a church and on a baseball field. Big new jobs for Donald Trump and Neil Gorsuch; big jobs lost for Michael Flynn, James Comey, Bill OâReilly and Harvey Weinstein. A health care bill stymied; a tax bill fast-tracked. Hereâs what a breathtaking year sounded like, from start to finish. For more information on todayâs episode, visit nytimes.com/thedaily.Â \n\nWe're taking Monday off for Christmas. For the rest of next week, weâll revisit our favorite episodes, adding what has happened since the stories first ran. Weâll be back with a new episode on Tuesday, Jan. 2.",
+         "title" : "Special Episode: The Year in Sound"
+      }
+   ],
+   "meta" : {
+      "limit" : 30,
+      "offset" : 0,
+      "total" : 1500
+   }
+}

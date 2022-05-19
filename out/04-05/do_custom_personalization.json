@@ -1,0 +1,7 @@
+3.11 Send Personality Data Endpoint do_custom_personalization ===========================================
+{
+   "error" : "Bad Request",
+   "path" : "/api/v1/custom/personalization",
+   "status" : 400,
+   "timestamp" : 1649154184900
+}

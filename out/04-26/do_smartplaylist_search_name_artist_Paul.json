@@ -1,0 +1,505 @@
+search do_smartplaylist_search_name_artist ===========================================
+{
+   "item" : [
+      {
+         "artistId" : "GN21S01EVF4QYT6",
+         "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/9D65/0206/946C/875B_xlarge_front.jpg",
+         "artistName" : "Paul McCartney & Wings"
+      },
+      {
+         "artistId" : "GN5AQBZPV7FS5V8",
+         "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/384A/943C/3055/A0C3_xlarge_front.jpg",
+         "artistName" : "Paula Abdul"
+      },
+      {
+         "artistId" : "GNC9BZAZ5XBY50C",
+         "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/A953/1F8A/A978/EDC9_xlarge_front.jpg",
+         "artistName" : "Paul McCartney"
+      },
+      {
+         "artistId" : "GNC61HD4MF23NKM",
+         "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/93F4/2005/BB02/24EF_xlarge_front.jpg",
+         "artistName" : "Paul Anka"
+      },
+      {
+         "artistId" : "GN44YYHW1PSD47Y",
+         "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/6187/E305/EB2B/434B_xlarge_front.jpg",
+         "artistName" : "Paulina Rubio"
+      },
+      {
+         "artistId" : "GNDNQ30V38F7JA2",
+         "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/8B76/B45A/4DD3/3BCD_xlarge_front.jpg",
+         "artistName" : "Paul Simon"
+      },
+      {
+         "artistId" : "GNEPPEWWRJ2FD50",
+         "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/82F5/AFB2/CD09/0066_xlarge_front.jpg",
+         "artistName" : "Paul Young"
+      },
+      {
+         "artistId" : "GN7A8T0FHAEE493",
+         "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/C57B/EF83/3130/EF42_medium_front.jpg",
+         "artistName" : "Paul Carrack"
+      },
+      {
+         "artistId" : "GN5H69K6E9644DC",
+         "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/31B7/FC33/59A9/8893_xlarge_front.jpg",
+         "artistName" : "Paula Cole"
+      },
+      {
+         "artistId" : "GND85YEME5SE6V7",
+         "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/7440/5AB1/3161/6815_xlarge_front.jpg",
+         "artistName" : "Paul Revere & The Raiders"
+      },
+      {
+         "artistId" : "GN7Q4CQK557YQZP",
+         "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/28F2/1A4D/CFD8/A558_xlarge_front.jpg",
+         "artistName" : "Paul Robeson"
+      },
+      {
+         "artistId" : "GN4QRYF4HB5G8QJ",
+         "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/0877/E4BA/CBF2/EE0B_xlarge_front.jpg",
+         "artistName" : "Paul Weller"
+      },
+      {
+         "artistId" : "GNC3C2Q6HJMXMVG",
+         "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/B6B3/D955/884A/BE96_xlarge_front.jpg",
+         "artistName" : "Paul Van Dyk"
+      },
+      {
+         "artistId" : "GNB9TKH93BJQQ01",
+         "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/C023/3329/F976/073E_xlarge_front.jpg",
+         "artistName" : "Paul & Linda McCartney"
+      },
+      {
+         "artistId" : "GN9DMVH79CRNN2R",
+         "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/7463/5485/66D2/ABE8_xlarge_front.jpg",
+         "artistName" : "Paul & Paula"
+      },
+      {
+         "artistId" : "GN2F3MGFQ2TN203",
+         "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/C515/B41C/B17B/217F_xlarge_front.jpg",
+         "artistName" : "Paul Davis"
+      },
+      {
+         "artistId" : "GNDCSA4T3EK5H51",
+         "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/0114/3200/4D95/000C_medium_front.jpg",
+         "artistName" : "Paul Evans"
+      },
+      {
+         "artistId" : "GNDYP05ZD7YGKP8",
+         "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/8E5E/83DC/E970/BE5B_xlarge_front.jpg",
+         "artistName" : "Paul Hardcastle"
+      },
+      {
+         "artistId" : "GN5FP9G1E3RDHJ5",
+         "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/203F/AC9B/CF66/9E53_xlarge_front.jpg",
+         "artistName" : "Paul McCartney & Michael Jackson"
+      },
+      {
+         "artistId" : "GN88NJZSGSFTBAS",
+         "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/C2D0/6D5D/8648/A321_xlarge_front.jpg",
+         "artistName" : "Paul Stanley"
+      },
+      {
+         "artistId" : "GN23KP1CMZ2A76V",
+         "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/4B4D/9851/3834/C0A3_xlarge_front.jpg",
+         "artistName" : "Paul Westerberg"
+      },
+      {
+         "artistId" : "GN1AS4A5C05DT4Q",
+         "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/DD19/A962/FA4E/0AD1_xlarge_front.jpg",
+         "artistName" : "Paul Gayten"
+      },
+      {
+         "artistId" : "GNATHKFXZVV2N7F",
+         "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/6948/48A6/6522/D7D2_xlarge_front.jpg",
+         "artistName" : "Paul Winter"
+      },
+      {
+         "artistId" : "GN9GSZA4N4NAJ3D",
+         "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/1C0A/B539/F0EA/38DA_large_front.jpg",
+         "artistName" : "Paul Woolford"
+      },
+      {
+         "artistId" : "GN1BN2NYFTMM97C",
+         "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/9945/7D30/C8E0/12E5_xlarge_front.jpg",
+         "artistName" : "Paul Potts"
+      },
+      {
+         "artistId" : "GN5FNM2JGNNSB4F",
+         "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/E6F0/C897/DDE6/150B_xlarge_front.jpg",
+         "artistName" : "Paul Tortelier"
+      },
+      {
+         "artistId" : "GN5R24B6EWF3WGG",
+         "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/F73C/1900/1B01/60FD_xlarge_front.jpg",
+         "artistName" : "Paula DeAnda"
+      },
+      {
+         "artistId" : "GN17F1AYMET7QK1",
+         "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/52F0/B03E/9BCA/790F_xlarge_front.jpg",
+         "artistName" : "Paul Kelly & The Coloured Girls"
+      },
+      {
+         "artistId" : "GN2HXHSTQHXN14D",
+         "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/1BFF/0952/77D6/42BB_xlarge_front.jpg",
+         "artistName" : "Paul Quinichette"
+      },
+      {
+         "artistId" : "GNBM1CE30C31BY2",
+         "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/943C/C872/6C15/EEE5_xlarge_front.jpg",
+         "artistName" : "Paul Wall"
+      },
+      {
+         "artistId" : "GNBSF50EP73E5AM",
+         "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/3E57/85C1/BF3F/E845_xlarge_front.jpg",
+         "artistName" : "Paul Mauriat"
+      },
+      {
+         "artistId" : "GNC05HZGVYM2AXQ",
+         "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/EDFC/6316/0E6E/F7C9_xlarge_front.jpg",
+         "artistName" : "Paul Overstreet"
+      },
+      {
+         "artistId" : "GN6ZMYJC42BSCG2",
+         "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/4BAD/68F4/5A63/4102_xlarge_front.jpg",
+         "artistName" : "Paul Chambers"
+      },
+      {
+         "artistId" : "GN8D7D8062BQS0Z",
+         "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/43D9/0B6A/2624/06CF_xlarge_front.jpg",
+         "artistName" : "Paul Whiteman"
+      },
+      {
+         "artistId" : "GN745RM3EZEG983",
+         "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/598F/1347/3B3C/A220_xlarge_front.jpg",
+         "artistName" : "Paul Williams"
+      },
+      {
+         "artistId" : "GN391QQBB7TR8NS",
+         "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/80FA/631C/524F/C6C4_xlarge_front.jpg",
+         "artistName" : "Paula DeAnda Feat. The DEY"
+      },
+      {
+         "artistId" : "GN4S7W30GF0S4MP",
+         "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/C7B0/8DBA/56C4/3DC9_xlarge_front.jpg",
+         "artistName" : "Paul Baloche"
+      },
+      {
+         "artistId" : "GN5N4ZR14FTTX9P",
+         "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/3EAF/86CC/8C6A/24E7_xlarge_front.jpg",
+         "artistName" : "Paul Cardall"
+      },
+      {
+         "artistId" : "GNEA826QR609C5D",
+         "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/1D5D/0B38/7294/0AB1_xlarge_front.jpg",
+         "artistName" : "Paul Desmond"
+      },
+      {
+         "artistId" : "GN30C0Y2AJ7ZH11",
+         "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/2941/04B5/5B82/5870_xlarge_front.jpg",
+         "artistName" : "Paul Jackson Jr."
+      },
+      {
+         "artistId" : "GN0VMYHZG9ZMXH6",
+         "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/EC3C/EBBA/A1BA/CE61_xlarge_front.jpg",
+         "artistName" : "Paul Butterfield Blues Band"
+      },
+      {
+         "artistId" : "GN36DKVV0CVH121",
+         "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/98C1/5602/0BD1/215C_xlarge_front.jpg",
+         "artistName" : "Paul Taylor"
+      },
+      {
+         "artistId" : "GNDBHPA58GVQM37",
+         "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/B3D1/F194/306F/421E_xlarge_front.jpg",
+         "artistName" : "Paul Brandt"
+      },
+      {
+         "artistId" : "GN4D2MJTZENZ90F",
+         "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/6E18/678D/7262/2517_xlarge_front.jpg",
+         "artistName" : "Paula Fuga"
+      },
+      {
+         "artistId" : "GN4TFSDWZR3S51F",
+         "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/B7FB/C098/9636/EFA7_xlarge_front.jpg",
+         "artistName" : "Paulo Londra"
+      },
+      {
+         "artistId" : "GN3PD5Z5GDXD010",
+         "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/CE5F/CC9D/1F1E/30F6_xlarge_front.jpg",
+         "artistName" : "Paul Brown"
+      },
+      {
+         "artistId" : "GN5Q04D4DYCH47G",
+         "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/1AF9/1A32/71FF/5628_xlarge_front.jpg",
+         "artistName" : "Paul Johnson"
+      },
+      {
+         "artistId" : "GN4VKV8TEQNG87Y",
+         "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/8DD8/5D16/89DC/1489_xlarge_front.jpg",
+         "artistName" : "Paul Oakenfold"
+      },
+      {
+         "artistId" : "GN04R06JQGM9N5N",
+         "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/CBC3/DF48/21CE/283B_xlarge_front.jpg",
+         "artistName" : "Paula Atherton"
+      },
+      {
+         "artistId" : "GN4X9ZZJDB4A50G",
+         "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/7808/4D6B/02B0/DA2E_small_front.jpg",
+         "artistName" : "Paul Kalkbrenner"
+      },
+      {
+         "artistId" : "GN96R7G6DQTAQJN",
+         "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/8799/324D/AC3F/CC21_xlarge_front.jpg",
+         "artistName" : "Paul Stookey"
+      },
+      {
+         "artistId" : "GN7FZ7HGKZP2V5D",
+         "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/64B6/8D3A/0BD5/84AA_xlarge_front.jpg",
+         "artistName" : "Paul & Hannah McClure"
+      },
+      {
+         "artistId" : "GNC56AM1E755PFC",
+         "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/AF65/F447/32E0/FCAD_xlarge_front.jpg",
+         "artistName" : "Paula Fernandes"
+      },
+      {
+         "artistId" : "GN1EJ9Y0N5SAM15",
+         "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/DAB6/08C9/1EB6/66C5_xlarge_front.jpg",
+         "artistName" : "Paul Harris"
+      },
+      {
+         "artistId" : "GN3YWXV4E444D1N",
+         "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/1D2B/0156/0812/59B1_small_front.jpg",
+         "artistName" : "Paul Brady"
+      },
+      {
+         "artistId" : "GN617CY41C9H4VD",
+         "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/1DD6/45D5/AC21/8653_medium_front.jpg",
+         "artistName" : "Paul Gilbert"
+      },
+      {
+         "artistId" : "GN6XEVS0VN3BYGN",
+         "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/7FF1/4572/07F7/28B2_xlarge_front.jpg",
+         "artistName" : "Paulo Londra Feat. Lenny TavÃ¡rez"
+      },
+      {
+         "artistId" : "GN749HZSMHF2P78",
+         "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/F738/C9E1/11A5/4FC7_xlarge_front.jpg",
+         "artistName" : "Paulo Londra Feat. A Boogie Wit Da Hoodie"
+      },
+      {
+         "artistId" : "GNEWEJJE6KE6QHF",
+         "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/2B8F/9F55/B13E/55D3_small_front.jpg",
+         "artistName" : "Paul Freeman"
+      },
+      {
+         "artistId" : "GN5AZQ9F4T0HZ0P",
+         "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/7DF7/050E/756A/D487_xlarge_front.jpg",
+         "artistName" : "Pauline Croze"
+      },
+      {
+         "artistId" : "GN5PEEYMH5PGPPC",
+         "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/20A2/446E/044B/27B1_xlarge_front.jpg",
+         "artistName" : "Paulo Londra Feat. De La Ghetto & Justin Quiles"
+      },
+      {
+         "artistId" : "GN7T933NZ0D0AZA",
+         "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/4380/B3D7/97F4/CAC9_xlarge_front.jpg",
+         "artistName" : "Paul Kelly"
+      },
+      {
+         "artistId" : "GN8K1C0P0ETJH59",
+         "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/5D73/49F9/F65E/C22B_xlarge_front.jpg",
+         "artistName" : "Paul Jacobs"
+      },
+      {
+         "artistId" : "GN7YZBKM3YCE5C5",
+         "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/D03A/01E0/A269/8847_xlarge_front.jpg",
+         "artistName" : "Paul Blanco"
+      },
+      {
+         "artistId" : "GN22KKMJJ6AE5RN",
+         "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/2A6F/0C52/451D/67BF_xlarge_front.jpg",
+         "artistName" : "Paula Rojo"
+      },
+      {
+         "artistId" : "GNCVQ6PHYH5SS1W",
+         "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/17E1/0C07/56A6/09A4_xlarge_front.jpg",
+         "artistName" : "Paul Thorn"
+      },
+      {
+         "artistId" : "GN9YH7MPJQ0F6NH",
+         "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/6259/B14C/9506/106B_xlarge_front.jpg",
+         "artistName" : "Paul Dyer"
+      },
+      {
+         "artistId" : "GNFSVSWQ1C3YNGQ",
+         "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/DCB1/77E7/203C/0DF2_medium_front.jpg",
+         "artistName" : "Paula Cendejas"
+      },
+      {
+         "artistId" : "GNE0QM9SM3X8HS6",
+         "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/8CD1/0CC4/8075/3D32_xlarge_front.jpg",
+         "artistName" : "Paul Rodgers"
+      },
+      {
+         "artistId" : "GNCG1GFM3C2WRBF",
+         "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/8A5C/3174/26FA/1F66_xlarge_front.jpg",
+         "artistName" : "Paulino Rey"
+      },
+      {
+         "artistId" : "GN9D5F48PC0J09F",
+         "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/8E98/A91C/2388/27DB_xlarge_front.jpg",
+         "artistName" : "Paulina Goto"
+      },
+      {
+         "artistId" : "GN0K27SYGKMJ7R4",
+         "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/A2D1/91AA/6AE0/7CB9_xlarge_front.jpg",
+         "artistName" : "Paul Canning"
+      },
+      {
+         "artistId" : "GNBSBWXXNEPEM5H",
+         "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/4728/5BBB/4E09/86FC_xlarge_front.jpg",
+         "artistName" : "Paul Haslinger"
+      },
+      {
+         "artistId" : "GN17D5CPT178AX8",
+         "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/3A5E/FE20/5E9E/3979_xlarge_front.jpg",
+         "artistName" : "Paul Meyer"
+      },
+      {
+         "artistId" : "GN2226KGDM7SQ3H",
+         "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/E6E7/D7CF/66AB/EE16_xlarge_front.jpg",
+         "artistName" : "Paul Rey"
+      },
+      {
+         "artistId" : "GN41N5P4C9PWMMP",
+         "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/BA47/ECEC/2862/64B7_xlarge_front.jpg",
+         "artistName" : "Pauline Herr"
+      },
+      {
+         "artistId" : "GNCNHFC159J4KE9",
+         "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/3F82/6599/439E/8F6F_xlarge_front.jpg",
+         "artistName" : "Paul Mac"
+      },
+      {
+         "artistId" : "GN91CQAA445D4VW",
+         "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/218D/CB18/2A55/BC6E_xlarge_front.jpg",
+         "artistName" : "Pauline"
+      },
+      {
+         "artistId" : "GNAQ1DPK5JQH520",
+         "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/5520/FD67/3EB6/054C_xlarge_front.jpg",
+         "artistName" : "Paul Ji"
+      },
+      {
+         "artistId" : "GNFSDTXWVZ6T53E",
+         "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/4276/BF44/5B88/5CEF_xlarge_front.jpg",
+         "artistName" : "Paul Cherry"
+      },
+      {
+         "artistId" : "GNBGP6D44BM8CSS",
+         "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/46AC/99CF/F6BD/5507_xlarge_front.jpg",
+         "artistName" : "Paul Hillier"
+      },
+      {
+         "artistId" : "GN7114JQVCJQBW4",
+         "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/C653/C105/7E6E/E0FC_medium_front.jpg",
+         "artistName" : "Paul G. Feat. Karan Aujla"
+      },
+      {
+         "artistId" : "GN6SAMBRGEXRG82",
+         "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/3ACC/A7EA/BF10/2BC2_xlarge_front.jpg",
+         "artistName" : "Paul Ursin"
+      },
+      {
+         "artistId" : "GN8NW93V43YG1JE",
+         "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/E010/8951/D6EE/035C_xlarge_front.jpg",
+         "artistName" : "Paul Parsons"
+      },
+      {
+         "artistId" : "GNB9H3Q8H1YNNZE",
+         "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/9D74/032D/929E/ADB8_large_front.jpg",
+         "artistName" : "Paul Shaffer & The World's Most Dangerous Band"
+      },
+      {
+         "artistId" : "GN8H8DRKKYEXQEH",
+         "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/CC9D/4095/AD91/3C3B_xlarge_front.jpg",
+         "artistName" : "Paul Brandt Feat. Lindsay Ell"
+      },
+      {
+         "artistId" : "GN1FEXAJD9GFJJ9",
+         "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/C596/8FDA/CD55/3088_xlarge_front.jpg",
+         "artistName" : "Paul Mayson"
+      },
+      {
+         "artistId" : "GN497P3XXYGMGRW",
+         "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/89AE/3634/C233/08CA_xlarge_front.jpg",
+         "artistName" : "Paul Thomas"
+      },
+      {
+         "artistId" : "GN3PSHZ7GRBD74X",
+         "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/9865/2DA0/9892/1788_xlarge_front.jpg",
+         "artistName" : "Paul Jockey"
+      },
+      {
+         "artistId" : "GN3WP1Y9ZD810VW",
+         "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/6C12/A639/D950/E7DA_xlarge_front.jpg",
+         "artistName" : "Paul Epworth"
+      },
+      {
+         "artistId" : "GNCG6D075BJXARW",
+         "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/3E90/4CAE/5BCC/F40C_xlarge_front.jpg",
+         "artistName" : "Paulo MendonÃ§a"
+      },
+      {
+         "artistId" : "GN35CBEGYGCZRFY",
+         "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/73FF/9E93/FAA0/295B_xlarge_front.jpg",
+         "artistName" : "Paul Andreas"
+      },
+      {
+         "artistId" : "GN45QCQVHXCPQ63",
+         "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/2696/0268/A4DF/7D11_xlarge_front.jpg",
+         "artistName" : "Paulina Rubio & Nacho"
+      },
+      {
+         "artistId" : "GN19WMH2VE0KNXE",
+         "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/D3A9/20BC/3D22/C5FD_xlarge_front.jpg",
+         "artistName" : "Paul Rey Feat. Molly Hammar"
+      },
+      {
+         "artistId" : "GN0YBJ0RD8PSHFV",
+         "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/F86B/E1D1/6A9D/85F9_xlarge_front.jpg",
+         "artistName" : "Paul Wall & Baby Bash"
+      },
+      {
+         "artistId" : "GN44CHMZGCSACKB",
+         "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/E69C/5402/0E17/616E_xlarge_front.jpg",
+         "artistName" : "Paul Ritch"
+      },
+      {
+         "artistId" : "GNFFW29Z1WY0K2W",
+         "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/DBDB/BFA2/A415/0256_xlarge_front.jpg",
+         "artistName" : "Paul McDonald"
+      },
+      {
+         "artistId" : "GN0B1M3W3ZG0GHY",
+         "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/150C/119A/9460/9AE3_xlarge_front.jpg",
+         "artistName" : "Paulo Foltz"
+      },
+      {
+         "artistId" : "GNBDB2A3PE8PFCV",
+         "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/E1D3/7DBA/85F5/6A44_xlarge_front.jpg",
+         "artistName" : "Paul Kelly & Dan Sultan"
+      },
+      {
+         "artistId" : "GN9KY3D7ZTV50TN",
+         "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/001B/CF54/7246/4E5E_xlarge_front.jpg",
+         "artistName" : "Paul Thomas Saunders"
+      }
+   ]
+}

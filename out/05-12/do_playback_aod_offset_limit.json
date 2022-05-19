@@ -1,0 +1,170 @@
+3.6 Aod Playback Endpoint do_playback_aod_offset_limit ===========================================
+{
+   "data" : [
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/eca7921f-71f7-49f8-a16b-5d0fe876bb31/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=eca7921f-71f7-49f8-a16b-5d0fe876bb31&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 25895559
+         },
+         "description" : "President Trump traveled on Wednesday to Dayton, Ohio, and El Paso, where mass shootings killed 31 people. Our colleagues described the scene in both cities. Guests: Mitch Smith, who covers the Midwest for The New York Times, and Michael Crowley, a White House correspondent. For more information on todayâs episode, visit nytimes.com/thedaily. Background reading: President Trump began a day set aside for healing in Dayton and El Paso by lashing out at rivals, using the kind of divisive language that prompted protests in both cities even before he arrived.Across El Paso, some residents worried that Mr. Trumpâs visit might do more harm than good.",
+         "durationSeconds" : 1599,
+         "episodeID" : "GA0000P000Hh1FX",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/eca7921f-71f7-49f8-a16b-5d0fe876bb31/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "President Trump traveled on Wednesday to Dayton, Ohio, and El Paso, where mass shootings killed 31 people. Our colleagues described the scene in both cities. Guests: Mitch Smith, who covers the Midwest for The New York Times, and Michael Crowley, a White House correspondent. For more information on todayâs episode, visit nytimes.com/thedaily.Â \n\nBackground reading:Â President Trump began a day set aside for healing in Dayton and El Paso by lashing out at rivals, using the kind of divisive language that prompted protests in both cities even before he arrived.Across El Paso, some residents worried that Mr. Trumpâs visit might do more harm than good.",
+         "summary" : "President Trump traveled on Wednesday to Dayton, Ohio, and El Paso, where mass shootings killed 31 people. Our colleagues described the scene in both cities. Guests: Mitch Smith, who covers the Midwest for The New York Times, and Michael Crowley, a White House correspondent. For more information on todayâs episode, visit nytimes.com/thedaily.Â \n\nBackground reading:Â President Trump began a day set aside for healing in Dayton and El Paso by lashing out at rivals, using the kind of divisive language that prompted protests in both cities even before he arrived.Across El Paso, some residents worried that Mr. Trumpâs visit might do more harm than good.",
+         "title" : "Two Cities in Mourning"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/095e6513-c277-48aa-840e-c6d557947a69/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=095e6513-c277-48aa-840e-c6d557947a69&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 20770965
+         },
+         "description" : "Russiaâs interference in the 2016 election is now undisputed. Whatâs less clear is the role of the countryâs media. A Times reporter went to Moscow to see how the Kremlin is waging an information war against the West. Guest: Jim Rutenberg, media columnist for The Times who recently returned from Russia. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1279,
+         "episodeID" : "GA0000P0000FGMM",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/095e6513-c277-48aa-840e-c6d557947a69/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "Russiaâs interference in the 2016 election is now undisputed. Whatâs less clear is the role of the countryâs media. A Times reporter went to Moscow to see how the Kremlin is waging an information war against the West. Guest: Jim Rutenberg, media columnist for The Times who recently returned from Russia. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "Russiaâs interference in the 2016 election is now undisputed. Whatâs less clear is the role of the countryâs media. A Times reporter went to Moscow to see how the Kremlin is waging an information war against the West. Guest: Jim Rutenberg, media columnist for The Times who recently returned from Russia. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Wednesday, Sept. 13, 2017"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/6e250cde-4a69-4969-b8eb-ad90aa03eaa4/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=6e250cde-4a69-4969-b8eb-ad90aa03eaa4&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 19038522
+         },
+         "description" : "In his speech to Congress on Tuesday night, President Trump tells the story of America. Itâs a story that looks back, but it also looks forward with an optimistic view of where weâll be nine years from now, on our 250th anniversary. Guests: Patrick Healy, the deputy culture editor and a former political reporter for The New York Times; Carl Hulse, The Timesâs chief Washington correspondent. For more information on todayâs episode, visit http://nyti.ms/2mes1ab.",
+         "durationSeconds" : 1171,
+         "episodeID" : "GA0000P0000FGF5",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/6e250cde-4a69-4969-b8eb-ad90aa03eaa4/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "In his speech to Congress on Tuesday night, President Trump tells the story of America. Itâs a story that looks back, but it also looks forward with an optimistic view of where weâll be nine years from now, on our 250th anniversary. Guests: Patrick Healy, the deputy culture editor and a former political reporter for The New York Times; Carl Hulse, The Timesâs chief Washington correspondent. For more information on todayâs episode, visit http://nyti.ms/2mes1ab.",
+         "summary" : "In his speech to Congress on Tuesday night, President Trump tells the story of America. Itâs a story that looks back, but it also looks forward with an optimistic view of where weâll be nine years from now, on our 250th anniversary. Guests: Patrick Healy, the deputy culture editor and a former political reporter for The New York Times; Carl Hulse, The Timesâs chief Washington correspondent. For more information on todayâs episode, visit http://nyti.ms/2mes1ab.",
+         "title" : "Wednesday, Mar. 1, 2017"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/299f7b3e-3867-4eb4-9116-5a988cd7f1d4/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=299f7b3e-3867-4eb4-9116-5a988cd7f1d4&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 16373613
+         },
+         "description" : "On Monday night, two more Republican senators came out against the health care bill. Is that the fatal blow? Guests: Carl Hulse, who covers Congress for The Times; Maggie Haberman, who traveled with President Trump to France last week. For more information on todayâs episode, visit http://nyti.ms/2uC0Zhh.",
+         "durationSeconds" : 1004,
+         "episodeID" : "GA0000P0000FGJ7",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/299f7b3e-3867-4eb4-9116-5a988cd7f1d4/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "On Monday night, two more Republican senators came out against the health care bill. Is that the fatal blow? Guests: Carl Hulse, who covers Congress for The Times; Maggie Haberman, who traveled with President Trump to France last week. For more information on todayâs episode, visit http://nyti.ms/2uC0Zhh.",
+         "summary" : "On Monday night, two more Republican senators came out against the health care bill. Is that the fatal blow? Guests: Carl Hulse, who covers Congress for The Times; Maggie Haberman, who traveled with President Trump to France last week. For more information on todayâs episode, visit http://nyti.ms/2uC0Zhh.",
+         "title" : "Tuesday, July 18, 2017"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/69364236-9115-45e1-9750-32da2f823d7f/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=69364236-9115-45e1-9750-32da2f823d7f&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 21826308
+         },
+         "description" : "The only Democrat in the room when President Trump railed against African immigrants as coming from âshithole countriesâ tells his side of the story. The ensuing fight over immigration has put the government on the verge of a shutdown. If that happens, whose fault would it be? Guests: Senator Richard Durbin of Illinois, who spoke to Carl Hulse, a Washington correspondent for The New York Times, about the meetings with President Trump; Jonathan Weisman, the deputy Washington editor for The Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1345,
+         "episodeID" : "GA0000P0000FGRB",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/69364236-9115-45e1-9750-32da2f823d7f/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "The only Democrat in the room when President Trump railed against African immigrants as coming from âshithole countriesâ tells his side of the story. The ensuing fight over immigration has put the government on the verge of a shutdown. If that happens, whose fault would it be? Guests: Senator Richard Durbin of Illinois, who spoke to Carl Hulse, a Washington correspondent for The New York Times, about the meetings with President Trump; Jonathan Weisman, the deputy Washington editor for The Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "The only Democrat in the room when President Trump railed against African immigrants as coming from âshithole countriesâ tells his side of the story. The ensuing fight over immigration has put the government on the verge of a shutdown. If that happens, whose fault would it be? Guests: Senator Richard Durbin of Illinois, who spoke to Carl Hulse, a Washington correspondent for The New York Times, about the meetings with President Trump; Jonathan Weisman, the deputy Washington editor for The Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Friday, Jan. 19, 2018"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/0e3af9ca-d2a9-4859-88d1-564a6c3f33b3/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=0e3af9ca-d2a9-4859-88d1-564a6c3f33b3&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 32105176
+         },
+         "description" : "When we spoke with Representative Tom Rooney, a Florida Republican, in July, he said he was starting to feel defeated by the state of politics in Washington. Nine months later, we check back in, and he talks frankly about the Russia investigation, gun control and his decision not to run for re-election. Guest: Representative Tom Rooney, Republican of Florida. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1987,
+         "episodeID" : "GA0000P0000FGS8",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/0e3af9ca-d2a9-4859-88d1-564a6c3f33b3/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "When we spoke with Representative Tom Rooney, a Florida Republican, in July, he said he was starting to feel defeated by the state of politics in Washington. Nine months later, we check back in, and he talks frankly about the Russia investigation, gun control and his decision not to run for re-election. Guest: Representative Tom Rooney, Republican of Florida. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "When we spoke with Representative Tom Rooney, a Florida Republican, in July, he said he was starting to feel defeated by the state of politics in Washington. Nine months later, we check back in, and he talks frankly about the Russia investigation, gun control and his decision not to run for re-election. Guest: Representative Tom Rooney, Republican of Florida. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Friday, Mar. 2, 2018"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/91d95117-d81d-4d08-9f04-8fa4bb28e19b/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=91d95117-d81d-4d08-9f04-8fa4bb28e19b&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 21602702
+         },
+         "description" : "Republicans are pushing for a vote to repeal the Affordable Care Act, and theyâre running out of time. The effort could test a long friendship in the Senate. Guests: Thomas Kaplan, who covers Congress for The Times; Sheryl Gay Stolberg, domestic affairs correspondent. For more information on todayâs episode, visit nytimes.com/thedaily. You can support \"The Daily\" by subscribing to The Times. We're offering listeners one month free, then 50% off for a year. Go to nytimes.com/thedailyoffer for more information.",
+         "durationSeconds" : 1331,
+         "episodeID" : "GA0000P0000FGMV",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/91d95117-d81d-4d08-9f04-8fa4bb28e19b/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "Republicans are pushing for a vote to repeal the Affordable Care Act, and theyâre running out of time. The effort could test a long friendship in the Senate. Guests: Thomas Kaplan, who covers Congress for The Times; Sheryl Gay Stolberg, domestic affairs correspondent. For more information on todayâs episode, visitÂ nytimes.com/thedaily. You can support \"The Daily\" by subscribing to The Times. We're offering listeners one month free, then 50% off for a year. Go toÂ nytimes.com/thedailyofferÂ for more information.",
+         "summary" : "Republicans are pushing for a vote to repeal the Affordable Care Act, and theyâre running out of time. The effort could test a long friendship in the Senate. Guests: Thomas Kaplan, who covers Congress for The Times; Sheryl Gay Stolberg, domestic affairs correspondent. For more information on todayâs episode, visitÂ nytimes.com/thedaily. You can support \"The Daily\" by subscribing to The Times. We're offering listeners one month free, then 50% off for a year. Go toÂ nytimes.com/thedailyofferÂ for more information.",
+         "title" : "Thursday, Sept. 21, 2017"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/f658e83e-70d2-41a3-8e5c-507799a6cb69/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=f658e83e-70d2-41a3-8e5c-507799a6cb69&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 19070705
+         },
+         "description" : "In a ceremony made for prime-time television, President Trump announced his Supreme Court nominee: Neil M. Gorsuch, a conservative judge with a sterling rÃ©sumÃ©. We spent the night at The New York Times talking with some of our most insightful colleagues about what the nomination means. We also get on the phone with the chief executive of Hobby Lobby, a company at the center of one of Judge Gorsuchâs most important cases.",
+         "durationSeconds" : 1173,
+         "episodeID" : "GA0000P0000FGDN",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/f658e83e-70d2-41a3-8e5c-507799a6cb69/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "In a ceremony made for prime-time television, President Trump announced his Supreme Court nominee: Neil M. Gorsuch, a conservative judge with a sterling rÃ©sumÃ©. We spent the night at The New York Times talking with some of our most insightful colleagues about what the nomination means. We also get on the phone with the chief executive of Hobby Lobby, a company at the center of one of Judge Gorsuchâs most important cases.",
+         "summary" : "In a ceremony made for prime-time television, President Trump announced his Supreme Court nominee: Neil M. Gorsuch, a conservative judge with a sterling rÃ©sumÃ©. We spent the night at The New York Times talking with some of our most insightful colleagues about what the nomination means. We also get on the phone with the chief executive of Hobby Lobby, a company at the center of one of Judge Gorsuchâs most important cases.",
+         "title" : "Wednesday, Feb. 1, 2017"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/2806450e-ccdc-4a89-8e89-b14ae999502d/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=2806450e-ccdc-4a89-8e89-b14ae999502d&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 22691486
+         },
+         "description" : "The Times obtains Donald Trump Jr.âs emails about an offer of help from the Russian government. âI love it,â he wrote. The story behind the story, and what we mean when we talk about âcollusion.â And the scene from the Iraqi city of Mosul: What Islamic State militants left behind. Guests: Matt Apuzzo, one of the reporters who broke the story about Donald Trump Jr.âs emails; Rukmini Callimachi, who covers the Islamic State, and Andy Mills, a producer with her in Mosul. For more information on todayâs episode, visit http://nyti.ms/2sPxzbb.",
+         "durationSeconds" : 1400,
+         "episodeID" : "GA0000P0000FGJ3",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/2806450e-ccdc-4a89-8e89-b14ae999502d/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "The Times obtains Donald Trump Jr.âs emails about an offer of help from the Russian government. âI love it,â he wrote. The story behind the story, and what we mean when we talk about âcollusion.â And the scene from the Iraqi city of Mosul: What Islamic State militants left behind. Guests: Matt Apuzzo, one of the reporters who broke the story about Donald Trump Jr.âs emails; Rukmini Callimachi, who covers the Islamic State, and Andy Mills, a producer with her in Mosul. For more information on todayâs episode, visit http://nyti.ms/2sPxzbb.",
+         "summary" : "The Times obtains Donald Trump Jr.âs emails about an offer of help from the Russian government. âI love it,â he wrote. The story behind the story, and what we mean when we talk about âcollusion.â And the scene from the Iraqi city of Mosul: What Islamic State militants left behind. Guests: Matt Apuzzo, one of the reporters who broke the story about Donald Trump Jr.âs emails; Rukmini Callimachi, who covers the Islamic State, and Andy Mills, a producer with her in Mosul. For more information on todayâs episode, visit http://nyti.ms/2sPxzbb.",
+         "title" : "Wednesday, July 12, 2017"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/098bc937-ed15-4f4f-a629-b22a8d0a5f68/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=098bc937-ed15-4f4f-a629-b22a8d0a5f68&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 21000841
+         },
+         "description" : "The presidency of Donald J. Trump has changed the rules of influence in the nationâs capital, replacing top lobbyists with a group of newcomers and former nobodies. Those newcomers are getting rich. Guest: Nicholas Confessore, a political investigative reporter for The New York Times. He interviewed the lobbyist Robert Stryk for an episode of one of our other podcasts, âThe New Washington.â For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1293,
+         "episodeID" : "GA0000P0000FGMh",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/098bc937-ed15-4f4f-a629-b22a8d0a5f68/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "The presidency of Donald J. Trump has changed the rules of influence in the nationâs capital, replacing top lobbyists with a group of newcomers and former nobodies. Those newcomers are getting rich. Guest: Nicholas Confessore, a political investigative reporter for The New York Times. He interviewed the lobbyist Robert Stryk for an episode of one of our other podcasts, âThe New Washington.â For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "The presidency of Donald J. Trump has changed the rules of influence in the nationâs capital, replacing top lobbyists with a group of newcomers and former nobodies. Those newcomers are getting rich. Guest: Nicholas Confessore, a political investigative reporter for The New York Times. He interviewed the lobbyist Robert Stryk for an episode of one of our other podcasts, âThe New Washington.â For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Thursday, Sept. 28, 2017"
+      }
+   ],
+   "meta" : {
+      "limit" : 10,
+      "offset" : 0,
+      "total" : 1521
+   }
+}

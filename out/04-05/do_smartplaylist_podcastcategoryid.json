@@ -1,0 +1,534 @@
+3.4 Smart PlayList Endpoint\n3.4.2 By Podcast Series ID do_smartplaylist_podcastcategoryid ===========================================
+{
+   "data" : [
+      {
+         "seriesId" : "GA0000N000002h2",
+         "sourceFeed" : {
+            "author" : "The New York Times",
+            "categories" : [
+               "News"
+            ],
+            "contentType" : "Episodic",
+            "description" : "This is what the news should sound like. The biggest stories of our time, told by the best journalists in the world. Hosted by Michael Barbaro. Twenty minutes a day, five days a week, ready by 6 a.m.",
+            "imageUrl" : "https://image.simplecastcdn.com/images/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/2cce5659-f647-4366-b318-46e4b67afcfa/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+            "language" : "en",
+            "owner" : "The New York Times"
+         },
+         "subtitle" : null,
+         "summary" : "This is what the news should sound like. The biggest stories of our time, told by the best journalists in the world. Hosted by Michael Barbaro. Twenty minutes a day, five days a week, ready by 6 a.m.",
+         "title" : "The Daily"
+      },
+      {
+         "seriesId" : "GA0000N000002h3",
+         "sourceFeed" : {
+            "author" : "NPR",
+            "categories" : [
+               "News"
+            ],
+            "contentType" : null,
+            "description" : "NPR's Up First is the news you need to start your day. The three biggest stories of the day, with reporting and analysis from NPR News â in 10 minutes. Available weekdays by 6 a.m. ET, with hosts Leila Fadel, Steve Inskeep, Rachel Martin and A Martinez. Also available on Saturdays by 8 a.m. ET, with Ayesha Rascoe and Scott Simon. On Sundays, hear a longer exploration behind the headlines with Rachel Martin, available by 8 a.m. ET. Subscribe and listen, then support your local NPR station at donate.npr.org.",
+            "imageUrl" : "https://media.npr.org/assets/img/2020/03/30/up-first-tile_sq-8c917c992869803df1f6fe9511c0bd613cab1249.png?s=1400",
+            "language" : "en-US",
+            "owner" : "NPR"
+         },
+         "subtitle" : "The three biggest stories of the day in 10 minutes.",
+         "summary" : "NPR's Up First is the news you need to start your day. The three biggest stories of the day, with reporting and analysis from NPR News â in 10 minutes. Available weekdays by 6 a.m. ET, with hosts Leila Fadel, Steve Inskeep, Rachel Martin and A Martinez. Also available on Saturdays by 8 a.m. ET, with Ayesha Rascoe and Scott Simon. On Sundays, hear a longer exploration behind the headlines with Rachel Martin, available by 8 a.m. ET. Subscribe and listen, then support your local NPR station at donate.npr.org.",
+         "title" : "Up First"
+      },
+      {
+         "seriesId" : "GA0000N000002h8",
+         "sourceFeed" : {
+            "author" : "Crooked Media",
+            "categories" : [
+               "News"
+            ],
+            "contentType" : "Episodic",
+            "description" : "Four former aides to President ObamaâJon Favreau, Jon Lovett, Dan Pfeiffer and Tommy Vietorâare joined by journalists, politicians, activists, and more for a no-b******t conversation about politics. They cut through the noise to break down the weekâs news, and help people figure out what matters and how they can help.Â You can listen to new episodes twice a week, and starting on October 26, 2021, we will be shifting our schedule to Tuesdays and Thursdays.",
+            "imageUrl" : "https://megaphone.imgix.net/podcasts/454f50d8-0f0c-11e9-a73b-132c930842e3/image/uploads_2F1595947484360-nc4atf9w7ur-dbbaa7ee07a1ee325ec48d2e666ac261_2FPodSave100DaysFinal1800.jpg?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+            "language" : "en",
+            "owner" : "Crooked Media"
+         },
+         "subtitle" : null,
+         "summary" : "Four former aides to President ObamaâJon Favreau, Jon Lovett, Dan Pfeiffer and Tommy Vietorâare joined by journalists, politicians, activists, and more for a no-b******t conversation about politics. They cut through the noise to break down the weekâs news, and help people figure out what matters and how they can help.Â You can listen to new episodes twice a week, and starting on October 26, 2021, we will be shifting our schedule to Tuesdays and Thursdays.",
+         "title" : "Pod Save America"
+      },
+      {
+         "seriesId" : "GA0000N000002hH",
+         "sourceFeed" : {
+            "author" : "The Daily Wire",
+            "categories" : [
+               "News"
+            ],
+            "contentType" : "Episodic",
+            "description" : "Tired of the lies? Tired of the spin? Are you ready to hear the hard-hitting truth in comprehensive, conservative, principled fashion? The Ben Shapiro Show brings you all the news you need to know in the most fast moving daily program in America. Ben brutally breaks down the culture and never gives an inch! Monday thru Friday.",
+            "imageUrl" : "https://megaphone.imgix.net/podcasts/35b42868-5c97-11ea-b0cc-039c766dfa49/image/BS_iTunes_Thumb_21.jpg?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+            "language" : "en",
+            "owner" : "The Ben Shapiro Show"
+         },
+         "subtitle" : "Tired of the lies? Tired of the spin? Are you reaâ¦",
+         "summary" : "Tired of the lies? Tired of the spin? Are you ready to hear the hard-hitting truth in comprehensive, conservative, principled fashion? The Ben Shapiro Show brings you all the news you need to know in the most fast moving daily program in America. Ben brutally breaks down the culture and never gives an inch! Monday thru Friday.",
+         "title" : "The Ben Shapiro Show"
+      },
+      {
+         "seriesId" : "GA0000N000002tt",
+         "sourceFeed" : {
+            "author" : "Cumulus Podcast Network | Dan Bongino",
+            "categories" : [
+               "News"
+            ],
+            "contentType" : "Episodic",
+            "description" : "Heâs a former Secret Service Agent, former NYPD officer, and New York Times best-selling author. Join Dan Bongino each weekday as he tackles the hottest political issues, debunking both liberal and Republican establishment rhetoric.",
+            "imageUrl" : "https://megaphone.imgix.net/podcasts/d005ae5a-cf43-11e9-afab-4387f1d2a24b/image/DBSCover.jpg?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+            "language" : "en",
+            "owner" : "The Dan Bongino Show | Cumulus Podcast Network"
+         },
+         "subtitle" : "Dan Bongino tackles the hot political issues, debunking both liberal and Republican establishment rhetoric.",
+         "summary" : "Heâs a former Secret Service Agent, former NYPD officer, and New York Times best-selling author. Join Dan Bongino each weekday as he tackles the hottest political issues, debunking both liberal and Republican establishment rhetoric.",
+         "title" : "The Dan Bongino Show"
+      },
+      {
+         "seriesId" : "GA0000N0000000r",
+         "sourceFeed" : {
+            "author" : "NPR",
+            "categories" : [
+               "News",
+               "Government"
+            ],
+            "contentType" : "Episodic",
+            "description" : "Every weekday, NPR's best political reporters are there to explain the big news coming out of Washington and the campaign trail. They don't just tell you what happened. They tell you why it matters. Every afternoon.",
+            "imageUrl" : "https://media.npr.org/assets/img/2019/05/07/the-npr-politics-podcast_final_sq-ecdd1508be24f14c6b6ee98e6627cbf2be192ea6.jpg?s=1400",
+            "language" : "en-US",
+            "owner" : "NPR"
+         },
+         "subtitle" : "Daily analysis of the biggest news out of Washington.",
+         "summary" : "Every weekday, NPR's best political reporters are there to explain the big news coming out of Washington and the campaign trail. They don't just tell you what happened. They tell you why it matters. Every afternoon.",
+         "title" : "The NPR Politics Podcast"
+      },
+      {
+         "seriesId" : "GA0000N00000095",
+         "sourceFeed" : {
+            "author" : "Ed Mylett",
+            "categories" : [
+               "Business",
+               "Education"
+            ],
+            "contentType" : "Episodic",
+            "description" : "The Ed Mylett Show showcases the greatest peak-performers across all industries in one place, sharing their journey, knowledge and thought leadership. With Ed Mylett and featured guests in almost every industry including business, health, collegiate and professional sports, politics, entrepreneurship, science, and entertainment, you'll find motivation, inspiration and practical steps to help you become the best version of you!",
+            "imageUrl" : "https://image.simplecastcdn.com/images/eb066caf-b4e0-4cd2-8a27-575be186c955/a22f5862-ed46-4c09-8c5e-d3ff6dda829a/3000x3000/podcast-cover-b.jpg?aid=rss_feed",
+            "language" : "en",
+            "owner" : "Ed Mylett"
+         },
+         "subtitle" : "The Ed Mylett Show",
+         "summary" : "The Ed Mylett Show showcases the greatest peak-performers across all industries in one place, sharing their journey, knowledge and thought leadership. With Ed Mylett and featured guests in almost every industry including business, health, collegiate and professional sports, politics, entrepreneurship, science, and entertainment, you'll find motivation, inspiration and practical steps to help you become the best version of you!",
+         "title" : "The Ed Mylett Show"
+      },
+      {
+         "seriesId" : "GA0000N000000NM",
+         "sourceFeed" : {
+            "author" : "PodcastOne / Carolla Digital",
+            "categories" : [
+               "Comedy"
+            ],
+            "contentType" : "Episodic",
+            "description" : "Welcome to the new home for Adam's rantings and ravings. This is the #1 Daily Downloaded Podcast in the World. GET IT ON as Adam shares his thoughts on current events, relationships, airport security, specialty pizzas, politics, and anything else he can complain about. Five days a week and completely uncensored, Adam welcomes a wide range of guests to join him in studio for in depth interviews and a front row seat to his unparalleled ranting. Let's not forget Bryan Bishop (Bald Bryan) on sound effects.\n\nCheck it out as Adam hangs out with some of his pals like: Larry Miller, David Allen Grier, Dr. Drew Pinksy, Dana Gould, Doug Benson, and many, many more.",
+            "imageUrl" : "https://img.podcastone.com/images/313/carolla.png",
+            "language" : "en-US",
+            "owner" : "PodcastOne / Carolla Digital"
+         },
+         "subtitle" : "Welcome to the new home for Adam's rantings and ravings. This is the #1 daily downloaded podcast in the world. Get it on as Adam shares his thoughts on current events, relationships, airport security, specialty pizzas, politics, and more.\r\n\r\nCheck it out as Adam hangs out with some of his pals like Larry Miller, David Allen Grier, Dr. Drew Pinksy, Dana Gould, Doug Benson, and more.",
+         "summary" : "Welcome to the new home for Adam's rantings and ravings. This is the #1 Daily Downloaded Podcast in the World. GET IT ON as Adam shares his thoughts on current events, relationships, airport security, specialty pizzas, politics, and anything else he can complain about. Five days a week and completely uncensored, Adam welcomes a wide range of guests to join him in studio for in depth interviews and a front row seat to his unparalleled ranting. Let's not forget Bryan Bishop (Bald Bryan) on sound effects.\n\nCheck it out as Adam hangs out with some of his pals like: Larry Miller, David Allen Grier, Dr. Drew Pinksy, Dana Gould, Doug Benson, and many, many more.",
+         "title" : "Adam Carolla Show"
+      },
+      {
+         "seriesId" : "GA0000N000000ZM",
+         "sourceFeed" : {
+            "author" : "PragerU",
+            "categories" : [
+               "Education"
+            ],
+            "contentType" : null,
+            "description" : "Podcast by PragerU",
+            "imageUrl" : "https://i1.sndcdn.com/avatars-pB0vaVx0L6tYfKSq-02jlKQ-original.jpg",
+            "language" : "en",
+            "owner" : "The Candace Owens Show"
+         },
+         "subtitle" : "Podcast by PragerU",
+         "summary" : null,
+         "title" : "The Candace Owens Show"
+      },
+      {
+         "seriesId" : "GA0000N000002hN",
+         "sourceFeed" : {
+            "author" : "ABC News",
+            "categories" : [
+               "True Crime"
+            ],
+            "contentType" : "Episodic",
+            "description" : "Money. Romance. Tragedy. Deception. The story of Elizabeth Holmes and Theranos is an unbelievable tale of ambition and fame gone terribly wrong. How did the worldâs youngest self-made female billionaire lose it all in the blink of an eye? How did the woman once heralded as âthe next Steve Jobsâ find herself facing criminal charges â to which she pleaded not guilty â and up to decades in prison? How did her technology, meant to revolutionize health care, potentially put millions of patients at risk? And how did so many smart people get it so wrong along the way?Â ABC News chief business, technology and economics correspondent Rebecca Jarvis, along with producers Taylor Dunn and Victoria Thompson, take listeners on a journey that includes a multi-year investigation. You'll hear exclusive interviews with former employees, investors, and patients, and for the first-time, the never-before-aired deposition testimony of Elizabeth Holmes, and those at the center of this story.\n\nIn a series of new episodes,Â \"The Dropout: Elizabeth Holmes on Trial\" goes inside the courtroom, breaking down the evidence and keeping score for both sides as 12 jurors decide the fate of the Theranos founder and new mother. Three years after she was first charged, we find out how this saga finally ends.",
+            "imageUrl" : "https://megaphone.imgix.net/podcasts/385b7224-a409-11ea-a312-27bb5a0f36e9/image/The_Dropout_Season_2_Podcast_Art_1500.jpg?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+            "language" : "en-US",
+            "owner" : null
+         },
+         "subtitle" : null,
+         "summary" : "Money. Romance. Tragedy. Deception. The story of Elizabeth Holmes and Theranos is an unbelievable tale of ambition and fame gone terribly wrong. How did the worldâs youngest self-made female billionaire lose it all in the blink of an eye? How did the woman once heralded as âthe next Steve Jobsâ find herself facing criminal charges â to which she pleaded not guilty â and up to decades in prison? How did her technology, meant to revolutionize health care, potentially put millions of patients at risk? And how did so many smart people get it so wrong along the way?Â ABC News chief business, technology and economics correspondent Rebecca Jarvis, along with producers Taylor Dunn and Victoria Thompson, take listeners on a journey that includes a multi-year investigation. You'll hear exclusive interviews with former employees, investors, and patients, and for the first-time, the never-before-aired deposition testimony of Elizabeth Holmes, and those at the center of this story.\n\nIn a series of new episodes,Â \"The Dropout: Elizabeth Holmes on Trial\" goes inside the courtroom, breaking down the evidence and keeping score for both sides as 12 jurors decide the fate of the Theranos founder and new mother. Three years after she was first charged, we find out how this saga finally ends.",
+         "title" : "The Dropout"
+      },
+      {
+         "seriesId" : "GA0000N000002m0",
+         "sourceFeed" : {
+            "author" : "Rachel Maddow, MSNBC",
+            "categories" : [
+               "News"
+            ],
+            "contentType" : "Episodic",
+            "description" : "Rachel Maddow works with unmatched rigor and resolve to explain our complex world and deliver news in a way that's illuminating and dynamic, connecting the dots to make sense of complex issues. Join her every weeknight as she provides in-depth reporting to illuminate the current state of political affairs and reveals the importance of transparency and accountability from our leaders.",
+            "imageUrl" : "https://image.simplecastcdn.com/images/6d56f628-36e8-4b8a-be3e-03a3e5062540/23b9a3f0-49bc-4ce9-a1fe-061750ae94a9/3000x3000/rm-podcast-3000x3000.jpg?aid=rss_feed",
+            "language" : "en",
+            "owner" : "MSNBC"
+         },
+         "subtitle" : null,
+         "summary" : "Rachel Maddow works with unmatched rigor and resolve to explain our complex world and deliver news in a way that's illuminating and dynamic, connecting the dots to make sense of complex issues. Join her every weeknight as she provides in-depth reporting to illuminate the current state of political affairs and reveals the importance of transparency and accountability from our leaders.",
+         "title" : "The Rachel Maddow Show"
+      },
+      {
+         "seriesId" : "GA0000N000002m5",
+         "sourceFeed" : {
+            "author" : "Westwood One",
+            "categories" : [
+               "News"
+            ],
+            "contentType" : "Episodic",
+            "description" : "Mark Levin is one of the hottest properties in Talk radio today. He is also one of the leading authors in the conservative political arena. Mark's radio show on WABC in New York City skyrocketed to Number 1 on the AM dial in his first 18 months on the air in the competitive 6:00 PM - 8:00 PM time slot. Mark's latest book, \"Unfreedom of the Press,\" is out now. When your books are endorsed by Rush Limbaugh and Sean Hannity, you know you have a winner on your hands. In a short period of time, Mark has become one of the most listened to local radio Talk show hosts in the nation.",
+            "imageUrl" : "https://www.omnycontent.com/d/playlist/a7b0bd27-d748-4fbe-ab3b-a6fa0049bcf6/392196e7-87cf-4af5-b31b-a89c01057741/2bab9367-8229-4d22-ad4c-a89c01057758/image.jpg?t=1567112679&size=Large",
+            "language" : "en-US",
+            "owner" : "Westwood One Podcasts"
+         },
+         "subtitle" : null,
+         "summary" : "Mark Levin is one of the hottest properties in Talk radio today. He is also one of the leading authors in the conservative political arena. Mark's radio show on WABC in New York City skyrocketed to Number 1 on the AM dial in his first 18 months on the air in the competitive 6:00 PM - 8:00 PM time slot. Mark's latest book, \"Unfreedom of the Press,\" is out now. When your books are endorsed by Rush Limbaugh and Sean Hannity, you know you have a winner on your hands. In a short period of time, Mark has become one of the most listened to local radio Talk show hosts in the nation.",
+         "title" : "Mark Levin Podcast"
+      },
+      {
+         "seriesId" : "GA0000N000002mG",
+         "sourceFeed" : {
+            "author" : "NPR",
+            "categories" : [
+               "News",
+               "Society & Culture"
+            ],
+            "contentType" : null,
+            "description" : "What's CODE SWITCH? It's the fearless conversations about race that you've been waiting for. Hosted by journalists of color, our podcast tackles the subject of race with empathy and humor. We explore how race affects every part of society â from politics and pop culture to history, food and everything in between. This podcast makes all of us part of the conversation â because we're all part of the story. Code Switch was named Apple Podcasts' first-ever Show of the Year in 2020.<br /><br /><em>Want to level up your Code Switch game? Try Code Switch Plus. </em><em>Your subscription supports the show and unlocks a sponsor-free feed. Learn more at </em><em>plus.npr.org/</em><em>codeswitch</em>",
+            "imageUrl" : "https://media.npr.org/assets/img/2020/03/24/undefined_sq-63f9f4b46bb9031d67f9785b66818f4befbab8bc.jpg?s=1400",
+            "language" : "en-US",
+            "owner" : "NPR"
+         },
+         "subtitle" : "Fearless conversations about race, politics, and culture.",
+         "summary" : "What's CODE SWITCH? It's the fearless conversations about race that you've been waiting for. Hosted by journalists of color, our podcast tackles the subject of race with empathy and humor. We explore how race affects every part of society â from politics and pop culture to history, food and everything in between. This podcast makes all of us part of the conversation â because we're all part of the story. Code Switch was named Apple Podcasts' first-ever Show of the Year in 2020.<br /><br /><em>Want to level up your Code Switch game? Try Code Switch Plus. </em><em>Your subscription supports the show and unlocks a sponsor-free feed. Learn more at </em><em>plus.npr.org/</em><em>codeswitch</em>",
+         "title" : "Code Switch"
+      },
+      {
+         "seriesId" : "GA0000N000002mM",
+         "sourceFeed" : {
+            "author" : "FiveThirtyEight, 538, ABC News, Nate Silver",
+            "categories" : [
+               "News"
+            ],
+            "contentType" : "Episodic",
+            "description" : "Nate Silver and the FiveThirtyEight team cover the latest in politics, tracking the issues and \"game-changers\" every week.",
+            "imageUrl" : "https://megaphone.imgix.net/podcasts/eff766c2-63ae-11ea-9caa-8b87e9a0e007/image/i.png?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+            "language" : "en-US",
+            "owner" : "FiveThirtyEight.com"
+         },
+         "subtitle" : "Nate Silver and the FiveThirtyEight team cover the latest in politics, tracking the issues and \"game-changers\" every week.",
+         "summary" : "Nate Silver and the FiveThirtyEight team cover the latest in politics, tracking the issues and \"game-changers\" every week.",
+         "title" : "FiveThirtyEight Politics"
+      },
+      {
+         "seriesId" : "GA0000N000002r7",
+         "sourceFeed" : {
+            "author" : "Crooked Media",
+            "categories" : [
+               "News",
+               "Comedy"
+            ],
+            "contentType" : "Episodic",
+            "description" : "Former Obama speechwriter Jon Lovett and a panel of comedians, actors, journalists, and some of the many famous Friends of the Pod appear before a live audience to break down the weekâs biggest news. Quizzes! Impressions! Shouting at cable news clips! And everyoneâs favorite: nuanced discussion. New episodes every Saturday.",
+            "imageUrl" : "https://megaphone.imgix.net/podcasts/4aded07a-0f0a-11e9-b524-777a62b36ee0/image/loli.jpg?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+            "language" : "en",
+            "owner" : "Crooked Media"
+         },
+         "subtitle" : null,
+         "summary" : "Former Obama speechwriter Jon Lovett and a panel of comedians, actors, journalists, and some of the many famous Friends of the Pod appear before a live audience to break down the weekâs biggest news. Quizzes! Impressions! Shouting at cable news clips! And everyoneâs favorite: nuanced discussion. New episodes every Saturday.",
+         "title" : "Lovett or Leave It"
+      },
+      {
+         "seriesId" : "GA0000N000002rB",
+         "sourceFeed" : {
+            "author" : "CAFE",
+            "categories" : [
+               "News",
+               "Society & Culture",
+               "Government"
+            ],
+            "contentType" : "Episodic",
+            "description" : "Join former U.S. Attorney Preet Bharara as he breaks down legal topics in the news and engages thought leaders in a podcast about power, policy, and justice.\nFrom CAFE and the Vox Media Podcast Network.",
+            "imageUrl" : "https://megaphone.imgix.net/podcasts/21782ca6-a204-11eb-9d9a-8fbd26a4e7af/image/image.jpg?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+            "language" : "en",
+            "owner" : "Vox Media Podcast Network"
+         },
+         "subtitle" : null,
+         "summary" : "Join former U.S. Attorney Preet Bharara as he breaks down legal topics in the news and engages thought leaders in a podcast about power, policy, and justice.\nFrom CAFE and the Vox Media Podcast Network.",
+         "title" : "Stay Tuned With Preet"
+      },
+      {
+         "seriesId" : "GA0000N000002rF",
+         "sourceFeed" : {
+            "author" : "Crooked Media",
+            "categories" : [
+               "News"
+            ],
+            "contentType" : "Episodic",
+            "description" : "âPod Save Americaâ cohost Tommy Vietor thought foreign policy was boring and complicated until he got the education of a lifetime working for President Obamaâs National Security Council. On âPod Save the World,â he and former deputy national security adviser Ben Rhodes break down the latest developments and bring you behind the scenes with the people who were there. New episodes every Wednesday.",
+            "imageUrl" : "https://megaphone.imgix.net/podcasts/38913aaa-0f0c-11e9-bb68-c77e0c4995bc/image/pstw.jpg?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+            "language" : "en",
+            "owner" : "Crooked Media"
+         },
+         "subtitle" : null,
+         "summary" : "âPod Save Americaâ cohost Tommy Vietor thought foreign policy was boring and complicated until he got the education of a lifetime working for President Obamaâs National Security Council. On âPod Save the World,â he and former deputy national security adviser Ben Rhodes break down the latest developments and bring you behind the scenes with the people who were there. New episodes every Wednesday.",
+         "title" : "Pod Save the World"
+      },
+      {
+         "seriesId" : "GA0000N000002rN",
+         "sourceFeed" : {
+            "author" : "Blaze Podcast Network",
+            "categories" : [
+               "News"
+            ],
+            "contentType" : "Episodic",
+            "description" : "Steven Crowder brings you news, entertainment and politics with the most politically incorrect show on the web. Guests, rants, sketches, your calls ... it's whatever.",
+            "imageUrl" : "https://megaphone.imgix.net/podcasts/27dad94e-4e7d-11ea-a572-ebfb85033a49/image/uploads_2F1599159867024-tw0l3bfy0d-aa9408f3186f40db2bfaac9072e02d1c_2FLWC-Podcast-3000x3000.jpg?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+            "language" : "en",
+            "owner" : "Blaze Media"
+         },
+         "subtitle" : "Entertainment and enlightenment. In that order.",
+         "summary" : "Steven Crowder brings you news, entertainment and politics with the most politically incorrect show on the web. Guests, rants, sketches, your calls ... it's whatever.",
+         "title" : "Louder With Crowder"
+      },
+      {
+         "seriesId" : "GA0000N000002rX",
+         "sourceFeed" : {
+            "author" : "Charlie Kirk",
+            "categories" : [
+               "News",
+               "Society & Culture"
+            ],
+            "contentType" : "Episodic",
+            "description" : "<p>Charlie is America's hardest working grassroots&nbsp;activist&nbsp;who has your inside scoop on the biggest news of the day and what's really going on behind the headlines. The founder of Turning Point USA and one of social media's most engaged personalities,&nbsp;Charlie is on the&nbsp;front lines of America&rsquo;s culture war, mobilizing hundreds of thousands of students on over 2,500 college and high school campuses across the country, bringing you your daily dose of clarity in a sea of chaos all from his signature no-holds-barred, unapologetically conservative, freedom-loving point of view.</p>",
+            "imageUrl" : "https://www.omnycontent.com/d/programs/5e27a451-e6e6-4c51-aa03-a7370003783c/c865b590-c84f-4f7e-a43e-ac64014b61d9/image.jpg?t=1642196539&size=Large",
+            "language" : "en-US",
+            "owner" : "Andrew Kolvet"
+         },
+         "subtitle" : "Mobilizing students on 2,000 college and high school campuses across the country, Charlie has your inside scoop on the biggest news of the week and what's really going on behind the headlines. The founder of Turning Point USA...",
+         "summary" : "Charlie is America's hardest working grassrootsÂ activistÂ who has your inside scoop on the biggest news of the day and what's really going on behind the headlines. The founder of Turning Point USA and one of social media's most engaged personalities,Â Charlie is on theÂ front lines of Americaâs culture war, mobilizing hundreds of thousands of students on over 2,500 college and high school campuses across the country, bringing you your daily dose of clarity in a sea of chaos all from his signature no-holds-barred, unapologetically conservative, freedom-loving point of view.",
+         "title" : "The Charlie Kirk Show"
+      },
+      {
+         "seriesId" : "GA0000N000002t5",
+         "sourceFeed" : {
+            "author" : "Blaze Podcast Network",
+            "categories" : [
+               "News"
+            ],
+            "contentType" : "Episodic",
+            "description" : "Storytelling, insight and compelling perspective on American culture and politics. Glenn Beck's quick wit, candid opinions and engaging personality have made this one of the most popular radio programs in America. Watch The Glenn Beck Radio Program, Monday through Friday, 9am - 12pm ET on BlazeTV. www.BlazeTV.com/Glenn",
+            "imageUrl" : "https://megaphone.imgix.net/podcasts/7586997c-28de-11ea-a81b-df17619e3f68/image/uploads_2F1608335656253-dgigg82h2ug-4a070bf973a0830e445c86aa96acd42d_2FGlenn-Beck-Program---Podcast---2021-Final.jpg?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+            "language" : "en",
+            "owner" : "Blaze Podcast Network"
+         },
+         "subtitle" : "Glenn Beck",
+         "summary" : "Storytelling, insight and compelling perspective on American culture and politics. Glenn Beck's quick wit, candid opinions and engaging personality have made this one of the most popular radio programs in America. Watch The Glenn Beck Radio Program, Monday through Friday, 9am - 12pm ET on BlazeTV. www.BlazeTV.com/Glenn",
+         "title" : "The Glenn Beck Program"
+      },
+      {
+         "seriesId" : "GA0000N000002tR",
+         "sourceFeed" : {
+            "author" : "The New York Times",
+            "categories" : [
+               "News",
+               "History",
+               "Religion & Spirituality"
+            ],
+            "contentType" : "Serial",
+            "description" : "In the war on terror, who is it that weâre really fighting? âCaliphateâ follows Rukmini Callimachi, who covers terrorism for The New York Times, on her quest to understand ISIS. For more information about the series, visit nytimes.com/caliphate. This series includes disturbing language and scenes of graphic violence. Producer: Andy Mills; Reporters: Rukmini Callimachi and Andy Mills; Managing Producer: Larissa Anderson; Editors: Wendy Dorr and Larissa Anderson; Associate Producer: Asthaa Chaturvedi; Technical Director: Brad Fisher; Executive Producer, NYT Audio: Lisa Tobin; Editorial Director, NYT Audio: Samantha Henig; Assistant Managing Editor, NYT: Sam Dolnick; Music: William Brittelle, Andy Mills, Nate Henricks, Cliff Martinez, Brad Fisher, Taku Sugimoto and David Wingo",
+            "imageUrl" : "https://image.simplecastcdn.com/images/4bcf9c0c-53cf-4055-9873-1c15d39d0d33/abad9e6f-5123-46fd-8ee7-6ff10dee4b05/3000x3000/b9c75492b00c01af5065c0f1451d489ccd1df17a0d1388d3a1ab24263920ce53721871f25d6fe29b57df2b494d54a97eb2a764ffe276e394cf01cdf291ee3443.jpeg?aid=rss_feed",
+            "language" : "en",
+            "owner" : "The New York Times"
+         },
+         "subtitle" : null,
+         "summary" : "In the war on terror, who is it that weâre really fighting? âCaliphateâ follows Rukmini Callimachi, who covers terrorism for The New York Times, on her quest to understand ISIS. For more information about the series, visit nytimes.com/caliphate. This series includes disturbing language and scenes of graphic violence. Producer: Andy Mills; Reporters: Rukmini Callimachi and Andy Mills; Managing Producer: Larissa Anderson; Editors: Wendy Dorr and Larissa Anderson; Associate Producer: Asthaa Chaturvedi; Technical Director: Brad Fisher; Executive Producer, NYT Audio: Lisa Tobin; Editorial Director, NYT Audio: Samantha Henig; Assistant Managing Editor, NYT: Sam Dolnick; Music: William Brittelle, Andy Mills, Nate Henricks, Cliff Martinez, Brad Fisher, Taku Sugimoto and David Wingo",
+         "title" : "Caliphate"
+      },
+      {
+         "seriesId" : "GA0000N0000030C",
+         "sourceFeed" : {
+            "author" : "MSNBC, Rachel Maddow",
+            "categories" : [
+               "News",
+               "History"
+            ],
+            "contentType" : "Serial",
+            "description" : "Is it possible for an American Vice President to carry out a criminal enterprise inside the White House and have nobody remember? To have one of the most brazen political bribery scandals in American history play out before the country while nobodyâs paying attention? In her first original podcast, MSNBCâs Rachel Maddow goes back 45 years to dig into a story that got overshadowed in its day. Thereâs intrigue. Corruption. Envelopes of cash delivered to the White House. Itâs a story thatâs not well known, but it probably should be. Especially today. Bag Man. A Rachel Maddow podcast from MSNBC. Listen to the Peabody Award-nominated series now.",
+            "imageUrl" : "https://image.simplecastcdn.com/images/6d56f628-36e8-4b8a-be3e-03a3e5062540/f52a9971-a5fa-4e47-899e-2e21be98b151/3000x3000/bag-man-3000x3000.jpg?aid=rss_feed",
+            "language" : "en",
+            "owner" : "MSNBC"
+         },
+         "subtitle" : null,
+         "summary" : "Is it possible for an American Vice President to carry out a criminal enterprise inside the White House and have nobody remember? To have one of the most brazen political bribery scandals in American history play out before the country while nobodyâs paying attention? In her first original podcast, MSNBCâs Rachel Maddow goes back 45 years to dig into a story that got overshadowed in its day. Thereâs intrigue. Corruption. Envelopes of cash delivered to the White House. Itâs a story thatâs not well known, but it probably should be. Especially today. Bag Man. A Rachel Maddow podcast from MSNBC. Listen to the Peabody Award-nominated series now.",
+         "title" : "Bag Man"
+      },
+      {
+         "seriesId" : "GA0000N00000318",
+         "sourceFeed" : {
+            "author" : "Crooked Media",
+            "categories" : [
+               "News"
+            ],
+            "contentType" : "Serial",
+            "description" : "What will it take to defeat Donald Trump in November? In season 2 of The Wilderness, Jon Favreau looks for the path to victory in 2020 by talking to voters, strategists, organizers, and candidates in the battleground states that will decide the election.",
+            "imageUrl" : "https://megaphone.imgix.net/podcasts/1a3f429a-0f0c-11e9-8e1d-2369c7692969/image/tw.jpg?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+            "language" : "en",
+            "owner" : null
+         },
+         "subtitle" : null,
+         "summary" : "What will it take to defeat Donald Trump in November? In season 2 of The Wilderness, Jon Favreau looks for the path to victory in 2020 by talking to voters, strategists, organizers, and candidates in the battleground states that will decide the election.",
+         "title" : "The Wilderness"
+      },
+      {
+         "seriesId" : "GA0000N00000326",
+         "sourceFeed" : {
+            "author" : "The North Star",
+            "categories" : [
+               "News",
+               "Society & Culture"
+            ],
+            "contentType" : "Episodic",
+            "description" : "Join Shaun as he unpacks the most important stories of injustice, racism and corruption, but also tells you who's fighting back and how you can support and join them with practical action steps.",
+            "imageUrl" : "https://images.theabcdn.com/i/36842613.png",
+            "language" : "en-US",
+            "owner" : null
+         },
+         "subtitle" : "Join Shaun as he unpacks the most important stories of injustice, racism and corruption, but also tells you who's fighting back and how you can support and join them with practical action steps.",
+         "summary" : "Join Shaun as he unpacks the most important stories of injustice, racism and corruption, but also tells you who's fighting back and how you can support and join them with practical action steps.",
+         "title" : "The Breakdown With Shaun King"
+      },
+      {
+         "seriesId" : "GA0000N0000032h",
+         "sourceFeed" : {
+            "author" : "The Daily Wire",
+            "categories" : [
+               "News"
+            ],
+            "contentType" : "Episodic",
+            "description" : "End of Western Civilization got you down? All is tickety-boo on The Andrew Klavan Show as Andrew laughs his way though Armageddon with political satire, cultural commentary, interviews and relentless mockery of racial pieties, sexual perversities, and feminist absurdities. Fridays at 8:30pm ET | 5:30pm PT.",
+            "imageUrl" : "https://megaphone.imgix.net/podcasts/4e2af0e4-1c54-11ea-bc27-0fdc0b475c60/image/uploads_2F1605731460925-7r21rafpahe-a667d4cc373a2dd5bffd1544831334e7_2FAK_iTunes_Thumb_20.jpg?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+            "language" : "en",
+            "owner" : "The Andrew Klavan Show"
+         },
+         "subtitle" : "End of Western Civilization got you down? All is â¦",
+         "summary" : "End of Western Civilization got you down? All is tickety-boo on The Andrew Klavan Show as Andrew laughs his way though Armageddon with political satire, cultural commentary, interviews and relentless mockery of racial pieties, sexual perversities, and feminist absurdities. Fridays at 8:30pm ET | 5:30pm PT.",
+         "title" : "The Andrew Klavan Show"
+      },
+      {
+         "seriesId" : "GA0000N00000355",
+         "sourceFeed" : {
+            "author" : "Blaze Podcast Network",
+            "categories" : [
+               "News",
+               "Religion & Spirituality"
+            ],
+            "contentType" : "Episodic",
+            "description" : "Upbeat and in-depth, Relatable with Allie Beth Stuckey breaks down the latest in culture, news, theology & politics from a Christian, conservative perspective. Allieâs fresh analysis of the most important issues provides an entertaining and effective way to stay in the know.",
+            "imageUrl" : "https://megaphone.imgix.net/podcasts/ed8d21e8-28d9-11ea-9eae-a38e16dd9819/image/Relatable-Podcast-Art---Jan-2022---UPDATE---Good-Ranchers.jpg?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+            "language" : "en",
+            "owner" : "Blaze Podcast Network"
+         },
+         "subtitle" : null,
+         "summary" : "Upbeat and in-depth, Relatable with Allie Beth Stuckey breaks down the latest in culture, news, theology & politics from a Christian, conservative perspective. Allieâs fresh analysis of the most important issues provides an entertaining and effective way to stay in the know.",
+         "title" : "Relatable With Allie Beth Stuckey"
+      },
+      {
+         "seriesId" : "GA0000N0000035Z",
+         "sourceFeed" : {
+            "author" : "The Daily Wire",
+            "categories" : [
+               "News"
+            ],
+            "contentType" : "Episodic",
+            "description" : "Bask in the simple joys of being right. The Michael Knowles Show cuts through the madness of our politics and culture, analyzing the top stories of the day. Monday through Friday. If you like The Michael Knowles Show, become a member TODAY with promo code: KNOWLES and enjoy the exclusive benefits for 10% off atÂ https://www.dailywire.com/knowles",
+            "imageUrl" : "https://megaphone.imgix.net/podcasts/fdb843ae-2280-11ea-b469-f39bf6034ceb/image/uploads_2F1605731783599-ti76zb031kr-f83b27fd74dbc7f3eab15982133ac8d3_2FMK_iTunes_Thumb_20.jpg?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+            "language" : "en",
+            "owner" : "The Michael Knowles Show"
+         },
+         "subtitle" : "Come for the conversation. Stay for the covfefe. â¦",
+         "summary" : "Bask in the simple joys of being right. The Michael Knowles Show cuts through the madness of our politics and culture, analyzing the top stories of the day. Monday through Friday. If you like The Michael Knowles Show, become a member TODAY with promo code: KNOWLES and enjoy the exclusive benefits for 10% off atÂ https://www.dailywire.com/knowles",
+         "title" : "The Michael Knowles Show"
+      },
+      {
+         "seriesId" : "GA0000N0000039V",
+         "sourceFeed" : {
+            "author" : "The Daily Wire",
+            "categories" : [
+               "News"
+            ],
+            "contentType" : "Episodic",
+            "description" : "Fed up with the talking heads? Matt gives you a no-holds-barred take on todayâs cultural, religious, and political issues. Monday thru Friday.",
+            "imageUrl" : "https://megaphone.imgix.net/podcasts/aeee347a-155d-11ea-9da6-3f10d2790cc4/image/MW_podcastCover__1_.png?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+            "language" : "en",
+            "owner" : "The Matt Walsh Show"
+         },
+         "subtitle" : "Fed up with the talking heads? Matt gives you a nâ¦",
+         "summary" : "Fed up with the talking heads? Matt gives you a no-holds-barred take on todayâs cultural, religious, and political issues. Monday thru Friday.",
+         "title" : "The Matt Walsh Show"
+      },
+      {
+         "seriesId" : "GA0000N000004F0",
+         "sourceFeed" : {
+            "author" : "Chuck Rosenberg, NBC News",
+            "categories" : [
+               "News",
+               "Government"
+            ],
+            "contentType" : "Episodic",
+            "description" : "Listen in on revealing and thoughtful conversations with fascinating men and women who took an oath to support and defend our Constitution and our nation â leaders in law enforcement, the military, the intelligence community, and many more. What inspired these people? What drew them to this work? How did they overcome adversity and failure? And what are the lessons for our country and our democracy as we move forward? These captivating stories exemplify what is best about our nation: integrity, civility, service, humility, and collective responsibility.",
+            "imageUrl" : "https://image.simplecastcdn.com/images/6d56f628-36e8-4b8a-be3e-03a3e5062540/7eccbf2d-30dd-4b0b-94ff-ac106553bc41/3000x3000/the-oath-artwork.jpg?aid=rss_feed",
+            "language" : "en",
+            "owner" : "MSNBC"
+         },
+         "subtitle" : null,
+         "summary" : "Listen in on revealing and thoughtful conversations with fascinating men and women who took an oath to support and defend our Constitution and our nation â leaders in law enforcement, the military, the intelligence community, and many more. What inspired these people? What drew them to this work? How did they overcome adversity and failure? And what are the lessons for our country and our democracy as we move forward? These captivating stories exemplify what is best about our nation: integrity, civility, service, humility, and collective responsibility.",
+         "title" : "The Oath With Chuck Rosenberg"
+      },
+      {
+         "seriesId" : "GA0000N000004HJ",
+         "sourceFeed" : {
+            "author" : "NPR",
+            "categories" : [
+               "History",
+               "Society & Culture"
+            ],
+            "contentType" : "Episodic",
+            "description" : "The past is never past. Every headline has a history. Join us every week as we go back in time to understand the present. These are stories you can feel and sounds you can see from the moments that shaped our world.<br /><br /><em>Subscribe to Throughline+. You'll be supporting the history-reframing, perspective-shifting, time-warping stories you can't get enough of - and you'll unlock access to our sponsor-free feed of the show. Learn more at plus.npr.org/throughline</em>",
+            "imageUrl" : "https://media.npr.org/assets/img/2019/01/28/nprthroughline_podcasttile_sq-3bddbe49827adf54bdbc1f94b40fc61d581704f6.png?s=1400",
+            "language" : "en-US",
+            "owner" : "NPR"
+         },
+         "subtitle" : "The past is never past. Every headline has a history.",
+         "summary" : "The past is never past. Every headline has a history. Join us every week as we go back in time to understand the present. These are stories you can feel and sounds you can see from the moments that shaped our world.<br /><br /><em>Subscribe to Throughline+. You'll be supporting the history-reframing, perspective-shifting, time-warping stories you can't get enough of - and you'll unlock access to our sponsor-free feed of the show. Learn more at plus.npr.org/throughline</em>",
+         "title" : "Throughline"
+      }
+   ],
+   "meta" : {
+      "limit" : 30,
+      "offset" : 0,
+      "total" : 90299
+   }
+}

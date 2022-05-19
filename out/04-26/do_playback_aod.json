@@ -1,0 +1,490 @@
+3.6 Aod Playback Endpoint do_playback_aod ===========================================
+{
+   "data" : [
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/e5b4be8c-e7f1-47e1-b65b-887421dab0f3/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=e5b4be8c-e7f1-47e1-b65b-887421dab0f3&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 26502457
+         },
+         "description" : "Dr. Robert Grant developed a treatment â a daily pill known as pre-exposure prophylaxis, or PrEP â that could stop the AIDS crisis. We look at why that hasnât happened. Guests: Dr. Grant, who has been working on H.I.V. treatment and prevention for over 30 years, and Donald G. McNeil Jr., a science and health reporter for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily. Background reading: Gilead Sciences, the maker of Truvada, the only drug approved to prevent H.I.V. infection, will donate enough of the drug to supply 200,000 patients, but critics questioned the companyâs motives.The high cost of drugs remains a major obstacle to ending the AIDS epidemic.Hereâs more information about PrEP from the Centers for Disease Control and Prevention website.",
+         "durationSeconds" : 1637,
+         "episodeID" : "GA0000P000GhCJS",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/e5b4be8c-e7f1-47e1-b65b-887421dab0f3/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "Dr. Robert Grant developed a treatment â a daily pill known as pre-exposure prophylaxis, or PrEP â that could stop the AIDS crisis. We look at why that hasnât happened. Guests: Dr. Grant, who has been working on H.I.V. treatment and prevention for over 30 years, and Donald G. McNeil Jr., a science and health reporter for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily. \n\nBackground reading: Gilead Sciences, the maker of Truvada, the only drug approved to prevent H.I.V. infection, will donate enough of the drug to supply 200,000 patients, but critics questioned the companyâs motives.The high cost of drugs remains a major obstacle to ending the AIDS epidemic.Hereâs more information about PrEP from the Centers for Disease Control and Prevention website.",
+         "summary" : "Dr. Robert Grant developed a treatment â a daily pill known as pre-exposure prophylaxis, or PrEP â that could stop the AIDS crisis. We look at why that hasnât happened. Guests: Dr. Grant, who has been working on H.I.V. treatment and prevention for over 30 years, and Donald G. McNeil Jr., a science and health reporter for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily. \n\nBackground reading: Gilead Sciences, the maker of Truvada, the only drug approved to prevent H.I.V. infection, will donate enough of the drug to supply 200,000 patients, but critics questioned the companyâs motives.The high cost of drugs remains a major obstacle to ending the AIDS epidemic.Hereâs more information about PrEP from the Centers for Disease Control and Prevention website.",
+         "title" : "This Drug Could End H.I.V. Why Hasnât It?"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/d8f92e46-e3f4-4132-9b6b-f4c2fc730fa9/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=d8f92e46-e3f4-4132-9b6b-f4c2fc730fa9&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 20787265
+         },
+         "description" : "A Times investigation into the chief executive of Uber, Travis Kalanick, finds that his drive to win has plunged the company into its most sustained set of crises since its founding. Guest: Mike Isaac, a technology reporter who has exposed many of the recent controversies involving Uber. For more information on todayâs episode, visit http://nyti.ms/2p6PmLu.",
+         "durationSeconds" : 1281,
+         "episodeID" : "GA0000P0000FGGF",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/d8f92e46-e3f4-4132-9b6b-f4c2fc730fa9/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "A Times investigation into the chief executive of Uber, Travis Kalanick, finds that his drive to win has plunged the company into its most sustained set of crises since its founding. Guest: Mike Isaac, a technology reporter who has exposed many of the recent controversies involving Uber. For more information on todayâs episode, visit http://nyti.ms/2p6PmLu.",
+         "summary" : "A Times investigation into the chief executive of Uber, Travis Kalanick, finds that his drive to win has plunged the company into its most sustained set of crises since its founding. Guest: Mike Isaac, a technology reporter who has exposed many of the recent controversies involving Uber. For more information on todayâs episode, visit http://nyti.ms/2p6PmLu.",
+         "title" : "Wednesday, April 26, 2017"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/bba3832f-4b2b-40b0-8f3d-e672b1175c82/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=bba3832f-4b2b-40b0-8f3d-e672b1175c82&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 25866330
+         },
+         "description" : "President Trump has blamed Democrats for his administrationâs practice of taking children from their parents at the border. Why is one of his top aides, Stephen Miller, claiming credit? Guest: Julie Hirschfeld Davis, who covers the White House and immigration for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1597,
+         "episodeID" : "GA0000P0000FGVm",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/bba3832f-4b2b-40b0-8f3d-e672b1175c82/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "President Trump has blamed Democrats for his administrationâs practice of taking children from their parents at the border. Why is one of his top aides, Stephen Miller, claiming credit? Guest: Julie Hirschfeld Davis, who covers the White House and immigration for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "President Trump has blamed Democrats for his administrationâs practice of taking children from their parents at the border. Why is one of his top aides, Stephen Miller, claiming credit? Guest: Julie Hirschfeld Davis, who covers the White House and immigration for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "How Separating Migrant Families Became U.S. Policy"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/a87f806f-cf4c-4b76-9a85-7e7cb66a1c47/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=a87f806f-cf4c-4b76-9a85-7e7cb66a1c47&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 21012553
+         },
+         "description" : "A gunman opened fire at two mosques in Christchurch, New Zealand, killing at least 50 people. The massacre was partly streamed online. We look at why the attack was, in some ways, made by and for the internet. Guest: Kevin Roose, who writes about technology for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1294,
+         "episodeID" : "GA0000P0000FGmZ",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/a87f806f-cf4c-4b76-9a85-7e7cb66a1c47/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "A gunman opened fire at two mosques in Christchurch, New Zealand, killing at least 50 people. The massacre was partly streamed online. We look at why the attack was, in some ways, made by and for the internet. Guest: Kevin Roose, who writes about technology for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "A gunman opened fire at two mosques in Christchurch, New Zealand, killing at least 50 people. The massacre was partly streamed online. We look at why the attack was, in some ways, made by and for the internet. Guest: Kevin Roose, who writes about technology for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "The Mosque Attacks in New Zealand"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/adf91938-260d-480e-b806-b01da97c4e41/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=adf91938-260d-480e-b806-b01da97c4e41&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 25045848
+         },
+         "description" : "Her disclosure of classified documents in 2010 ushered in the age of leaks. Now Chelsea Manning has been freed from prison and talks about why she did it â and everything that followed. Guest: Matt Shaer, a contributing writer for the magazine, who narrates the tapes from his conversation with Ms. Manning, her first in-person, on-the-record interview in almost a decade. For more information on todayâs episode, visit nytimes.com/thedaily. For two weeks, weâre offering listeners a free trial of a New York Times digital subscription. Visit nytimes.com/dailytrial to sign up.",
+         "durationSeconds" : 1546,
+         "episodeID" : "GA0000P0000FGHJ",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/adf91938-260d-480e-b806-b01da97c4e41/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "Her disclosure of classified documents in 2010 ushered in the age of leaks. Now Chelsea Manning has been freed from prison and talks about why she did it â and everything that followed. Guest: Matt Shaer, a contributing writer for the magazine, who narrates the tapes from his conversation with Ms. Manning, her first in-person, on-the-record interview in almost a decade. For more information on todayâs episode, visit nytimes.com/thedaily. For two weeks, weâre offering listeners a free trial of a New York Times digital subscription. Visit nytimes.com/dailytrial to sign up.",
+         "summary" : "Her disclosure of classified documents in 2010 ushered in the age of leaks. Now Chelsea Manning has been freed from prison and talks about why she did it â and everything that followed. Guest: Matt Shaer, a contributing writer for the magazine, who narrates the tapes from his conversation with Ms. Manning, her first in-person, on-the-record interview in almost a decade. For more information on todayâs episode, visit nytimes.com/thedaily. For two weeks, weâre offering listeners a free trial of a New York Times digital subscription. Visit nytimes.com/dailytrial to sign up.",
+         "title" : "Tuesday, June 13, 2017"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/cf36cb36-202f-4ab7-8130-811b18d755f8/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=cf36cb36-202f-4ab7-8130-811b18d755f8&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 19389197
+         },
+         "description" : "Blueprints for making a variety of plastic guns, including AR-15-style rifles, on 3-D printers were scheduled to be posted online today. Who is the man behind their planned release, and why is the federal government taking his side? Guest: Tiffany Hsu, a business reporter for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1193,
+         "episodeID" : "GA0000P0000FGWm",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/cf36cb36-202f-4ab7-8130-811b18d755f8/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "Blueprints for making a variety of plastic guns, including AR-15-style rifles, on 3-D printers were scheduled to be posted online today. Who is the man behind their planned release, and why is the federal government taking his side? Guest: Tiffany Hsu, a business reporter for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "Blueprints for making a variety of plastic guns, including AR-15-style rifles, on 3-D printers were scheduled to be posted online today. Who is the man behind their planned release, and why is the federal government taking his side? Guest: Tiffany Hsu, a business reporter for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "The Fight Over 3-D-Printed Guns"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/a9078758-82af-4b61-969b-97421acd0772/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=a9078758-82af-4b61-969b-97421acd0772&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 17613279
+         },
+         "description" : "Why Senate leaders are crafting the most important legislation of the Trump presidency in secret. Guest: Carl Hulse, who covers Congress. For more information on todayâs episode, visit http://nyti.ms/2rIs7dC.",
+         "durationSeconds" : 1082,
+         "episodeID" : "GA0000P0000FGHR",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/a9078758-82af-4b61-969b-97421acd0772/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "Why Senate leaders are crafting the most important legislation of the Trump presidency in secret. Guest: Carl Hulse, who covers Congress. For more information on todayâs episode, visit http://nyti.ms/2rIs7dC.",
+         "summary" : "Why Senate leaders are crafting the most important legislation of the Trump presidency in secret. Guest: Carl Hulse, who covers Congress. For more information on todayâs episode, visit http://nyti.ms/2rIs7dC.",
+         "title" : "Monday, June 19, 2017"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/fe1a465b-ace3-4357-adf4-c65fc59d0120/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=fe1a465b-ace3-4357-adf4-c65fc59d0120&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 20420320
+         },
+         "description" : "Prime Minister Jacinda Ardern of New Zealand promised to change the countryâs gun laws after a mass shooting in Christchurch left 50 people dead. Less than a week later, she did it. Guest: Jamie Tarabay, a New York Times correspondent based in Australia who has been reporting in New Zealand. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1257,
+         "episodeID" : "GA0000P0000FGmr",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/fe1a465b-ace3-4357-adf4-c65fc59d0120/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "Prime Minister Jacinda Ardern of New Zealand promised to change the countryâs gun laws after a mass shooting in Christchurch left 50 people dead. Less than a week later, she did it. Guest: Jamie Tarabay, a New York Times correspondent based in Australia who has been reporting in New Zealand. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "Prime Minister Jacinda Ardern of New Zealand promised to change the countryâs gun laws after a mass shooting in Christchurch left 50 people dead. Less than a week later, she did it. Guest: Jamie Tarabay, a New York Times correspondent based in Australia who has been reporting in New Zealand. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "How New Zealand Banned Assault Rifles in Six Days"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/b386dd1f-0d44-4400-be85-1702449a8433/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=b386dd1f-0d44-4400-be85-1702449a8433&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 21591414
+         },
+         "description" : "Days after a suspected chemical attack killed dozens of Syrian civilians, President Trump promised retaliation. Now, Mr. Trump and his national security advisers are trying to decide how the United States should respond. Guest: Helene Cooper, a Pentagon correspondent for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1330,
+         "episodeID" : "GA0000P0000FGT6",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/b386dd1f-0d44-4400-be85-1702449a8433/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "Days after a suspected chemical attack killed dozens of Syrian civilians, President Trump promised retaliation. Now, Mr. Trump and his national security advisers are trying to decide how the United States should respond. Guest: Helene Cooper, a Pentagon correspondent for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "Days after a suspected chemical attack killed dozens of Syrian civilians, President Trump promised retaliation. Now, Mr. Trump and his national security advisers are trying to decide how the United States should respond. Guest: Helene Cooper, a Pentagon correspondent for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Friday, Apr. 13, 2018"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/8fea2ecd-59da-4b71-9871-91abc215d8b0/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=8fea2ecd-59da-4b71-9871-91abc215d8b0&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 28403732
+         },
+         "description" : "Nearly eight years ago, an earthquake devastated Haiti, the poorest country in the Western Hemisphere. The capitalâs morgues were so overwhelmed that thousands of bodies were dumped into mass graves. But one group of men stepped in, collecting abandoned bodies to bury them. A New York Times reporter talked to the heroes of Burial Road. Guests: Catherine Porter, a New York Times reporter, talked to the men who tend to the unclaimed bodies of Port-au-Prince, Haiti. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1757,
+         "episodeID" : "GA0000P0000FGPT",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/8fea2ecd-59da-4b71-9871-91abc215d8b0/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "Nearly eight years ago, an earthquake devastated Haiti, the poorest country in the Western Hemisphere. The capitalâs morgues were so overwhelmed that thousands of bodies were dumped into mass graves. But one group of men stepped in, collecting abandoned bodies to bury them. A New York Times reporter talked to the heroes of Burial Road.\n\nGuests: Catherine Porter, a New York Times reporter, talked to the men who tend to the unclaimed bodies of Port-au-Prince, Haiti. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "Nearly eight years ago, an earthquake devastated Haiti, the poorest country in the Western Hemisphere. The capitalâs morgues were so overwhelmed that thousands of bodies were dumped into mass graves. But one group of men stepped in, collecting abandoned bodies to bury them. A New York Times reporter talked to the heroes of Burial Road.\n\nGuests: Catherine Porter, a New York Times reporter, talked to the men who tend to the unclaimed bodies of Port-au-Prince, Haiti. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Tuesday, Dec. 19, 2017"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/33e865da-c012-4fad-a0d1-5b4883381f5d/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=33e865da-c012-4fad-a0d1-5b4883381f5d&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 35026715
+         },
+         "description" : "The Daily is revisiting our favorite episodes of the year â listening back, and then hearing whatâs happened since the stories first ran. Today, weâre going back to a conversation that first ran this summer, two weeks after a white supremacist rally in Charlottesville, Va. turned violent and right after President Trump drew intense criticism by saying there were âsome very fine people on both sides.â Guest: Derek Black, who had been poised to lead the white nationalist movement but then left, betraying his father, a former grand master of the Ku Klux Klan. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 2170,
+         "episodeID" : "GA0000P0000FGPb",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/33e865da-c012-4fad-a0d1-5b4883381f5d/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "The Daily is revisiting our favorite episodes of the year â listening back, and then hearing whatâs happened since the stories first ran. Today, weâre going back to a conversation that first ran this summer, two weeks after a white supremacist rally in Charlottesville, Va. turned violent and right after President Trump drew intense criticism by saying there were âsome very fine people on both sides.â Guest: Derek Black, who had been poised to lead the white nationalist movement but then left, betraying his father, a former grand master of the Ku Klux Klan. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "The Daily is revisiting our favorite episodes of the year â listening back, and then hearing whatâs happened since the stories first ran. Today, weâre going back to a conversation that first ran this summer, two weeks after a white supremacist rally in Charlottesville, Va. turned violent and right after President Trump drew intense criticism by saying there were âsome very fine people on both sides.â Guest: Derek Black, who had been poised to lead the white nationalist movement but then left, betraying his father, a former grand master of the Ku Klux Klan. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Wednesday, Dec. 27, 2017"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/c5ebabb4-749c-470c-be99-152a32d5f41f/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=c5ebabb4-749c-470c-be99-152a32d5f41f&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 30784426
+         },
+         "description" : "Almost from the moment that he was appointed to head the Environmental Protection Agency, Scott Pruitt has been cast by environmentalists as an ideologue on a mission to destroy the very agency he runs. But Mr. Pruitt, who built a career suing to block environmental rules, sees it differently. Guests: Scott Pruitt, administrator of the Environmental Protection Agency; Coral Davenport, who covers energy and environmental policy for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1905,
+         "episodeID" : "GA0000P0000FGRR",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/c5ebabb4-749c-470c-be99-152a32d5f41f/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "Almost from the moment that he was appointed to head the Environmental Protection Agency, Scott Pruitt has been cast by environmentalists as an ideologue on a mission to destroy the very agency he runs. But Mr. Pruitt, who built a career suing to block environmental rules, sees it differently. Guests: Scott Pruitt, administrator of the Environmental Protection Agency; Coral Davenport, who covers energy and environmental policy for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "Almost from the moment that he was appointed to head the Environmental Protection Agency, Scott Pruitt has been cast by environmentalists as an ideologue on a mission to destroy the very agency he runs. But Mr. Pruitt, who built a career suing to block environmental rules, sees it differently. Guests: Scott Pruitt, administrator of the Environmental Protection Agency; Coral Davenport, who covers energy and environmental policy for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Friday, Feb. 2, 2018"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/545c0695-281a-4e3f-bad7-927b24974035/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=545c0695-281a-4e3f-bad7-927b24974035&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 26649555
+         },
+         "description" : "This year, Chicagoâs top prosecutor, Kim Foxx, took the unusual step of asking women to come forward with allegations against the musician R. Kelly. In an interview, she explained that decision. Guest: John Eligon, a national correspondent for The New York Times, spoke with Ms. Foxx. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1646,
+         "episodeID" : "GA0000P0000FGr3",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/545c0695-281a-4e3f-bad7-927b24974035/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "This year, Chicagoâs top prosecutor, Kim Foxx, took the unusual step of asking women to come forward with allegations against the musician R. Kelly. In an interview, she explained that decision. Guest: John Eligon, a national correspondent for The New York Times, spoke with Ms. Foxx. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "This year, Chicagoâs top prosecutor, Kim Foxx, took the unusual step of asking women to come forward with allegations against the musician R. Kelly. In an interview, she explained that decision. Guest: John Eligon, a national correspondent for The New York Times, spoke with Ms. Foxx. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Prosecuting R. Kelly"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/91d95117-d81d-4d08-9f04-8fa4bb28e19b/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=91d95117-d81d-4d08-9f04-8fa4bb28e19b&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 21602702
+         },
+         "description" : "Republicans are pushing for a vote to repeal the Affordable Care Act, and theyâre running out of time. The effort could test a long friendship in the Senate. Guests: Thomas Kaplan, who covers Congress for The Times; Sheryl Gay Stolberg, domestic affairs correspondent. For more information on todayâs episode, visit nytimes.com/thedaily. You can support \"The Daily\" by subscribing to The Times. We're offering listeners one month free, then 50% off for a year. Go to nytimes.com/thedailyoffer for more information.",
+         "durationSeconds" : 1331,
+         "episodeID" : "GA0000P0000FGMV",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/91d95117-d81d-4d08-9f04-8fa4bb28e19b/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "Republicans are pushing for a vote to repeal the Affordable Care Act, and theyâre running out of time. The effort could test a long friendship in the Senate. Guests: Thomas Kaplan, who covers Congress for The Times; Sheryl Gay Stolberg, domestic affairs correspondent. For more information on todayâs episode, visitÂ nytimes.com/thedaily. You can support \"The Daily\" by subscribing to The Times. We're offering listeners one month free, then 50% off for a year. Go toÂ nytimes.com/thedailyofferÂ for more information.",
+         "summary" : "Republicans are pushing for a vote to repeal the Affordable Care Act, and theyâre running out of time. The effort could test a long friendship in the Senate. Guests: Thomas Kaplan, who covers Congress for The Times; Sheryl Gay Stolberg, domestic affairs correspondent. For more information on todayâs episode, visitÂ nytimes.com/thedaily. You can support \"The Daily\" by subscribing to The Times. We're offering listeners one month free, then 50% off for a year. Go toÂ nytimes.com/thedailyofferÂ for more information.",
+         "title" : "Thursday, Sept. 21, 2017"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/81b2a8d3-028f-404c-8126-5569f4197efe/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=81b2a8d3-028f-404c-8126-5569f4197efe&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 24849003
+         },
+         "description" : "An investigator was on the verge of retirement, having never completed his decades-long mission to catch the Golden State Killer. Then he had an idea: Upload DNA evidence to a genealogy website. Guest: Paul Holes, who helped to crack the case. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1534,
+         "episodeID" : "GA0000P0000FGTT",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/81b2a8d3-028f-404c-8126-5569f4197efe/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "An investigator was on the verge of retirement, having never completed his decades-long mission to catch the Golden State Killer. Then he had an idea: Upload DNA evidence to a genealogy website. Guest: Paul Holes, who helped to crack the case. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "An investigator was on the verge of retirement, having never completed his decades-long mission to catch the Golden State Killer. Then he had an idea: Upload DNA evidence to a genealogy website. Guest: Paul Holes, who helped to crack the case. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "The Hunt for the Golden State Killer"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/43b80594-8556-4361-a3fe-eb8bb7f8f449/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=43b80594-8556-4361-a3fe-eb8bb7f8f449&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 33767415
+         },
+         "description" : "Since President Trump ended the practice of separating migrant children from their parents, very few families have been reunited. Those that have are becoming national symbols. Guest: Annie Correal, a New York Times reporter who accompanied Yeni GonzÃ¡lez, a migrant from Guatemala, on part of her journey to join her three children after more than five weeks apart. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 2091,
+         "episodeID" : "GA0000P0000FGWC",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/43b80594-8556-4361-a3fe-eb8bb7f8f449/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "Since President Trump ended the practice of separating migrant children from their parents, very few families have been reunited. Those that have are becoming national symbols. Guest: Annie Correal, a New York Times reporter who accompanied Yeni GonzÃ¡lez, a migrant from Guatemala, on part of her journey to join her three children after more than five weeks apart. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "Since President Trump ended the practice of separating migrant children from their parents, very few families have been reunited. Those that have are becoming national symbols. Guest: Annie Correal, a New York Times reporter who accompanied Yeni GonzÃ¡lez, a migrant from Guatemala, on part of her journey to join her three children after more than five weeks apart. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "One Familyâs Reunification Story"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/25542e51-162d-4798-9c33-0802ed2e663a/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=25542e51-162d-4798-9c33-0802ed2e663a&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 15872064
+         },
+         "description" : "A week ago, President Trump was accused of being a tool of President Vladimir V. Putin. Now, he says ties with Moscow are at an all-time low. What is going on between the United States and Russia? Guest: David E. Sanger, who is currently in Moscow. For more information on todayâs episode, visit http://nyti.ms/2pp7bqn.",
+         "durationSeconds" : 973,
+         "episodeID" : "GA0000P0000FGG4",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/25542e51-162d-4798-9c33-0802ed2e663a/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "A week ago, President Trump was accused of being a tool of President Vladimir V. Putin. Now, he says ties with Moscow are at an all-time low. What is going on between the United States and Russia? Guest: David E. Sanger, who is currently in Moscow. For more information on todayâs episode, visit http://nyti.ms/2pp7bqn.",
+         "summary" : "A week ago, President Trump was accused of being a tool of President Vladimir V. Putin. Now, he says ties with Moscow are at an all-time low. What is going on between the United States and Russia? Guest: David E. Sanger, who is currently in Moscow. For more information on todayâs episode, visit http://nyti.ms/2pp7bqn.",
+         "title" : "Thursday, April 13, 2017"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/15c1df70-8e43-452d-bd8a-d8ae69d941b3/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=15c1df70-8e43-452d-bd8a-d8ae69d941b3&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 19223685
+         },
+         "description" : "The New York Times has obtained the list of questions that Robert S. Mueller III, the special counsel looking into Russiaâs election interference, wants to ask President Trump. The wide-ranging queries offer a rare view into an investigation that has been shrouded in secrecy. Guest: Michael S. Schmidt, who has been covering the Russia investigation for The Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1182,
+         "episodeID" : "GA0000P0000FGTP",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/15c1df70-8e43-452d-bd8a-d8ae69d941b3/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "The New York Times has obtained the list of questions that Robert S. Mueller III, the special counsel looking into Russiaâs election interference, wants to ask President Trump. The wide-ranging queries offer a rare view into an investigation that has been shrouded in secrecy. Guest: Michael S. Schmidt, who has been covering the Russia investigation for The Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "The New York Times has obtained the list of questions that Robert S. Mueller III, the special counsel looking into Russiaâs election interference, wants to ask President Trump. The wide-ranging queries offer a rare view into an investigation that has been shrouded in secrecy. Guest: Michael S. Schmidt, who has been covering the Russia investigation for The Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Muellerâs Questions for Trump"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/ce9553d8-04c8-4957-bcca-89083a4c44c1/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=ce9553d8-04c8-4957-bcca-89083a4c44c1&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 30026277
+         },
+         "description" : "When Justice Anthony M. Kennedy announced last week that he would retire this summer, attention immediately turned to the few senators who are willing to break from their parties on major issues â and who may hold the fate of the next Supreme Court nominee in their hands. We speak to one of them. Guest: Senator Susan Collins, Republican of Maine. For more information on todayâs episode, visit nytimes.com/thedaily. Correction: An earlier version of this episode included a comment from Senator Susan Collins that misstated Americansâ views on the Supreme Courtâs ruling in Roe v. Wade. While Americans are deeply divided on abortion rights, about 69 percent of adults oppose overturning the Supreme Court precedent; it is not âsomething like a 51-49â issue, as Ms. Collins said.",
+         "durationSeconds" : 1857,
+         "episodeID" : "GA0000P0000FGW8",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/ce9553d8-04c8-4957-bcca-89083a4c44c1/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "When Justice Anthony M. Kennedy announced last week that he would retire this summer, attention immediately turned to the few senators who are willing to break from their parties on major issues â and who may hold the fate of the next Supreme Court nominee in their hands. We speak to one of them. Guest: Senator Susan Collins, Republican of Maine. For more information on todayâs episode, visit nytimes.com/thedaily.\n\nCorrection: An earlier version of this episode included a comment from Senator Susan Collins that misstated Americansâ views on the Supreme Courtâs ruling in Roe v. Wade. While Americans are deeply divided on abortion rights, about 69 percent of adults oppose overturning the Supreme Court precedent; it is not âsomething like a 51-49â issue, as Ms. Collins said.",
+         "summary" : "When Justice Anthony M. Kennedy announced last week that he would retire this summer, attention immediately turned to the few senators who are willing to break from their parties on major issues â and who may hold the fate of the next Supreme Court nominee in their hands. We speak to one of them. Guest: Senator Susan Collins, Republican of Maine. For more information on todayâs episode, visit nytimes.com/thedaily.\n\nCorrection: An earlier version of this episode included a comment from Senator Susan Collins that misstated Americansâ views on the Supreme Courtâs ruling in Roe v. Wade. While Americans are deeply divided on abortion rights, about 69 percent of adults oppose overturning the Supreme Court precedent; it is not âsomething like a 51-49â issue, as Ms. Collins said.",
+         "title" : "Susan Collins on Roe v. Wade and the Next Justice"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/663dfd12-f418-4167-bdfe-13f9021cf0f0/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=663dfd12-f418-4167-bdfe-13f9021cf0f0&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 27209219
+         },
+         "description" : "Thirty years ago, the United States had a chance to stop global warming in its tracks. Almost nothing stood in the way â except human resistance. Guests: Rafe Pomerance, an environmentalist who became involved with the climate movement in its earliest days; Nathaniel Rich, who reported on the history of climate politics for The New York Times Magazine. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1681,
+         "episodeID" : "GA0000P0000FGXR",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/663dfd12-f418-4167-bdfe-13f9021cf0f0/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "Thirty years ago, the United States had a chance to stop global warming in its tracks. Almost nothing stood in the way â except human resistance. Guests: Rafe Pomerance, an environmentalist who became involved with the climate movement in its earliest days; Nathaniel Rich, who reported on the history of climate politics for The New York Times Magazine. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "Thirty years ago, the United States had a chance to stop global warming in its tracks. Almost nothing stood in the way â except human resistance. Guests: Rafe Pomerance, an environmentalist who became involved with the climate movement in its earliest days; Nathaniel Rich, who reported on the history of climate politics for The New York Times Magazine. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "When We Almost Stopped Climate Change"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/2eb8e269-7245-4224-a1fa-5fe8b79748fd/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=2eb8e269-7245-4224-a1fa-5fe8b79748fd&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 24151007
+         },
+         "description" : "The number of measles cases in the United States has risen to nearly 700 â the highest annual number recorded since 2000, when the disease was declared eliminated in the country. Many of those cases can be traced to ultra-Orthodox Jewish communities in New York. Guest: Sarah Maslin Nir, who covers New York City for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily. Background reading:Officials in New York have taken extraordinary measures to fight the measles outbreak, including $1,000 fines and bans on unvaccinated children in public.The outbreak has Orthodox Jewish communities fearing a rise in anti-Semitism.How is measles transmitted? How safe is the vaccine? Here are answers to some questions about the disease.",
+         "durationSeconds" : 1490,
+         "episodeID" : "GA0000P0000FGrW",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/2eb8e269-7245-4224-a1fa-5fe8b79748fd/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "The number of measles cases in the United States has risen to nearly 700 â the highest annual number recorded since 2000, when the disease was declared eliminated in the country. Many of those cases can be traced to ultra-Orthodox Jewish communities in New York. Guest: Sarah Maslin Nir, who covers New York City for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.\n\nBackground reading:Officials in New York have taken extraordinary measures to fight the measles outbreak, including $1,000 fines and bans on unvaccinated children in public.The outbreak has Orthodox Jewish communities fearing a rise in anti-Semitism.How is measles transmitted? How safe is the vaccine? Here are answers to some questions about the disease.",
+         "summary" : "The number of measles cases in the United States has risen to nearly 700 â the highest annual number recorded since 2000, when the disease was declared eliminated in the country. Many of those cases can be traced to ultra-Orthodox Jewish communities in New York. Guest: Sarah Maslin Nir, who covers New York City for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.\n\nBackground reading:Officials in New York have taken extraordinary measures to fight the measles outbreak, including $1,000 fines and bans on unvaccinated children in public.The outbreak has Orthodox Jewish communities fearing a rise in anti-Semitism.How is measles transmitted? How safe is the vaccine? Here are answers to some questions about the disease.",
+         "title" : "How the Measles Outbreak Started"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/c420a56e-70dc-4344-bf32-d3c66b1b468f/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=c420a56e-70dc-4344-bf32-d3c66b1b468f&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 23843391
+         },
+         "description" : "Republicans have found themselves unexpectedly scrambling to hold a House seat in a special election in Ohio on Tuesday. The race has become a symbol of what may lie ahead for the party in the midterms. Guest: Alexander Burns, who covers national politics for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1472,
+         "episodeID" : "GA0000P0000FGX1",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/c420a56e-70dc-4344-bf32-d3c66b1b468f/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "Republicans have found themselves unexpectedly scrambling to hold a House seat in a special election in Ohio on Tuesday. The race has become a symbol of what may lie ahead for the party in the midterms. Guest: Alexander Burns, who covers national politics for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "Republicans have found themselves unexpectedly scrambling to hold a House seat in a special election in Ohio on Tuesday. The race has become a symbol of what may lie ahead for the party in the midterms. Guest: Alexander Burns, who covers national politics for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "A Scorched-Earth Strategy in Ohio"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/0dd1af08-9d9e-4c3a-a459-6f26e6a9eb28/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=0dd1af08-9d9e-4c3a-a459-6f26e6a9eb28&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 20255618
+         },
+         "description" : "The Trump administration issued a new ban on travel from predominantly Muslim countries. Has the policy changed â or just the message? And a slow-paced television drama about a bygone era in Russian-American relations has suddenly taken on a whole new urgency and relevance. Guests: Nicholas Kulish, Maggie Haberman and James Poniewozik, a reporter for the Arts section. For more information on todayâs episode, visit http://nyti.ms/2mmbD5c.",
+         "durationSeconds" : 1247,
+         "episodeID" : "GA0000P0000FGF9",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/0dd1af08-9d9e-4c3a-a459-6f26e6a9eb28/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "The Trump administration issued a new ban on travel from predominantly Muslim countries. Has the policy changed â or just the message? And a slow-paced television drama about a bygone era in Russian-American relations has suddenly taken on a whole new urgency and relevance. Guests: Nicholas Kulish, Maggie Haberman and James Poniewozik, a reporter for the Arts section. For more information on todayâs episode, visit http://nyti.ms/2mmbD5c.",
+         "summary" : "The Trump administration issued a new ban on travel from predominantly Muslim countries. Has the policy changed â or just the message? And a slow-paced television drama about a bygone era in Russian-American relations has suddenly taken on a whole new urgency and relevance. Guests: Nicholas Kulish, Maggie Haberman and James Poniewozik, a reporter for the Arts section. For more information on todayâs episode, visit http://nyti.ms/2mmbD5c.",
+         "title" : "Tuesday, March 7, 2017"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/d7ad53c1-62a7-410d-9c83-103ef672d45a/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=d7ad53c1-62a7-410d-9c83-103ef672d45a&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 20470451
+         },
+         "description" : "In a marathon session before Congress, Attorney General Jeff Sessions denied lying about Russian contacts in earlier testimony and sidestepped questions about feeling pressure from President Trump to investigate Hillary Clinton and Uranium One. Guests: Matt Apuzzo, who covers the Justice Department for The New York Times; Michael S. Schmidt, who covers national security. For more information on todayâs episode, visit nytimes.com/thedaily. [AUDIO PLAYER DESCRIPTION] Attorney General Jeff Sessions denied lying to Congress about Russian contacts and sidestepped questions about feeling pressure to investigate Hillary Clinton.",
+         "durationSeconds" : 1260,
+         "episodeID" : "GA0000P0000FGNr",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/d7ad53c1-62a7-410d-9c83-103ef672d45a/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "In a marathon session before Congress, Attorney General Jeff Sessions denied lying about Russian contacts in earlier testimony and sidestepped questions about feeling pressure from President Trump to investigate Hillary Clinton and Uranium One. Guests: Matt Apuzzo, who covers the Justice Department for The New York Times; Michael S. Schmidt, who covers national security. For more information on todayâs episode, visit nytimes.com/thedaily. \n\n[AUDIO PLAYER DESCRIPTION] Attorney General Jeff Sessions denied lying to Congress about Russian contacts and sidestepped questions about feeling pressure to investigate Hillary Clinton.",
+         "summary" : "In a marathon session before Congress, Attorney General Jeff Sessions denied lying about Russian contacts in earlier testimony and sidestepped questions about feeling pressure from President Trump to investigate Hillary Clinton and Uranium One. Guests: Matt Apuzzo, who covers the Justice Department for The New York Times; Michael S. Schmidt, who covers national security. For more information on todayâs episode, visit nytimes.com/thedaily. \n\n[AUDIO PLAYER DESCRIPTION] Attorney General Jeff Sessions denied lying to Congress about Russian contacts and sidestepped questions about feeling pressure to investigate Hillary Clinton.",
+         "title" : "Wednesday, Nov. 15, 2017"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/3619e710-4e6b-4c20-9e49-76a281b92cd1/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=3619e710-4e6b-4c20-9e49-76a281b92cd1&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 18414925
+         },
+         "description" : "As the Trump administration clamps down on immigration, some asylum seekers are fleeing to Canada. But is it the promised land they had hoped for? Guest: Dan Bilefsky, a New York Times reporter in Canada. Thank you to the Canadian Broadcasting Corporation for their interviews with migrants crossing the border. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1132,
+         "episodeID" : "GA0000P0000FGRJ",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/3619e710-4e6b-4c20-9e49-76a281b92cd1/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "As the Trump administration clamps down on immigration, some asylum seekers are fleeing to Canada. But is it the promised land they had hoped for? Guest: Dan Bilefsky, a New York Times reporter in Canada. Thank you to the Canadian Broadcasting Corporation for their interviews with migrants crossing the border. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "As the Trump administration clamps down on immigration, some asylum seekers are fleeing to Canada. But is it the promised land they had hoped for? Guest: Dan Bilefsky, a New York Times reporter in Canada. Thank you to the Canadian Broadcasting Corporation for their interviews with migrants crossing the border. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Monday, Jan. 29, 2018"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/c560309a-4e28-44e2-ab73-df19dbe817d6/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=c560309a-4e28-44e2-ab73-df19dbe817d6&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 21763627
+         },
+         "description" : "Democratic senators in states that President Trump won had concluded that their best path to re-election was to campaign on local issues. Then came the confirmation fight over Justice Brett M. Kavanaugh. Guest: Jonathan Martin, who covers national politics for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1342,
+         "episodeID" : "GA0000P0000FGZG",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/c560309a-4e28-44e2-ab73-df19dbe817d6/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "Democratic senators in states that President Trump won had concluded that their best path to re-election was to campaign on local issues. Then came the confirmation fight over Justice Brett M. Kavanaugh. Guest: Jonathan Martin, who covers national politics for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "Democratic senators in states that President Trump won had concluded that their best path to re-election was to campaign on local issues. Then came the confirmation fight over Justice Brett M. Kavanaugh. Guest: Jonathan Martin, who covers national politics for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "The Dilemma for Red-State Democrats"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/c8b7698f-3c2c-4d0d-9b21-1e1c560c69b9/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=c8b7698f-3c2c-4d0d-9b21-1e1c560c69b9&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 31496654
+         },
+         "description" : "The New York Times has introduced a documentary audio series that follows Rukmini Callimachi, who covers terrorism for The Times, on her quest to understand ISIS. Today, as a special episode of âThe Daily,â we offer Chapter 2 of âCaliphate,â in which Rukmini speaks with a former ISIS member about how and why he joined the fold. For more information about the series, visit nytimes.com/caliphate. This episode includes disturbing language and scenes of graphic violence.",
+         "durationSeconds" : 1949,
+         "episodeID" : "GA0000P0000FGTM",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/c8b7698f-3c2c-4d0d-9b21-1e1c560c69b9/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "The New York Times has introduced a documentary audio series that follows Rukmini Callimachi, who covers terrorism for The Times, on her quest to understand ISIS. Today, as a special episode of âThe Daily,â we offer Chapter 2 of âCaliphate,â in which Rukmini speaks with a former ISIS member about how and why he joined the fold. For more information about the series, visit nytimes.com/caliphate.\n\nThis episode includes disturbing language and scenes of graphic violence.",
+         "summary" : "The New York Times has introduced a documentary audio series that follows Rukmini Callimachi, who covers terrorism for The Times, on her quest to understand ISIS. Today, as a special episode of âThe Daily,â we offer Chapter 2 of âCaliphate,â in which Rukmini speaks with a former ISIS member about how and why he joined the fold. For more information about the series, visit nytimes.com/caliphate.\n\nThis episode includes disturbing language and scenes of graphic violence.",
+         "title" : "The Daily Presents âCaliphate,â Chapter 2"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/c576b43d-2e8e-412e-9760-879e60b2ab5c/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=c576b43d-2e8e-412e-9760-879e60b2ab5c&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 22734539
+         },
+         "description" : "President Trump has nominated Judge Brett Kavanaugh to replace Justice Anthony Kennedy on the Supreme Court. Given Judge Kavanaughâs conservative record and the political math in the Senate, what happens now? Guests: Adam Liptak, who covers the Supreme Court for The New York Times, discusses the announcement; Carl Hulse, the chief Washington correspondent for The Times, assesses Judge Kavanaughâs prospects for confirmation. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1402,
+         "episodeID" : "GA0000P0000FGWF",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/c576b43d-2e8e-412e-9760-879e60b2ab5c/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "President Trump has nominated Judge Brett Kavanaugh to replace Justice Anthony Kennedy on the Supreme Court. Given Judge Kavanaughâs conservative record and the political math in the Senate, what happens now? Guests: Adam Liptak, who covers the Supreme Court for The New York Times, discusses the announcement; Carl Hulse, the chief Washington correspondent for The Times, assesses Judge Kavanaughâs prospects for confirmation. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "President Trump has nominated Judge Brett Kavanaugh to replace Justice Anthony Kennedy on the Supreme Court. Given Judge Kavanaughâs conservative record and the political math in the Senate, what happens now? Guests: Adam Liptak, who covers the Supreme Court for The New York Times, discusses the announcement; Carl Hulse, the chief Washington correspondent for The Times, assesses Judge Kavanaughâs prospects for confirmation. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Trump Picks Brett Kavanaugh"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/0927e363-66d7-4e80-a6f1-00e8ffd3f206/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=0927e363-66d7-4e80-a6f1-00e8ffd3f206&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 22457844
+         },
+         "description" : "As hundreds of thousand of demonstrators prepared to march in Washington in response to the school shooting in Parkland, Fla., students on the South Side of Chicago felt sympathy, but also frustration. Why hadnât the gun violence in their community earned the nationâs outrage? Guest: Sameen Amin, a senior video producer at The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1384,
+         "episodeID" : "GA0000P0000FGSW",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/0927e363-66d7-4e80-a6f1-00e8ffd3f206/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "As hundreds of thousand of demonstrators prepared to march in Washington in response to the school shooting in Parkland, Fla., students on the South Side of Chicago felt sympathy, but also frustration. Why hadnât the gun violence in their community earned the nationâs outrage? Guest: Sameen Amin, Â a senior video producer at The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "As hundreds of thousand of demonstrators prepared to march in Washington in response to the school shooting in Parkland, Fla., students on the South Side of Chicago felt sympathy, but also frustration. Why hadnât the gun violence in their community earned the nationâs outrage? Guest: Sameen Amin, Â a senior video producer at The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Monday, March 26, 2018"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/94708f7e-2ccc-4b8c-b3d7-6c3a5b881082/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=94708f7e-2ccc-4b8c-b3d7-6c3a5b881082&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 23274973
+         },
+         "description" : "Prime Minister Benjamin Netanyahu of Israel faces indictment over an alleged scheme involving brazen acts of bribery and fraud. Why are so many Israelis ready to re-elect him? Guest: David M. Halbfinger, the Jerusalem bureau chief of The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1436,
+         "episodeID" : "GA0000P0000FGr2",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/94708f7e-2ccc-4b8c-b3d7-6c3a5b881082/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "Prime Minister Benjamin Netanyahu of Israel faces indictment over an alleged scheme involving brazen acts of bribery and fraud. Why are so many Israelis ready to re-elect him? Guest: David M. Halbfinger, the Jerusalem bureau chief of The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "Prime Minister Benjamin Netanyahu of Israel faces indictment over an alleged scheme involving brazen acts of bribery and fraud. Why are so many Israelis ready to re-elect him? Guest: David M. Halbfinger, the Jerusalem bureau chief of The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Israelâs Indispensable Prime Minister?"
+      }
+   ],
+   "meta" : {
+      "limit" : 30,
+      "offset" : 0,
+      "total" : 1505
+   }
+}

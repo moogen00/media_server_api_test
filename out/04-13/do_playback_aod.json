@@ -1,0 +1,490 @@
+3.6 Aod Playback Endpoint do_playback_aod ===========================================
+{
+   "data" : [
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/adf91938-260d-480e-b806-b01da97c4e41/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=adf91938-260d-480e-b806-b01da97c4e41&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 25045848
+         },
+         "description" : "Her disclosure of classified documents in 2010 ushered in the age of leaks. Now Chelsea Manning has been freed from prison and talks about why she did it â and everything that followed. Guest: Matt Shaer, a contributing writer for the magazine, who narrates the tapes from his conversation with Ms. Manning, her first in-person, on-the-record interview in almost a decade. For more information on todayâs episode, visit nytimes.com/thedaily. For two weeks, weâre offering listeners a free trial of a New York Times digital subscription. Visit nytimes.com/dailytrial to sign up.",
+         "durationSeconds" : 1546,
+         "episodeID" : "GA0000P0000FGHJ",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/adf91938-260d-480e-b806-b01da97c4e41/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "Her disclosure of classified documents in 2010 ushered in the age of leaks. Now Chelsea Manning has been freed from prison and talks about why she did it â and everything that followed. Guest: Matt Shaer, a contributing writer for the magazine, who narrates the tapes from his conversation with Ms. Manning, her first in-person, on-the-record interview in almost a decade. For more information on todayâs episode, visit nytimes.com/thedaily. For two weeks, weâre offering listeners a free trial of a New York Times digital subscription. Visit nytimes.com/dailytrial to sign up.",
+         "summary" : "Her disclosure of classified documents in 2010 ushered in the age of leaks. Now Chelsea Manning has been freed from prison and talks about why she did it â and everything that followed. Guest: Matt Shaer, a contributing writer for the magazine, who narrates the tapes from his conversation with Ms. Manning, her first in-person, on-the-record interview in almost a decade. For more information on todayâs episode, visit nytimes.com/thedaily. For two weeks, weâre offering listeners a free trial of a New York Times digital subscription. Visit nytimes.com/dailytrial to sign up.",
+         "title" : "Tuesday, June 13, 2017"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/473b024c-895f-4e5d-b4d1-25e09df5d59c/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=473b024c-895f-4e5d-b4d1-25e09df5d59c&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 17561452
+         },
+         "description" : "Itâs 2018, and the investigation into Russian meddling in the 2016 presidential election is nowhere near complete â as the Trump administration had predicted it would be. Instead, new reporting on what prompted a federal inquiry in the first place has shed light on what Robert Mueller, the special counsel in charge of the investigation, was up to over the past year. Guest: Matt Apuzzo, who covers national security for The New York Times",
+         "durationSeconds" : 1078,
+         "episodeID" : "GA0000P0000FGPr",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/473b024c-895f-4e5d-b4d1-25e09df5d59c/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "Itâs 2018, and the investigation into Russian meddling in the 2016 presidential election is nowhere near complete â as the Trump administration had predicted it would be. Instead, new reporting on what prompted a federal inquiry in the first place has shed light on what Robert Mueller, the special counsel in charge of the investigation, was up to over the past year. Guest: Matt Apuzzo, who covers national security for The New York Times",
+         "summary" : "Itâs 2018, and the investigation into Russian meddling in the 2016 presidential election is nowhere near complete â as the Trump administration had predicted it would be. Instead, new reporting on what prompted a federal inquiry in the first place has shed light on what Robert Mueller, the special counsel in charge of the investigation, was up to over the past year. Guest: Matt Apuzzo, who covers national security for The New York Times",
+         "title" : "Tuesday, Jan. 2, 2018"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/2806450e-ccdc-4a89-8e89-b14ae999502d/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=2806450e-ccdc-4a89-8e89-b14ae999502d&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 22691486
+         },
+         "description" : "The Times obtains Donald Trump Jr.âs emails about an offer of help from the Russian government. âI love it,â he wrote. The story behind the story, and what we mean when we talk about âcollusion.â And the scene from the Iraqi city of Mosul: What Islamic State militants left behind. Guests: Matt Apuzzo, one of the reporters who broke the story about Donald Trump Jr.âs emails; Rukmini Callimachi, who covers the Islamic State, and Andy Mills, a producer with her in Mosul. For more information on todayâs episode, visit http://nyti.ms/2sPxzbb.",
+         "durationSeconds" : 1400,
+         "episodeID" : "GA0000P0000FGJ3",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/2806450e-ccdc-4a89-8e89-b14ae999502d/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "The Times obtains Donald Trump Jr.âs emails about an offer of help from the Russian government. âI love it,â he wrote. The story behind the story, and what we mean when we talk about âcollusion.â And the scene from the Iraqi city of Mosul: What Islamic State militants left behind. Guests: Matt Apuzzo, one of the reporters who broke the story about Donald Trump Jr.âs emails; Rukmini Callimachi, who covers the Islamic State, and Andy Mills, a producer with her in Mosul. For more information on todayâs episode, visit http://nyti.ms/2sPxzbb.",
+         "summary" : "The Times obtains Donald Trump Jr.âs emails about an offer of help from the Russian government. âI love it,â he wrote. The story behind the story, and what we mean when we talk about âcollusion.â And the scene from the Iraqi city of Mosul: What Islamic State militants left behind. Guests: Matt Apuzzo, one of the reporters who broke the story about Donald Trump Jr.âs emails; Rukmini Callimachi, who covers the Islamic State, and Andy Mills, a producer with her in Mosul. For more information on todayâs episode, visit http://nyti.ms/2sPxzbb.",
+         "title" : "Wednesday, July 12, 2017"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/0d4a198f-4f20-401b-9a9f-c881adc95e4d/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=0d4a198f-4f20-401b-9a9f-c881adc95e4d&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 27347151
+         },
+         "description" : "Bob Woodwardâs reporting on the Nixon administration pioneered an approach to journalism that drew from anonymous sources and has been widely used since. He has deployed that form of reporting in his new book to tell the story of the Trump administration. Guests: Mr. Woodward, author of âFear: Trump in the White House,â speaks with Michael S. Schmidt, a Washington correspondent for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1690,
+         "episodeID" : "GA0000P0000FGXZ",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/0d4a198f-4f20-401b-9a9f-c881adc95e4d/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "Bob Woodwardâs reporting on the Nixon administration pioneered an approach to journalism that drew from anonymous sources and has been widely used since. He has deployed that form of reporting in his new book to tell the story of the Trump administration. Guests: Mr. Woodward, author of âFear: Trump in the White House,â speaks with Michael S. Schmidt, a Washington correspondent for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "Bob Woodwardâs reporting on the Nixon administration pioneered an approach to journalism that drew from anonymous sources and has been widely used since. He has deployed that form of reporting in his new book to tell the story of the Trump administration. Guests: Mr. Woodward, author of âFear: Trump in the White House,â speaks with Michael S. Schmidt, a Washington correspondent for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Bob Woodward on Trump, Nixon and Anonymity"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/c920f2cb-ec85-41c2-8730-38a141b18f7e/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=c920f2cb-ec85-41c2-8730-38a141b18f7e&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 21003345
+         },
+         "description" : "President Trump has claimed credit for a booming U.S. economy. But is it actually booming, and to what extent is he responsible? Guest: Peter S. Goodman, who writes about the economy for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1294,
+         "episodeID" : "GA0000P0000FGRS",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/c920f2cb-ec85-41c2-8730-38a141b18f7e/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "President Trump has claimed credit for a booming U.S. economy. But is it actually booming, and to what extent is he responsible? Guest: Peter S. Goodman, who writes about the economy for The New York Times.\n\nFor more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "President Trump has claimed credit for a booming U.S. economy. But is it actually booming, and to what extent is he responsible? Guest: Peter S. Goodman, who writes about the economy for The New York Times.\n\nFor more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Monday, Feb. 5, 2018"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/cf36cb36-202f-4ab7-8130-811b18d755f8/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=cf36cb36-202f-4ab7-8130-811b18d755f8&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 19389197
+         },
+         "description" : "Blueprints for making a variety of plastic guns, including AR-15-style rifles, on 3-D printers were scheduled to be posted online today. Who is the man behind their planned release, and why is the federal government taking his side? Guest: Tiffany Hsu, a business reporter for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1193,
+         "episodeID" : "GA0000P0000FGWm",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/cf36cb36-202f-4ab7-8130-811b18d755f8/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "Blueprints for making a variety of plastic guns, including AR-15-style rifles, on 3-D printers were scheduled to be posted online today. Who is the man behind their planned release, and why is the federal government taking his side? Guest: Tiffany Hsu, a business reporter for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "Blueprints for making a variety of plastic guns, including AR-15-style rifles, on 3-D printers were scheduled to be posted online today. Who is the man behind their planned release, and why is the federal government taking his side? Guest: Tiffany Hsu, a business reporter for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "The Fight Over 3-D-Printed Guns"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/cde4ecb2-0e68-470a-89c8-1c4f95136aef/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=cde4ecb2-0e68-470a-89c8-1c4f95136aef&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 24122165
+         },
+         "description" : "Why would the House speaker â and the third most powerful Republican in Washington â walk away at the age of 48? Guest: Mark Leibovich, who recently interviewed Paul Ryan for The New York Times Magazine. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1488,
+         "episodeID" : "GA0000P0000FGX2",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/cde4ecb2-0e68-470a-89c8-1c4f95136aef/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "Why would the House speaker â and the third most powerful Republican in Washington â walk away at the age of 48? Guest: Mark Leibovich, who recently interviewed Paul Ryan for The New York Times Magazine. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "Why would the House speaker â and the third most powerful Republican in Washington â walk away at the age of 48? Guest: Mark Leibovich, who recently interviewed Paul Ryan for The New York Times Magazine. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Paul Ryanâs Exit Interview"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/328f00d4-0283-4284-b764-4102a5d22f1a/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=328f00d4-0283-4284-b764-4102a5d22f1a&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 19251275
+         },
+         "description" : "The New York Times has found that one of the White Houseâs own lawyers, Don McGahn, has cooperated extensively in the investigation led by the special counsel, Robert Mueller. And he has shared far more information than the president thought. Guest: Michael S. Schmidt, one of the reporters who broke the story. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1185,
+         "episodeID" : "GA0000P0000FGXB",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/328f00d4-0283-4284-b764-4102a5d22f1a/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "The New York Times has found that one of the White Houseâs own lawyers, Don McGahn, has cooperated extensively in the investigation led by the special counsel, Robert Mueller. And he has shared far more information than the president thought. Guest: Michael S. Schmidt, one of the reporters who broke the story. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "The New York Times has found that one of the White Houseâs own lawyers, Don McGahn, has cooperated extensively in the investigation led by the special counsel, Robert Mueller. And he has shared far more information than the president thought. Guest: Michael S. Schmidt, one of the reporters who broke the story. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Robert Muellerâs Unlikely Witness"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/48e5487d-d877-4675-9ef6-dde491838fe9/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=48e5487d-d877-4675-9ef6-dde491838fe9&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 21616498
+         },
+         "description" : "President Trump abruptly canceled on Thursday the highly anticipated summit meeting with Kim Jong-un, the leader of North Korea, that was scheduled to take place on June 12. In a letter to Mr. Kim announcing his decision, Mr. Trump wrote, âThe world, and North Korea in particular, has lost a great opportunity for lasting peace.â Guest: Mark Landler, who covers the White House for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1332,
+         "episodeID" : "GA0000P0000FGV8",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/48e5487d-d877-4675-9ef6-dde491838fe9/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "President Trump abruptly canceled on Thursday the highly anticipated summit meeting with Kim Jong-un, the leader of North Korea, that was scheduled to take place on June 12. In a letter to Mr. Kim announcing his decision, Mr. Trump wrote, âThe world, and North Korea in particular, has lost a great opportunity for lasting peace.â Guest: Mark Landler, who covers the White House for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "President Trump abruptly canceled on Thursday the highly anticipated summit meeting with Kim Jong-un, the leader of North Korea, that was scheduled to take place on June 12. In a letter to Mr. Kim announcing his decision, Mr. Trump wrote, âThe world, and North Korea in particular, has lost a great opportunity for lasting peace.â Guest: Mark Landler, who covers the White House for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "âDear Mr. Chairman â¦â"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/0927e363-66d7-4e80-a6f1-00e8ffd3f206/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=0927e363-66d7-4e80-a6f1-00e8ffd3f206&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 22457844
+         },
+         "description" : "As hundreds of thousand of demonstrators prepared to march in Washington in response to the school shooting in Parkland, Fla., students on the South Side of Chicago felt sympathy, but also frustration. Why hadnât the gun violence in their community earned the nationâs outrage? Guest: Sameen Amin, a senior video producer at The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1384,
+         "episodeID" : "GA0000P0000FGSW",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/0927e363-66d7-4e80-a6f1-00e8ffd3f206/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "As hundreds of thousand of demonstrators prepared to march in Washington in response to the school shooting in Parkland, Fla., students on the South Side of Chicago felt sympathy, but also frustration. Why hadnât the gun violence in their community earned the nationâs outrage? Guest: Sameen Amin, Â a senior video producer at The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "As hundreds of thousand of demonstrators prepared to march in Washington in response to the school shooting in Parkland, Fla., students on the South Side of Chicago felt sympathy, but also frustration. Why hadnât the gun violence in their community earned the nationâs outrage? Guest: Sameen Amin, Â a senior video producer at The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Monday, March 26, 2018"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/6dd15b1a-12bc-464c-aedd-ab744f213acc/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=6dd15b1a-12bc-464c-aedd-ab744f213acc&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 23251594
+         },
+         "description" : "As the special counsel finishes his investigation, he can pursue three different paths â each with a profoundly different effect on how Congress will proceed. Recent history makes one of those paths especially treacherous. Guest: Michael S. Schmidt, who has been covering the special counsel investigation for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1435,
+         "episodeID" : "GA0000P0000FGmS",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/6dd15b1a-12bc-464c-aedd-ab744f213acc/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "As the special counsel finishes his investigation, he can pursue three different paths â each with a profoundly different effect on how Congress will proceed. Recent history makes one of those paths especially treacherous. Guest: Michael S. Schmidt, who has been covering the special counsel investigation for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "As the special counsel finishes his investigation, he can pursue three different paths â each with a profoundly different effect on how Congress will proceed. Recent history makes one of those paths especially treacherous. Guest: Michael S. Schmidt, who has been covering the special counsel investigation for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Part 2: What to Expect When Youâre Expecting (the Mueller Report)"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/5d7255b2-f21e-434b-87b7-ae44a64d0f0d/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=5d7255b2-f21e-434b-87b7-ae44a64d0f0d&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 23543715
+         },
+         "description" : "Last week, Victorina Morales came forward and said that for the last five years, she had been working as an undocumented immigrant at President Trumpâs golf club in New Jersey. A couple of days ago, we visited her in her home with Miriam Jordan, the New York Times reporter who first broke the story. Guest: Victorina Morales, a former housekeeper at the Trump National Golf Club in Bedminster, N.J., and Miriam Jordan, who covers immigration for The Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1452,
+         "episodeID" : "GA0000P0000FGbh",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/5d7255b2-f21e-434b-87b7-ae44a64d0f0d/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "Last week, Victorina Morales came forward and said that for the last five years, she had been working as an undocumented immigrant at President Trumpâs golf club in New Jersey. A couple of days ago, we visited her in her home with Miriam Jordan, the New York Times reporter who first broke the story. Guest: Victorina Morales, a former housekeeper at the Trump National Golf Club in Bedminster, N.J., and Miriam Jordan, who covers immigration for The Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "Last week, Victorina Morales came forward and said that for the last five years, she had been working as an undocumented immigrant at President Trumpâs golf club in New Jersey. A couple of days ago, we visited her in her home with Miriam Jordan, the New York Times reporter who first broke the story. Guest: Victorina Morales, a former housekeeper at the Trump National Golf Club in Bedminster, N.J., and Miriam Jordan, who covers immigration for The Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Undocumented and Working for Trump"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/1c303136-92a0-4217-8b48-8d7760c63d14/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=1c303136-92a0-4217-8b48-8d7760c63d14&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 21447638
+         },
+         "description" : "In 1999, President Bill Clinton sent an envoy to North Korea for a rare negotiation aimed at stopping the countryâs nuclear development. That was the moment, the envoy says, when everything could have gone differently. Guest: William Perry, the secretary of defense from 1994 to 1997, who went on that diplomatic mission. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1321,
+         "episodeID" : "GA0000P0000FGJX",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/1c303136-92a0-4217-8b48-8d7760c63d14/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "In 1999, President Bill Clinton sent an envoy to North Korea for a rare negotiation aimed at stopping the countryâs nuclear development. That was the moment, the envoy says, when everything could have gone differently. Guest: William Perry, the secretary of defense from 1994 to 1997, who went on that diplomatic mission. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "In 1999, President Bill Clinton sent an envoy to North Korea for a rare negotiation aimed at stopping the countryâs nuclear development. That was the moment, the envoy says, when everything could have gone differently. Guest: William Perry, the secretary of defense from 1994 to 1997, who went on that diplomatic mission. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Thursday, Aug 10, 2017"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/12c4aeff-850d-4a0e-8b07-c4b990e6367c/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=12c4aeff-850d-4a0e-8b07-c4b990e6367c&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 19919996
+         },
+         "description" : "In 2012, a woman asked if the city of Charlottesville, Va., should consider removing a statue of a Confederate general from a local park. That question set off a chain of events that led to the deadly violence on Saturday. Also, President Trump, after two days of equivocal remarks about the violence in Charlottesville, made a new statement on Monday: âRacism is evil.â Guests: Kristin Szakos, a city councillor in Charlottesville, Va.; Glenn Thrush, a White House correspondent for The Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1226,
+         "episodeID" : "GA0000P0000FGJh",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/12c4aeff-850d-4a0e-8b07-c4b990e6367c/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "In 2012, a woman asked if the city of Charlottesville, Va., should consider removing a statue of a Confederate general from a local park. That question set off a chain of events that led to the deadly violence on Saturday. Also, President Trump, after two days of equivocal remarks about the violence in Charlottesville, made a new statement on Monday: âRacism is evil.â Guests: Kristin Szakos, a city councillor in Charlottesville, Va.; Glenn Thrush, a White House correspondent for The Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "In 2012, a woman asked if the city of Charlottesville, Va., should consider removing a statue of a Confederate general from a local park. That question set off a chain of events that led to the deadly violence on Saturday. Also, President Trump, after two days of equivocal remarks about the violence in Charlottesville, made a new statement on Monday: âRacism is evil.â Guests: Kristin Szakos, a city councillor in Charlottesville, Va.; Glenn Thrush, a White House correspondent for The Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Tuesday, Aug. 15, 2017"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/50bf8d6c-f74e-412b-b963-e92a5f7a2c5d/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=50bf8d6c-f74e-412b-b963-e92a5f7a2c5d&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 19405906
+         },
+         "description" : "President Trump has demanded to know why the United States should welcome immigrants from âshithole countries.â His words have alarmed lawmakers and threatened an immigration deal. But they have also raised a question about a certain American ideal: Who should be let in? Guest: Julie Hirschfeld Davis, who covers the White House for The Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1194,
+         "episodeID" : "GA0000P0000FGR6",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/50bf8d6c-f74e-412b-b963-e92a5f7a2c5d/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "President Trump has demanded to know why the United States should welcome immigrants from âshithole countries.â His words have alarmed lawmakers and threatened an immigration deal. But they have also raised a question about a certain American ideal: Who should be let in? Guest: Julie Hirschfeld Davis, who covers the White House for The Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "President Trump has demanded to know why the United States should welcome immigrants from âshithole countries.â His words have alarmed lawmakers and threatened an immigration deal. But they have also raised a question about a certain American ideal: Who should be let in? Guest: Julie Hirschfeld Davis, who covers the White House for The Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Friday, Jan. 12, 2018"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/f699c452-329f-4e06-81c3-8967808f8c5c/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=f699c452-329f-4e06-81c3-8967808f8c5c&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 21894435
+         },
+         "description" : "President Trump arrived in Israel with a message from the Muslim world: If Israel wants peace with its Arab neighbors, itâll have to compromise with the Palestinians. And Michael Flynn has been out of the White House for three months. But his saga continues. Guests: Peter Baker, who is traveling with the president; Matthew Rosenberg, who has been reporting on Mr. Flynn. For more information on todayâs episode, visit http://nyti.ms/2qOCsTu.",
+         "durationSeconds" : 1349,
+         "episodeID" : "GA0000P0000FGH2",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/f699c452-329f-4e06-81c3-8967808f8c5c/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "President Trump arrived in Israel with a message from the Muslim world: If Israel wants peace with its Arab neighbors, itâll have to compromise with the Palestinians. And Michael Flynn has been out of the White House for three months. But his saga continues. Guests: Peter Baker, who is traveling with the president; Matthew Rosenberg, who has been reporting on Mr. Flynn. For more information on todayâs episode, visit http://nyti.ms/2qOCsTu.",
+         "summary" : "President Trump arrived in Israel with a message from the Muslim world: If Israel wants peace with its Arab neighbors, itâll have to compromise with the Palestinians. And Michael Flynn has been out of the White House for three months. But his saga continues. Guests: Peter Baker, who is traveling with the president; Matthew Rosenberg, who has been reporting on Mr. Flynn. For more information on todayâs episode, visit http://nyti.ms/2qOCsTu.",
+         "title" : "Tuesday, May 23, 2017"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/9f0ff8df-9aed-460b-a896-66605e268752/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=9f0ff8df-9aed-460b-a896-66605e268752&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 20191254
+         },
+         "description" : "Nearly 400,000 Muslims have fled Myanmar in recent weeks. How could a small nation celebrated by the United States as a âgood newsâ story of transition to democracy now be condemned by the United Nations as a âtextbook example of ethnic cleansingâ? Guest: Hannah Beech, the Southeast Asia bureau chief for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily. You can support \"The Daily\" by subscribing to The Times. We're offering listeners one month free, then 50% off for a year. Go to nytimes.com/thedailyoffer for more information.",
+         "durationSeconds" : 1243,
+         "episodeID" : "GA0000P0000FGMN",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/9f0ff8df-9aed-460b-a896-66605e268752/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "Nearly 400,000 Muslims have fled Myanmar in recent weeks. How could a small nation celebrated by the United States as a âgood newsâ story of transition to democracy now be condemned by the United Nations as a âtextbook example of ethnic cleansingâ? Guest: Hannah Beech, the Southeast Asia bureau chief for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.Â \n\nYou can support \"The Daily\" by subscribing to The Times. We're offering listeners one month free, then 50% off for a year. Go to nytimes.com/thedailyoffer for more information.",
+         "summary" : "Nearly 400,000 Muslims have fled Myanmar in recent weeks. How could a small nation celebrated by the United States as a âgood newsâ story of transition to democracy now be condemned by the United Nations as a âtextbook example of ethnic cleansingâ? Guest: Hannah Beech, the Southeast Asia bureau chief for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.Â \n\nYou can support \"The Daily\" by subscribing to The Times. We're offering listeners one month free, then 50% off for a year. Go to nytimes.com/thedailyoffer for more information.",
+         "title" : "Thursday, Sept. 14, 2017"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/5334f6ca-31f8-47e5-b8a1-50c5c8bba47e/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=5334f6ca-31f8-47e5-b8a1-50c5c8bba47e&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 30106520
+         },
+         "description" : "Democrats have waited two years for a chance to investigate President Trump on their own terms. Starting tomorrow, they can. We look at how they plan to use â and not use â that power. Guest: Jason Zengerle, a contributing writer for The New York Times Magazine. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1863,
+         "episodeID" : "GA0000P0000FGh7",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/5334f6ca-31f8-47e5-b8a1-50c5c8bba47e/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "Democrats have waited two years for a chance to investigate President Trump on their own terms. Starting tomorrow, they can. We look at how they plan to use â and not use â that power. Guest: Jason Zengerle, a contributing writer for The New York Times Magazine. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "Democrats have waited two years for a chance to investigate President Trump on their own terms. Starting tomorrow, they can. We look at how they plan to use â and not use â that power. Guest: Jason Zengerle, a contributing writer for The New York Times Magazine. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "What Will Democrats Do With Their New Power?"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/d8f92e46-e3f4-4132-9b6b-f4c2fc730fa9/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=d8f92e46-e3f4-4132-9b6b-f4c2fc730fa9&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 20787265
+         },
+         "description" : "A Times investigation into the chief executive of Uber, Travis Kalanick, finds that his drive to win has plunged the company into its most sustained set of crises since its founding. Guest: Mike Isaac, a technology reporter who has exposed many of the recent controversies involving Uber. For more information on todayâs episode, visit http://nyti.ms/2p6PmLu.",
+         "durationSeconds" : 1281,
+         "episodeID" : "GA0000P0000FGGF",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/d8f92e46-e3f4-4132-9b6b-f4c2fc730fa9/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "A Times investigation into the chief executive of Uber, Travis Kalanick, finds that his drive to win has plunged the company into its most sustained set of crises since its founding. Guest: Mike Isaac, a technology reporter who has exposed many of the recent controversies involving Uber. For more information on todayâs episode, visit http://nyti.ms/2p6PmLu.",
+         "summary" : "A Times investigation into the chief executive of Uber, Travis Kalanick, finds that his drive to win has plunged the company into its most sustained set of crises since its founding. Guest: Mike Isaac, a technology reporter who has exposed many of the recent controversies involving Uber. For more information on todayâs episode, visit http://nyti.ms/2p6PmLu.",
+         "title" : "Wednesday, April 26, 2017"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/221a4afb-baa8-4b7e-ad3e-f9e6cd65aeb2/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=221a4afb-baa8-4b7e-ad3e-f9e6cd65aeb2&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 22664768
+         },
+         "description" : "The pope acknowledged for the first time the persistent problem of sexual abuse of nuns by priests. We look at why it took the Catholic Church so long to recognize this group of victims. Guest: Laurie Goodstein, who has covered the Catholic Church for decades. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1397,
+         "episodeID" : "GA0000P0000FGm0",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/221a4afb-baa8-4b7e-ad3e-f9e6cd65aeb2/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "The pope acknowledged for the first time the persistent problem of sexual abuse of nuns by priests. We look at why it took the Catholic Church so long to recognize this group of victims. Guest: Laurie Goodstein, who has covered the Catholic Church for decades. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "The pope acknowledged for the first time the persistent problem of sexual abuse of nuns by priests. We look at why it took the Catholic Church so long to recognize this group of victims. Guest: Laurie Goodstein, who has covered the Catholic Church for decades. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "The Overlooked Scandal of Priests Sexually Abusing Nuns"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/7964b3d9-088c-462c-b68d-f881627a52ce/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=7964b3d9-088c-462c-b68d-f881627a52ce&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 39314555
+         },
+         "description" : "The Daily is revisiting our favorite episodes of the year â listening back, and then hearing whatâs happened since the stories first ran. Today, we return to the story of Shannon Mulcahy and other steelworkers in Indiana who lost their jobs when their factory moved to Mexico. Guest: Farah Stockman, a national correspondent for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 2438,
+         "episodeID" : "GA0000P0000FGPm",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/7964b3d9-088c-462c-b68d-f881627a52ce/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "The Daily is revisiting our favorite episodes of the year â listening back, and then hearing whatâs happened since the stories first ran. Today, we return to the story of Shannon Mulcahy and other steelworkers in Indiana who lost their jobs when their factory moved to Mexico. Guest: Farah Stockman, a national correspondent for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "The Daily is revisiting our favorite episodes of the year â listening back, and then hearing whatâs happened since the stories first ran. Today, we return to the story of Shannon Mulcahy and other steelworkers in Indiana who lost their jobs when their factory moved to Mexico. Guest: Farah Stockman, a national correspondent for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Friday, Dec. 29, 2017"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/bba3832f-4b2b-40b0-8f3d-e672b1175c82/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=bba3832f-4b2b-40b0-8f3d-e672b1175c82&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 25866330
+         },
+         "description" : "President Trump has blamed Democrats for his administrationâs practice of taking children from their parents at the border. Why is one of his top aides, Stephen Miller, claiming credit? Guest: Julie Hirschfeld Davis, who covers the White House and immigration for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1597,
+         "episodeID" : "GA0000P0000FGVm",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/bba3832f-4b2b-40b0-8f3d-e672b1175c82/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "President Trump has blamed Democrats for his administrationâs practice of taking children from their parents at the border. Why is one of his top aides, Stephen Miller, claiming credit? Guest: Julie Hirschfeld Davis, who covers the White House and immigration for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "President Trump has blamed Democrats for his administrationâs practice of taking children from their parents at the border. Why is one of his top aides, Stephen Miller, claiming credit? Guest: Julie Hirschfeld Davis, who covers the White House and immigration for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "How Separating Migrant Families Became U.S. Policy"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/a87f806f-cf4c-4b76-9a85-7e7cb66a1c47/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=a87f806f-cf4c-4b76-9a85-7e7cb66a1c47&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 21012553
+         },
+         "description" : "A gunman opened fire at two mosques in Christchurch, New Zealand, killing at least 50 people. The massacre was partly streamed online. We look at why the attack was, in some ways, made by and for the internet. Guest: Kevin Roose, who writes about technology for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1294,
+         "episodeID" : "GA0000P0000FGmZ",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/a87f806f-cf4c-4b76-9a85-7e7cb66a1c47/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "A gunman opened fire at two mosques in Christchurch, New Zealand, killing at least 50 people. The massacre was partly streamed online. We look at why the attack was, in some ways, made by and for the internet. Guest: Kevin Roose, who writes about technology for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "A gunman opened fire at two mosques in Christchurch, New Zealand, killing at least 50 people. The massacre was partly streamed online. We look at why the attack was, in some ways, made by and for the internet. Guest: Kevin Roose, who writes about technology for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "The Mosque Attacks in New Zealand"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/45dc1266-f6fa-429c-be30-23dfcbaf817e/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=45dc1266-f6fa-429c-be30-23dfcbaf817e&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 25665695
+         },
+         "description" : "The killing of Jamal Khashoggi has renewed criticism of Saudi Arabia more broadly, including the kingdomâs role in the war in Yemen. Itâs a war that has created what has been called the worst humanitarian crisis in the world â and one that the United States has backed from the beginning. Guest: Robert F. Worth, a contributing writer for The New York Times Magazine. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1585,
+         "episodeID" : "GA0000P0000FGbD",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/45dc1266-f6fa-429c-be30-23dfcbaf817e/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "The killing of Jamal Khashoggi has renewed criticism of Saudi Arabia more broadly, including the kingdomâs role in the war in Yemen. Itâs a war that has created what has been called the worst humanitarian crisis in the world â and one that the United States has backed from the beginning. Guest: Robert F. Worth, a contributing writer for The New York Times Magazine. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "The killing of Jamal Khashoggi has renewed criticism of Saudi Arabia more broadly, including the kingdomâs role in the war in Yemen. Itâs a war that has created what has been called the worst humanitarian crisis in the world â and one that the United States has backed from the beginning. Guest: Robert F. Worth, a contributing writer for The New York Times Magazine. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Why U.S. Bombs Are Falling in Yemen"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/e7e100fb-dbca-4265-a205-5d7c02433702/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=e7e100fb-dbca-4265-a205-5d7c02433702&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 17760820
+         },
+         "description" : "Is Senator Warren actually a danger to the Democratic party? And what does Trumpâs election mean for the markets? We discuss.",
+         "durationSeconds" : 1091,
+         "episodeID" : "GA0000P0000FGDW",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/e7e100fb-dbca-4265-a205-5d7c02433702/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "Is Senator Warren actually a danger to the Democratic party? And what does Trumpâs election mean for the markets? We discuss.",
+         "summary" : "Is Senator Warren actually a danger to the Democratic party? And what does Trumpâs election mean for the markets? We discuss.",
+         "title" : "Thursday, Feb. 9. 2017"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/d109c3af-53ce-42de-9d56-006b4aaf0fd3/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=d109c3af-53ce-42de-9d56-006b4aaf0fd3&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 21824635
+         },
+         "description" : "In 2013, Abigail Fisher sued the University of Texas, saying she had been discriminated against for being white. Now, some students are suing Harvard, saying they were discriminated against for being Asian-American. Both lawsuits can be traced to the same man. But this time, the White House is taking up his cause. Guests: Michael Wang, one of dozens of Asian-American students who have filed a complaint against Harvard; Anemona Hartocollis, who is reporting on the lawsuit; Edward Blum, the man behind the action; Nikole Hannah-Jones, who writes about race and education for The New York Times Magazine. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1345,
+         "episodeID" : "GA0000P0000FGJS",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/d109c3af-53ce-42de-9d56-006b4aaf0fd3/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "In 2013, Abigail Fisher sued the University of Texas, saying she had been discriminated against for being white. Now, some students are suing Harvard, saying they were discriminated against for being Asian-American. Both lawsuits can be traced to the same man. But this time, the White House is taking up his cause. Guests: Michael Wang, one of dozens of Asian-American students who have filed a complaint against Harvard; Anemona Hartocollis, who is reporting on the lawsuit; Edward Blum, the man behind the action; Nikole Hannah-Jones, who writes about race and education for The New York Times Magazine. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "In 2013, Abigail Fisher sued the University of Texas, saying she had been discriminated against for being white. Now, some students are suing Harvard, saying they were discriminated against for being Asian-American. Both lawsuits can be traced to the same man. But this time, the White House is taking up his cause. Guests: Michael Wang, one of dozens of Asian-American students who have filed a complaint against Harvard; Anemona Hartocollis, who is reporting on the lawsuit; Edward Blum, the man behind the action; Nikole Hannah-Jones, who writes about race and education for The New York Times Magazine. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Friday, Aug. 4, 2017"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/884f52bf-d214-4c30-a4de-1ca0510e71f2/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=884f52bf-d214-4c30-a4de-1ca0510e71f2&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 26084059
+         },
+         "description" : "In announcing new protections on steel and aluminum imports, President Trump said he was acting in the interest of national security. But could the real threat be the tariffs themselves? Guest: Peter S. Goodman, an economics correspondent for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1611,
+         "episodeID" : "GA0000P0000FGSD",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/884f52bf-d214-4c30-a4de-1ca0510e71f2/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "In announcing new protections on steel and aluminum imports, President Trump said he was acting in the interest of national security. But could the real threat be the tariffs themselves? Â Guest: Peter S. Goodman, an economics correspondent for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "In announcing new protections on steel and aluminum imports, President Trump said he was acting in the interest of national security. But could the real threat be the tariffs themselves? Â Guest: Peter S. Goodman, an economics correspondent for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Thursday, Mar. 8, 2018"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/fa72b756-4f8d-45f7-b1c0-233f81ad9484/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=fa72b756-4f8d-45f7-b1c0-233f81ad9484&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 19874438
+         },
+         "description" : "The salacious âdossierâ that describes ties between Donald J. Trump and the Russian government is back in the news. The Trump administration says new reporting that the Clinton campaign helped to pay for the report is evidence that the entire Russia inquiry is just politics. Also, we have a rare on-the-record conversation with President Trumpâs top lawyer, Ty Cobb, about the investigation. Guests: Kenneth P. Vogel, a New York Times reporter based in Washington; Matt Apuzzo, who interviewed Mr. Cobb. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1223,
+         "episodeID" : "GA0000P0000FGNN",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/fa72b756-4f8d-45f7-b1c0-233f81ad9484/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "The salacious âdossierâ that describes ties between Donald J. Trump and the Russian government is back in the news. The Trump administration says new reporting that the Clinton campaign helped to pay for the report is evidence that the entire Russia inquiry is just politics. Also, we have a rare on-the-record conversation with President Trumpâs top lawyer, Ty Cobb, about the investigation. Guests: Kenneth P. Vogel, a New York Times reporter based in Washington; Matt Apuzzo, who interviewed Mr. Cobb. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "The salacious âdossierâ that describes ties between Donald J. Trump and the Russian government is back in the news. The Trump administration says new reporting that the Clinton campaign helped to pay for the report is evidence that the entire Russia inquiry is just politics. Also, we have a rare on-the-record conversation with President Trumpâs top lawyer, Ty Cobb, about the investigation. Guests: Kenneth P. Vogel, a New York Times reporter based in Washington; Matt Apuzzo, who interviewed Mr. Cobb. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Monday, Oct. 30, 2017"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/b70d54c9-6127-46f5-bdb3-3ff7ca072426/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=b70d54c9-6127-46f5-bdb3-3ff7ca072426&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 19818040
+         },
+         "description" : "This week, âThe Dailyâ is revisiting some of our favorite episodes of the year and checking in on what has happened since the stories first ran. In October, we sat down with a group of teenage girls in Brooklyn to talk about their reaction to the accusations against Supreme Court Justice Brett M. Kavanaugh by Dr. Christine Blasey Ford. After that conversation aired, we received dozens of emails from listeners who wanted to hear the same questions posed to a group of boys. Guests: Ann Powers, a listener in Oregon, interviewed her two sons and one of their friends. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1219,
+         "episodeID" : "GA0000P0000FGh5",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/b70d54c9-6127-46f5-bdb3-3ff7ca072426/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "This week, âThe Dailyâ is revisiting some of our favorite episodes of the year and checking in on what has happened since the stories first ran. In October, we sat down with a group of teenage girls in Brooklyn to talk about their reaction to the accusations against Supreme Court Justice Brett M. Kavanaugh by Dr. Christine Blasey Ford. After that conversation aired, we received dozens of emails from listeners who wanted to hear the same questions posed to a group of boys. Guests: Ann Powers, a listener in Oregon, interviewed her two sons and one of their friends. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "This week, âThe Dailyâ is revisiting some of our favorite episodes of the year and checking in on what has happened since the stories first ran. In October, we sat down with a group of teenage girls in Brooklyn to talk about their reaction to the accusations against Supreme Court Justice Brett M. Kavanaugh by Dr. Christine Blasey Ford. After that conversation aired, we received dozens of emails from listeners who wanted to hear the same questions posed to a group of boys. Guests: Ann Powers, a listener in Oregon, interviewed her two sons and one of their friends. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "A Mother Talks to Her Sons About Brett Kavanaugh"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/2b7e8b5d-baab-4217-8c5e-c1bdbd7b06c9/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=2b7e8b5d-baab-4217-8c5e-c1bdbd7b06c9&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 20648081
+         },
+         "description" : "President Trump is to announce today whether heâll withdraw the United States from the Paris climate agreement. What would it mean for the biggest carbon polluter in history to abandon the most ambitious effort to fight climate change? Guests: Justin Gillis, who covers the science and policy implications of climate change; Max Fisher and Amanda Taub, who write the Interpreter column. For more information on todayâs episode, visit http://nyti.ms/2qIOb7K.",
+         "durationSeconds" : 1271,
+         "episodeID" : "GA0000P0000FGH8",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/2b7e8b5d-baab-4217-8c5e-c1bdbd7b06c9/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "President Trump is to announce today whether heâll withdraw the United States from the Paris climate agreement. What would it mean for the biggest carbon polluter in history to abandon the most ambitious effort to fight climate change? Guests: Justin Gillis, who covers the science and policy implications of climate change; Max Fisher and Amanda Taub, who write the Interpreter column. For more information on todayâs episode, visit http://nyti.ms/2qIOb7K.",
+         "summary" : "President Trump is to announce today whether heâll withdraw the United States from the Paris climate agreement. What would it mean for the biggest carbon polluter in history to abandon the most ambitious effort to fight climate change? Guests: Justin Gillis, who covers the science and policy implications of climate change; Max Fisher and Amanda Taub, who write the Interpreter column. For more information on todayâs episode, visit http://nyti.ms/2qIOb7K.",
+         "title" : "Thursday, June 1, 2017"
+      }
+   ],
+   "meta" : {
+      "limit" : 30,
+      "offset" : 0,
+      "total" : 1494
+   }
+}

@@ -1,0 +1,1011 @@
+3.10 Aod Episodes Endpoint do_aod_episode ===========================================
+{
+   "data" : {
+      "data" : [
+         {
+            "audioEnclosure" : {
+               "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/bd060e7f-2906-44c6-b5d2-602c9c8d80c6/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=bd060e7f-2906-44c6-b5d2-602c9c8d80c6&feed=54nAGcIl",
+               "mimeType" : "audio/mpeg",
+               "sizeBytes" : 26924561
+            },
+            "availabilities" : [
+               {
+                  "license" : "Open",
+                  "name" : "All"
+               }
+            ],
+            "categories" : [
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90272",
+                     "display" : "News & Politics",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90416",
+                     "display" : "News & Politics Commentary",
+                     "level" : 2
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90757",
+                     "display" : "Political Commentary",
+                     "level" : 3
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90272",
+                     "display" : "News & Politics",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90419",
+                     "display" : "Government",
+                     "level" : 2
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90272",
+                     "display" : "News & Politics",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "91742",
+                     "display" : "COVID-19 / Health News",
+                     "level" : 2
+                  }
+               ]
+            ],
+            "credits" : [
+               {
+                  "name" : "Michael Barbaro",
+                  "personID" : "1314610",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               },
+               {
+                  "name" : "Sheryl Gay Stolberg",
+                  "personID" : "1147920",
+                  "role" : {
+                     "display" : "Guest"
+                  }
+               },
+               {
+                  "name" : "Heather Murphy",
+                  "personID" : "1314678",
+                  "role" : {
+                     "display" : "Guest"
+                  }
+               },
+               {
+                  "name" : "Joe Biden",
+                  "personID" : "588180",
+                  "role" : {
+                     "display" : "Subject"
+                  }
+               }
+            ],
+            "description" : "\r\nIn January 2021, one of President Bidenâs first big moves in office was to sign an executive order mandating masks in airports and on planes and other forms of public transit.\r\nBut an unexpected ruling from a judge in Florida has abruptly and unexpectedly overturned that mandate â and the implications of the decision could tie the governmentâs hands when it comes to future health emergencies.\r\nGuest: Sheryl Gay Stolberg, a Washington correspondent covering health policy for The New York Times; and Heather Murphy, a reporter covering travel for The Times.\r\nWant more from The Daily? For one big idea on the news each week from our team, subscribe to our newsletter.Â \r\nBackground reading:Â In the end, the mask mandate was brought down by a little-known nonprofit, a conservative judge, and chance.While the C.D.C. wants to keep the mandate intact, appealing the ruling is risky: If the Florida decision is upheld, it could permanently weaken the agencyâs authority.\r\nFor more information on todayâs episode, visit nytimes.com/thedaily. Transcripts of each episode will be made available by the next workday.Â ",
+            "durationSeconds" : 1683,
+            "editorialStatus" : "enhanced",
+            "episodeID" : "GA0000P002mt6mb",
+            "episodeNumber" : null,
+            "language" : "en",
+            "lastUpdateDateTime" : "2022-04-26T19:42:40Z",
+            "objectType" : "episode",
+            "publishDateTime" : "2022-04-26T09:45:00Z",
+            "seasonNumber" : null,
+            "seriesReference" : {
+               "href" : "/series?seriesIDs=GA0000N000002h2",
+               "seriesID" : "GA0000N000002h2",
+               "title" : "The Daily"
+            },
+            "subtitle" : "In January 2021, one of President Bidenâs first big moves in office was to sign an executive order mandating masks in airports and on planes and other forms of public transit.\r\n\r\nBut an unexpected ruling from a judge in Florida has abruptly and unexpectedly overturned that mandate â and the implications of the decision could tie the governmentâs hands when it comes to future health emergencies.\r\n\r\nGuest: Sheryl Gay Stolberg, a Washington correspondent covering health policy for The New York Times; and Heather Murphy, a reporter covering travel for The Times.",
+            "summary" : "In January 2021, one of President Bidenâs first big moves in office was to sign an executive order mandating masks in airports and on planes and other forms of public transit.\n\nBut an unexpected ruling from a judge in Florida has abruptly and unexpectedly overturned that mandate â and the implications of the decision could tie the governmentâs hands when it comes to future health emergencies.\n\nGuest: Sheryl Gay Stolberg, a Washington correspondent covering health policy for The New York Times; and Heather Murphy, a reporter covering travel for The Times.",
+            "title" : "How a Sudden Mask Ruling Left the C.D.C. Reeling"
+         },
+         {
+            "audioEnclosure" : {
+               "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/d3fc80df-8802-46a2-a9a2-6e8a986a0089/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=d3fc80df-8802-46a2-a9a2-6e8a986a0089&feed=54nAGcIl",
+               "mimeType" : "audio/mpeg",
+               "sizeBytes" : 23193983
+            },
+            "availabilities" : [
+               {
+                  "license" : "Open",
+                  "name" : "All"
+               }
+            ],
+            "categories" : [
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90275",
+                     "display" : "Society & Culture",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90450",
+                     "display" : "Law",
+                     "level" : 2
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90275",
+                     "display" : "Society & Culture",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90447",
+                     "display" : "Social Issues",
+                     "level" : 2
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90272",
+                     "display" : "News & Politics",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90416",
+                     "display" : "News & Politics Commentary",
+                     "level" : 2
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90757",
+                     "display" : "Political Commentary",
+                     "level" : 3
+                  }
+               ]
+            ],
+            "credits" : [
+               {
+                  "name" : "Michael Barbaro",
+                  "personID" : "1314610",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               },
+               {
+                  "name" : "David D. Kirkpatrick",
+                  "personID" : "1511987",
+                  "role" : {
+                     "display" : "Guest"
+                  }
+               },
+               {
+                  "name" : "Patrick Lyoya",
+                  "personID" : "1790718",
+                  "role" : {
+                     "display" : "Subject"
+                  }
+               }
+            ],
+            "description" : "\r\nA Times investigation last year found that minor traffic stops in the United States were far more deadly than widely thought â in the previous five years, 400 unarmed motorists who were not under pursuit for any violent crime were killed by the police during such checks.\r\nWe look at the different efforts across the country to rethink the stops and at the pushback from opponents who say that restrictions on the practice could keep more guns and criminals on the streets.\r\nGuest: David D. Kirkpatrick, an investigative reporter for The New York Times.\r\nWant more from The Daily? For one big idea on the news each week from our team, subscribe to our newsletter.Â \r\nBackground reading:Â A recent example of a fatal end to a traffic stop was the death in Grand Rapids, Mich., of Patrick Lyoya, an unarmed 26-year-old Black man who was pulled over for a mismatched license plate.\r\nFor more information on todayâs episode, visit nytimes.com/thedaily. Transcripts of each episode will be made available by the next workday.Â ",
+            "durationSeconds" : 1450,
+            "editorialStatus" : "enhanced",
+            "episodeID" : "GA0000P002mm3ZZ",
+            "episodeNumber" : null,
+            "language" : "en",
+            "lastUpdateDateTime" : "2022-04-26T19:42:38Z",
+            "objectType" : "episode",
+            "publishDateTime" : "2022-04-25T09:45:00Z",
+            "seasonNumber" : null,
+            "seriesReference" : {
+               "href" : "/series?seriesIDs=GA0000N000002h2",
+               "seriesID" : "GA0000N000002h2",
+               "title" : "The Daily"
+            },
+            "subtitle" : "A Times investigation last year found that minor traffic stops in the United States were far more deadly than widely thought â in the previous five years, 400 unarmed motorists who were not under pursuit for any violent crime were killed by the police during such checks.\r\n\r\nWe look at the different efforts across the country to rethink the stops and at the pushback from opponents who say that restrictions on the practice could keep more guns and criminals on the streets.\r\n\r\nGuest: David D. Kirkpatrick, an investigative reporter for The New York Times.",
+            "summary" : "A Times investigation last year found that minor traffic stops in the United States were far more deadly than widely thought â in the previous five years, 400 unarmed motorists who were not under pursuit for any violent crime were killed by the police during such checks.\n\nWe look at the different efforts across the country to rethink the stops and at the pushback from opponents who say that restrictions on the practice could keep more guns and criminals on the streets.\n\nGuest: David D. Kirkpatrick, an investigative reporter for The New York Times.",
+            "title" : "A Push for Traffic Stop Reform"
+         },
+         {
+            "audioEnclosure" : {
+               "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/706c3a16-dd04-42c6-9815-13df29083879/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=706c3a16-dd04-42c6-9815-13df29083879&feed=54nAGcIl",
+               "mimeType" : "audio/mpeg",
+               "sizeBytes" : 33827347
+            },
+            "availabilities" : [
+               {
+                  "license" : "Open",
+                  "name" : "All"
+               }
+            ],
+            "categories" : [
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90264",
+                     "display" : "Business",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90297",
+                     "display" : "Consumer Reporting",
+                     "level" : 2
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90275",
+                     "display" : "Society & Culture",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90448",
+                     "display" : "Culture",
+                     "level" : 2
+                  }
+               ]
+            ],
+            "credits" : [
+               {
+                  "name" : "Michael Barbaro",
+                  "personID" : "1314610",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               },
+               {
+                  "name" : "Willy Staley",
+                  "personID" : "1797755",
+                  "role" : {
+                     "display" : "Participant"
+                  }
+               }
+            ],
+            "description" : "\r\nAmerica is home to 735 billionaires with a collective worth greater than $4.7 trillion, according to Forbes. There were just 424 billionaires in 2012, Forbes found, and only 243 a decade before that. The billionaires keep multiplying.\r\nIn this article, Willy Staley uses information from the first billionaire count â commissioned in 1981 by the entrepreneur Malcolm Forbes for his own magazine â to consider the reasons behind the rapid increase in American billionaires, but also the changing attitudes on publicizing the details of oneâs wealth.\r\nMany factors enabled American entrepreneurs to amass such enormous fortunes, including the Reagan administrationâs policies, the arrival of computer technology, the creation of a more globalized economy and the rise of the developing world.\r\nYet despite the conspicuous consumption this level of wealth often encourages, Staley finds that few billionaires want to be discovered. So how do you keep tabs on Americaâs billionaires?\r\nThis story was written by Willy Staley and recorded by Audm. To hear more audio stories from publications like The New York Times, download Audm for iPhone or Android.",
+            "durationSeconds" : 2114,
+            "editorialStatus" : "enhanced",
+            "episodeID" : "GA0000P002mbBNX",
+            "episodeNumber" : null,
+            "language" : "en",
+            "lastUpdateDateTime" : "2022-04-25T18:13:20Z",
+            "objectType" : "episode",
+            "publishDateTime" : "2022-04-24T10:00:00Z",
+            "seasonNumber" : null,
+            "seriesReference" : {
+               "href" : "/series?seriesIDs=GA0000N000002h2",
+               "seriesID" : "GA0000N000002h2",
+               "title" : "The Daily"
+            },
+            "subtitle" : "America is home to 735 billionaires with a collective worth greater than $4.7 trillion, according to Forbes. There were just 424 billionaires in 2012, Forbes found, and only 243 a decade before that. The billionaires keep multiplying.\r\n\r\nIn this article, Willy Staley uses information from the first billionaire count â commissioned in 1981 by the entrepreneur Malcolm Forbes for his own magazine â to consider the reasons behind the rapid increase in American billionaires, but also the changing attitudes on publicizing the details of oneâs wealth.\r\nMany factors enabled American entrepreneurs to amass such enormous fortunes, including the Reagan administrationâs policies, the arrival of computer technology, the creation of a more globalized economy and the rise of the developing world.\r\n\r\nYet despite the conspicuous consumption this level of wealth often encourages, Staley finds that few billionaires want to be discovered. So how do you keep tabs on Americaâs billionaires?",
+            "summary" : "America is home to 735 billionaires with a collective worth greater than $4.7 trillion, according to Forbes. There were just 424 billionaires in 2012, Forbes found, and only 243 a decade before that. The billionaires keep multiplying.\n\nIn this article, Willy Staley uses information from the first billionaire count â commissioned in 1981 by the entrepreneur Malcolm Forbes for his own magazine â to consider the reasons behind the rapid increase in American billionaires, but also the changing attitudes on publicizing the details of oneâs wealth.\nMany factors enabled American entrepreneurs to amass such enormous fortunes, including the Reagan administrationâs policies, the arrival of computer technology, the creation of a more globalized economy and the rise of the developing world.\n\nYet despite the conspicuous consumption this level of wealth often encourages, Staley finds that few billionaires want to be discovered. So how do you keep tabs on Americaâs billionaires?",
+            "title" : "The Sunday Read: âHow Many Billionaires Are There, Anyway?â"
+         },
+         {
+            "audioEnclosure" : {
+               "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/29eb03c2-c776-4bda-a7a9-cf92096911ff/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=29eb03c2-c776-4bda-a7a9-cf92096911ff&feed=54nAGcIl",
+               "mimeType" : "audio/mpeg",
+               "sizeBytes" : 30900493
+            },
+            "availabilities" : [
+               {
+                  "license" : "Open",
+                  "name" : "All"
+               }
+            ],
+            "categories" : [
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90272",
+                     "display" : "News & Politics",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90419",
+                     "display" : "Government",
+                     "level" : 2
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90272",
+                     "display" : "News & Politics",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90416",
+                     "display" : "News & Politics Commentary",
+                     "level" : 2
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90757",
+                     "display" : "Political Commentary",
+                     "level" : 3
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90272",
+                     "display" : "News & Politics",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90414",
+                     "display" : "News",
+                     "level" : 2
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90748",
+                     "display" : "Europe News",
+                     "level" : 3
+                  }
+               ]
+            ],
+            "credits" : [
+               {
+                  "name" : "Michael Barbaro",
+                  "personID" : "1314610",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               },
+               {
+                  "name" : "Roger Cohen",
+                  "personID" : "634301",
+                  "role" : {
+                     "display" : "Guest"
+                  }
+               },
+               {
+                  "name" : "Emmanuel Macron",
+                  "personID" : "1026300",
+                  "role" : {
+                     "display" : "Subject"
+                  }
+               },
+               {
+                  "name" : "Marine Le Pen",
+                  "personID" : "1036041",
+                  "role" : {
+                     "display" : "Subject"
+                  }
+               }
+            ],
+            "description" : "\r\nWhen they go to the polls on Sunday, voters in France will be faced with the same two presidential candidates as 2017: Emmanuel Macron, the president and a polished centrist, and Marine Le Pen, the leader of the far-right National Rally party.\r\nYet the context is different. There is a war in Europe, and the contest is tight.\r\nWhat are the stakes in the runoff election, and how has the race become so close?\r\nGuest: Roger Cohen, Paris bureau chief for The New York Times.\r\nWant more from The Daily? For one big idea on the news each week from our team, subscribe to our newsletter.Â \r\nBackground reading:Â President Emmanuel Macron will face Marine Le Pen, the far-right leader, in the runoff on Sunday. The outcome will be crucial for France and reverberate globally.No French president has been the object of such intense dislike among significant segments of the population as Mr. Macron. How deep that loathing runs will be a critical factor in the election.\r\nFor more information on todayâs episode, visit nytimes.com/thedaily. Transcripts of each episode will be made available by the next workday.Â ",
+            "durationSeconds" : 1931,
+            "editorialStatus" : "enhanced",
+            "episodeID" : "GA0000P002mS3G0",
+            "episodeNumber" : null,
+            "language" : "en",
+            "lastUpdateDateTime" : "2022-04-26T19:42:36Z",
+            "objectType" : "episode",
+            "publishDateTime" : "2022-04-22T09:50:00Z",
+            "seasonNumber" : null,
+            "seriesReference" : {
+               "href" : "/series?seriesIDs=GA0000N000002h2",
+               "seriesID" : "GA0000N000002h2",
+               "title" : "The Daily"
+            },
+            "subtitle" : "When they go to the polls on Sunday, voters in France will be faced with the same two presidential candidates as 2017: Emmanuel Macron, the president and a polished centrist, and Marine Le Pen, the leader of the far-right National Rally party.\r\n\r\nYet the context is different. There is a war in Europe, and the contest is tight.\r\n\r\nWhat are the stakes in the runoff election, and how has the race become so close?\r\n\r\nGuest: Roger Cohen, Paris bureau chief for The New York Times.",
+            "summary" : "When they go to the polls on Sunday, voters in France will be faced with the same two presidential candidates as 2017: Emmanuel Macron, the president and a polished centrist, and Marine Le Pen, the leader of the far-right National Rally party.\n\nYet the context is different. There is a war in Europe, and the contest is tight.\n\nWhat are the stakes in the runoff election, and how has the race become so close?\n\nGuest: Roger Cohen, Paris bureau chief for The New York Times.",
+            "title" : "Franceâs Big Decision"
+         },
+         {
+            "audioEnclosure" : {
+               "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/bfa35dc1-e955-4903-823c-df1db71b3491/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=bfa35dc1-e955-4903-823c-df1db71b3491&feed=54nAGcIl",
+               "mimeType" : "audio/mpeg",
+               "sizeBytes" : 32860047
+            },
+            "availabilities" : [
+               {
+                  "license" : "Open",
+                  "name" : "All"
+               }
+            ],
+            "categories" : [
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90272",
+                     "display" : "News & Politics",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90419",
+                     "display" : "Government",
+                     "level" : 2
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90275",
+                     "display" : "Society & Culture",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90447",
+                     "display" : "Social Issues",
+                     "level" : 2
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90272",
+                     "display" : "News & Politics",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90414",
+                     "display" : "News",
+                     "level" : 2
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90744",
+                     "display" : "News & Politics Interviews",
+                     "level" : 3
+                  }
+               ]
+            ],
+            "credits" : [
+               {
+                  "name" : "Michael Barbaro",
+                  "personID" : "1314610",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               },
+               {
+                  "name" : "J. David Goodman",
+                  "personID" : "1650571",
+                  "role" : {
+                     "display" : "Guest"
+                  }
+               },
+               {
+                  "name" : "Azeen Ghorayshi",
+                  "personID" : "1182704",
+                  "role" : {
+                     "display" : "Guest"
+                  }
+               }
+            ],
+            "description" : "\r\nIn Texas, a heated political battle is taking place over care provided to young transgender people, with Gov. Greg Abbott taking a leading role.\r\nThe story of this confrontation began, improbably, with the contentious divorce of a suburban couple from Dallas, and a nasty custody battle over their daughter.\r\nWe look at how a domestic dispute precipitated one of the fiercest political clashes in the country, and return to yesterdayâs story about a trans teenager, Grayson, and his mother to explore the impact of this clash.\r\nGuests: J. David Goodman, The New York Timesâs Houston bureau chief, covering Texas; and Azeen Ghorayshi, a reporter covering the intersection between sex, gender and science for The Times.\r\nWant more from The Daily? For one big idea on the news each week from our team, subscribe to our newsletter.Â \r\nBackground reading:Â How a custody battle in the Dallas suburbs amplified a growing conservative cause and helped fuel a move to treat transgender medicine as abuse.\r\nFor more information on todayâs episode, visit nytimes.com/thedaily. Transcripts of each episode will be made available by the next workday.Â ",
+            "durationSeconds" : 2054,
+            "editorialStatus" : "enhanced",
+            "episodeID" : "GA0000P002mP4rJ",
+            "episodeNumber" : null,
+            "language" : "en",
+            "lastUpdateDateTime" : "2022-04-22T16:54:51Z",
+            "objectType" : "episode",
+            "publishDateTime" : "2022-04-21T09:45:00Z",
+            "seasonNumber" : null,
+            "seriesReference" : {
+               "href" : "/series?seriesIDs=GA0000N000002h2",
+               "seriesID" : "GA0000N000002h2",
+               "title" : "The Daily"
+            },
+            "subtitle" : "In Texas, a heated political battle is taking place over care provided to young transgender people, with Gov. Greg Abbott taking a leading role.\r\n\r\nThe story of this confrontation began, improbably, with the contentious divorce of a suburban couple from Dallas, and a nasty custody battle over their daughter.\r\n\r\nWe look at how a domestic dispute precipitated one of the fiercest political clashes in the country, and return to yesterdayâs story about a trans teenager, Grayson, and his mother to explore the impact of this clash.\r\n\r\nGuests: J. David Goodman, The New York Timesâs Houston bureau chief, covering Texas; and Azeen Ghorayshi, a reporter covering the intersection between sex, gender and science for The Times.",
+            "summary" : "In Texas, a heated political battle is taking place over care provided to young transgender people, with Gov. Greg Abbott taking a leading role.\n\nThe story of this confrontation began, improbably, with the contentious divorce of a suburban couple from Dallas, and a nasty custody battle over their daughter.\n\nWe look at how a domestic dispute precipitated one of the fiercest political clashes in the country, and return to yesterdayâs story about a trans teenager, Grayson, and his mother to explore the impact of this clash.\n\nGuests: J. David Goodman, The New York Timesâs Houston bureau chief, covering Texas; and Azeen Ghorayshi, a reporter covering the intersection between sex, gender and science for The Times.",
+            "title" : "When Texas Went After Transgender Care, Part 2"
+         },
+         {
+            "audioEnclosure" : {
+               "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/ab878bac-7deb-4ad7-93f8-135b4d4d8c41/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=ab878bac-7deb-4ad7-93f8-135b4d4d8c41&feed=54nAGcIl",
+               "mimeType" : "audio/mpeg",
+               "sizeBytes" : 33890402
+            },
+            "availabilities" : [
+               {
+                  "license" : "Open",
+                  "name" : "All"
+               }
+            ],
+            "categories" : [
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90272",
+                     "display" : "News & Politics",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90416",
+                     "display" : "News & Politics Commentary",
+                     "level" : 2
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90757",
+                     "display" : "Political Commentary",
+                     "level" : 3
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90272",
+                     "display" : "News & Politics",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90414",
+                     "display" : "News",
+                     "level" : 2
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90744",
+                     "display" : "News & Politics Interviews",
+                     "level" : 3
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90275",
+                     "display" : "Society & Culture",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90447",
+                     "display" : "Social Issues",
+                     "level" : 2
+                  }
+               ]
+            ],
+            "credits" : [
+               {
+                  "name" : "Michael Barbaro",
+                  "personID" : "1314610",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               },
+               {
+                  "name" : "Azeen Ghorayshi",
+                  "personID" : "1182704",
+                  "role" : {
+                     "display" : "Guest"
+                  }
+               }
+            ],
+            "description" : "\r\nIn recent years, there has been a sharp increase in the number of younger Americans who identify as transgender and are seeking medical intervention to support their transition.Â \r\nThis increase has coincided with laws introduced in Republican State Houses across the country that seek to block trans youth from accessing gender-affirming care. Nowhere is the political battle more polarized and heated than in Texas.Â \r\nIn the first of two episodes on the situation in Texas, we explore the story of one family seeking such care for their son when the political storm hit.Â \r\nGuest: Azeen Ghorayshi, a reporter covering the intersection between sex, gender and science for The New York Times.Â \r\nWant more from The Daily? For one big idea on the news each week from our team, subscribe to our newsletter.Â \r\nBackground reading:Â A Texas clinic for transgender adolescents closed last year amid political pressure. Its demise is evidence of how treating trans minors has become a contentious issue in Republican-controlled states.Texas officials have begun investigating parents of transgender adolescents for possible child abuse, according to a recent lawsuit.Â \r\nFor more information on todayâs episode, visit nytimes.com/thedaily. Transcripts of each episode will be made available by the next workday.Â ",
+            "durationSeconds" : 2119,
+            "editorialStatus" : "enhanced",
+            "episodeID" : "GA0000P002mM4FM",
+            "episodeNumber" : null,
+            "language" : "en",
+            "lastUpdateDateTime" : "2022-04-22T16:54:50Z",
+            "objectType" : "episode",
+            "publishDateTime" : "2022-04-20T09:50:55Z",
+            "seasonNumber" : null,
+            "seriesReference" : {
+               "href" : "/series?seriesIDs=GA0000N000002h2",
+               "seriesID" : "GA0000N000002h2",
+               "title" : "The Daily"
+            },
+            "subtitle" : "In recent years, there has been a sharp increase in the number of younger Americans who identify as transgender and are seeking medical intervention to support their transition. \r\n\r\nThis increase has coincided with laws introduced in Republican State Houses across the country that seek to block trans youth from accessing gender-affirming care. Nowhere is the political battle more polarized and heated than in Texas. \r\n\r\nIn the first of two episodes on the situation in Texas, we explore the story of one family seeking such care for their son when the political storm hit. \r\n\r\nGuest: Azeen Ghorayshi, a reporter covering the intersection between sex, gender and science for The New York Times.",
+            "summary" : "In recent years, there has been a sharp increase in the number of younger Americans who identify as transgender and are seeking medical intervention to support their transition. \n\nThis increase has coincided with laws introduced in Republican State Houses across the country that seek to block trans youth from accessing gender-affirming care. Nowhere is the political battle more polarized and heated than in Texas. \n\nIn the first of two episodes on the situation in Texas, we explore the story of one family seeking such care for their son when the political storm hit. \n\nGuest: Azeen Ghorayshi, a reporter covering the intersection between sex, gender and science for The New York Times.",
+            "title" : "When Texas Went After Transgender Care, Part 1"
+         },
+         {
+            "audioEnclosure" : {
+               "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/71fe1c11-b52f-4b40-811f-0e6cf8a5a7ee/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=71fe1c11-b52f-4b40-811f-0e6cf8a5a7ee&feed=54nAGcIl",
+               "mimeType" : "audio/mpeg",
+               "sizeBytes" : 22378369
+            },
+            "availabilities" : [
+               {
+                  "license" : "Open",
+                  "name" : "All"
+               }
+            ],
+            "categories" : [
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90272",
+                     "display" : "News & Politics",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90414",
+                     "display" : "News",
+                     "level" : 2
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90748",
+                     "display" : "Europe News",
+                     "level" : 3
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90272",
+                     "display" : "News & Politics",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90419",
+                     "display" : "Government",
+                     "level" : 2
+                  }
+               ]
+            ],
+            "credits" : [
+               {
+                  "name" : "Michael Barbaro",
+                  "personID" : "1314610",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               },
+               {
+                  "name" : "Anton Troianovski",
+                  "personID" : "1538089",
+                  "role" : {
+                     "display" : "Guest"
+                  }
+               }
+            ],
+            "description" : "\r\nNearly two months into the war in Ukraine, many Russians have gone from shock and denial to support for their troops and anger at the West.\r\nWhat is behind this shifting view, and what does it mean for those who go against it?\r\nGuest: Anton Troianovski, the Moscow bureau chief for The New York Times.\r\nWant more from The Daily? For one big idea on the news each week from our team, subscribe to our newsletter.Â \r\nBackground reading:Â In Russia, some citizens are turning on one another, illustrating how the war is feeding paranoia and polarization in Russian society.\r\nFor more information on todayâs episode, visit nytimes.com/thedaily. Transcripts of each episode will be made available by the next workday.Â ",
+            "durationSeconds" : 1399,
+            "editorialStatus" : "enhanced",
+            "episodeID" : "GA0000P002mJ34t",
+            "episodeNumber" : null,
+            "language" : "en",
+            "lastUpdateDateTime" : "2022-04-22T16:54:49Z",
+            "objectType" : "episode",
+            "publishDateTime" : "2022-04-19T09:50:00Z",
+            "seasonNumber" : null,
+            "seriesReference" : {
+               "href" : "/series?seriesIDs=GA0000N000002h2",
+               "seriesID" : "GA0000N000002h2",
+               "title" : "The Daily"
+            },
+            "subtitle" : "Nearly two months into the war in Ukraine, many Russians have gone from shock and denial to support for their troops and anger at the West.\r\n\r\nWhat is behind this shifting view, and what does it mean for those who go against it?\r\n\r\nGuest: Anton Troianovski, the Moscow bureau chief for The New York Times.",
+            "summary" : "Nearly two months into the war in Ukraine, many Russians have gone from shock and denial to support for their troops and anger at the West.\n\nWhat is behind this shifting view, and what does it mean for those who go against it?\n\nGuest: Anton Troianovski, the Moscow bureau chief for The New York Times.",
+            "title" : "The Cost of Dissidence in Russia"
+         },
+         {
+            "audioEnclosure" : {
+               "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/5238b42f-8cd8-4bbf-b43c-4a619eebdd37/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=5238b42f-8cd8-4bbf-b43c-4a619eebdd37&feed=54nAGcIl",
+               "mimeType" : "audio/mpeg",
+               "sizeBytes" : 24981501
+            },
+            "availabilities" : [
+               {
+                  "license" : "Open",
+                  "name" : "All"
+               }
+            ],
+            "categories" : [
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90272",
+                     "display" : "News & Politics",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90416",
+                     "display" : "News & Politics Commentary",
+                     "level" : 2
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90757",
+                     "display" : "Political Commentary",
+                     "level" : 3
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90272",
+                     "display" : "News & Politics",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90419",
+                     "display" : "Government",
+                     "level" : 2
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90264",
+                     "display" : "Business",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90299",
+                     "display" : "Economics",
+                     "level" : 2
+                  }
+               ]
+            ],
+            "credits" : [
+               {
+                  "name" : "Michael Barbaro",
+                  "personID" : "1314610",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               },
+               {
+                  "name" : "Stacey Scowley",
+                  "personID" : "1793551",
+                  "role" : {
+                     "display" : "Guest"
+                  }
+               },
+               {
+                  "name" : "Joe Biden",
+                  "personID" : "588180",
+                  "role" : {
+                     "display" : "Subject"
+                  }
+               }
+            ],
+            "description" : "\r\nAcross the United States, 45 million borrowers now owe $1.6 trillion in debt for federal loans taken out for college â more than consumers owe on any other debt except mortgages.\r\nFor the past two years, beginning as the pandemic spread, the U.S. government has allowed tens of millions of Americans to stop paying back their students loans.\r\nThis experiment in debt deferral has had unintended consequences, and poses a dilemma for President Biden.\r\nGuest: Stacy Cowley, a finance reporter for The New York Times.\r\nWant more from The Daily? For one big idea on the news each week from our team, subscribe to our newsletter.Â \r\nBackground reading:Â The Biden administration has paused student loans once again. The four-month delay means the pause will become an issue again before the midterm elections.While politically popular with Mr. Bidenâs party, the extension of the loan moratorium has drawn criticism for adding a small measure of oomph to the inflation the government is trying to tame.\r\nFor more information on todayâs episode, visit nytimes.com/thedaily. Transcripts of each episode will be made available by the next workday.Â ",
+            "durationSeconds" : 1561,
+            "editorialStatus" : "enhanced",
+            "episodeID" : "GA0000P002mGGrr",
+            "episodeNumber" : null,
+            "language" : "en",
+            "lastUpdateDateTime" : "2022-04-22T16:54:48Z",
+            "objectType" : "episode",
+            "publishDateTime" : "2022-04-18T09:45:00Z",
+            "seasonNumber" : null,
+            "seriesReference" : {
+               "href" : "/series?seriesIDs=GA0000N000002h2",
+               "seriesID" : "GA0000N000002h2",
+               "title" : "The Daily"
+            },
+            "subtitle" : "Across the United States, 45 million borrowers now owe $1.6 trillion in debt for federal loans taken out for college â more than consumers owe on any other debt except mortgages.\r\n\r\nFor the past two years, beginning as the pandemic spread, the U.S. government has allowed tens of millions of Americans to stop paying back their students loans.\r\n\r\nThis experiment in debt deferral has had unintended consequences, and poses a dilemma for President Biden.\r\n\r\nGuest: Stacy Cowley, a finance reporter for The New York Times.",
+            "summary" : "Across the United States, 45 million borrowers now owe $1.6 trillion in debt for federal loans taken out for college â more than consumers owe on any other debt except mortgages.\n\nFor the past two years, beginning as the pandemic spread, the U.S. government has allowed tens of millions of Americans to stop paying back their students loans.\n\nThis experiment in debt deferral has had unintended consequences, and poses a dilemma for President Biden.\n\nGuest: Stacy Cowley, a finance reporter for The New York Times.",
+            "title" : "Bidenâs Student Loan Dilemma"
+         },
+         {
+            "audioEnclosure" : {
+               "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/aebc24d3-8f0a-439f-b944-27f283807bd1/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=aebc24d3-8f0a-439f-b944-27f283807bd1&feed=54nAGcIl",
+               "mimeType" : "audio/mpeg",
+               "sizeBytes" : 77683963
+            },
+            "availabilities" : [
+               {
+                  "license" : "Open",
+                  "name" : "All"
+               }
+            ],
+            "categories" : [
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90272",
+                     "display" : "News & Politics",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90414",
+                     "display" : "News",
+                     "level" : 2
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90745",
+                     "display" : "World News",
+                     "level" : 3
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90268",
+                     "display" : "History",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90350",
+                     "display" : "World History",
+                     "level" : 2
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90272",
+                     "display" : "News & Politics",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90416",
+                     "display" : "News & Politics Commentary",
+                     "level" : 2
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90757",
+                     "display" : "Political Commentary",
+                     "level" : 3
+                  }
+               ]
+            ],
+            "credits" : [
+               {
+                  "name" : "Michael Barbaro",
+                  "personID" : "1314610",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               },
+               {
+                  "name" : "William Langewiesche",
+                  "personID" : "918494",
+                  "role" : {
+                     "display" : "Co-Host"
+                  }
+               },
+               {
+                  "name" : "Jair Bolsonaro",
+                  "personID" : "1234755",
+                  "role" : {
+                     "display" : "Subject"
+                  }
+               }
+            ],
+            "description" : "\r\nThe Indigenous Brazilian territory of Ituna-ItatÃ¡ was established in 2011 for the protection of an isolated group that has never been contacted by outsiders or fully confirmed to exist. But despite its special status, it has become one of the most invaded Indigenous territories in Brazil since the election of the pro-development, anti-regulatory president, Jair Bolsonaro, in 2018 â becoming something of a poster board for the Amazonâs eventual demise.\r\nWilliam Langewiesche explores the process of defending these preserves from outside harm, and uses Ituna-ItatÃ¡, which has now been heavily deforested, as a grim illustration of the intractable forces destroying the Amazon through logging, ranching and mining.\r\nThis story was written by William Langewiesche and recorded by Audm. To hear more audio stories from publications like The New York Times, download Audm for iPhone or Android.",
+            "durationSeconds" : 4855,
+            "editorialStatus" : "enhanced",
+            "episodeID" : "GA0000P002mDhCR",
+            "episodeNumber" : null,
+            "language" : "en",
+            "lastUpdateDateTime" : "2022-04-18T15:45:18Z",
+            "objectType" : "episode",
+            "publishDateTime" : "2022-04-17T10:00:00Z",
+            "seasonNumber" : null,
+            "seriesReference" : {
+               "href" : "/series?seriesIDs=GA0000N000002h2",
+               "seriesID" : "GA0000N000002h2",
+               "title" : "The Daily"
+            },
+            "subtitle" : "The Indigenous Brazilian territory of Ituna-ItatÃ¡ was established in 2011 for the protection of an isolated group that has never been contacted by outsiders or fully confirmed to exist. But despite its special status, it has become one of the most invaded Indigenous territories in Brazil since the election of the pro-development, anti-regulatory president, Jair Bolsonaro, in 2018 â becoming something of a poster board for the Amazonâs eventual demise.\r\n\r\nWilliam Langewiesche explores the process of defending these preserves from outside harm, and uses Ituna-ItatÃ¡, which has now been heavily deforested, as a grim illustration of the intractable forces destroying the Amazon through logging, ranching and mining.",
+            "summary" : "The Indigenous Brazilian territory of Ituna-ItatÃ¡ was established in 2011 for the protection of an isolated group that has never been contacted by outsiders or fully confirmed to exist. But despite its special status, it has become one of the most invaded Indigenous territories in Brazil since the election of the pro-development, anti-regulatory president, Jair Bolsonaro, in 2018 â becoming something of a poster board for the Amazonâs eventual demise.\n\nWilliam Langewiesche explores the process of defending these preserves from outside harm, and uses Ituna-ItatÃ¡, which has now been heavily deforested, as a grim illustration of the intractable forces destroying the Amazon through logging, ranching and mining.",
+            "title" : "The Sunday Read: âThe War for the Rainforestâ"
+         },
+         {
+            "audioEnclosure" : {
+               "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/aad1c7fd-8339-4aa6-afc8-6bd634330a38/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=aad1c7fd-8339-4aa6-afc8-6bd634330a38&feed=54nAGcIl",
+               "mimeType" : "audio/mpeg",
+               "sizeBytes" : 21330297
+            },
+            "availabilities" : [
+               {
+                  "license" : "Open",
+                  "name" : "All"
+               }
+            ],
+            "categories" : [
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90279",
+                     "display" : "True Crime",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90509",
+                     "display" : "Law & Order",
+                     "level" : 2
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90279",
+                     "display" : "True Crime",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "93039",
+                     "display" : "Heists",
+                     "level" : 2
+                  }
+               ]
+            ],
+            "credits" : [
+               {
+                  "name" : "Michael Barbaro",
+                  "personID" : "1314610",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               },
+               {
+                  "name" : "Adam Liptak",
+                  "personID" : "1035664",
+                  "role" : {
+                     "display" : "Guest"
+                  }
+               },
+               {
+                  "name" : "Dennis Wayne Hope",
+                  "personID" : "1792803",
+                  "role" : {
+                     "display" : "Subject"
+                  }
+               }
+            ],
+            "description" : "\r\nIn the 1990s, Dennis Wayne Hope committed a series of armed robberies. After proving adept at escaping prison, he was put in isolation. He has been there for nearly three decades.\r\nHis case, if the Supreme Court agrees to hear it, could answer the fundamental question of how long people can be held in solitary confinement.\r\nGuest: Adam Liptak, a reporter covering the Supreme Court for The New York Times.\r\nWant more from The Daily? For one big idea on the news each week from our team, subscribe to our newsletter.Â \r\nBackground reading:Â Mr. Hope has spent more than half his life in solitary confinement, in a cell that is nine feet long and six feet wide â smaller than a compact parking space.\r\nFor more information on todayâs episode, visit nytimes.com/thedaily. Transcripts of each episode will be made available by the next workday.Â ",
+            "durationSeconds" : 1334,
+            "editorialStatus" : "enhanced",
+            "episodeID" : "GA0000P002m85G7",
+            "episodeNumber" : null,
+            "language" : "en",
+            "lastUpdateDateTime" : "2022-04-22T16:54:46Z",
+            "objectType" : "episode",
+            "publishDateTime" : "2022-04-15T09:45:00Z",
+            "seasonNumber" : null,
+            "seriesReference" : {
+               "href" : "/series?seriesIDs=GA0000N000002h2",
+               "seriesID" : "GA0000N000002h2",
+               "title" : "The Daily"
+            },
+            "subtitle" : "In the 1990s, Dennis Wayne Hope committed a series of armed robberies. After proving adept at escaping prison, he was put in isolation. He has been there for nearly three decades.\r\n\r\nHis case, if the Supreme Court agrees to hear it, could answer the fundamental question of how long people can be held in solitary confinement.\r\n\r\nGuest: Adam Liptak, a reporter covering the Supreme Court for The New York Times.",
+            "summary" : "In the 1990s, Dennis Wayne Hope committed a series of armed robberies. After proving adept at escaping prison, he was put in isolation. He has been there for nearly three decades.\n\nHis case, if the Supreme Court agrees to hear it, could answer the fundamental question of how long people can be held in solitary confinement.\n\nGuest: Adam Liptak, a reporter covering the Supreme Court for The New York Times.",
+            "title" : "27 Years in Solitary Confinement"
+         }
+      ],
+      "meta" : {
+         "count" : 10,
+         "offset" : 0,
+         "total" : 1506
+      }
+   },
+   "error" : null,
+   "success" : true
+}

@@ -1,0 +1,933 @@
+3.10 Aod Episodes Endpoint do_aod_episode ===========================================
+{
+   "data" : {
+      "data" : [
+         {
+            "audioEnclosure" : {
+               "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chtbl.com/track/3417G2/pdst.fm/e/traffic.omny.fm/d/clips/885ace83-027a-47ad-ad67-aca7002f1df8/7bdc2f7e-cc52-4dd7-b327-aca8005d16cb/2e161fc4-ece7-439d-afc3-ae9200676136/audio.mp3?utm_source=Podcast&in_playlist=4a6219e8-f1d3-4cf7-bd93-aca8005d16e7",
+               "mimeType" : "audio/mpeg",
+               "sizeBytes" : 77982101
+            },
+            "availabilities" : [
+               {
+                  "license" : "Open",
+                  "name" : "All"
+               }
+            ],
+            "categories" : [
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90265",
+                     "display" : "Comedy",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90306",
+                     "display" : "Comedy Interviews",
+                     "level" : 2
+                  }
+               ]
+            ],
+            "credits" : [
+               {
+                  "name" : "Bobby Lee",
+                  "personID" : "232744",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               },
+               {
+                  "name" : "Khalyla Kuhn",
+                  "personID" : "1316439",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               },
+               {
+                  "name" : "Brendan Schaub",
+                  "personID" : "553589",
+                  "role" : {
+                     "display" : "Guest"
+                  }
+               }
+            ],
+            "description" : "Bobby is the thinking machine. Khalyla asks for an a...hole audit. Brendan is not here to promote Gringo Papi. We talk one thing. Mostly one thing.Â \r\n\r\n\r\nSee omnystudio.com/listener for privacy information.",
+            "durationSeconds" : 4870,
+            "editorialStatus" : "enhanced",
+            "episodeID" : "GA0000P002rm6mH",
+            "episodeNumber" : null,
+            "language" : "en",
+            "lastUpdateDateTime" : "2022-05-11T15:50:28Z",
+            "objectType" : "episode",
+            "publishDateTime" : "2022-05-10T07:00:00Z",
+            "seasonNumber" : null,
+            "seriesReference" : {
+               "href" : "/series?seriesIDs=GA0000N000000Rt",
+               "seriesID" : "GA0000N000000Rt",
+               "title" : "TigerBelly"
+            },
+            "subtitle" : null,
+            "summary" : "Bobby is the thinking machine. Khalyla asks for an asshole audit. Brendan is not here to promote Gringo Papi. We talk one thing. Mostly one thing.Â \n\nStop stressing about dinner. Right now, Freshly is offering our listeners $125 off your first five orders when you go to www.freshly.com/bellyÂ \n\nSo, go to www.brooklinen.com and use promo code [tiger] to get $20 off your purchase of $100 or moreÂ \n\nHelix is offering up to 200 dollars off all mattress orders AND two free pillows for our listeners at www.helixsleep.com/belly\n\nGo to www.getroman.com/belly TODAY. If approved, youâll get $10 off your first order.\n\nSee omnystudio.com/listener for privacy information.",
+            "title" : "Ep 347: The Brendan Schaub Spectacle Extravaganza"
+         },
+         {
+            "audioEnclosure" : {
+               "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chtbl.com/track/3417G2/pdst.fm/e/traffic.omny.fm/d/clips/885ace83-027a-47ad-ad67-aca7002f1df8/7bdc2f7e-cc52-4dd7-b327-aca8005d16cb/dd098a21-186e-453e-ac4a-ae8b00ef1412/audio.mp3?utm_source=Podcast&in_playlist=4a6219e8-f1d3-4cf7-bd93-aca8005d16e7",
+               "mimeType" : "audio/mpeg",
+               "sizeBytes" : 97256719
+            },
+            "availabilities" : [
+               {
+                  "license" : "Open",
+                  "name" : "All"
+               }
+            ],
+            "categories" : [
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90280",
+                     "display" : "TV & Film",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90514",
+                     "display" : "TV & Film Commentary & Analysis",
+                     "level" : 2
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90914",
+                     "display" : "TV & Film Interviews",
+                     "level" : 3
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90265",
+                     "display" : "Comedy",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90306",
+                     "display" : "Comedy Interviews",
+                     "level" : 2
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90265",
+                     "display" : "Comedy",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90315",
+                     "display" : "Comedy Couples",
+                     "level" : 2
+                  }
+               ]
+            ],
+            "credits" : [
+               {
+                  "name" : "Bobby Lee",
+                  "personID" : "232744",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               },
+               {
+                  "name" : "Khalyla Kuhn",
+                  "personID" : "1316439",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               },
+               {
+                  "name" : "Sarah Hyland",
+                  "personID" : "209288",
+                  "role" : {
+                     "display" : "Guest"
+                  }
+               },
+               {
+                  "name" : "Joe Rogan",
+                  "personID" : "68289",
+                  "role" : {
+                     "display" : "Subject"
+                  }
+               }
+            ],
+            "description" : "Bobby escapes a hanging. Khalyla plants a face. Sarah dances with birds. We talk Rogan vs YMH, Beatles sperm, how to be free, and showing your bird feathers.Â \r\n\r\n\r\n\r\nSee omnystudio.com/listener for privacy information.",
+            "durationSeconds" : 6075,
+            "editorialStatus" : "enhanced",
+            "episodeID" : "GA0000P002rG7bS",
+            "episodeNumber" : null,
+            "language" : "en",
+            "lastUpdateDateTime" : "2022-05-04T19:01:13Z",
+            "objectType" : "episode",
+            "publishDateTime" : "2022-05-04T07:30:00Z",
+            "seasonNumber" : null,
+            "seriesReference" : {
+               "href" : "/series?seriesIDs=GA0000N000000Rt",
+               "seriesID" : "GA0000N000000Rt",
+               "title" : "TigerBelly"
+            },
+            "subtitle" : null,
+            "summary" : "Bobby escapes a hanging. Khalyla plants a face. Sarah dances with birds. We talk Rogan vs YMH, Beatles sperm, how to be free, and showing your bird feathers.Â \n\nThis podcast is sponsored by BetterHelp and TigerBelly listeners get 10% off their first month at www.betterhelp.com/bellyÂ \n\nHelix is offering up to 200 dollars off all mattress orders AND two free pillows for our listeners at www.helixsleep.com/bellyÂ \n\nSee omnystudio.com/listener for privacy information.",
+            "title" : "Ep 346: Bobby's Ex Returns! Sarah Hyland, Hello, Hello, Hello"
+         },
+         {
+            "audioEnclosure" : {
+               "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chtbl.com/track/3417G2/pdst.fm/e/traffic.omny.fm/d/clips/885ace83-027a-47ad-ad67-aca7002f1df8/7bdc2f7e-cc52-4dd7-b327-aca8005d16cb/a0c44ee8-ae5a-4cf8-be73-ae8400a07ff3/audio.mp3?utm_source=Podcast&in_playlist=4a6219e8-f1d3-4cf7-bd93-aca8005d16e7",
+               "mimeType" : "audio/mpeg",
+               "sizeBytes" : 68995953
+            },
+            "availabilities" : [
+               {
+                  "license" : "Open",
+                  "name" : "All"
+               }
+            ],
+            "categories" : [
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90265",
+                     "display" : "Comedy",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90315",
+                     "display" : "Comedy Couples",
+                     "level" : 2
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90280",
+                     "display" : "TV & Film",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90518",
+                     "display" : "TV",
+                     "level" : 2
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "91116",
+                     "display" : "Specific TV Shows",
+                     "level" : 3
+                  }
+               ]
+            ],
+            "credits" : [
+               {
+                  "name" : "Bobby Lee",
+                  "personID" : "232744",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               },
+               {
+                  "name" : "Khalyla Kuhn",
+                  "personID" : "1316439",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               },
+               {
+                  "name" : "George Kimmel",
+                  "personID" : "859099",
+                  "role" : {
+                     "display" : "Co-Host"
+                  }
+               },
+               {
+                  "name" : "Tom Segura",
+                  "personID" : "562430",
+                  "role" : {
+                     "display" : "Subject"
+                  }
+               }
+            ],
+            "description" : "Bobby is back on the rez. Khalyla is the Toaster. George takes it too far. We talk zip zooming around Tulsa, Khalyla's Fables, trying to make Segura laugh, and Bobby's sober love for The Bachelor.Â \r\n\r\n\r\nSee omnystudio.com/listener for privacy information.",
+            "durationSeconds" : 4308,
+            "editorialStatus" : "enhanced",
+            "episodeID" : "GA0000P002r0VMT",
+            "episodeNumber" : null,
+            "language" : "en",
+            "lastUpdateDateTime" : "2022-04-27T14:26:16Z",
+            "objectType" : "episode",
+            "publishDateTime" : "2022-04-27T07:30:00Z",
+            "seasonNumber" : null,
+            "seriesReference" : {
+               "href" : "/series?seriesIDs=GA0000N000000Rt",
+               "seriesID" : "GA0000N000000Rt",
+               "title" : "TigerBelly"
+            },
+            "subtitle" : null,
+            "summary" : "Bobby is back on the rez. Khalyla is the Toaster. George takes it too far. We talk zip zooming around Tulsa, Khalyla's Fables, trying to make Segura laugh, and Bobby's sober love for The Bachelor.Â \n\nJust go to www.shipstation.com click on the microphone at the top of the page, and type in BELLY.Â \n\nVisit www.onepeloton.com to learn more.\n\nSee omnystudio.com/listener for privacy information.",
+            "title" : "Ep 345: The Rogan Roast"
+         },
+         {
+            "audioEnclosure" : {
+               "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chtbl.com/track/3417G2/pdst.fm/e/traffic.omny.fm/d/clips/885ace83-027a-47ad-ad67-aca7002f1df8/7bdc2f7e-cc52-4dd7-b327-aca8005d16cb/82d2a387-69d3-4a86-b05c-ae7d0073be84/audio.mp3?utm_source=Podcast&in_playlist=4a6219e8-f1d3-4cf7-bd93-aca8005d16e7",
+               "mimeType" : "audio/mpeg",
+               "sizeBytes" : 83743667
+            },
+            "availabilities" : [
+               {
+                  "license" : "Open",
+                  "name" : "All"
+               }
+            ],
+            "categories" : [
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90265",
+                     "display" : "Comedy",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90306",
+                     "display" : "Comedy Interviews",
+                     "level" : 2
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90280",
+                     "display" : "TV & Film",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90512",
+                     "display" : "Entertainment News",
+                     "level" : 2
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "91114",
+                     "display" : "Celebrity Gossip",
+                     "level" : 3
+                  }
+               ]
+            ],
+            "credits" : [
+               {
+                  "name" : "Bobby Lee",
+                  "personID" : "232744",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               },
+               {
+                  "name" : "Khalyla Kuhn",
+                  "personID" : "1316439",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               },
+               {
+                  "name" : "Tom Hanks",
+                  "personID" : "62982",
+                  "role" : {
+                     "display" : "Subject"
+                  }
+               },
+               {
+                  "name" : "Yannis Pappas",
+                  "personID" : "693629",
+                  "role" : {
+                     "display" : "Guest"
+                  }
+               }
+            ],
+            "description" : "Bobby takes Whitney to No Cancel Culture Island. Yannis says yes to Aquaman. Khalyla is the voice of God. We talk Tom Hanks sex scenes, killing wild boars, deepfake Angela, and Bobby's framed a... in Phoenix.Â \r\n\r\n\r\n\r\nSee omnystudio.com/listener for privacy information.",
+            "durationSeconds" : 5230,
+            "editorialStatus" : "enhanced",
+            "episodeID" : "GA0000P002mM0TS",
+            "episodeNumber" : null,
+            "language" : "en",
+            "lastUpdateDateTime" : "2022-04-20T13:55:48Z",
+            "objectType" : "episode",
+            "publishDateTime" : "2022-04-20T07:30:00Z",
+            "seasonNumber" : null,
+            "seriesReference" : {
+               "href" : "/series?seriesIDs=GA0000N000000Rt",
+               "seriesID" : "GA0000N000000Rt",
+               "title" : "TigerBelly"
+            },
+            "subtitle" : null,
+            "summary" : "Bobby takes Whitney to No Cancel Culture Island. Yannis says yes to Aquaman. Khalyla is the voice of God. We talk Tom Hanks sex scenes, killing wild boars, deepfake Angela, and Bobby's framed ass in Phoenix.Â \n\nListening after the sale? You can still save. Visit www.brooklinen.comÂ  and use Promo code [tiger] for $20 off your purchase of $100\n\nThis podcast is sponsored by BetterHelp and TigerBelly listeners get 10% off their first month at www.betterhelp.com/bellyÂ \n\nFor a limited time, new users can get $10 in free Bitcoin when you sign up today at www.coinbase.com/belly Â \n\nSee omnystudio.com/listener for privacy information.",
+            "title" : "Ep 344: Yannis Pappas & the Kryptonite Butthole"
+         },
+         {
+            "audioEnclosure" : {
+               "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chtbl.com/track/3417G2/pdst.fm/e/traffic.omny.fm/d/clips/885ace83-027a-47ad-ad67-aca7002f1df8/7bdc2f7e-cc52-4dd7-b327-aca8005d16cb/a3770dc9-f8d7-4742-be4e-ae76004a4145/audio.mp3?utm_source=Podcast&in_playlist=4a6219e8-f1d3-4cf7-bd93-aca8005d16e7",
+               "mimeType" : "audio/mpeg",
+               "sizeBytes" : 80069820
+            },
+            "availabilities" : [
+               {
+                  "license" : "Open",
+                  "name" : "All"
+               }
+            ],
+            "categories" : [
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90265",
+                     "display" : "Comedy",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90315",
+                     "display" : "Comedy Couples",
+                     "level" : 2
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90280",
+                     "display" : "TV & Film",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90513",
+                     "display" : "Entertainment Talk",
+                     "level" : 2
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90280",
+                     "display" : "TV & Film",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90512",
+                     "display" : "Entertainment News",
+                     "level" : 2
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "91114",
+                     "display" : "Celebrity Gossip",
+                     "level" : 3
+                  }
+               ]
+            ],
+            "credits" : [
+               {
+                  "name" : "Bobby Lee",
+                  "personID" : "232744",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               },
+               {
+                  "name" : "Khalyla Kuhn",
+                  "personID" : "1316439",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               },
+               {
+                  "name" : "Jessica Simpson",
+                  "personID" : "167038",
+                  "role" : {
+                     "display" : "Subject"
+                  }
+               },
+               {
+                  "name" : "Will Sasso",
+                  "personID" : "82338",
+                  "role" : {
+                     "display" : "Subject"
+                  }
+               },
+               {
+                  "name" : "Frank Caliendo",
+                  "personID" : "185157",
+                  "role" : {
+                     "display" : "Subject"
+                  }
+               },
+               {
+                  "name" : "AndrÃ© 3000",
+                  "personID" : "340679",
+                  "role" : {
+                     "display" : "Subject"
+                  }
+               }
+            ],
+            "description" : "Bobby hits Jessica Simpson. Will Sasso impersonates Frank Caliendo. We talk Hogan's Hangout, stupid wolves, AI Nirvana, & pre-Andre 3000.Â \r\n\r\n\r\n\r\nSee omnystudio.com/listener for privacy information.",
+            "durationSeconds" : 5000,
+            "editorialStatus" : "enhanced",
+            "episodeID" : "GA0000P002m3tRF",
+            "episodeNumber" : null,
+            "language" : "en",
+            "lastUpdateDateTime" : "2022-04-13T16:47:03Z",
+            "objectType" : "episode",
+            "publishDateTime" : "2022-04-13T07:00:00Z",
+            "seasonNumber" : null,
+            "seriesReference" : {
+               "href" : "/series?seriesIDs=GA0000N000000Rt",
+               "seriesID" : "GA0000N000000Rt",
+               "title" : "TigerBelly"
+            },
+            "subtitle" : null,
+            "summary" : "Bobby hits Jessica Simpson. Will Sasso impersonates Frank Caliendo. We talk Hogan's Hangout, stupid wolves, AI Nirvana, & pre-Andre 3000.Â \n\nGo to www.zippixtoothpicks.comÂ today and use code BELLY to get 10% off your order.\n\nStop stressing about dinner. Right now, Freshly is offering our listeners $125 off your first five orders when you go to www.freshly.com/bellyÂ \n\nGo to www.getroman.com/belly today, and if youâre prescribed, get $15 off your first month of ED treatment.\n\nHelix is offering up to 200 dollars off all mattress orders AND two free pillows for our listeners at www.helixsleep.com/bellyÂ \n\nSee omnystudio.com/listener for privacy information.",
+            "title" : "Ep 343: Will Sasso, Canadian Science, the MADtv Bus & AI Farts"
+         },
+         {
+            "audioEnclosure" : {
+               "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chtbl.com/track/3417G2/pdst.fm/e/traffic.omny.fm/d/clips/885ace83-027a-47ad-ad67-aca7002f1df8/7bdc2f7e-cc52-4dd7-b327-aca8005d16cb/83743234-78d7-4a80-aee5-ae6f008547ea/audio.mp3?utm_source=Podcast&in_playlist=4a6219e8-f1d3-4cf7-bd93-aca8005d16e7",
+               "mimeType" : "audio/mpeg",
+               "sizeBytes" : 62386363
+            },
+            "availabilities" : [
+               {
+                  "license" : "Open",
+                  "name" : "All"
+               }
+            ],
+            "categories" : [
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90265",
+                     "display" : "Comedy",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90316",
+                     "display" : "Comedy Crews",
+                     "level" : 2
+                  }
+               ]
+            ],
+            "credits" : [
+               {
+                  "name" : "Bobby Lee",
+                  "personID" : "232744",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               },
+               {
+                  "name" : "Khalyla Kuhn",
+                  "personID" : "1316439",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               },
+               {
+                  "name" : "Gilbert Galon",
+                  "personID" : "929203",
+                  "role" : {
+                     "display" : "Co-Host"
+                  }
+               }
+            ],
+            "description" : "Bobby let's out a bloodcurdling scream. Khalyla is a monster hunter. Gilbert gets hard building a computer. We talk teenage unibrows, Jules becoming the new Bobby, first farts, and we call Umma.Â \r\n\r\n\r\nVisit www.expressvpn.com/belly and get three extra months for free.Â \r\n\r\nSee omnystudio.com/listener for privacy information.",
+            "durationSeconds" : 3895,
+            "editorialStatus" : "enhanced",
+            "episodeID" : "GA0000P002hPZ9b",
+            "episodeNumber" : null,
+            "language" : "en",
+            "lastUpdateDateTime" : "2022-04-13T16:47:02Z",
+            "objectType" : "episode",
+            "publishDateTime" : "2022-04-06T07:30:00Z",
+            "seasonNumber" : null,
+            "seriesReference" : {
+               "href" : "/series?seriesIDs=GA0000N000000Rt",
+               "seriesID" : "GA0000N000000Rt",
+               "title" : "TigerBelly"
+            },
+            "subtitle" : null,
+            "summary" : "Bobby let's out a bloodcurdling scream. Khalyla is a monster hunter. Gilbert gets hard building a computer. We talk teenage unibrows, Jules becoming the new Bobby, first farts, and we call Umma.Â \n\nThis podcast is sponsored by BetterHelp and TigerBelly listeners get 10% off their first month at www.betterhelp.com/belly\n\nVisit www.expressvpn.com/belly and get three extra months for free.Â \n\nSee omnystudio.com/listener for privacy information.",
+            "title" : "Ep 342: Did the Earthworms Say \"Dad\"?"
+         },
+         {
+            "audioEnclosure" : {
+               "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chtbl.com/track/3417G2/pdst.fm/e/traffic.omny.fm/d/clips/885ace83-027a-47ad-ad67-aca7002f1df8/7bdc2f7e-cc52-4dd7-b327-aca8005d16cb/b8d1a1d0-8bda-461d-aa25-ae680098ec2d/audio.mp3?utm_source=Podcast&in_playlist=4a6219e8-f1d3-4cf7-bd93-aca8005d16e7",
+               "mimeType" : "audio/mpeg",
+               "sizeBytes" : 110531093
+            },
+            "availabilities" : [
+               {
+                  "license" : "Open",
+                  "name" : "All"
+               }
+            ],
+            "categories" : [
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90265",
+                     "display" : "Comedy",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90306",
+                     "display" : "Comedy Interviews",
+                     "level" : 2
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90265",
+                     "display" : "Comedy",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90316",
+                     "display" : "Comedy Crews",
+                     "level" : 2
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90270",
+                     "display" : "Lifestyle",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90384",
+                     "display" : "Paranormal",
+                     "level" : 2
+                  }
+               ]
+            ],
+            "credits" : [
+               {
+                  "name" : "Bobby Lee",
+                  "personID" : "232744",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               },
+               {
+                  "name" : "Khalyla Kuhn",
+                  "personID" : "1316439",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               },
+               {
+                  "name" : "Jessica Kirson",
+                  "personID" : "609639",
+                  "role" : {
+                     "display" : "Guest"
+                  }
+               },
+               {
+                  "name" : "Zach Braff",
+                  "personID" : "170376",
+                  "role" : {
+                     "display" : "Subject"
+                  }
+               }
+            ],
+            "description" : "Bobby has Tundra Attacks. Jessica has 12-seconds of misery. Khalyla has to eat a cockroach. We talk insect ghosts, Bobby's escape from a wheatgrass farm, having Zach Braff as a brother, and doing equine therapy with an erect horse.Â \r\n\r\n\r\nSee omnystudio.com/listener for privacy information.",
+            "durationSeconds" : 6904,
+            "editorialStatus" : "enhanced",
+            "episodeID" : "GA0000P002h0CJS",
+            "episodeNumber" : null,
+            "language" : "en",
+            "lastUpdateDateTime" : "2022-03-30T14:16:18Z",
+            "objectType" : "episode",
+            "publishDateTime" : "2022-03-30T07:30:00Z",
+            "seasonNumber" : null,
+            "seriesReference" : {
+               "href" : "/series?seriesIDs=GA0000N000000Rt",
+               "seriesID" : "GA0000N000000Rt",
+               "title" : "TigerBelly"
+            },
+            "subtitle" : null,
+            "summary" : "Bobby has Tundra Attacks. Jessica has 12-seconds of misery. Khalyla has to eat a cockroach. We talk insect ghosts, Bobby's escape from a wheatgrass farm, having Zach Braff as a brother, and doing equine therapy with an erect horse.Â \n\nJust go to www.shipstation.comÂ click on the microphone at the top of the page, and type in BELLY.\n\nFor a limited time, new users can get $10 in free Bitcoin when you sign up today at www.coinbase.com/bellyÂ \n\nSee omnystudio.com/listener for privacy information.",
+            "title" : "EP 341: We Need an Alien Invasion w/ Jessica Kirson"
+         },
+         {
+            "audioEnclosure" : {
+               "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chtbl.com/track/3417G2/pdst.fm/e/traffic.omny.fm/d/clips/885ace83-027a-47ad-ad67-aca7002f1df8/7bdc2f7e-cc52-4dd7-b327-aca8005d16cb/4a821e44-a1a8-4c05-b959-ae6100a34ed4/audio.mp3?utm_source=Podcast&in_playlist=4a6219e8-f1d3-4cf7-bd93-aca8005d16e7",
+               "mimeType" : "audio/mpeg",
+               "sizeBytes" : 90600699
+            },
+            "availabilities" : [
+               {
+                  "license" : "Open",
+                  "name" : "All"
+               }
+            ],
+            "categories" : [
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90265",
+                     "display" : "Comedy",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90315",
+                     "display" : "Comedy Couples",
+                     "level" : 2
+                  }
+               ]
+            ],
+            "credits" : [
+               {
+                  "name" : "Bobby Lee",
+                  "personID" : "232744",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               },
+               {
+                  "name" : "Khalyla Kuhn",
+                  "personID" : "1316439",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               }
+            ],
+            "description" : "Bobby advises American Idols. Trevor is beef d.... Khalyla dates Miss Swan. We talk positive Portland graffiti, TLC shows, pick knuckles, and Range Rover Evoque.\r\n\r\nNew Merch: www.sleptkingdom.com\r\n\r\n\r\nVisit www.onepeloton.comÂ  to learn more.Â \r\n\r\nSee omnystudio.com/listener for privacy information.",
+            "durationSeconds" : 5659,
+            "editorialStatus" : "enhanced",
+            "episodeID" : "GA0000P002bNBR1",
+            "episodeNumber" : null,
+            "language" : "en",
+            "lastUpdateDateTime" : "2022-03-23T14:20:17Z",
+            "objectType" : "episode",
+            "publishDateTime" : "2022-03-23T07:30:00Z",
+            "seasonNumber" : null,
+            "seriesReference" : {
+               "href" : "/series?seriesIDs=GA0000N000000Rt",
+               "seriesID" : "GA0000N000000Rt",
+               "title" : "TigerBelly"
+            },
+            "subtitle" : null,
+            "summary" : "Bobby advises American Idols. Trevor is beef dick. Khalyla dates Miss Swan. We talk positive Portland graffiti, TLC shows, pick knuckles, and Range Rover Evoque.\n\nNew Merch: www.sleptkingdom.com\n\nTIGERBELLY listeners get 10% off their first month at www.betterhelp.com/bellyÂ \n\nTigerBelly listener, you get 15% off an annual membership!Â Go to www.masterclass.com/bellyÂ \n\nVisit www.onepeloton.comÂ  to learn more.Â \n\nSee omnystudio.com/listener for privacy information.",
+            "title" : "Ep 340: Trevor Wallace & The Verified Bro"
+         },
+         {
+            "audioEnclosure" : {
+               "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chtbl.com/track/3417G2/pdst.fm/e/traffic.omny.fm/d/clips/885ace83-027a-47ad-ad67-aca7002f1df8/7bdc2f7e-cc52-4dd7-b327-aca8005d16cb/9bf4ca7e-fb82-488d-a59f-ae5a00e90888/audio.mp3?utm_source=Podcast&in_playlist=4a6219e8-f1d3-4cf7-bd93-aca8005d16e7",
+               "mimeType" : "audio/mpeg",
+               "sizeBytes" : 115453822
+            },
+            "availabilities" : [
+               {
+                  "license" : "Open",
+                  "name" : "All"
+               }
+            ],
+            "categories" : [
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90265",
+                     "display" : "Comedy",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90315",
+                     "display" : "Comedy Couples",
+                     "level" : 2
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90280",
+                     "display" : "TV & Film",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90514",
+                     "display" : "TV & Film Commentary & Analysis",
+                     "level" : 2
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90914",
+                     "display" : "TV & Film Interviews",
+                     "level" : 3
+                  }
+               ]
+            ],
+            "credits" : [
+               {
+                  "name" : "Bobby Lee",
+                  "personID" : "232744",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               },
+               {
+                  "name" : "Khalyla Kuhn",
+                  "personID" : "1316439",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               },
+               {
+                  "name" : "Dominic Monaghan",
+                  "personID" : "188867",
+                  "role" : {
+                     "display" : "Guest"
+                  }
+               },
+               {
+                  "name" : "Billy Boyd",
+                  "personID" : "249412",
+                  "role" : {
+                     "display" : "Subject"
+                  }
+               },
+               {
+                  "name" : "George Lopez",
+                  "personID" : "310522",
+                  "role" : {
+                     "display" : "Subject"
+                  }
+               }
+            ],
+            "description" : "Bobby is choked by a boa constrictor. Dominic gets beat by Billy Elliot. Khalyla spears her sushi. Billy Boyd gets George fired. We talk Michelin mystery, Lost, aggressive nudity, hobbit fetishes, and eating ass reciprocity.Â \r\n\r\n\r\nSee omnystudio.com/listener for privacy information.",
+            "durationSeconds" : 7212,
+            "editorialStatus" : "enhanced",
+            "episodeID" : "GA0000P002b8BNT",
+            "episodeNumber" : null,
+            "language" : "en",
+            "lastUpdateDateTime" : "2022-03-16T21:16:40Z",
+            "objectType" : "episode",
+            "publishDateTime" : "2022-03-16T07:30:00Z",
+            "seasonNumber" : null,
+            "seriesReference" : {
+               "href" : "/series?seriesIDs=GA0000N000000Rt",
+               "seriesID" : "GA0000N000000Rt",
+               "title" : "TigerBelly"
+            },
+            "subtitle" : null,
+            "summary" : "Bobby is choked by a boa constrictor. Dominic gets beat by Billy Elliot. Khalyla spears her sushi. Billy Boyd gets George fired. We talk Michelin mystery, Lost, aggressive nudity, hobbit fetishes, and eating ass reciprocity.Â \n\nRight now, when you purchase a 3-month Babbel subscription, youâll get an additional 3 months for FREE. Thatâs 6 months, for the price of 3! Just go to www.babbel.com and use promo code BELLY.Â \n\nGo to www.getroman.com/belly today, and if youâre prescribed, get $15 off your first month of ED treatment.\n\nFor a limited time, new users can get $10 in free Bitcoin when you sign up today at www.coinbase.com/bellyÂ \n\nSee omnystudio.com/listener for privacy information.",
+            "title" : "Ep 339: Dominic Monaghan and the Return of the Slept King"
+         },
+         {
+            "audioEnclosure" : {
+               "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chtbl.com/track/3417G2/pdst.fm/e/traffic.omny.fm/d/clips/885ace83-027a-47ad-ad67-aca7002f1df8/7bdc2f7e-cc52-4dd7-b327-aca8005d16cb/fa76fdab-06bf-4b93-bcd3-ae5300ce12db/audio.mp3?utm_source=Podcast&in_playlist=4a6219e8-f1d3-4cf7-bd93-aca8005d16e7",
+               "mimeType" : "audio/mpeg",
+               "sizeBytes" : 76217892
+            },
+            "availabilities" : [
+               {
+                  "license" : "Open",
+                  "name" : "All"
+               }
+            ],
+            "categories" : [
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90265",
+                     "display" : "Comedy",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90315",
+                     "display" : "Comedy Couples",
+                     "level" : 2
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90271",
+                     "display" : "Music",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90397",
+                     "display" : "Hip-Hop",
+                     "level" : 2
+                  }
+               ]
+            ],
+            "credits" : [
+               {
+                  "name" : "Khalyla Kuhn",
+                  "personID" : "1316439",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               },
+               {
+                  "name" : "Bobby Lee",
+                  "personID" : "232744",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               }
+            ],
+            "description" : "Bobby is DJ Shut Eye. Khalyla is MC Wet Foot. We talk Bobby crying at Pete's coffee, rainy day origami, and play Guess that Asian.Â \r\n\r\nSee omnystudio.com/listener for privacy information.",
+            "durationSeconds" : 4760,
+            "editorialStatus" : "enhanced",
+            "episodeID" : "GA0000P002Zb76r",
+            "episodeNumber" : null,
+            "language" : "en",
+            "lastUpdateDateTime" : "2022-03-09T15:00:15Z",
+            "objectType" : "episode",
+            "publishDateTime" : "2022-03-09T08:30:00Z",
+            "seasonNumber" : null,
+            "seriesReference" : {
+               "href" : "/series?seriesIDs=GA0000N000000Rt",
+               "seriesID" : "GA0000N000000Rt",
+               "title" : "TigerBelly"
+            },
+            "subtitle" : null,
+            "summary" : "Bobby is DJ Shut Eye. Khalyla is MC Wet Foot. We talk Bobby crying at Pete's coffee, rainy day origami, and play Guess that Asian.Â \n\nGo to www.brooklinen.com and use promo code [tiger] for $20 off your purchase of $100 or moreÂ \n\nHelix is offering up to 200 dollars off all mattress orders AND two free pillows for our listeners at www.helixsleep.com/bellyÂ \n\nThis podcast is sponsored by BetterHelp. TIGERBELLY listeners get 10% off theirÂ  first month at www.betterhelp.com/bellyÂ \n\nÂ \n\nSee omnystudio.com/listener for privacy information.",
+            "title" : "Ep 338: The History of Hip Hop With Urban Bob"
+         }
+      ],
+      "meta" : {
+         "count" : 10,
+         "offset" : 0,
+         "total" : 365
+      }
+   },
+   "error" : null,
+   "success" : true
+}

@@ -1,0 +1,762 @@
+3.10 Aod Episodes Endpoint do_aod_episode ===========================================
+{
+   "data" : {
+      "data" : [
+         {
+            "audioEnclosure" : {
+               "audioUrl" : "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/9DD8D/traffic.megaphone.fm/TPC3763776988.mp3?updated=1651455882",
+               "mimeType" : "audio/mpeg",
+               "sizeBytes" : null
+            },
+            "availabilities" : [
+               {
+                  "license" : "Open",
+                  "name" : "All"
+               }
+            ],
+            "categories" : [
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90277",
+                     "display" : "Storytelling",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90476",
+                     "display" : "Personal Stories",
+                     "level" : 2
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90265",
+                     "display" : "Comedy",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90319",
+                     "display" : "Funny Streamers",
+                     "level" : 2
+                  }
+               ]
+            ],
+            "credits" : [
+               {
+                  "name" : "Joe Santagato",
+                  "personID" : "1320298",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               },
+               {
+                  "name" : "Frank Alvarez",
+                  "personID" : "1320315",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               }
+            ],
+            "description" : "Joe and Frank have a wild discussion about schooling.",
+            "durationSeconds" : 3995,
+            "editorialStatus" : "enhanced",
+            "episodeID" : "GA0000P002r6FXP",
+            "episodeNumber" : null,
+            "language" : "en",
+            "lastUpdateDateTime" : "2022-05-09T18:35:51Z",
+            "objectType" : "episode",
+            "publishDateTime" : "2022-05-09T10:59:00Z",
+            "seasonNumber" : null,
+            "seriesReference" : {
+               "href" : "/series?seriesIDs=GA0000N000000RR",
+               "seriesID" : "GA0000N000000RR",
+               "title" : "The Basement Yard"
+            },
+            "subtitle" : null,
+            "summary" : "Joe and Frank have a wild discussion about schooling.",
+            "title" : "#345 - Theyâre Teaching This in Schools?!"
+         },
+         {
+            "audioEnclosure" : {
+               "audioUrl" : "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/9DD8D/traffic.megaphone.fm/TPC5651595979.mp3?updated=1650759010",
+               "mimeType" : "audio/mpeg",
+               "sizeBytes" : null
+            },
+            "availabilities" : [
+               {
+                  "license" : "Open",
+                  "name" : "All"
+               }
+            ],
+            "categories" : [
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90277",
+                     "display" : "Storytelling",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90476",
+                     "display" : "Personal Stories",
+                     "level" : 2
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90265",
+                     "display" : "Comedy",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90319",
+                     "display" : "Funny Streamers",
+                     "level" : 2
+                  }
+               ]
+            ],
+            "credits" : [
+               {
+                  "name" : "Joe Santagato",
+                  "personID" : "1320298",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               },
+               {
+                  "name" : "Frank Alvarez",
+                  "personID" : "1320315",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               }
+            ],
+            "description" : "Joe and Frank discuss the best way to win an argument!",
+            "durationSeconds" : 3857,
+            "editorialStatus" : "enhanced",
+            "episodeID" : "GA0000P002r6H0R",
+            "episodeNumber" : null,
+            "language" : "en",
+            "lastUpdateDateTime" : "2022-05-02T14:41:49Z",
+            "objectType" : "episode",
+            "publishDateTime" : "2022-05-02T10:59:00Z",
+            "seasonNumber" : null,
+            "seriesReference" : {
+               "href" : "/series?seriesIDs=GA0000N000000RR",
+               "seriesID" : "GA0000N000000RR",
+               "title" : "The Basement Yard"
+            },
+            "subtitle" : null,
+            "summary" : "Joe and Frank discuss the best way to win an argument!",
+            "title" : "#344 - How to Win Every Argument"
+         },
+         {
+            "audioEnclosure" : {
+               "audioUrl" : "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/9DD8D/traffic.megaphone.fm/TPC5610014727.mp3?updated=1650214442",
+               "mimeType" : "audio/mpeg",
+               "sizeBytes" : null
+            },
+            "availabilities" : [
+               {
+                  "license" : "Open",
+                  "name" : "All"
+               }
+            ],
+            "categories" : [
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90277",
+                     "display" : "Storytelling",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90476",
+                     "display" : "Personal Stories",
+                     "level" : 2
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90265",
+                     "display" : "Comedy",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90319",
+                     "display" : "Funny Streamers",
+                     "level" : 2
+                  }
+               ]
+            ],
+            "credits" : [
+               {
+                  "name" : "Joe Santagato",
+                  "personID" : "1320298",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               },
+               {
+                  "name" : "Frank Alvarez",
+                  "personID" : "1320315",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               }
+            ],
+            "description" : "Joe and Frank discuss the possibility of speaking to dead relatives!",
+            "durationSeconds" : 4165,
+            "editorialStatus" : "enhanced",
+            "episodeID" : "GA0000P002mm6J0",
+            "episodeNumber" : null,
+            "language" : "en",
+            "lastUpdateDateTime" : "2022-04-27T05:21:15Z",
+            "objectType" : "episode",
+            "publishDateTime" : "2022-04-25T10:59:00Z",
+            "seasonNumber" : null,
+            "seriesReference" : {
+               "href" : "/series?seriesIDs=GA0000N000000RR",
+               "seriesID" : "GA0000N000000RR",
+               "title" : "The Basement Yard"
+            },
+            "subtitle" : null,
+            "summary" : "Joe and Frank discuss the possibility of speaking to dead relatives!",
+            "title" : "#343 - We Can Talk to Our Dead Relatives"
+         },
+         {
+            "audioEnclosure" : {
+               "audioUrl" : "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/9DD8D/traffic.megaphone.fm/TPC5152592521.mp3?updated=1649631519",
+               "mimeType" : "audio/mpeg",
+               "sizeBytes" : null
+            },
+            "availabilities" : [
+               {
+                  "license" : "Open",
+                  "name" : "All"
+               }
+            ],
+            "categories" : [
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90277",
+                     "display" : "Storytelling",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90476",
+                     "display" : "Personal Stories",
+                     "level" : 2
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90265",
+                     "display" : "Comedy",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90319",
+                     "display" : "Funny Streamers",
+                     "level" : 2
+                  }
+               ]
+            ],
+            "credits" : [
+               {
+                  "name" : "Joe Santagato",
+                  "personID" : "1320298",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               },
+               {
+                  "name" : "Frank Alvarez",
+                  "personID" : "1320315",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               }
+            ],
+            "description" : "Joe and Frankie ponder the question of if they should join a s*x party.",
+            "durationSeconds" : 4244,
+            "editorialStatus" : "enhanced",
+            "episodeID" : "GA0000P002mGMt3",
+            "episodeNumber" : null,
+            "language" : "en",
+            "lastUpdateDateTime" : "2022-04-18T13:39:48Z",
+            "objectType" : "episode",
+            "publishDateTime" : "2022-04-18T10:59:00Z",
+            "seasonNumber" : null,
+            "seriesReference" : {
+               "href" : "/series?seriesIDs=GA0000N000000RR",
+               "seriesID" : "GA0000N000000RR",
+               "title" : "The Basement Yard"
+            },
+            "subtitle" : null,
+            "summary" : "Joe and Frankie ponder the question of if they should join a s*x party.",
+            "title" : "#342 - Should We Go to a S*x Party"
+         },
+         {
+            "audioEnclosure" : {
+               "audioUrl" : "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/9DD8D/traffic.megaphone.fm/TPC1064615891.mp3?updated=1649065454",
+               "mimeType" : "audio/mpeg",
+               "sizeBytes" : null
+            },
+            "availabilities" : [
+               {
+                  "license" : "Open",
+                  "name" : "All"
+               }
+            ],
+            "categories" : [],
+            "credits" : [],
+            "description" : "Frank & Joe head to Key West for their first real gay bar experience... and boy is It a dooozy.",
+            "durationSeconds" : 4031,
+            "editorialStatus" : "original",
+            "episodeID" : "GA0000P002htbM1",
+            "episodeNumber" : null,
+            "language" : "en",
+            "lastUpdateDateTime" : "2022-04-11T13:01:22Z",
+            "objectType" : "episode",
+            "publishDateTime" : "2022-04-11T11:00:00Z",
+            "seasonNumber" : null,
+            "seriesReference" : {
+               "href" : "/series?seriesIDs=GA0000N000000RR",
+               "seriesID" : "GA0000N000000RR",
+               "title" : "The Basement Yard"
+            },
+            "subtitle" : null,
+            "summary" : "Frank & Joe head to Key West for their first real gay bar experience... and boy is It a dooozy.",
+            "title" : "#341 - Our First Gay Bar Experience"
+         },
+         {
+            "audioEnclosure" : {
+               "audioUrl" : "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/9DD8D/traffic.megaphone.fm/TPC1064615891.mp3?updated=1649065454",
+               "mimeType" : "audio/mpeg",
+               "sizeBytes" : null
+            },
+            "availabilities" : [
+               {
+                  "license" : "Open",
+                  "name" : "All"
+               }
+            ],
+            "categories" : [
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90277",
+                     "display" : "Storytelling",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90476",
+                     "display" : "Personal Stories",
+                     "level" : 2
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90265",
+                     "display" : "Comedy",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90319",
+                     "display" : "Funny Streamers",
+                     "level" : 2
+                  }
+               ]
+            ],
+            "credits" : [
+               {
+                  "name" : "Joe Santagato",
+                  "personID" : "1320298",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               },
+               {
+                  "name" : "Frank Alvarez",
+                  "personID" : "1320315",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               }
+            ],
+            "description" : "Frank & Joe head to Key West for their first real gay bar experience... and boy is It a dooozy.",
+            "durationSeconds" : 4031,
+            "editorialStatus" : "enhanced",
+            "episodeID" : "GA0000P002hth23",
+            "episodeNumber" : null,
+            "language" : "en",
+            "lastUpdateDateTime" : "2022-04-12T04:32:19Z",
+            "objectType" : "episode",
+            "publishDateTime" : "2022-04-11T11:00:00Z",
+            "seasonNumber" : null,
+            "seriesReference" : {
+               "href" : "/series?seriesIDs=GA0000N000000RR",
+               "seriesID" : "GA0000N000000RR",
+               "title" : "The Basement Yard"
+            },
+            "subtitle" : null,
+            "summary" : "Frank & Joe head to Key West for their first real gay bar experience... and boy is It a dooozy.",
+            "title" : "#341 - Our First Gay Bar Experience"
+         },
+         {
+            "audioEnclosure" : {
+               "audioUrl" : "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/9DD8D/traffic.megaphone.fm/TPC5283406768.mp3?updated=1649180776",
+               "mimeType" : "audio/mpeg",
+               "sizeBytes" : null
+            },
+            "availabilities" : [
+               {
+                  "license" : "Open",
+                  "name" : "All"
+               }
+            ],
+            "categories" : [
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90277",
+                     "display" : "Storytelling",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90476",
+                     "display" : "Personal Stories",
+                     "level" : 2
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90265",
+                     "display" : "Comedy",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90319",
+                     "display" : "Funny Streamers",
+                     "level" : 2
+                  }
+               ]
+            ],
+            "credits" : [
+               {
+                  "name" : "Joe Santagato",
+                  "personID" : "1320298",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               },
+               {
+                  "name" : "Danny Lopriore",
+                  "personID" : "1320735",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               },
+               {
+                  "name" : "Frank Alvarez",
+                  "personID" : "1320315",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               }
+            ],
+            "description" : "Guys, times have changed.. but let's take a look back at some of the most insane things that used to be perfectly okay by societies standards.",
+            "durationSeconds" : 3791,
+            "editorialStatus" : "enhanced",
+            "episodeID" : "GA0000P002hH3GS",
+            "episodeNumber" : null,
+            "language" : "en",
+            "lastUpdateDateTime" : "2022-04-05T18:33:47Z",
+            "objectType" : "episode",
+            "publishDateTime" : "2022-04-04T11:00:00Z",
+            "seasonNumber" : null,
+            "seriesReference" : {
+               "href" : "/series?seriesIDs=GA0000N000000RR",
+               "seriesID" : "GA0000N000000RR",
+               "title" : "The Basement Yard"
+            },
+            "subtitle" : null,
+            "summary" : "Guys, times have changed.. but let's take a look back at some of the most insane things that used to be perfectly okay by societies standards.",
+            "title" : "#340 - How Was This Allowed?!"
+         },
+         {
+            "audioEnclosure" : {
+               "audioUrl" : "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/9DD8D/traffic.megaphone.fm/TPC3550541870.mp3?updated=1648417712",
+               "mimeType" : "audio/mpeg",
+               "sizeBytes" : null
+            },
+            "availabilities" : [
+               {
+                  "license" : "Open",
+                  "name" : "All"
+               }
+            ],
+            "categories" : [
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90277",
+                     "display" : "Storytelling",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90476",
+                     "display" : "Personal Stories",
+                     "level" : 2
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90265",
+                     "display" : "Comedy",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90319",
+                     "display" : "Funny Streamers",
+                     "level" : 2
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90273",
+                     "display" : "Religion & Spirituality",
+                     "level" : 1
+                  }
+               ]
+            ],
+            "credits" : [
+               {
+                  "name" : "Joe Santagato",
+                  "personID" : "1320298",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               },
+               {
+                  "name" : "Frank Alvarez",
+                  "personID" : "1320315",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               }
+            ],
+            "description" : "Frank & Joe realize that they have no idea how to actually become a priest... y'know.. if they wanted to.",
+            "durationSeconds" : 4213,
+            "editorialStatus" : "enhanced",
+            "episodeID" : "GA0000P002bZ10V",
+            "episodeNumber" : null,
+            "language" : "en",
+            "lastUpdateDateTime" : "2022-03-28T13:25:05Z",
+            "objectType" : "episode",
+            "publishDateTime" : "2022-03-28T11:00:00Z",
+            "seasonNumber" : null,
+            "seriesReference" : {
+               "href" : "/series?seriesIDs=GA0000N000000RR",
+               "seriesID" : "GA0000N000000RR",
+               "title" : "The Basement Yard"
+            },
+            "subtitle" : null,
+            "summary" : "Frank & Joe realize that they have no idea how to actually become a priest... y'know.. if they wanted to.",
+            "title" : "#339 - How to Become a Priest"
+         },
+         {
+            "audioEnclosure" : {
+               "audioUrl" : "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/9DD8D/traffic.megaphone.fm/TPC6482836027.mp3?updated=1647217955",
+               "mimeType" : "audio/mpeg",
+               "sizeBytes" : null
+            },
+            "availabilities" : [
+               {
+                  "license" : "Open",
+                  "name" : "All"
+               }
+            ],
+            "categories" : [
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90277",
+                     "display" : "Storytelling",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90476",
+                     "display" : "Personal Stories",
+                     "level" : 2
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90265",
+                     "display" : "Comedy",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90319",
+                     "display" : "Funny Streamers",
+                     "level" : 2
+                  }
+               ]
+            ],
+            "credits" : [
+               {
+                  "name" : "Joe Santagato",
+                  "personID" : "1320298",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               },
+               {
+                  "name" : "Danny Lopriore",
+                  "personID" : "1320735",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               },
+               {
+                  "name" : "Frank Alvarez",
+                  "personID" : "1320315",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               }
+            ],
+            "description" : "If you find a wallet with $4,000 in it, would you return it with all the money? or would you take the money?",
+            "durationSeconds" : 4357,
+            "editorialStatus" : "enhanced",
+            "episodeID" : "GA0000P002bHXF8",
+            "episodeNumber" : null,
+            "language" : "en",
+            "lastUpdateDateTime" : "2022-03-25T09:40:45Z",
+            "objectType" : "episode",
+            "publishDateTime" : "2022-03-21T11:00:00Z",
+            "seasonNumber" : null,
+            "seriesReference" : {
+               "href" : "/series?seriesIDs=GA0000N000000RR",
+               "seriesID" : "GA0000N000000RR",
+               "title" : "The Basement Yard"
+            },
+            "subtitle" : null,
+            "summary" : "If you find a wallet with $4,000 in it, would you return it with all the money? or would you take the money?",
+            "title" : "#338 - Are You a Good Person or a Bad Person?"
+         },
+         {
+            "audioEnclosure" : {
+               "audioUrl" : "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/9DD8D/traffic.megaphone.fm/TPC6004845570.mp3?updated=1646628876",
+               "mimeType" : "audio/mpeg",
+               "sizeBytes" : null
+            },
+            "availabilities" : [
+               {
+                  "license" : "Open",
+                  "name" : "All"
+               }
+            ],
+            "categories" : [
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90277",
+                     "display" : "Storytelling",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90476",
+                     "display" : "Personal Stories",
+                     "level" : 2
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90265",
+                     "display" : "Comedy",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90319",
+                     "display" : "Funny Streamers",
+                     "level" : 2
+                  }
+               ]
+            ],
+            "credits" : [
+               {
+                  "name" : "Joe Santagato",
+                  "personID" : "1320298",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               },
+               {
+                  "name" : "Frank Alvarez",
+                  "personID" : "1320315",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               }
+            ],
+            "description" : "Frank & Joe discuss an Iranian man's unfortunate mishap with an AA battery.",
+            "durationSeconds" : 4021,
+            "editorialStatus" : "enhanced",
+            "episodeID" : "GA0000P002b4G5S",
+            "episodeNumber" : null,
+            "language" : "en",
+            "lastUpdateDateTime" : "2022-03-14T12:48:45Z",
+            "objectType" : "episode",
+            "publishDateTime" : "2022-03-14T11:00:00Z",
+            "seasonNumber" : null,
+            "seriesReference" : {
+               "href" : "/series?seriesIDs=GA0000N000000RR",
+               "seriesID" : "GA0000N000000RR",
+               "title" : "The Basement Yard"
+            },
+            "subtitle" : null,
+            "summary" : "Frank & Joe discuss an Iranian man's unfortunate mishap with an AA battery.",
+            "title" : "#337 - This Man Has a Battery Powered P...."
+         }
+      ],
+      "meta" : {
+         "count" : 10,
+         "offset" : 0,
+         "total" : 355
+      }
+   },
+   "error" : null,
+   "success" : true
+}

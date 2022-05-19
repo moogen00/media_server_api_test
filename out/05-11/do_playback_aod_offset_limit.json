@@ -1,0 +1,170 @@
+3.6 Aod Playback Endpoint do_playback_aod_offset_limit ===========================================
+{
+   "data" : [
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/eca7921f-71f7-49f8-a16b-5d0fe876bb31/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=eca7921f-71f7-49f8-a16b-5d0fe876bb31&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 25895559
+         },
+         "description" : "President Trump traveled on Wednesday to Dayton, Ohio, and El Paso, where mass shootings killed 31 people. Our colleagues described the scene in both cities. Guests: Mitch Smith, who covers the Midwest for The New York Times, and Michael Crowley, a White House correspondent. For more information on todayâs episode, visit nytimes.com/thedaily. Background reading: President Trump began a day set aside for healing in Dayton and El Paso by lashing out at rivals, using the kind of divisive language that prompted protests in both cities even before he arrived.Across El Paso, some residents worried that Mr. Trumpâs visit might do more harm than good.",
+         "durationSeconds" : 1599,
+         "episodeID" : "GA0000P000Hh1FX",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/eca7921f-71f7-49f8-a16b-5d0fe876bb31/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "President Trump traveled on Wednesday to Dayton, Ohio, and El Paso, where mass shootings killed 31 people. Our colleagues described the scene in both cities. Guests: Mitch Smith, who covers the Midwest for The New York Times, and Michael Crowley, a White House correspondent. For more information on todayâs episode, visit nytimes.com/thedaily.Â \n\nBackground reading:Â President Trump began a day set aside for healing in Dayton and El Paso by lashing out at rivals, using the kind of divisive language that prompted protests in both cities even before he arrived.Across El Paso, some residents worried that Mr. Trumpâs visit might do more harm than good.",
+         "summary" : "President Trump traveled on Wednesday to Dayton, Ohio, and El Paso, where mass shootings killed 31 people. Our colleagues described the scene in both cities. Guests: Mitch Smith, who covers the Midwest for The New York Times, and Michael Crowley, a White House correspondent. For more information on todayâs episode, visit nytimes.com/thedaily.Â \n\nBackground reading:Â President Trump began a day set aside for healing in Dayton and El Paso by lashing out at rivals, using the kind of divisive language that prompted protests in both cities even before he arrived.Across El Paso, some residents worried that Mr. Trumpâs visit might do more harm than good.",
+         "title" : "Two Cities in Mourning"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/637fe2ba-1ab6-4aac-a7ce-f7ab03d13b23/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=637fe2ba-1ab6-4aac-a7ce-f7ab03d13b23&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 25223071
+         },
+         "description" : "A New York Times investigation found that the United States is actively infiltrating Russiaâs electric power grid. We look at what that means for the future of cyberwarfare. Guest: David E. Sanger, a national security correspondent for The New York Times and the author of âThe Perfect Weapon: War, Sabotage, and Fear in the Cyber Age.â For more information on todayâs episode, visit nytimes.com/thedaily. Background reading: The cyberattacks on Russiaâs power grid are intended partly as a warning, and partly to be poised to act if a major conflict broke out between Washington and Moscow.In response to The Timesâs report, the Kremlin warned that American attacks could escalate into cyberwar.",
+         "durationSeconds" : 1557,
+         "episodeID" : "GA0000P000GhCM7",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/637fe2ba-1ab6-4aac-a7ce-f7ab03d13b23/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "A New York Times investigation found that the United States is actively infiltrating Russiaâs electric power grid. We look at what that means for the future of cyberwarfare. Guest: David E. Sanger, a national security correspondent for The New York Times and the author of âThe Perfect Weapon: War, Sabotage, and Fear in the Cyber Age.â For more information on todayâs episode, visit nytimes.com/thedaily. \n\nBackground reading: The cyberattacks on Russiaâs power grid are intended partly as a warning, and partly to be poised to act if a major conflict broke out between Washington and Moscow.In response to The Timesâs report, the Kremlin warned that American attacks could escalate into cyberwar.",
+         "summary" : "A New York Times investigation found that the United States is actively infiltrating Russiaâs electric power grid. We look at what that means for the future of cyberwarfare. Guest: David E. Sanger, a national security correspondent for The New York Times and the author of âThe Perfect Weapon: War, Sabotage, and Fear in the Cyber Age.â For more information on todayâs episode, visit nytimes.com/thedaily. \n\nBackground reading: The cyberattacks on Russiaâs power grid are intended partly as a warning, and partly to be poised to act if a major conflict broke out between Washington and Moscow.In response to The Timesâs report, the Kremlin warned that American attacks could escalate into cyberwar.",
+         "title" : "Hacking the Russian Power Grid"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/901360ec-d256-4001-bf35-1ada42196b54/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=901360ec-d256-4001-bf35-1ada42196b54&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 22694008
+         },
+         "description" : "From the day Roe v. Wade was decided, some have seen the constitutional right to an abortion as an inferred right rather than a guaranteed one. That distinction has become a threat to the lawâs survival. Guests: Sabrina Tavernise, a national correspondent for The New York Times, spoke with Adam Liptak, who covers the Supreme Court for The Times. For more information on todayâs episode, visit nytimes.com/thedaily. Background reading: Because the court led by Chief Justice John Roberts tends toward incrementalism, it is more likely to hear cases that chip away at abortion rights than to overturn Roe v. Wade directly.But after nearly five decades, the anti-abortion movement is closer than it has ever been to dismantling Roe.",
+         "durationSeconds" : 1399,
+         "episodeID" : "GA0000P000GhCHt",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/901360ec-d256-4001-bf35-1ada42196b54/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "From the day Roe v. Wade was decided, some have seen the constitutional right to an abortion as an inferred right rather than a guaranteed one. That distinction has become a threat to the lawâs survival. Guests: Sabrina Tavernise, a national correspondent for The New York Times, spoke with Adam Liptak, who covers the Supreme Court for The Times. For more information on todayâs episode, visit nytimes.com/thedaily. \n\nBackground reading: Because the court led by Chief Justice John Roberts tends toward incrementalism, it is more likely to hear cases that chip away at abortion rights than to overturn Roe v. Wade directly.But after nearly five decades, the anti-abortion movement is closer than it has ever been to dismantling Roe.",
+         "summary" : "From the day Roe v. Wade was decided, some have seen the constitutional right to an abortion as an inferred right rather than a guaranteed one. That distinction has become a threat to the lawâs survival. Guests: Sabrina Tavernise, a national correspondent for The New York Times, spoke with Adam Liptak, who covers the Supreme Court for The Times. For more information on todayâs episode, visit nytimes.com/thedaily. \n\nBackground reading: Because the court led by Chief Justice John Roberts tends toward incrementalism, it is more likely to hear cases that chip away at abortion rights than to overturn Roe v. Wade directly.But after nearly five decades, the anti-abortion movement is closer than it has ever been to dismantling Roe.",
+         "title" : "The Legal Vulnerability of Roe v. Wade"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/a2a8ef34-02fd-4d46-9178-98ed8fe4d9f7/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=a2a8ef34-02fd-4d46-9178-98ed8fe4d9f7&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 21726000
+         },
+         "description" : "President Trumpâs plan to build a âbig, beautiful wallâ between the United States and Mexico has become the ultimate symbol of a hard-line immigration policy. So why, as Congress voted to end a government shutdown and take up the issue of immigration, have Democrats suggested that they would agree to fund the wall if Republicans protect the Dreamers? Guest: Julie Hirschfeld Davis, a White House correspondent for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1339,
+         "episodeID" : "GA0000P0000FGRD",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/a2a8ef34-02fd-4d46-9178-98ed8fe4d9f7/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "President Trumpâs plan to build a âbig, beautiful wallâ between the United States and Mexico has become the ultimate symbol of a hard-line immigration policy. So why, as Congress voted to end a government shutdown and take up the issue of immigration, have Democrats suggested that they would agree to fund the wall if Republicans protect the Dreamers?\n\nGuest: Julie Hirschfeld Davis, a White House correspondent for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "President Trumpâs plan to build a âbig, beautiful wallâ between the United States and Mexico has become the ultimate symbol of a hard-line immigration policy. So why, as Congress voted to end a government shutdown and take up the issue of immigration, have Democrats suggested that they would agree to fund the wall if Republicans protect the Dreamers?\n\nGuest: Julie Hirschfeld Davis, a White House correspondent for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Tuesday, Jan. 23, 2018"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/b916f4f1-cdf1-4595-9585-692197961942/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=b916f4f1-cdf1-4595-9585-692197961942&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 18422448
+         },
+         "description" : "Many farmers across the Midwest voted for Donald J. Trump in the 2016 election but hoped he would never follow through on his threats to impose tariffs on China. They feared that they would suffer if China imposed its own tariffs as payback. Now, Beijing has done just that, proposing tariffs on 106 types of American goods â including soybeans, corn and pork â in retaliation for President Trumpâs plans to penalize Chinese trade practices. Guest: Eldon Gould, a farmer in Illinois who voted for President Trump. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1132,
+         "episodeID" : "GA0000P0000FGT0",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/b916f4f1-cdf1-4595-9585-692197961942/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "Many farmers across the Midwest voted for Donald J. Trump in the 2016 election but hoped he would never follow through on his threats to impose tariffs on China. They feared that they would suffer if China imposed its own tariffs as payback. Now, Beijing has done just that, proposing tariffs on 106 types of American goods â including soybeans, corn and pork â in retaliation for President Trumpâs plans to penalize Chinese trade practices.Â Guest: Eldon Gould, a farmer in Illinois who voted for President Trump. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "Many farmers across the Midwest voted for Donald J. Trump in the 2016 election but hoped he would never follow through on his threats to impose tariffs on China. They feared that they would suffer if China imposed its own tariffs as payback. Now, Beijing has done just that, proposing tariffs on 106 types of American goods â including soybeans, corn and pork â in retaliation for President Trumpâs plans to penalize Chinese trade practices.Â Guest: Eldon Gould, a farmer in Illinois who voted for President Trump. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Thursday, Apr. 5, 2018"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/5abfdea3-109f-436d-a18b-45b31503294b/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=5abfdea3-109f-436d-a18b-45b31503294b&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 20022836
+         },
+         "description" : "From the very beginning, the West was certain that China would not pull off its economic experiment. That certainty came from a set of assumptions about how societies function and political freedoms emerge. But those assumptions were wrong â and China became stronger than ever. Guest: Philip P. Pan, the Asia editor for The New York Times, spoke with us from Beijing. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1232,
+         "episodeID" : "GA0000P0000FGbR",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/5abfdea3-109f-436d-a18b-45b31503294b/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "From the very beginning, the West was certain that China would not pull off its economic experiment. That certainty came from a set of assumptions about how societies function and political freedoms emerge. But those assumptions were wrong â and China became stronger than ever. Guest: Philip P. Pan, the Asia editor for The New York Times, spoke with us from Beijing. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "From the very beginning, the West was certain that China would not pull off its economic experiment. That certainty came from a set of assumptions about how societies function and political freedoms emerge. But those assumptions were wrong â and China became stronger than ever. Guest: Philip P. Pan, the Asia editor for The New York Times, spoke with us from Beijing. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "What the West Got Wrong About China, Part 1"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/ffe89bae-da4e-44f6-8953-e989b7faf07e/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=ffe89bae-da4e-44f6-8953-e989b7faf07e&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 28224459
+         },
+         "description" : "Many have considered Julian Assange, the founder of WikiLeaks, to be a hero of the free speech movement and a partner to journalists. He also came to be seen as a threat to national security. Then, he helped Russia interfere in a United States election. And now, he has been arrested. Our colleague tells us about the moral complexities of working with Mr. Assange. Guest: Scott Shane, who covers national security for The New York Times, has been following Mr. Assangeâs decade-long saga. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1745,
+         "episodeID" : "GA0000P0000FGrH",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/ffe89bae-da4e-44f6-8953-e989b7faf07e/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "Many have considered Julian Assange, the founder of WikiLeaks, to be a hero of the free speech movement and a partner to journalists. He also came to be seen as a threat to national security. Then, he helped Russia interfere in a United States election. And now, he has been arrested. Our colleague tells us about the moral complexities of working with Mr. Assange. Guest: Scott Shane, who covers national security for The New York Times, has been following Mr. Assangeâs decade-long saga. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "Many have considered Julian Assange, the founder of WikiLeaks, to be a hero of the free speech movement and a partner to journalists. He also came to be seen as a threat to national security. Then, he helped Russia interfere in a United States election. And now, he has been arrested. Our colleague tells us about the moral complexities of working with Mr. Assange. Guest: Scott Shane, who covers national security for The New York Times, has been following Mr. Assangeâs decade-long saga. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "The Moral Complexities of Working With Julian Assange"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/718d7c54-1333-4fa6-9102-b0a8cb741a7f/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=718d7c54-1333-4fa6-9102-b0a8cb741a7f&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 23844633
+         },
+         "description" : "The Arab world was agreed that by officially recognizing Jerusalem as the capital of Israel, President Trump has sabotaged the chance of peace between Israel and the Palestinians. But had Arab leaders given up on the Palestinians long ago? And we hear what itâs like to visit the most powerful figure in the Arab world: Saudi Arabiaâs crown prince. Guests: Anne Barnard, the Beirut bureau chief of The New York Times; Thomas L. Friedman, a Times opinion columnist. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1471,
+         "episodeID" : "GA0000P0000FGPG",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/718d7c54-1333-4fa6-9102-b0a8cb741a7f/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "The Arab world was agreed that by officially recognizing Jerusalem as the capital of Israel, President Trump has sabotaged the chance of peace between Israel and the Palestinians. But had Arab leaders given up on the Palestinians long ago? And we hear what itâs like to visit the most powerful figure in the Arab world: Saudi Arabiaâs crown prince. Guests: Anne Barnard, the Beirut bureau chief of The New York Times; Thomas L. Friedman, a Times opinion columnist. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "The Arab world was agreed that by officially recognizing Jerusalem as the capital of Israel, President Trump has sabotaged the chance of peace between Israel and the Palestinians. But had Arab leaders given up on the Palestinians long ago? And we hear what itâs like to visit the most powerful figure in the Arab world: Saudi Arabiaâs crown prince. Guests: Anne Barnard, the Beirut bureau chief of The New York Times; Thomas L. Friedman, a Times opinion columnist. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Thursday, Dec. 7, 2017"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/d543131c-2b6b-495e-8080-1b1d5bb90d62/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=d543131c-2b6b-495e-8080-1b1d5bb90d62&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 27735833
+         },
+         "description" : "Basim Razzo lost his family and his home in an airstrike by the American-led coalition fighting the Islamic State. Video of the strike shows a target hit with military precision. In Part 2 of our look at civilian casualties in Iraq, Mr. Razzo sets out to learn why his home was targeted. Guests: Basim Razzo; Azmat Khan, an investigative reporter who has been looking into civilian deaths in the fight against ISIS. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1714,
+         "episodeID" : "GA0000P0000FGP0",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/d543131c-2b6b-495e-8080-1b1d5bb90d62/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "Basim Razzo lost his family and his home in an airstrike by the American-led coalition fighting the Islamic State. Video of the strike shows a target hit with military precision. In Part 2 of our look at civilian casualties in Iraq, Mr. Razzo sets out to learn why his home was targeted. Guests: Basim Razzo; Azmat Khan, an investigative reporter who has been looking into civilian deaths in the fight against ISIS. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "Basim Razzo lost his family and his home in an airstrike by the American-led coalition fighting the Islamic State. Video of the strike shows a target hit with military precision. In Part 2 of our look at civilian casualties in Iraq, Mr. Razzo sets out to learn why his home was targeted. Guests: Basim Razzo; Azmat Khan, an investigative reporter who has been looking into civilian deaths in the fight against ISIS. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Friday, Nov. 17, 2017"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/6c8b67da-c972-4bce-aa67-504e7492e458/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=6c8b67da-c972-4bce-aa67-504e7492e458&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 20462088
+         },
+         "description" : "What was Jeff Sessions, the new attorney general, doing meeting with the Russian ambassador two months before election day? And who is this mysterious Russian ambassador who has caused so much trouble for not one but two senior officials in the Trump White House? Guests: Matthew Rosenberg, a national security reporter for The New York Times; Peter Baker, our chief White House correspondent. For more information on todayâs episode, visit http://nyti.ms/2mRrvQa.",
+         "durationSeconds" : 1260,
+         "episodeID" : "GA0000P0000FGF7",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/6c8b67da-c972-4bce-aa67-504e7492e458/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "What was Jeff Sessions, the new attorney general, doing meeting with the Russian ambassador two months before election day? And who is this mysterious Russian ambassador who has caused so much trouble for not one but two senior officials in the Trump White House? Guests: Matthew Rosenberg, a national security reporter for The New York Times; Peter Baker, our chief White House correspondent. For more information on todayâs episode, visit http://nyti.ms/2mRrvQa.",
+         "summary" : "What was Jeff Sessions, the new attorney general, doing meeting with the Russian ambassador two months before election day? And who is this mysterious Russian ambassador who has caused so much trouble for not one but two senior officials in the Trump White House? Guests: Matthew Rosenberg, a national security reporter for The New York Times; Peter Baker, our chief White House correspondent. For more information on todayâs episode, visit http://nyti.ms/2mRrvQa.",
+         "title" : "Friday, March 3, 2017"
+      }
+   ],
+   "meta" : {
+      "limit" : 10,
+      "offset" : 0,
+      "total" : 1520
+   }
+}

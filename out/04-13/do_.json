@@ -1,0 +1,7 @@
+Bad Request do_ ===========================================
+{
+   "error" : "Bad Request",
+   "path" : "/api/v1/aod/episode",
+   "status" : 400,
+   "timestamp" : 1649831296729
+}

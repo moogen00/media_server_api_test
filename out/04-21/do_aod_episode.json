@@ -1,0 +1,1017 @@
+3.10 Aod Episodes Endpoint do_aod_episode ===========================================
+{
+   "data" : {
+      "data" : [
+         {
+            "audioEnclosure" : {
+               "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/ab878bac-7deb-4ad7-93f8-135b4d4d8c41/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=ab878bac-7deb-4ad7-93f8-135b4d4d8c41&feed=54nAGcIl",
+               "mimeType" : "audio/mpeg",
+               "sizeBytes" : 33890402
+            },
+            "availabilities" : [
+               {
+                  "license" : "Open",
+                  "name" : "All"
+               }
+            ],
+            "categories" : [
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90272",
+                     "display" : "News & Politics",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90416",
+                     "display" : "News & Politics Commentary",
+                     "level" : 2
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90757",
+                     "display" : "Political Commentary",
+                     "level" : 3
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90272",
+                     "display" : "News & Politics",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90414",
+                     "display" : "News",
+                     "level" : 2
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90744",
+                     "display" : "News & Politics Interviews",
+                     "level" : 3
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90275",
+                     "display" : "Society & Culture",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90447",
+                     "display" : "Social Issues",
+                     "level" : 2
+                  }
+               ]
+            ],
+            "credits" : [
+               {
+                  "name" : "Michael Barbaro",
+                  "personID" : "1314610",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               },
+               {
+                  "name" : "Azeen Ghorayshi",
+                  "personID" : "1182704",
+                  "role" : {
+                     "display" : "Guest"
+                  }
+               }
+            ],
+            "description" : "\r\nIn recent years, there has been a sharp increase in the number of younger Americans who identify as transgender and are seeking medical intervention to support their transition.Â \r\nThis increase has coincided with laws introduced in Republican State Houses across the country that seek to block trans youth from accessing gender-affirming care. Nowhere is the political battle more polarized and heated than in Texas.Â \r\nIn the first of two episodes on the situation in Texas, we explore the story of one family seeking such care for their son when the political storm hit.Â \r\nGuest: Azeen Ghorayshi, a reporter covering the intersection between sex, gender and science for The New York Times.Â \r\nWant more from The Daily? For one big idea on the news each week from our team, subscribe to our newsletter.Â \r\nBackground reading:Â A Texas clinic for transgender adolescents closed last year amid political pressure. Its demise is evidence of how treating trans minors has become a contentious issue in Republican-controlled states.Texas officials have begun investigating parents of transgender adolescents for possible child abuse, according to a recent lawsuit.Â \r\nFor more information on todayâs episode, visit nytimes.com/thedaily. Transcripts of each episode will be made available by the next workday.Â ",
+            "durationSeconds" : 2119,
+            "editorialStatus" : "enhanced",
+            "episodeID" : "GA0000P002mM4FM",
+            "episodeNumber" : null,
+            "language" : "en",
+            "lastUpdateDateTime" : "2022-04-20T17:51:10Z",
+            "objectType" : "episode",
+            "publishDateTime" : "2022-04-20T09:50:55Z",
+            "seasonNumber" : null,
+            "seriesReference" : {
+               "href" : "/series?seriesIDs=GA0000N000002h2",
+               "seriesID" : "GA0000N000002h2",
+               "title" : "The Daily"
+            },
+            "subtitle" : "In recent years, there has been a sharp increase in the number of younger Americans who identify as transgender and are seeking medical intervention to support their transition. \r\n\r\nThis increase has coincided with laws introduced in Republican State Houses across the country that seek to block trans youth from accessing gender-affirming care. Nowhere is the political battle more polarized and heated than in Texas. \r\n\r\nIn the first of two episodes on the situation in Texas, we explore the story of one family seeking such care for their son when the political storm hit. \r\n\r\nGuest: Azeen Ghorayshi, a reporter covering the intersection between sex, gender and science for The New York Times.",
+            "summary" : "In recent years, there has been a sharp increase in the number of younger Americans who identify as transgender and are seeking medical intervention to support their transition. \n\nThis increase has coincided with laws introduced in Republican State Houses across the country that seek to block trans youth from accessing gender-affirming care. Nowhere is the political battle more polarized and heated than in Texas. \n\nIn the first of two episodes on the situation in Texas, we explore the story of one family seeking such care for their son when the political storm hit. \n\nGuest: Azeen Ghorayshi, a reporter covering the intersection between sex, gender and science for The New York Times.",
+            "title" : "When Texas Went After Transgender Care, Part 1"
+         },
+         {
+            "audioEnclosure" : {
+               "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/71fe1c11-b52f-4b40-811f-0e6cf8a5a7ee/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=71fe1c11-b52f-4b40-811f-0e6cf8a5a7ee&feed=54nAGcIl",
+               "mimeType" : "audio/mpeg",
+               "sizeBytes" : 22355550
+            },
+            "availabilities" : [
+               {
+                  "license" : "Open",
+                  "name" : "All"
+               }
+            ],
+            "categories" : [
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90272",
+                     "display" : "News & Politics",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90414",
+                     "display" : "News",
+                     "level" : 2
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90748",
+                     "display" : "Europe News",
+                     "level" : 3
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90272",
+                     "display" : "News & Politics",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90419",
+                     "display" : "Government",
+                     "level" : 2
+                  }
+               ]
+            ],
+            "credits" : [
+               {
+                  "name" : "Michael Barbaro",
+                  "personID" : "1314610",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               },
+               {
+                  "name" : "Anton Troianovski",
+                  "personID" : "1538089",
+                  "role" : {
+                     "display" : "Guest"
+                  }
+               }
+            ],
+            "description" : "\r\nNearly two months into the war in Ukraine, many Russians have gone from shock and denial to support for their troops and anger at the West.\r\nWhat is behind this shifting view, and what does it mean for those who go against it?\r\nGuest: Anton Troianovski, the Moscow bureau chief for The New York Times.\r\nWant more from The Daily? For one big idea on the news each week from our team, subscribe to our newsletter.Â \r\nBackground reading:Â In Russia, some citizens are turning on one another, illustrating how the war is feeding paranoia and polarization in Russian society.\r\nFor more information on todayâs episode, visit nytimes.com/thedaily. Transcripts of each episode will be made available by the next workday.Â ",
+            "durationSeconds" : 1397,
+            "editorialStatus" : "enhanced",
+            "episodeID" : "GA0000P002mJ34t",
+            "episodeNumber" : null,
+            "language" : "en",
+            "lastUpdateDateTime" : "2022-04-20T17:49:20Z",
+            "objectType" : "episode",
+            "publishDateTime" : "2022-04-19T09:50:00Z",
+            "seasonNumber" : null,
+            "seriesReference" : {
+               "href" : "/series?seriesIDs=GA0000N000002h2",
+               "seriesID" : "GA0000N000002h2",
+               "title" : "The Daily"
+            },
+            "subtitle" : "Nearly two months into the war in Ukraine, many Russians have gone from shock and denial to support for their troops and anger at the West.\r\n\r\nWhat is behind this shifting view, and what does it mean for those who go against it?\r\n\r\nGuest: Anton Troianovski, the Moscow bureau chief for The New York Times.",
+            "summary" : "Nearly two months into the war in Ukraine, many Russians have gone from shock and denial to support for their troops and anger at the West.\n\nWhat is behind this shifting view, and what does it mean for those who go against it?\n\nGuest: Anton Troianovski, the Moscow bureau chief for The New York Times.",
+            "title" : "The Cost of Dissidence in Russia"
+         },
+         {
+            "audioEnclosure" : {
+               "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/5238b42f-8cd8-4bbf-b43c-4a619eebdd37/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=5238b42f-8cd8-4bbf-b43c-4a619eebdd37&feed=54nAGcIl",
+               "mimeType" : "audio/mpeg",
+               "sizeBytes" : 24981501
+            },
+            "availabilities" : [
+               {
+                  "license" : "Open",
+                  "name" : "All"
+               }
+            ],
+            "categories" : [
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90272",
+                     "display" : "News & Politics",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90416",
+                     "display" : "News & Politics Commentary",
+                     "level" : 2
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90757",
+                     "display" : "Political Commentary",
+                     "level" : 3
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90272",
+                     "display" : "News & Politics",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90419",
+                     "display" : "Government",
+                     "level" : 2
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90264",
+                     "display" : "Business",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90299",
+                     "display" : "Economics",
+                     "level" : 2
+                  }
+               ]
+            ],
+            "credits" : [
+               {
+                  "name" : "Michael Barbaro",
+                  "personID" : "1314610",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               },
+               {
+                  "name" : "Stacey Scowley",
+                  "personID" : "1793551",
+                  "role" : {
+                     "display" : "Guest"
+                  }
+               },
+               {
+                  "name" : "Joe Biden",
+                  "personID" : "588180",
+                  "role" : {
+                     "display" : "Subject"
+                  }
+               }
+            ],
+            "description" : "\r\nAcross the United States, 45 million borrowers now owe $1.6 trillion in debt for federal loans taken out for college â more than consumers owe on any other debt except mortgages.\r\nFor the past two years, beginning as the pandemic spread, the U.S. government has allowed tens of millions of Americans to stop paying back their students loans.\r\nThis experiment in debt deferral has had unintended consequences, and poses a dilemma for President Biden.\r\nGuest: Stacy Cowley, a finance reporter for The New York Times.\r\nWant more from The Daily? For one big idea on the news each week from our team, subscribe to our newsletter.Â \r\nBackground reading:Â The Biden administration has paused student loans once again. The four-month delay means the pause will become an issue again before the midterm elections.While politically popular with Mr. Bidenâs party, the extension of the loan moratorium has drawn criticism for adding a small measure of oomph to the inflation the government is trying to tame.\r\nFor more information on todayâs episode, visit nytimes.com/thedaily. Transcripts of each episode will be made available by the next workday.Â ",
+            "durationSeconds" : 1561,
+            "editorialStatus" : "enhanced",
+            "episodeID" : "GA0000P002mGGrr",
+            "episodeNumber" : null,
+            "language" : "en",
+            "lastUpdateDateTime" : "2022-04-18T15:49:24Z",
+            "objectType" : "episode",
+            "publishDateTime" : "2022-04-18T09:45:00Z",
+            "seasonNumber" : null,
+            "seriesReference" : {
+               "href" : "/series?seriesIDs=GA0000N000002h2",
+               "seriesID" : "GA0000N000002h2",
+               "title" : "The Daily"
+            },
+            "subtitle" : "Across the United States, 45 million borrowers now owe $1.6 trillion in debt for federal loans taken out for college â more than consumers owe on any other debt except mortgages.\r\n\r\nFor the past two years, beginning as the pandemic spread, the U.S. government has allowed tens of millions of Americans to stop paying back their students loans.\r\n\r\nThis experiment in debt deferral has had unintended consequences, and poses a dilemma for President Biden.\r\n\r\nGuest: Stacy Cowley, a finance reporter for The New York Times.",
+            "summary" : "Across the United States, 45 million borrowers now owe $1.6 trillion in debt for federal loans taken out for college â more than consumers owe on any other debt except mortgages.\n\nFor the past two years, beginning as the pandemic spread, the U.S. government has allowed tens of millions of Americans to stop paying back their students loans.\n\nThis experiment in debt deferral has had unintended consequences, and poses a dilemma for President Biden.\n\nGuest: Stacy Cowley, a finance reporter for The New York Times.",
+            "title" : "Bidenâs Student Loan Dilemma"
+         },
+         {
+            "audioEnclosure" : {
+               "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/aebc24d3-8f0a-439f-b944-27f283807bd1/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=aebc24d3-8f0a-439f-b944-27f283807bd1&feed=54nAGcIl",
+               "mimeType" : "audio/mpeg",
+               "sizeBytes" : 77683963
+            },
+            "availabilities" : [
+               {
+                  "license" : "Open",
+                  "name" : "All"
+               }
+            ],
+            "categories" : [
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90272",
+                     "display" : "News & Politics",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90414",
+                     "display" : "News",
+                     "level" : 2
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90745",
+                     "display" : "World News",
+                     "level" : 3
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90268",
+                     "display" : "History",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90350",
+                     "display" : "World History",
+                     "level" : 2
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90272",
+                     "display" : "News & Politics",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90416",
+                     "display" : "News & Politics Commentary",
+                     "level" : 2
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90757",
+                     "display" : "Political Commentary",
+                     "level" : 3
+                  }
+               ]
+            ],
+            "credits" : [
+               {
+                  "name" : "Michael Barbaro",
+                  "personID" : "1314610",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               },
+               {
+                  "name" : "William Langewiesche",
+                  "personID" : "918494",
+                  "role" : {
+                     "display" : "Co-Host"
+                  }
+               },
+               {
+                  "name" : "Jair Bolsonaro",
+                  "personID" : "1234755",
+                  "role" : {
+                     "display" : "Subject"
+                  }
+               }
+            ],
+            "description" : "\r\nThe Indigenous Brazilian territory of Ituna-ItatÃ¡ was established in 2011 for the protection of an isolated group that has never been contacted by outsiders or fully confirmed to exist. But despite its special status, it has become one of the most invaded Indigenous territories in Brazil since the election of the pro-development, anti-regulatory president, Jair Bolsonaro, in 2018 â becoming something of a poster board for the Amazonâs eventual demise.\r\nWilliam Langewiesche explores the process of defending these preserves from outside harm, and uses Ituna-ItatÃ¡, which has now been heavily deforested, as a grim illustration of the intractable forces destroying the Amazon through logging, ranching and mining.\r\nThis story was written by William Langewiesche and recorded by Audm. To hear more audio stories from publications like The New York Times, download Audm for iPhone or Android.",
+            "durationSeconds" : 4855,
+            "editorialStatus" : "enhanced",
+            "episodeID" : "GA0000P002mDhCR",
+            "episodeNumber" : null,
+            "language" : "en",
+            "lastUpdateDateTime" : "2022-04-18T15:45:18Z",
+            "objectType" : "episode",
+            "publishDateTime" : "2022-04-17T10:00:00Z",
+            "seasonNumber" : null,
+            "seriesReference" : {
+               "href" : "/series?seriesIDs=GA0000N000002h2",
+               "seriesID" : "GA0000N000002h2",
+               "title" : "The Daily"
+            },
+            "subtitle" : "The Indigenous Brazilian territory of Ituna-ItatÃ¡ was established in 2011 for the protection of an isolated group that has never been contacted by outsiders or fully confirmed to exist. But despite its special status, it has become one of the most invaded Indigenous territories in Brazil since the election of the pro-development, anti-regulatory president, Jair Bolsonaro, in 2018 â becoming something of a poster board for the Amazonâs eventual demise.\r\n\r\nWilliam Langewiesche explores the process of defending these preserves from outside harm, and uses Ituna-ItatÃ¡, which has now been heavily deforested, as a grim illustration of the intractable forces destroying the Amazon through logging, ranching and mining.",
+            "summary" : "The Indigenous Brazilian territory of Ituna-ItatÃ¡ was established in 2011 for the protection of an isolated group that has never been contacted by outsiders or fully confirmed to exist. But despite its special status, it has become one of the most invaded Indigenous territories in Brazil since the election of the pro-development, anti-regulatory president, Jair Bolsonaro, in 2018 â becoming something of a poster board for the Amazonâs eventual demise.\n\nWilliam Langewiesche explores the process of defending these preserves from outside harm, and uses Ituna-ItatÃ¡, which has now been heavily deforested, as a grim illustration of the intractable forces destroying the Amazon through logging, ranching and mining.",
+            "title" : "The Sunday Read: âThe War for the Rainforestâ"
+         },
+         {
+            "audioEnclosure" : {
+               "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/aad1c7fd-8339-4aa6-afc8-6bd634330a38/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=aad1c7fd-8339-4aa6-afc8-6bd634330a38&feed=54nAGcIl",
+               "mimeType" : "audio/mpeg",
+               "sizeBytes" : 21330297
+            },
+            "availabilities" : [
+               {
+                  "license" : "Open",
+                  "name" : "All"
+               }
+            ],
+            "categories" : [
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90279",
+                     "display" : "True Crime",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90509",
+                     "display" : "Law & Order",
+                     "level" : 2
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90279",
+                     "display" : "True Crime",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "93039",
+                     "display" : "Heists",
+                     "level" : 2
+                  }
+               ]
+            ],
+            "credits" : [
+               {
+                  "name" : "Michael Barbaro",
+                  "personID" : "1314610",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               },
+               {
+                  "name" : "Adam Liptak",
+                  "personID" : "1035664",
+                  "role" : {
+                     "display" : "Guest"
+                  }
+               },
+               {
+                  "name" : "Dennis Wayne Hope",
+                  "personID" : "1792803",
+                  "role" : {
+                     "display" : "Subject"
+                  }
+               }
+            ],
+            "description" : "\r\nIn the 1990s, Dennis Wayne Hope committed a series of armed robberies. After proving adept at escaping prison, he was put in isolation. He has been there for nearly three decades.\r\nHis case, if the Supreme Court agrees to hear it, could answer the fundamental question of how long people can be held in solitary confinement.\r\nGuest: Adam Liptak, a reporter covering the Supreme Court for The New York Times.\r\nWant more from The Daily? For one big idea on the news each week from our team, subscribe to our newsletter.Â \r\nBackground reading:Â Mr. Hope has spent more than half his life in solitary confinement, in a cell that is nine feet long and six feet wide â smaller than a compact parking space.\r\nFor more information on todayâs episode, visit nytimes.com/thedaily. Transcripts of each episode will be made available by the next workday.Â ",
+            "durationSeconds" : 1334,
+            "editorialStatus" : "enhanced",
+            "episodeID" : "GA0000P002m85G7",
+            "episodeNumber" : null,
+            "language" : "en",
+            "lastUpdateDateTime" : "2022-04-15T13:20:42Z",
+            "objectType" : "episode",
+            "publishDateTime" : "2022-04-15T09:45:00Z",
+            "seasonNumber" : null,
+            "seriesReference" : {
+               "href" : "/series?seriesIDs=GA0000N000002h2",
+               "seriesID" : "GA0000N000002h2",
+               "title" : "The Daily"
+            },
+            "subtitle" : "In the 1990s, Dennis Wayne Hope committed a series of armed robberies. After proving adept at escaping prison, he was put in isolation. He has been there for nearly three decades.\r\n\r\nHis case, if the Supreme Court agrees to hear it, could answer the fundamental question of how long people can be held in solitary confinement.\r\n\r\nGuest: Adam Liptak, a reporter covering the Supreme Court for The New York Times.",
+            "summary" : "In the 1990s, Dennis Wayne Hope committed a series of armed robberies. After proving adept at escaping prison, he was put in isolation. He has been there for nearly three decades.\n\nHis case, if the Supreme Court agrees to hear it, could answer the fundamental question of how long people can be held in solitary confinement.\n\nGuest: Adam Liptak, a reporter covering the Supreme Court for The New York Times.",
+            "title" : "27 Years in Solitary Confinement"
+         },
+         {
+            "audioEnclosure" : {
+               "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/651dd185-25c7-4356-b4fe-76946bc4d3c1/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=651dd185-25c7-4356-b4fe-76946bc4d3c1&feed=54nAGcIl",
+               "mimeType" : "audio/mpeg",
+               "sizeBytes" : 28033916
+            },
+            "availabilities" : [
+               {
+                  "license" : "Open",
+                  "name" : "All"
+               }
+            ],
+            "categories" : [
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90278",
+                     "display" : "Technology",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90498",
+                     "display" : "Specific Tech Companies",
+                     "level" : 2
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90278",
+                     "display" : "Technology",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90492",
+                     "display" : "Tech News",
+                     "level" : 2
+                  }
+               ]
+            ],
+            "credits" : [
+               {
+                  "name" : "Michael Barbaro",
+                  "personID" : "1314610",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               },
+               {
+                  "name" : "Mike Isaac",
+                  "personID" : "1315151",
+                  "role" : {
+                     "display" : "Guest"
+                  }
+               },
+               {
+                  "name" : "Elon Musk",
+                  "personID" : "487130",
+                  "role" : {
+                     "display" : "Subject"
+                  }
+               }
+            ],
+            "description" : "\r\nElon Muskâs recent investment in Twitter has turned a high-profile and frequent user of the platform into the companyâs largest stakeholder.\r\nAt first, the involvement of Mr. Musk, the C.E.O. of Tesla, was seen by the social media giant as a chance to gain a powerful ally. Instead, Twitterâs fate has suddenly become much harder to predict.\r\nGuest: Mike Isaac, a technology correspondent for The New York Times.\r\nWant more from The Daily? For one big idea on the news each week from our team, subscribe to our newsletter.Â \r\nBackground reading:Â Twitter has survived founder infighting, boardroom revolts and outside shareholder ire, but Mr. Musk is an activist investor unlike any other.\r\nFor more information on todayâs episode, visit nytimes.com/thedaily. Transcripts of each episode will be made available by the next workday.Â ",
+            "durationSeconds" : 1752,
+            "editorialStatus" : "enhanced",
+            "episodeID" : "GA0000P002m6M6F",
+            "episodeNumber" : null,
+            "language" : "en",
+            "lastUpdateDateTime" : "2022-04-15T13:10:29Z",
+            "objectType" : "episode",
+            "publishDateTime" : "2022-04-14T09:50:00Z",
+            "seasonNumber" : null,
+            "seriesReference" : {
+               "href" : "/series?seriesIDs=GA0000N000002h2",
+               "seriesID" : "GA0000N000002h2",
+               "title" : "The Daily"
+            },
+            "subtitle" : "Elon Muskâs recent investment in Twitter has turned a high-profile and frequent user of the platform into the companyâs largest stakeholder.\r\n\r\nAt first, the involvement of Mr. Musk, the C.E.O. of Tesla, was seen by the social media giant as a chance to gain a powerful ally. Instead, Twitterâs fate has suddenly become much harder to predict.\r\n\r\nGuest: Mike Isaac, a technology correspondent for The New York Times.",
+            "summary" : "Elon Muskâs recent investment in Twitter has turned a high-profile and frequent user of the platform into the companyâs largest stakeholder.\n\nAt first, the involvement of Mr. Musk, the C.E.O. of Tesla, was seen by the social media giant as a chance to gain a powerful ally. Instead, Twitterâs fate has suddenly become much harder to predict.\n\nGuest: Mike Isaac, a technology correspondent for The New York Times.",
+            "title" : "Twitterâs Elon Musk Problem"
+         },
+         {
+            "audioEnclosure" : {
+               "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/3f5d8f7d-6644-41d8-a3a4-8b1fa6f7551b/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=3f5d8f7d-6644-41d8-a3a4-8b1fa6f7551b&feed=54nAGcIl",
+               "mimeType" : "audio/mpeg",
+               "sizeBytes" : 26773637
+            },
+            "availabilities" : [
+               {
+                  "license" : "Open",
+                  "name" : "All"
+               }
+            ],
+            "categories" : [
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90272",
+                     "display" : "News & Politics",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90414",
+                     "display" : "News",
+                     "level" : 2
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90748",
+                     "display" : "Europe News",
+                     "level" : 3
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90272",
+                     "display" : "News & Politics",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90419",
+                     "display" : "Government",
+                     "level" : 2
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90272",
+                     "display" : "News & Politics",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90416",
+                     "display" : "News & Politics Commentary",
+                     "level" : 2
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90757",
+                     "display" : "Political Commentary",
+                     "level" : 3
+                  }
+               ]
+            ],
+            "credits" : [
+               {
+                  "name" : "Michael Barbaro",
+                  "personID" : "1314610",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               },
+               {
+                  "name" : "Eric Schmitt",
+                  "personID" : "1013403",
+                  "role" : {
+                     "display" : "Guest"
+                  }
+               },
+               {
+                  "name" : "Vladimir Putin",
+                  "personID" : "887131",
+                  "role" : {
+                     "display" : "Subject"
+                  }
+               }
+            ],
+            "description" : "\r\nAfter a disastrous defeat in northern Ukraine, Russia has begun a high-stakes battle for the east, while Western allies arm Ukrainian fighters determined to stave off the attack.\r\nAfter Moscowâs pivot, what lies in store in the coming weeks?\r\nGuest: Eric Schmitt, a senior writer covering terrorism and national security for The New York Times.\r\nWant more from The Daily? For one big idea on the news each week from our team, subscribe to our newsletter.Â \r\nBackground reading:Â President Vladimir V. Putin of Russia defined a more limited military goal: taking control of the Donbas region in the east of Ukraine â not the whole country. Russia reorganized the command of its flagging offensive, selecting for the mission a general accused of ordering strikes on civilian neighborhoods in Syria.\r\nFor more information on todayâs episode, visit nytimes.com/thedaily. Transcripts of each episode will be made available by the next workday.",
+            "durationSeconds" : 1673,
+            "editorialStatus" : "enhanced",
+            "episodeID" : "GA0000P002m46PP",
+            "episodeNumber" : null,
+            "language" : "en",
+            "lastUpdateDateTime" : "2022-04-13T18:22:54Z",
+            "objectType" : "episode",
+            "publishDateTime" : "2022-04-13T09:50:00Z",
+            "seasonNumber" : null,
+            "seriesReference" : {
+               "href" : "/series?seriesIDs=GA0000N000002h2",
+               "seriesID" : "GA0000N000002h2",
+               "title" : "The Daily"
+            },
+            "subtitle" : "After a disastrous defeat in northern Ukraine, Russia has begun a high-stakes battle for the east, while Western allies arm Ukrainian fighters determined to stave off the attack.\r\n\r\nAfter Moscowâs pivot, what lies in store in the coming weeks?\r\n\r\nGuest: Eric Schmitt, a senior writer covering terrorism and national security for The New York Times.",
+            "summary" : "After a disastrous defeat in northern Ukraine, Russia has begun a high-stakes battle for the east, while Western allies arm Ukrainian fighters determined to stave off the attack.\n\nAfter Moscowâs pivot, what lies in store in the coming weeks?\n\nGuest: Eric Schmitt, a senior writer covering terrorism and national security for The New York Times.",
+            "title" : "The Next Phase of the War in Ukraine"
+         },
+         {
+            "audioEnclosure" : {
+               "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/d506fdc4-c489-4fb2-8995-7824362748c3/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=d506fdc4-c489-4fb2-8995-7824362748c3&feed=54nAGcIl",
+               "mimeType" : "audio/mpeg",
+               "sizeBytes" : 22046966
+            },
+            "availabilities" : [
+               {
+                  "license" : "Open",
+                  "name" : "All"
+               }
+            ],
+            "categories" : [
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90274",
+                     "display" : "Science",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90440",
+                     "display" : "Environment",
+                     "level" : 2
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "91093",
+                     "display" : "Climate",
+                     "level" : 3
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90272",
+                     "display" : "News & Politics",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90419",
+                     "display" : "Government",
+                     "level" : 2
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90272",
+                     "display" : "News & Politics",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90416",
+                     "display" : "News & Politics Commentary",
+                     "level" : 2
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90757",
+                     "display" : "Political Commentary",
+                     "level" : 3
+                  }
+               ]
+            ],
+            "credits" : [
+               {
+                  "name" : "Michael Barbaro",
+                  "personID" : "1314610",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               },
+               {
+                  "name" : "Coral Davenport",
+                  "personID" : "1520056",
+                  "role" : {
+                     "display" : "Guest"
+                  }
+               },
+               {
+                  "name" : "Joe Biden",
+                  "personID" : "588180",
+                  "role" : {
+                     "display" : "Subject"
+                  }
+               }
+            ],
+            "description" : "\r\nOn the campaign trail and when he first came to office, President Biden had ambitious plans to deal with climate change, including promises to reduce fossil fuel production.Â \r\nSince the start of the war in Ukraine, however, Mr. Biden has largely stopped making the case for these plans, instead turning his focus to pumping as much oil and gas as possible.Â \r\nWhat is behind the presidentâs retreat on climate?\r\nGuest: Coral Davenport, an energy and environmental policy correspondent for The New York Times.\r\nWant more from The Daily? For one big idea on the news each week from our team, subscribe to our newsletter.Â \r\nBackground reading:Â Rising costs at the pump, war in Ukraine, an emboldened fossil fuel industry and stalled legislation have imperiled President Joe Bidenâs climate agenda.\r\nFor more information on todayâs episode, visit nytimes.com/thedaily. Transcripts of each episode will be made available by the next workday.Â ",
+            "durationSeconds" : 1378,
+            "editorialStatus" : "enhanced",
+            "episodeID" : "GA0000P002m1RC1",
+            "episodeNumber" : null,
+            "language" : "en",
+            "lastUpdateDateTime" : "2022-04-13T20:33:08Z",
+            "objectType" : "episode",
+            "publishDateTime" : "2022-04-12T09:45:00Z",
+            "seasonNumber" : null,
+            "seriesReference" : {
+               "href" : "/series?seriesIDs=GA0000N000002h2",
+               "seriesID" : "GA0000N000002h2",
+               "title" : "The Daily"
+            },
+            "subtitle" : "On the campaign trail and when he first came to office, President Biden had ambitious plans to deal with climate change, including promises to reduce fossil fuel production. \r\n\r\nSince the start of the war in Ukraine, however, Mr. Biden has largely stopped making the case for these plans, instead turning his focus to pumping as much oil and gas as possible. \r\n\r\nWhat is behind the presidentâs retreat on climate?\r\n\r\nGuest: Coral Davenport, an energy and environmental policy correspondent for The New York Times.",
+            "summary" : "On the campaign trail and when he first came to office, President Biden had ambitious plans to deal with climate change, including promises to reduce fossil fuel production. \n\nSince the start of the war in Ukraine, however, Mr. Biden has largely stopped making the case for these plans, instead turning his focus to pumping as much oil and gas as possible. \n\nWhat is behind the presidentâs retreat on climate?\n\nGuest: Coral Davenport, an energy and environmental policy correspondent for The New York Times.",
+            "title" : "Bidenâs Climate Shift"
+         },
+         {
+            "audioEnclosure" : {
+               "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/45648b43-8aec-4f3c-bc9e-cef11002bc4a/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=45648b43-8aec-4f3c-bc9e-cef11002bc4a&feed=54nAGcIl",
+               "mimeType" : "audio/mpeg",
+               "sizeBytes" : 51850382
+            },
+            "availabilities" : [
+               {
+                  "license" : "Open",
+                  "name" : "All"
+               }
+            ],
+            "categories" : [
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90278",
+                     "display" : "Technology",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90498",
+                     "display" : "Specific Tech Companies",
+                     "level" : 2
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90275",
+                     "display" : "Society & Culture",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90448",
+                     "display" : "Culture",
+                     "level" : 2
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90277",
+                     "display" : "Storytelling",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90475",
+                     "display" : "True Stories",
+                     "level" : 2
+                  }
+               ]
+            ],
+            "credits" : [
+               {
+                  "name" : "Michael Barbaro",
+                  "personID" : "1314610",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               },
+               {
+                  "name" : "Jodi Kantor",
+                  "personID" : "651333",
+                  "role" : {
+                     "display" : "Guest"
+                  }
+               },
+               {
+                  "name" : "Karen Weise",
+                  "personID" : "1714725",
+                  "role" : {
+                     "display" : "Guest"
+                  }
+               },
+               {
+                  "name" : "Christian Smalls",
+                  "personID" : "1383042",
+                  "role" : {
+                     "display" : "Guest"
+                  }
+               },
+               {
+                  "name" : "Derrick Palmer",
+                  "personID" : "1785183",
+                  "role" : {
+                     "display" : "Guest"
+                  }
+               }
+            ],
+            "description" : "\r\nThis episode contains strong language.Â \r\nA year and a half ago, the Times journalists Jodi Kantor and Karen Weise began examining labor practices at Amazon.\r\nIn the process, they met Christian Smalls and Derrick Palmer, two Amazon workers at a warehouse in New York, who had embarked on an improbable attempt to create the companyâs first union. Last week, they did it.\r\nWe sat down Mr. Smalls and Mr. Palmer to ask them how it happened.\r\nGuest: Jodi Kantor, an investigative reporter for The New York Times; and Christian Smalls and Derrick Palmer, warehouse workers who led the first successful unionization attempt at Amazon.Â \r\nWant more from The Daily? For one big idea on the news each week from our team, subscribe to our newsletter.Â \r\nBackground reading:Â How Christian Smalls and Derrick Palmer won the first successful unionization effort at any Amazon warehouse in the United States, potentially one of the most significant labor victories in a generation.Â \r\nFor more information on todayâs episode, visit nytimes.com/thedaily. Transcripts of each episode will be made available by the next workday.Â ",
+            "durationSeconds" : 3241,
+            "editorialStatus" : "enhanced",
+            "episodeID" : "GA0000P002htGTB",
+            "episodeNumber" : null,
+            "language" : "en",
+            "lastUpdateDateTime" : "2022-04-13T20:33:08Z",
+            "objectType" : "episode",
+            "publishDateTime" : "2022-04-11T09:50:00Z",
+            "seasonNumber" : null,
+            "seriesReference" : {
+               "href" : "/series?seriesIDs=GA0000N000002h2",
+               "seriesID" : "GA0000N000002h2",
+               "title" : "The Daily"
+            },
+            "subtitle" : "This episode contains strong language. \r\n\r\nA year and a half ago, the Times journalists Jodi Kantor and Karen Weise began examining labor practices at Amazon.\r\n\r\nIn the process, they met Christian Smalls and Derrick Palmer, two Amazon workers at a warehouse in New York, who had embarked on an improbable attempt to create the companyâs first union. Last week, they did it.\r\n\r\nWe sat down Mr. Smalls and Mr. Palmer to ask them how it happened.\r\n\r\nGuest: Jodi Kantor, an investigative reporter for The New York Times; and Christian Smalls and Derrick Palmer, warehouse workers who led the first successful unionization attempt at Amazon.",
+            "summary" : "This episode contains strong language. \n\nA year and a half ago, the Times journalists Jodi Kantor and Karen Weise began examining labor practices at Amazon.\n\nIn the process, they met Christian Smalls and Derrick Palmer, two Amazon workers at a warehouse in New York, who had embarked on an improbable attempt to create the companyâs first union. Last week, they did it.\n\nWe sat down Mr. Smalls and Mr. Palmer to ask them how it happened.\n\nGuest: Jodi Kantor, an investigative reporter for The New York Times; and Christian Smalls and Derrick Palmer, warehouse workers who led the first successful unionization attempt at Amazon.",
+            "title" : "How Two Friends Beat Amazon and Built a Union"
+         },
+         {
+            "audioEnclosure" : {
+               "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/4da63057-a664-4ed5-b340-3ebc1e761015/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=4da63057-a664-4ed5-b340-3ebc1e761015&feed=54nAGcIl",
+               "mimeType" : "audio/mpeg",
+               "sizeBytes" : 108346055
+            },
+            "availabilities" : [
+               {
+                  "license" : "Open",
+                  "name" : "All"
+               }
+            ],
+            "categories" : [
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90272",
+                     "display" : "News & Politics",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90414",
+                     "display" : "News",
+                     "level" : 2
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90748",
+                     "display" : "Europe News",
+                     "level" : 3
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90272",
+                     "display" : "News & Politics",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90416",
+                     "display" : "News & Politics Commentary",
+                     "level" : 2
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90757",
+                     "display" : "Political Commentary",
+                     "level" : 3
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90275",
+                     "display" : "Society & Culture",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90449",
+                     "display" : "Places",
+                     "level" : 2
+                  }
+               ]
+            ],
+            "credits" : [
+               {
+                  "name" : "Michael Barbaro",
+                  "personID" : "1314610",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               },
+               {
+                  "name" : "Sarah A. Topol ",
+                  "personID" : "1789893",
+                  "role" : {
+                     "display" : "Participant"
+                  }
+               }
+            ],
+            "description" : "\r\nFor more than two decades, Belarus existed in an equilibrium of quiet authoritarianism. If the governmentâs repressions didnât directly touch them, most Belarusians tolerated them. But over the course of 2020, the countryâs history and identity, which never much interested a majority of people who lived there, became something they would sacrifice their lives for.\r\nSarah A. Topol explores the battle over a political mural in a public park in Minsk and considers the future of Belarus. As a remarkable campaign of defiance against an increasingly totalitarian regime, the mural is an emblem of strength and a call for change â but to what end?\r\nThis story was written by Sarah A. Topol and recorded by Audm. To hear more audio stories from publications like The New York Times, download Audm for iPhone or Android.",
+            "durationSeconds" : 6772,
+            "editorialStatus" : "enhanced",
+            "episodeID" : "GA0000P002hmBJ9",
+            "episodeNumber" : null,
+            "language" : "en",
+            "lastUpdateDateTime" : "2022-04-11T16:51:08Z",
+            "objectType" : "episode",
+            "publishDateTime" : "2022-04-10T10:00:00Z",
+            "seasonNumber" : null,
+            "seriesReference" : {
+               "href" : "/series?seriesIDs=GA0000N000002h2",
+               "seriesID" : "GA0000N000002h2",
+               "title" : "The Daily"
+            },
+            "subtitle" : "For more than two decades, Belarus existed in an equilibrium of quiet authoritarianism. If the governmentâs repressions didnât directly touch them, most Belarusians tolerated them. But over the course of 2020, the countryâs history and identity, which never much interested a majority of people who lived there, became something they would sacrifice their lives for.\r\n\r\nSarah A. Topol explores the battle over a political mural in a public park in Minsk and considers the future of Belarus. As a remarkable campaign of defiance against an increasingly totalitarian regime, the mural is an emblem of strength and a call for change â but to what end?",
+            "summary" : "For more than two decades, Belarus existed in an equilibrium of quiet authoritarianism. If the governmentâs repressions didnât directly touch them, most Belarusians tolerated them. But over the course of 2020, the countryâs history and identity, which never much interested a majority of people who lived there, became something they would sacrifice their lives for.\n\nSarah A. Topol explores the battle over a political mural in a public park in Minsk and considers the future of Belarus. As a remarkable campaign of defiance against an increasingly totalitarian regime, the mural is an emblem of strength and a call for change â but to what end?",
+            "title" : "The Sunday Read: âThe Battle for the Mural â And the Future of Belarusâ"
+         }
+      ],
+      "meta" : {
+         "count" : 10,
+         "offset" : 0,
+         "total" : 1501
+      }
+   },
+   "error" : null,
+   "success" : true
+}

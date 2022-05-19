@@ -1,0 +1,37 @@
+3.7 Track Endpoint do_track_search ===========================================
+{
+   "albums" : {
+      "items" : [],
+      "limit" : 3,
+      "offset" : 0,
+      "totalNumberOfItems" : 0
+   },
+   "artists" : {
+      "items" : [
+         {
+            "id" : 4332277,
+            "name" : "Ariana Grande",
+            "picture" : "6b7554b8-5899-40a8-8c13-09af915f1ba7"
+         },
+         {
+            "id" : 3765645,
+            "name" : "Ari",
+            "picture" : null
+         },
+         {
+            "id" : 4959752,
+            "name" : "Ari Lennox",
+            "picture" : "c7c0ed0b-387f-4a2e-a7f4-a1bd94419a66"
+         }
+      ],
+      "limit" : 3,
+      "offset" : 0,
+      "totalNumberOfItems" : 300
+   },
+   "tracks" : {
+      "items" : [],
+      "limit" : 3,
+      "offset" : 0,
+      "totalNumberOfItems" : 0
+   }
+}

@@ -1,0 +1,1368 @@
+3.10 Aod Episodes Endpoint do_aod_episode ===========================================
+{
+   "data" : {
+      "data" : [
+         {
+            "audioEnclosure" : {
+               "audioUrl" : "https://rss.art19.com/episodes/6bfbc727-397c-4481-b145-134535f83adf.mp3?rss_browser=BAhJIgtTYWZhcmkGOgZFVA%3D%3D--e8daa48e4e049c2293a0ad1663b4a762c475e386",
+               "mimeType" : "audio/mpeg",
+               "sizeBytes" : 53166080
+            },
+            "availabilities" : [
+               {
+                  "license" : "Open",
+                  "name" : "All"
+               }
+            ],
+            "categories" : [
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90265",
+                     "display" : "Comedy",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90308",
+                     "display" : "Improv",
+                     "level" : 2
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90277",
+                     "display" : "Storytelling",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90480",
+                     "display" : "Comedy Fiction",
+                     "level" : 2
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90277",
+                     "display" : "Storytelling",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90482",
+                     "display" : "Fantasy",
+                     "level" : 2
+                  }
+               ]
+            ],
+            "credits" : [
+               {
+                  "name" : "Tim Sniffen",
+                  "personID" : "1313412",
+                  "role" : {
+                     "display" : "Co-Host"
+                  }
+               },
+               {
+                  "name" : "Arnie Niekamp",
+                  "personID" : "1312678",
+                  "role" : {
+                     "display" : "Voice Performer"
+                  }
+               },
+               {
+                  "name" : "Adal Rifai",
+                  "personID" : "1313405",
+                  "role" : {
+                     "display" : "Voice Performer"
+                  }
+               },
+               {
+                  "name" : "Matt Young",
+                  "personID" : "1313407",
+                  "role" : {
+                     "display" : "Voice Performer"
+                  }
+               },
+               {
+                  "name" : "Caldwell Tanner",
+                  "personID" : "1278342",
+                  "role" : {
+                     "display" : "Guest"
+                  }
+               },
+               {
+                  "name" : "Brian Murphy ",
+                  "personID" : "1246744",
+                  "role" : {
+                     "display" : "Guest"
+                  }
+               }
+            ],
+            "description" : "Two down on their luck minotaurs lure us into their labyrinth. What will we find in the center?\r\n\r\nCredits\r\n\r\nArnie: Arnie Niekamp\r\nChunt: Adal Rifai\r\nUsidore: Matt Young\r\nBalgor the Unclean: Brian Murphy\r\nGalbor the Tidy: Caldwell Tanner\r\nMysterious Man: Tim Sniffen\r\n\r\nProducers: Arnie Niekamp, Matt Young, and Adal Rifai\r\nPost-Production Coordination: Garrett Schultz\r\nEarwolf Producer: Kimmie Lucas\r\nEditor: Tim Joyce\r\nSpecial Assistance: Ryan DiGiorgi\r\nMagic Tavern Logo: Allard Laban\r\nTheme Music: Andy Poland\r\n",
+            "durationSeconds" : 3322,
+            "editorialStatus" : "enhanced",
+            "episodeID" : "GA0000P001PD94R",
+            "episodeNumber" : null,
+            "language" : "en",
+            "lastUpdateDateTime" : "2021-12-16T01:46:10Z",
+            "objectType" : "episode",
+            "publishDateTime" : "2020-09-28T04:00:00Z",
+            "seasonNumber" : null,
+            "seriesReference" : {
+               "href" : "/series?seriesIDs=GA0000N000000RZ",
+               "seriesID" : "GA0000N000000RZ",
+               "title" : "Hello From the Magic Tavern"
+            },
+            "sourceFeed" : {
+               "author" : null,
+               "categories" : null,
+               "contentType" : null,
+               "copyright" : null,
+               "description" : "<p>Two down on their luck minotaurs lure us into their labyrinth. What will we find in the center?</p><p><br></p><p>Credits</p><p><strong>Arnie: </strong><a href=\"https://twitter.com/misterarnie\" rel=\"noopener noreferrer\" target=\"_blank\">Arnie Niekamp</a></p><p><strong>Chunt: </strong><a href=\"https://twitter.com/adalrifai\" rel=\"noopener noreferrer\" target=\"_blank\">Adal Rifai</a></p><p><strong>Usidore: </strong><a href=\"https://twitter.com/morepeoplehappy\" rel=\"noopener noreferrer\" target=\"_blank\">Matt Young</a></p><p><strong>Balgor the Unclean:</strong> <a href=\"https://twitter.com/chmurph\" rel=\"noopener noreferrer\" target=\"_blank\">Brian Murphy</a></p><p><strong>Galbor the Tidy:</strong> <a href=\"https://twitter.com/caldy\" rel=\"noopener noreferrer\" target=\"_blank\">Caldwell Tanner</a></p><p><strong>Mysterious Man: </strong><a href=\"https://twitter.com/MisterSniffen\" rel=\"noopener noreferrer\" target=\"_blank\">Tim Sniffen</a></p><p><br></p><p><strong>Producers: </strong><a href=\"https://twitter.com/misterarnie\" rel=\"noopener noreferrer\" target=\"_blank\">Arnie Niekamp</a>, <a href=\"https://twitter.com/morepeoplehappy\" rel=\"noopener noreferrer\" target=\"_blank\">Matt Young</a>, and <a href=\"https://twitter.com/adalrifai\" rel=\"noopener noreferrer\" target=\"_blank\">Adal Rifai</a></p><p><strong>Post-Production Coordination: </strong><a href=\"https://twitter.com/Garrettanite\" rel=\"noopener noreferrer\" target=\"_blank\">Garrett Schultz</a></p><p><strong>Earwolf Producer: </strong><a href=\"https://twitter.com/kimchilucas\" rel=\"noopener noreferrer\" target=\"_blank\">Kimmie Lucas</a></p><p><strong>Editor: </strong><a href=\"https://twitter.com/mrtimjoyce\" rel=\"noopener noreferrer\" target=\"_blank\">Tim Joyce</a></p><p><strong>Special Assistance: </strong><a href=\"https://twitter.com/rdigiorgi\" rel=\"noopener noreferrer\" target=\"_blank\">Ryan DiGiorgi</a></p><p><strong>Magic Tavern Logo: </strong><a href=\"https://twitter.com/_allard\" rel=\"noopener noreferrer\" target=\"_blank\">Allard Laban</a></p><p><strong>Theme Music: </strong><a href=\"https://twitter.com/crabbydad\" rel=\"noopener noreferrer\" target=\"_blank\">Andy Poland</a></p><p><br></p><p>You can support the show directly and receive bonus episodes and rewards by joining our Patreon at&nbsp;<a href=\"https://www.patreon.com/magictavern\" rel=\"noopener noreferrer\" target=\"_blank\">https://www.patreon.com/magictavern</a>&nbsp;for only $5 per month. Follow us on&nbsp;<a href=\"https://twitter.com/MagicTavern\" rel=\"noopener noreferrer\" target=\"_blank\">Twitter</a>&nbsp;and&nbsp;<a href=\"http://www.instagram.com/hellofromthemagictavern\" rel=\"noopener noreferrer\" target=\"_blank\">Instagram</a>, and now&nbsp;<a href=\"https://www.patreon.com/magictavern\" rel=\"noopener noreferrer\" target=\"_blank\">Patreon</a>!</p><p>See Privacy Policy at <a href=\"https://art19.com/privacy\" rel=\"noopener noreferrer\" target=\"_blank\">https://art19.com/privacy</a> and California Privacy Notice at <a href=\"https://art19.com/privacy#do-not-sell-my-info\" rel=\"noopener noreferrer\" target=\"_blank\">https://art19.com/privacy#do-not-sell-my-info</a>.</p>",
+               "explicitLanguage" : "true",
+               "feedUrl" : null,
+               "generator" : null,
+               "imageUrl" : "https://content.production.cdn.art19.com/images/d1/7c/55/42/d17c5542-9279-439f-a74b-51a35509b3b3/9e5dedf1df328ad9e6afad027be451d8a6004ace9a608a56ef5dff947e3c1da029eae177362aa133272af86fded608e7f62b10755ab476c341bdf1a988e49408.jpeg",
+               "keywords" : null,
+               "language" : null,
+               "owner" : null,
+               "websiteUrl" : "https://omny.fm/shows/hello-from-the-magic-tavern/season-3-ep-60-minotaurs-w-brian-murphy-and-caldwe"
+            },
+            "subtitle" : null,
+            "summary" : "Two down on their luck minotaurs lure us into their labyrinth. What will we find in the center?\n\n\n\n\nCredits\n\nArnie: Arnie Niekamp\n\nChunt: Adal Rifai\n\nUsidore: Matt Young\n\nBalgor the Unclean: Brian Murphy\n\nGalbor the Tidy: Caldwell Tanner\n\nMysterious Man: Tim Sniffen\n\n\n\n\nProducers: Arnie Niekamp, Matt Young, and Adal Rifai\n\nPost-Production Coordination: Garrett Schultz\n\nEarwolf Producer: Kimmie Lucas\n\nEditor: Tim Joyce\n\nSpecial Assistance: Ryan DiGiorgi\n\nMagic Tavern Logo: Allard Laban\n\nTheme Music: Andy Poland\n\n\n\n\nYou can support the show directly and receive bonus episodes and rewards by joining our Patreon atÂ https://www.patreon.com/magictavernÂ for only $5 per month. Follow us onÂ TwitterÂ andÂ Instagram, and nowÂ Patreon!\n\nSee Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info.",
+            "title" : "Season 3, Ep 60 - Minotaurs (w/Brian Murphy and Caldwell Tanner)"
+         },
+         {
+            "audioEnclosure" : {
+               "audioUrl" : "https://rss.art19.com/episodes/bdc547f4-c0a8-4f6c-9590-74fd7f68c66b.mp3?rss_browser=BAhJIgtTYWZhcmkGOgZFVA%3D%3D--e8daa48e4e049c2293a0ad1663b4a762c475e386",
+               "mimeType" : "audio/mpeg",
+               "sizeBytes" : 50384143
+            },
+            "availabilities" : [
+               {
+                  "license" : "Open",
+                  "name" : "All"
+               }
+            ],
+            "categories" : [
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90265",
+                     "display" : "Comedy",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90308",
+                     "display" : "Improv",
+                     "level" : 2
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90277",
+                     "display" : "Storytelling",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90480",
+                     "display" : "Comedy Fiction",
+                     "level" : 2
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90277",
+                     "display" : "Storytelling",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90482",
+                     "display" : "Fantasy",
+                     "level" : 2
+                  }
+               ]
+            ],
+            "credits" : [
+               {
+                  "name" : "Arnie Niekamp",
+                  "personID" : "1312678",
+                  "role" : {
+                     "display" : "Voice Performer"
+                  }
+               },
+               {
+                  "name" : "Adal Rifai",
+                  "personID" : "1313405",
+                  "role" : {
+                     "display" : "Voice Performer"
+                  }
+               },
+               {
+                  "name" : "Matt Young",
+                  "personID" : "1313407",
+                  "role" : {
+                     "display" : "Voice Performer"
+                  }
+               },
+               {
+                  "name" : "Kate James",
+                  "personID" : "1236175",
+                  "role" : {
+                     "display" : "Co-Host"
+                  }
+               },
+               {
+                  "name" : "Erin Keif",
+                  "personID" : "1336706",
+                  "role" : {
+                     "display" : "Guest"
+                  }
+               }
+            ],
+            "description" : "Momo the mouse with human strength stops by Castle Skullmaster to introduce everyone to her new boyfriend.\r\n\r\nCredits\r\n\r\nArnie: Arnie Niekamp\r\nChunt: Adal Rifai\r\nUsidore: Matt Young\r\nMomo the Mouse:Â Erin Keif\r\nTricia: Kate James\r\n\r\nProducers: Arnie Niekamp, Matt Young, and Adal Rifai\r\nPost-Production Coordination: Garrett Schultz\r\nEarwolf Producer: Kimmie Lucas\r\nEditor: Tim Joyce\r\nSpecial Assistance: Ryan DiGiorgi\r\nMagic Tavern Logo: Allard Laban\r\nTheme Music: Andy Poland",
+            "durationSeconds" : 3148,
+            "editorialStatus" : "enhanced",
+            "episodeID" : "GA0000P001GC06X",
+            "episodeNumber" : null,
+            "language" : "en",
+            "lastUpdateDateTime" : "2021-12-16T01:46:10Z",
+            "objectType" : "episode",
+            "publishDateTime" : "2020-08-17T04:00:00Z",
+            "seasonNumber" : null,
+            "seriesReference" : {
+               "href" : "/series?seriesIDs=GA0000N000000RZ",
+               "seriesID" : "GA0000N000000RZ",
+               "title" : "Hello From the Magic Tavern"
+            },
+            "sourceFeed" : {
+               "author" : null,
+               "categories" : null,
+               "contentType" : null,
+               "copyright" : null,
+               "description" : "<p>Momo the mouse with human strength stops by Castle Skullmaster to introduce everyone to her new boyfriend.</p><p><br></p><p>Credits</p><p><strong>Arnie: </strong><a href=\"https://twitter.com/misterarnie\" rel=\"noopener noreferrer\" target=\"_blank\">Arnie Niekamp</a></p><p><strong>Chunt: </strong><a href=\"https://twitter.com/adalrifai\" rel=\"noopener noreferrer\" target=\"_blank\">Adal Rifai</a></p><p><strong>Usidore: </strong><a href=\"https://twitter.com/morepeoplehappy\" rel=\"noopener noreferrer\" target=\"_blank\">Matt Young</a></p><p><strong>Momo the Mouse:&nbsp;</strong><a href=\"https://twitter.com/ErinKeif2\" rel=\"noopener noreferrer\" target=\"_blank\">Erin Keif</a></p><p><strong>Tricia</strong>: <a href=\"https://twitter.com/katecjames\" rel=\"noopener noreferrer\" target=\"_blank\">Kate James</a></p><p><br></p><p><strong>Producers: </strong><a href=\"https://twitter.com/misterarnie\" rel=\"noopener noreferrer\" target=\"_blank\">Arnie Niekamp</a>, <a href=\"https://twitter.com/morepeoplehappy\" rel=\"noopener noreferrer\" target=\"_blank\">Matt Young</a>, and <a href=\"https://twitter.com/adalrifai\" rel=\"noopener noreferrer\" target=\"_blank\">Adal Rifai</a></p><p><strong>Post-Production Coordination: </strong><a href=\"https://twitter.com/Garrettanite\" rel=\"noopener noreferrer\" target=\"_blank\">Garrett Schultz</a></p><p><strong>Earwolf Producer: </strong><a href=\"https://twitter.com/kimchilucas\" rel=\"noopener noreferrer\" target=\"_blank\">Kimmie Lucas</a></p><p><strong>Editor: </strong><a href=\"https://twitter.com/mrtimjoyce\" rel=\"noopener noreferrer\" target=\"_blank\">Tim Joyce</a></p><p><strong>Special Assistance: </strong><a href=\"https://twitter.com/rdigiorgi\" rel=\"noopener noreferrer\" target=\"_blank\">Ryan DiGiorgi</a></p><p><strong>Magic Tavern Logo: </strong><a href=\"https://twitter.com/_allard\" rel=\"noopener noreferrer\" target=\"_blank\">Allard Laban</a></p><p><strong>Theme Music: </strong><a href=\"https://twitter.com/crabbydad\" rel=\"noopener noreferrer\" target=\"_blank\">Andy Poland</a></p><p><br></p><p>You can support the show directly and receive bonus episodes and rewards by joining our Patreon at&nbsp;<a href=\"https://www.patreon.com/magictavern\" rel=\"noopener noreferrer\" target=\"_blank\">https://www.patreon.com/magictavern</a>&nbsp;for only $5 per month. Follow us on&nbsp;<a href=\"https://twitter.com/MagicTavern\" rel=\"noopener noreferrer\" target=\"_blank\">Twitter</a>&nbsp;and&nbsp;<a href=\"http://www.instagram.com/hellofromthemagictavern\" rel=\"noopener noreferrer\" target=\"_blank\">Instagram</a>, and now&nbsp;<a href=\"https://www.patreon.com/magictavern\" rel=\"noopener noreferrer\" target=\"_blank\">Patreon</a>!</p><p>See Privacy Policy at <a href=\"https://art19.com/privacy\" rel=\"noopener noreferrer\" target=\"_blank\">https://art19.com/privacy</a> and California Privacy Notice at <a href=\"https://art19.com/privacy#do-not-sell-my-info\" rel=\"noopener noreferrer\" target=\"_blank\">https://art19.com/privacy#do-not-sell-my-info</a>.</p>",
+               "explicitLanguage" : "true",
+               "feedUrl" : null,
+               "generator" : null,
+               "imageUrl" : "https://content.production.cdn.art19.com/images/d1/7c/55/42/d17c5542-9279-439f-a74b-51a35509b3b3/9e5dedf1df328ad9e6afad027be451d8a6004ace9a608a56ef5dff947e3c1da029eae177362aa133272af86fded608e7f62b10755ab476c341bdf1a988e49408.jpeg",
+               "keywords" : null,
+               "language" : null,
+               "owner" : null,
+               "websiteUrl" : "https://omny.fm/shows/hello-from-the-magic-tavern/season-3-ep-54-mouse-queen-w-erin-keif"
+            },
+            "subtitle" : null,
+            "summary" : "Momo the mouse with human strength stops by Castle Skullmaster to introduce everyone to her new boyfriend.\n\n\n\n\nCredits\n\nArnie: Arnie Niekamp\n\nChunt: Adal Rifai\n\nUsidore: Matt Young\n\nMomo the Mouse:Â Erin Keif\n\nTricia: Kate James\n\n\n\n\nProducers: Arnie Niekamp, Matt Young, and Adal Rifai\n\nPost-Production Coordination: Garrett Schultz\n\nEarwolf Producer: Kimmie Lucas\n\nEditor: Tim Joyce\n\nSpecial Assistance: Ryan DiGiorgi\n\nMagic Tavern Logo: Allard Laban\n\nTheme Music: Andy Poland\n\n\n\n\nYou can support the show directly and receive bonus episodes and rewards by joining our Patreon atÂ https://www.patreon.com/magictavernÂ for only $5 per month. Follow us onÂ TwitterÂ andÂ Instagram, and nowÂ Patreon!\n\nSee Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info.",
+            "title" : "Season 3, Ep 54 - Mouse Queen (w/ Erin Keif)"
+         },
+         {
+            "audioEnclosure" : {
+               "audioUrl" : "https://rss.art19.com/episodes/e894e0af-faa4-4e94-9a82-dc8464baf45f.mp3?rss_browser=BAhJIgtTYWZhcmkGOgZFVA%3D%3D--e8daa48e4e049c2293a0ad1663b4a762c475e386",
+               "mimeType" : "audio/mpeg",
+               "sizeBytes" : 55807582
+            },
+            "availabilities" : [
+               {
+                  "license" : "Open",
+                  "name" : "All"
+               }
+            ],
+            "categories" : [
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90265",
+                     "display" : "Comedy",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90316",
+                     "display" : "Comedy Crews",
+                     "level" : 2
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90265",
+                     "display" : "Comedy",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90308",
+                     "display" : "Improv",
+                     "level" : 2
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90277",
+                     "display" : "Storytelling",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90480",
+                     "display" : "Comedy Fiction",
+                     "level" : 2
+                  }
+               ]
+            ],
+            "credits" : [
+               {
+                  "name" : "Sarah Mobley",
+                  "personID" : "1313427",
+                  "role" : {
+                     "display" : "Guest"
+                  }
+               },
+               {
+                  "name" : "Jessye Grace Mueller",
+                  "personID" : "1313433",
+                  "role" : {
+                     "display" : "Guest"
+                  }
+               },
+               {
+                  "name" : "Squeek Rangel",
+                  "personID" : "1313436",
+                  "role" : {
+                     "display" : "Guest"
+                  }
+               },
+               {
+                  "name" : "Evan Jacover",
+                  "personID" : "1313421",
+                  "role" : {
+                     "display" : "Guest"
+                  }
+               },
+               {
+                  "name" : "Tim Sniffen",
+                  "personID" : "1313412",
+                  "role" : {
+                     "display" : "Co-Host"
+                  }
+               },
+               {
+                  "name" : "Arnie Niekamp",
+                  "personID" : "1312678",
+                  "role" : {
+                     "display" : "Voice Performer"
+                  }
+               },
+               {
+                  "name" : "Adal Rifai",
+                  "personID" : "1313405",
+                  "role" : {
+                     "display" : "Voice Performer"
+                  }
+               },
+               {
+                  "name" : "Matt Young",
+                  "personID" : "1313407",
+                  "role" : {
+                     "display" : "Voice Performer"
+                  }
+               }
+            ],
+            "description" : "A staff dinner party at Jizzleknob leads to intrigue and romance and lycanthropy.\r\n \r\nCredits:\r\n Arnie: Arnie Niekamp Chunt: Adal Rifai Usidore: Matt Young Miss Weatherwere: Sarah Mobley Prof. Elroy Topplestar: Jessye Grace Mueller Mallory McKnoboff: Squeek Rangel Mysterious Man: Tim Sniffen Lincoln: Evan Jacover\r\n Producers: Arnie Niekamp, Matt Young, and Adal Rifai Post-Production Coordination: Garrett Schultz Earwolf Producer: Kimmie Lucas Editor: Chris Rathjen Special Assistance: Ryan DiGiorgi Magic Tavern Logo: Allard Laban Theme Music: Andy Poland",
+            "durationSeconds" : 3487,
+            "editorialStatus" : "enhanced",
+            "episodeID" : "GA0000P000b54CR",
+            "episodeNumber" : null,
+            "language" : "en",
+            "lastUpdateDateTime" : "2021-12-16T01:46:07Z",
+            "objectType" : "episode",
+            "publishDateTime" : "2019-12-09T05:00:00Z",
+            "seasonNumber" : null,
+            "seriesReference" : {
+               "href" : "/series?seriesIDs=GA0000N000000RZ",
+               "seriesID" : "GA0000N000000RZ",
+               "title" : "Hello From the Magic Tavern"
+            },
+            "sourceFeed" : {
+               "author" : null,
+               "categories" : null,
+               "contentType" : null,
+               "copyright" : null,
+               "description" : "<p>A staff dinner party at Jizzleknob leads to intrigue and romance and lycanthropy.</p><p>Credits</p><p><strong>Arnie: </strong><a href=\"https://twitter.com/misterarnie\" rel=\"noopener noreferrer\" target=\"_blank\">Arnie Niekamp</a></p><p><strong>Chunt: </strong><a href=\"https://twitter.com/adalrifai\" rel=\"noopener noreferrer\" target=\"_blank\">Adal Rifai</a></p><p><strong>Usidore: </strong><a href=\"https://twitter.com/morepeoplehappy\" rel=\"noopener noreferrer\" target=\"_blank\">Matt Young</a></p><p><strong>Miss Weatherwere: </strong><a href=\"https://twitter.com/albinatritina\" rel=\"noopener noreferrer\" target=\"_blank\"> Sarah Mobley </a></p><p><strong>Prof. Elroy Topplestar: </strong><a href=\"https://www.ioimprov.com/performers/jessye-grace-mueller/\" rel=\"noopener noreferrer\" target=\"_blank\">Jessye Grace Mueller</a></p><p><strong>Mallory McKnoboff: </strong><a href=\"https://www.ioimprov.com/performers/squeek-rangel/\" rel=\"noopener noreferrer\" target=\"_blank\">Squeek Rangel</a></p><p><strong>Mysterious Man: </strong><a href=\"https://twitter.com/MisterSniffen\" rel=\"noopener noreferrer\" target=\"_blank\">Tim Sniffen</a></p><p><strong>Lincoln: </strong><a href=\"https://twitter.com/evanjacover\" rel=\"noopener noreferrer\" target=\"_blank\">Evan Jacover</a></p><p><br></p><p><strong>Producers: </strong><a href=\"https://twitter.com/misterarnie\" rel=\"noopener noreferrer\" target=\"_blank\">Arnie Niekamp</a>, <a href=\"https://twitter.com/morepeoplehappy\" rel=\"noopener noreferrer\" target=\"_blank\">Matt Young</a>, and <a href=\"https://twitter.com/adalrifai\" rel=\"noopener noreferrer\" target=\"_blank\">Adal Rifai</a></p><p><strong>Post-Production Coordination: </strong><a href=\"https://twitter.com/Garrettanite\" rel=\"noopener noreferrer\" target=\"_blank\">Garrett Schultz</a></p><p><strong>Earwolf Producer: </strong><a href=\"https://twitter.com/kimchilucas\" rel=\"noopener noreferrer\" target=\"_blank\">Kimmie Lucas</a></p><p><strong>Editor: </strong><a href=\"https://twitter.com/classicrathjen\" rel=\"noopener noreferrer\" target=\"_blank\">Chris Rathjen</a></p><p><strong>Special Assistance: </strong><a href=\"https://twitter.com/rdigiorgi\" rel=\"noopener noreferrer\" target=\"_blank\">Ryan DiGiorgi</a></p><p><strong>Magic Tavern Logo: </strong><a href=\"https://twitter.com/_allard\" rel=\"noopener noreferrer\" target=\"_blank\">Allard Laban</a></p><p><strong>Theme Music: </strong><a href=\"https://twitter.com/crabbydad\" rel=\"noopener noreferrer\" target=\"_blank\">Andy Poland</a></p><p><br></p><p>You can support the show directly and receive bonus episodes and rewards by joining our Patreon at&nbsp;<a href=\"https://www.patreon.com/magictavern\" rel=\"noopener noreferrer\" target=\"_blank\">https://www.patreon.com/magictavern</a>&nbsp;for only $5 per month. Follow us on&nbsp;<a href=\"https://twitter.com/MagicTavern\" rel=\"noopener noreferrer\" target=\"_blank\">Twitter</a>&nbsp;and&nbsp;<a href=\"http://www.instagram.com/hellofromthemagictavern\" rel=\"noopener noreferrer\" target=\"_blank\">Instagram</a>, and now&nbsp;<a href=\"https://www.patreon.com/magictavern\" rel=\"noopener noreferrer\" target=\"_blank\">Patreon</a>!</p><p>See Privacy Policy at <a href=\"https://art19.com/privacy\" rel=\"noopener noreferrer\" target=\"_blank\">https://art19.com/privacy</a> and California Privacy Notice at <a href=\"https://art19.com/privacy#do-not-sell-my-info\" rel=\"noopener noreferrer\" target=\"_blank\">https://art19.com/privacy#do-not-sell-my-info</a>.</p>",
+               "explicitLanguage" : "true",
+               "feedUrl" : null,
+               "generator" : null,
+               "imageUrl" : "https://content.production.cdn.art19.com/images/d1/7c/55/42/d17c5542-9279-439f-a74b-51a35509b3b3/9e5dedf1df328ad9e6afad027be451d8a6004ace9a608a56ef5dff947e3c1da029eae177362aa133272af86fded608e7f62b10755ab476c341bdf1a988e49408.jpeg",
+               "keywords" : null,
+               "language" : null,
+               "owner" : null,
+               "websiteUrl" : "https://omny.fm/shows/hello-from-the-magic-tavern/magic-s3-020-20191209-staffdinner-v01-free"
+            },
+            "subtitle" : null,
+            "summary" : "A staff dinner party at Jizzleknob leads to intrigue and romance and lycanthropy.\n\nCredits\n\nArnie: Arnie Niekamp\n\nChunt: Adal Rifai\n\nUsidore: Matt Young\n\nMiss Weatherwere: Sarah Mobley \n\nProf. Elroy Topplestar: Jessye Grace Mueller\n\nMallory McKnoboff: Squeek Rangel\n\nMysterious Man: Tim Sniffen\n\nLincoln: Evan Jacover\n\n\n\n\nProducers: Arnie Niekamp, Matt Young, and Adal Rifai\n\nPost-Production Coordination: Garrett Schultz\n\nEarwolf Producer: Kimmie Lucas\n\nEditor: Chris Rathjen\n\nSpecial Assistance: Ryan DiGiorgi\n\nMagic Tavern Logo: Allard Laban\n\nTheme Music: Andy Poland\n\n\n\n\nYou can support the show directly and receive bonus episodes and rewards by joining our Patreon atÂ https://www.patreon.com/magictavernÂ for only $5 per month. Follow us onÂ TwitterÂ andÂ Instagram, and nowÂ Patreon!\n\nSee Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info.",
+            "title" : "Season 3, Ep 20 - Staff Dinner"
+         },
+         {
+            "audioEnclosure" : {
+               "audioUrl" : "https://rss.art19.com/episodes/8602bea9-fb70-46b0-893b-063cc67a2e3d.mp3?rss_browser=BAhJIgtTYWZhcmkGOgZFVA%3D%3D--e8daa48e4e049c2293a0ad1663b4a762c475e386",
+               "mimeType" : "audio/mpeg",
+               "sizeBytes" : 38710961
+            },
+            "availabilities" : [
+               {
+                  "license" : "Open",
+                  "name" : "All"
+               }
+            ],
+            "categories" : [
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90265",
+                     "display" : "Comedy",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90308",
+                     "display" : "Improv",
+                     "level" : 2
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90277",
+                     "display" : "Storytelling",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90480",
+                     "display" : "Comedy Fiction",
+                     "level" : 2
+                  }
+               ]
+            ],
+            "credits" : [
+               {
+                  "name" : "Tim Sniffen",
+                  "personID" : "1313412",
+                  "role" : {
+                     "display" : "Co-Host"
+                  }
+               },
+               {
+                  "name" : "Arnie Niekamp",
+                  "personID" : "1312678",
+                  "role" : {
+                     "display" : "Voice Performer"
+                  }
+               },
+               {
+                  "name" : "Adal Rifai",
+                  "personID" : "1313405",
+                  "role" : {
+                     "display" : "Voice Performer"
+                  }
+               },
+               {
+                  "name" : "Matt Young",
+                  "personID" : "1313407",
+                  "role" : {
+                     "display" : "Voice Performer"
+                  }
+               },
+               {
+                  "name" : "Sarah Logsdon ",
+                  "personID" : "1336658",
+                  "role" : {
+                     "display" : "Guest"
+                  }
+               },
+               {
+                  "name" : "Martin Wilson",
+                  "personID" : "1336662",
+                  "role" : {
+                     "display" : "Guest"
+                  }
+               },
+               {
+                  "name" : "Nick Baer",
+                  "personID" : "1336665",
+                  "role" : {
+                     "display" : "Guest"
+                  }
+               },
+               {
+                  "name" : "Tom Gottlieb",
+                  "personID" : "671185",
+                  "role" : {
+                     "display" : "Guest"
+                  }
+               },
+               {
+                  "name" : "Evan Jacover\t",
+                  "personID" : "1313421",
+                  "role" : {
+                     "display" : "Guest"
+                  }
+               }
+            ],
+            "description" : "Meanwhile, in the evil alternate version of Foon, Carnival Wilson, Usidore the Black and Wendigo Wilson prepare for a meeting with Good Tannakin and Good Blemish.\r\nCredits\r\nCarnival Wilson: Arnie Niekamp Wendigo Wilson: Adal Rifai Usidore the Black: Matt Young Tannakin the Good: Sarah Logsdon Good Blemish: Martin Wilson Evil Otok Barleyfoot: Nick Baer Evil Bungaree Chubbins: Tom Gotlieb Mysterious Man: Tim Sniffen Lincoln: Evan Jacover\r\nProducers: Arnie Niekamp, Matt Young, and Adal Rifai Post-Production Coordination: Garrett Schultz Earwolf Producer: Kimmie Lucas Editor: Sage G.C. Special Assistance: Ryan DiGiorgi Magic Tavern Logo: Allard Laban Theme Music: Andy Poland",
+            "durationSeconds" : 2419,
+            "editorialStatus" : "enhanced",
+            "episodeID" : "GA0000P0012RZhJ",
+            "episodeNumber" : null,
+            "language" : "en",
+            "lastUpdateDateTime" : "2021-12-16T01:46:08Z",
+            "objectType" : "episode",
+            "publishDateTime" : "2020-03-16T04:00:00Z",
+            "seasonNumber" : null,
+            "seriesReference" : {
+               "href" : "/series?seriesIDs=GA0000N000000RZ",
+               "seriesID" : "GA0000N000000RZ",
+               "title" : "Hello From the Magic Tavern"
+            },
+            "sourceFeed" : {
+               "author" : null,
+               "categories" : null,
+               "contentType" : null,
+               "copyright" : null,
+               "description" : "<p>Meanwhile in the evil alternate version of Foon, Carnival Wilson, Usidore the Black and Wendigo Wilson prepare for a meeting with Good Tannakin and Good Blemish.</p><p><br></p><p>Credits</p><p><strong>Carnival Wilson: </strong><a href=\"https://twitter.com/misterarnie\" rel=\"noopener noreferrer\" target=\"_blank\">Arnie Niekamp</a></p><p><strong>Wendigo Wilson: </strong><a href=\"https://twitter.com/adalrifai\" rel=\"noopener noreferrer\" target=\"_blank\">Adal Rifai</a></p><p><strong>Usidore the Black: </strong><a href=\"https://twitter.com/morepeoplehappy\" rel=\"noopener noreferrer\" target=\"_blank\">Matt Young</a></p><p><strong>Tannakin the Good: </strong>Sarah Logsdon</p><p><strong>Good Blemish: </strong><a href=\"https://twitter.com/MartinIWilson\" rel=\"noopener noreferrer\" target=\"_blank\">Martin Wilson</a></p><p><strong>Evil Otok Barleyfoot: </strong><a href=\"https://twitter.com/nbaer\" rel=\"noopener noreferrer\" target=\"_blank\">Nick Baer</a></p><p><strong>Evil Bungaree Chubbins: </strong>Tom Gotlieb</p><p><strong>Mysterious Man: </strong><a href=\"https://twitter.com/MisterSniffen\" rel=\"noopener noreferrer\" target=\"_blank\">Tim Sniffen</a></p><p><strong>Lincoln: </strong><a href=\"https://twitter.com/evanjacover\" rel=\"noopener noreferrer\" target=\"_blank\">Evan Jacover</a></p><p><br></p><p><strong>Producers: </strong><a href=\"https://twitter.com/misterarnie\" rel=\"noopener noreferrer\" target=\"_blank\">Arnie Niekamp</a>, <a href=\"https://twitter.com/morepeoplehappy\" rel=\"noopener noreferrer\" target=\"_blank\">Matt Young</a>, and <a href=\"https://twitter.com/adalrifai\" rel=\"noopener noreferrer\" target=\"_blank\">Adal Rifai</a></p><p><strong>Post-Production Coordination: </strong><a href=\"https://twitter.com/Garrettanite\" rel=\"noopener noreferrer\" target=\"_blank\">Garrett Schultz</a></p><p><strong>Earwolf Producer: </strong><a href=\"https://twitter.com/kimchilucas\" rel=\"noopener noreferrer\" target=\"_blank\">Kimmie Lucas</a></p><p><strong>Editor: </strong><a href=\"https://twitter.com/sage_gc\" rel=\"noopener noreferrer\" target=\"_blank\">Sage G.C.</a></p><p><strong>Special Assistance:</strong> <a href=\"https://twitter.com/rdigiorgi\" rel=\"noopener noreferrer\" target=\"_blank\">Ryan DiGiorgi</a></p><p><strong>Magic Tavern Logo: </strong><a href=\"https://twitter.com/_allard\" rel=\"noopener noreferrer\" target=\"_blank\">Allard Laban</a></p><p><strong>Theme Music:</strong> <a href=\"https://twitter.com/crabbydad\" rel=\"noopener noreferrer\" target=\"_blank\">Andy Poland</a></p><p><br></p><p>You can support the show directly and receive bonus episodes and rewards by joining our Patreon at&nbsp;<a href=\"https://www.patreon.com/magictavern\" rel=\"noopener noreferrer\" target=\"_blank\">https://www.patreon.com/magictavern</a>&nbsp;for only $5 per month. Follow us on&nbsp;<a href=\"https://twitter.com/MagicTavern\" rel=\"noopener noreferrer\" target=\"_blank\">Twitter</a>&nbsp;and&nbsp;<a href=\"http://www.instagram.com/hellofromthemagictavern\" rel=\"noopener noreferrer\" target=\"_blank\">Instagram</a>, and now&nbsp;<a href=\"https://www.patreon.com/magictavern\" rel=\"noopener noreferrer\" target=\"_blank\">Patreon</a>!</p><p>See Privacy Policy at <a href=\"https://art19.com/privacy\" rel=\"noopener noreferrer\" target=\"_blank\">https://art19.com/privacy</a> and California Privacy Notice at <a href=\"https://art19.com/privacy#do-not-sell-my-info\" rel=\"noopener noreferrer\" target=\"_blank\">https://art19.com/privacy#do-not-sell-my-info</a>.</p>",
+               "explicitLanguage" : "true",
+               "feedUrl" : null,
+               "generator" : null,
+               "imageUrl" : "https://content.production.cdn.art19.com/images/97/ae/85/14/97ae8514-0e3d-489b-a009-811036911a59/8de04cf499a998489dbd4256f39fc57ed05c1430ee57cd5381bc1cc52553060ed2335bbd5eba47cb6631710fe7095652bae3b7855f825459be245084a629f07d.jpeg",
+               "keywords" : null,
+               "language" : null,
+               "owner" : null,
+               "websiteUrl" : "https://omny.fm/shows/hello-from-the-magic-tavern/interlude-five-mirror-world-years"
+            },
+            "subtitle" : null,
+            "summary" : "Meanwhile in the evil alternate version of Foon, Carnival Wilson, Usidore the Black and Wendigo Wilson prepare for a meeting with Good Tannakin and Good Blemish.\n\n\n\n\nCredits\n\nCarnival Wilson: Arnie Niekamp\n\nWendigo Wilson: Adal Rifai\n\nUsidore the Black: Matt Young\n\nTannakin the Good: Sarah Logsdon\n\nGood Blemish: Martin Wilson\n\nEvil Otok Barleyfoot: Nick Baer\n\nEvil Bungaree Chubbins: Tom Gotlieb\n\nMysterious Man: Tim Sniffen\n\nLincoln: Evan Jacover\n\n\n\n\nProducers: Arnie Niekamp, Matt Young, and Adal Rifai\n\nPost-Production Coordination: Garrett Schultz\n\nEarwolf Producer: Kimmie Lucas\n\nEditor: Sage G.C.\n\nSpecial Assistance: Ryan DiGiorgi\n\nMagic Tavern Logo: Allard Laban\n\nTheme Music: Andy Poland\n\n\n\n\nYou can support the show directly and receive bonus episodes and rewards by joining our Patreon atÂ https://www.patreon.com/magictavernÂ for only $5 per month. Follow us onÂ TwitterÂ andÂ Instagram, and nowÂ Patreon!\n\nSee Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info.",
+            "title" : "Interlude - Five Mirror World Years"
+         },
+         {
+            "audioEnclosure" : {
+               "audioUrl" : "https://rss.art19.com/episodes/f771b2c8-71e2-478c-94e0-924eacaaa117.mp3?rss_browser=BAhJIgtTYWZhcmkGOgZFVA%3D%3D--e8daa48e4e049c2293a0ad1663b4a762c475e386",
+               "mimeType" : "audio/mpeg",
+               "sizeBytes" : 56856659
+            },
+            "availabilities" : [
+               {
+                  "license" : "Open",
+                  "name" : "All"
+               }
+            ],
+            "categories" : [
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90265",
+                     "display" : "Comedy",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90308",
+                     "display" : "Improv",
+                     "level" : 2
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90277",
+                     "display" : "Storytelling",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90480",
+                     "display" : "Comedy Fiction",
+                     "level" : 2
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90277",
+                     "display" : "Storytelling",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90482",
+                     "display" : "Fantasy",
+                     "level" : 2
+                  }
+               ]
+            ],
+            "credits" : [
+               {
+                  "name" : "Tim Sniffen",
+                  "personID" : "1313412",
+                  "role" : {
+                     "display" : "Co-Host"
+                  }
+               },
+               {
+                  "name" : "Arnie Niekamp",
+                  "personID" : "1312678",
+                  "role" : {
+                     "display" : "Voice Performer"
+                  }
+               },
+               {
+                  "name" : "Adal Rifai",
+                  "personID" : "1313405",
+                  "role" : {
+                     "display" : "Voice Performer"
+                  }
+               },
+               {
+                  "name" : "Matt Young",
+                  "personID" : "1313407",
+                  "role" : {
+                     "display" : "Voice Performer"
+                  }
+               },
+               {
+                  "name" : "Heather Anne Campbell",
+                  "personID" : "725761",
+                  "role" : {
+                     "display" : "Guest"
+                  }
+               },
+               {
+                  "name" : "Nick Wiger",
+                  "personID" : "918961",
+                  "role" : {
+                     "display" : "Guest"
+                  }
+               }
+            ],
+            "description" : "We meet a frightened talking couch and the magician that gave her life.\r\n\r\nCredits\r\n\r\nArnie: Arnie Niekamp\r\nChunt: Adal Rifai\r\nUsidore: Matt Young\r\nCouch the Sentient Couch: Heather Ann Campbell\r\nCouch the Magician:Nick Wiger\r\nMysterious Man: Tim Sniffen\r\n\r\nProducers: Arnie Niekamp, Matt Young, and Adal Rifai\r\nPost-Production Coordination: Garrett Schultz\r\nEarwolf Producer: Kimmie Lucas\r\nEditor: Anna Havermann\r\nSpecial Assistance: Ryan DiGiorgi\r\nMagic Tavern Logo: Allard Laban\r\nTheme Music: Andy Poland",
+            "durationSeconds" : 3553,
+            "editorialStatus" : "enhanced",
+            "episodeID" : "GA0000P001RHDWS",
+            "episodeNumber" : null,
+            "language" : "en",
+            "lastUpdateDateTime" : "2021-12-16T01:46:10Z",
+            "objectType" : "episode",
+            "publishDateTime" : "2020-10-12T04:00:00Z",
+            "seasonNumber" : null,
+            "seriesReference" : {
+               "href" : "/series?seriesIDs=GA0000N000000RZ",
+               "seriesID" : "GA0000N000000RZ",
+               "title" : "Hello From the Magic Tavern"
+            },
+            "sourceFeed" : {
+               "author" : null,
+               "categories" : null,
+               "contentType" : null,
+               "copyright" : null,
+               "description" : "<p>We meet a frightened talking couch and the magician that gave her life.</p><p><br></p><p>Credits</p><p><strong>Arnie: </strong><a href=\"https://twitter.com/misterarnie\" rel=\"noopener noreferrer\" target=\"_blank\">Arnie Niekamp</a></p><p><strong>Chunt: </strong><a href=\"https://twitter.com/adalrifai\" rel=\"noopener noreferrer\" target=\"_blank\">Adal Rifai</a></p><p><strong>Usidore: </strong><a href=\"https://twitter.com/morepeoplehappy\" rel=\"noopener noreferrer\" target=\"_blank\">Matt Young</a></p><p><strong>Couch the Sentient Couch</strong>: <a href=\"https://twitter.com/heathercampbell\" rel=\"noopener noreferrer\" target=\"_blank\">Heather Anne Campbell</a></p><p><strong>Couch the Magician:</strong> <a href=\"https://twitter.com/nickwiger\" rel=\"noopener noreferrer\" target=\"_blank\">Nick Wiger</a></p><p><strong>Mysterious Man: </strong><a href=\"https://twitter.com/MisterSniffen\" rel=\"noopener noreferrer\" target=\"_blank\">Tim Sniffen</a></p><p><br></p><p><strong>Producers: </strong><a href=\"https://twitter.com/misterarnie\" rel=\"noopener noreferrer\" target=\"_blank\">Arnie Niekamp</a>, <a href=\"https://twitter.com/morepeoplehappy\" rel=\"noopener noreferrer\" target=\"_blank\">Matt Young</a>, and <a href=\"https://twitter.com/adalrifai\" rel=\"noopener noreferrer\" target=\"_blank\">Adal Rifai</a></p><p><strong>Post-Production Coordination: </strong><a href=\"https://twitter.com/Garrettanite\" rel=\"noopener noreferrer\" target=\"_blank\">Garrett Schultz</a></p><p><strong>Earwolf Producer: </strong><a href=\"https://twitter.com/kimchilucas\" rel=\"noopener noreferrer\" target=\"_blank\">Kimmie Lucas</a></p><p><strong>Editor: </strong><a href=\"https://twitter.com/ahaverwomann\" rel=\"noopener noreferrer\" target=\"_blank\">Anna Havermann</a></p><p><strong>Special Assistance: </strong><a href=\"https://twitter.com/rdigiorgi\" rel=\"noopener noreferrer\" target=\"_blank\">Ryan DiGiorgi</a></p><p><strong>Magic Tavern Logo: </strong><a href=\"https://twitter.com/_allard\" rel=\"noopener noreferrer\" target=\"_blank\">Allard Laban</a></p><p><strong>Theme Music: </strong><a href=\"https://twitter.com/crabbydad\" rel=\"noopener noreferrer\" target=\"_blank\">Andy Poland</a></p><p><br></p><p>You can support the show directly and receive bonus episodes and rewards by joining our Patreon at&nbsp;<a href=\"https://www.patreon.com/magictavern\" rel=\"noopener noreferrer\" target=\"_blank\">https://www.patreon.com/magictavern</a>&nbsp;for only $5 per month. Follow us on&nbsp;<a href=\"https://twitter.com/MagicTavern\" rel=\"noopener noreferrer\" target=\"_blank\">Twitter</a>&nbsp;and&nbsp;<a href=\"http://www.instagram.com/hellofromthemagictavern\" rel=\"noopener noreferrer\" target=\"_blank\">Instagram</a>, and now&nbsp;<a href=\"https://www.patreon.com/magictavern\" rel=\"noopener noreferrer\" target=\"_blank\">Patreon</a>!</p><p>See Privacy Policy at <a href=\"https://art19.com/privacy\" rel=\"noopener noreferrer\" target=\"_blank\">https://art19.com/privacy</a> and California Privacy Notice at <a href=\"https://art19.com/privacy#do-not-sell-my-info\" rel=\"noopener noreferrer\" target=\"_blank\">https://art19.com/privacy#do-not-sell-my-info</a>.</p>",
+               "explicitLanguage" : "true",
+               "feedUrl" : null,
+               "generator" : null,
+               "imageUrl" : "https://content.production.cdn.art19.com/images/d1/7c/55/42/d17c5542-9279-439f-a74b-51a35509b3b3/9e5dedf1df328ad9e6afad027be451d8a6004ace9a608a56ef5dff947e3c1da029eae177362aa133272af86fded608e7f62b10755ab476c341bdf1a988e49408.jpeg",
+               "keywords" : null,
+               "language" : null,
+               "owner" : null,
+               "websiteUrl" : "https://omny.fm/shows/hello-from-the-magic-tavern/season-3-ep-62-couch-w-heather-anne-campbell-and-n"
+            },
+            "subtitle" : null,
+            "summary" : "We meet a frightened talking couch and the magician that gave her life.\n\n\n\n\nCredits\n\nArnie: Arnie Niekamp\n\nChunt: Adal Rifai\n\nUsidore: Matt Young\n\nCouch the Sentient Couch: Heather Anne Campbell\n\nCouch the Magician: Nick Wiger\n\nMysterious Man: Tim Sniffen\n\n\n\n\nProducers: Arnie Niekamp, Matt Young, and Adal Rifai\n\nPost-Production Coordination: Garrett Schultz\n\nEarwolf Producer: Kimmie Lucas\n\nEditor: Anna Havermann\n\nSpecial Assistance: Ryan DiGiorgi\n\nMagic Tavern Logo: Allard Laban\n\nTheme Music: Andy Poland\n\n\n\n\nYou can support the show directly and receive bonus episodes and rewards by joining our Patreon atÂ https://www.patreon.com/magictavernÂ for only $5 per month. Follow us onÂ TwitterÂ andÂ Instagram, and nowÂ Patreon!\n\nSee Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info.",
+            "title" : "Season 3, Ep 62 - Couch (w/ Heather Anne Campbell and Nick Wiger from How Did This Get Played)"
+         },
+         {
+            "audioEnclosure" : {
+               "audioUrl" : "https://rss.art19.com/episodes/85405d15-04d4-497b-b276-24e8169731f7.mp3?rss_browser=BAhJIgtTYWZhcmkGOgZFVA%3D%3D--e8daa48e4e049c2293a0ad1663b4a762c475e386",
+               "mimeType" : "audio/mpeg",
+               "sizeBytes" : 48293511
+            },
+            "availabilities" : [
+               {
+                  "license" : "Open",
+                  "name" : "All"
+               }
+            ],
+            "categories" : [
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90265",
+                     "display" : "Comedy",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90308",
+                     "display" : "Improv",
+                     "level" : 2
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90277",
+                     "display" : "Storytelling",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90480",
+                     "display" : "Comedy Fiction",
+                     "level" : 2
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90277",
+                     "display" : "Storytelling",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90482",
+                     "display" : "Fantasy",
+                     "level" : 2
+                  }
+               ]
+            ],
+            "credits" : [
+               {
+                  "name" : "Tim Sniffen",
+                  "personID" : "1313412",
+                  "role" : {
+                     "display" : "Co-Host"
+                  }
+               },
+               {
+                  "name" : "Arnie Niekamp",
+                  "personID" : "1312678",
+                  "role" : {
+                     "display" : "Voice Performer"
+                  }
+               },
+               {
+                  "name" : "Adal Rifai",
+                  "personID" : "1313405",
+                  "role" : {
+                     "display" : "Voice Performer"
+                  }
+               },
+               {
+                  "name" : "Matt Young",
+                  "personID" : "1313407",
+                  "role" : {
+                     "display" : "Voice Performer"
+                  }
+               },
+               {
+                  "name" : " Kevin Sciretta",
+                  "personID" : "1313425",
+                  "role" : {
+                     "display" : "Guest"
+                  }
+               },
+               {
+                  "name" : "Carisa Barreca",
+                  "personID" : "1346844",
+                  "role" : {
+                     "display" : "Guest"
+                  }
+               },
+               {
+                  "name" : "Evan Jacover",
+                  "personID" : "1313421",
+                  "role" : {
+                     "display" : "Guest"
+                  }
+               }
+            ],
+            "description" : "As the they continue searching for the final artifact, our heroes meet a muscle-bound tiger-person and a muscle-bound whale-person.\r\n\r\nCredits\r\n\r\nSword Guy: Arnie Niekamp\r\nNight Shift: Adal Rifai\r\nWizard Man: Matt Young\r\nTi-Gor: Kevin Sciretta\r\nOarkahh: Carisa Barreca \r\nMysterious Man: Tim Sniffen\r\nLincoln:Evan Jacover\r\n\r\nProducers: Arnie Niekamp, Matt Young, and Adal Rifai\r\nPost-Production Coordination: Garrett Schultz\r\nEarwolf Producer: Kimmie Lucas\r\nEditor: Garrett Schultz\r\nSpecial Assistance: Ryan DiGiorgi\r\nMagic Tavern Logo: Allard Laban\r\nTheme Music: Andy Poland\r\nIsland Theme: Sage G.C.",
+            "durationSeconds" : 3018,
+            "editorialStatus" : "enhanced",
+            "episodeID" : "GA0000P00141JRW",
+            "episodeNumber" : null,
+            "language" : "en",
+            "lastUpdateDateTime" : "2021-12-16T01:46:09Z",
+            "objectType" : "episode",
+            "publishDateTime" : "2020-04-13T04:00:00Z",
+            "seasonNumber" : null,
+            "seriesReference" : {
+               "href" : "/series?seriesIDs=GA0000N000000RZ",
+               "seriesID" : "GA0000N000000RZ",
+               "title" : "Hello From the Magic Tavern"
+            },
+            "sourceFeed" : {
+               "author" : null,
+               "categories" : null,
+               "contentType" : null,
+               "copyright" : null,
+               "description" : "<p>As the they continue searching for the final artifact, our heroes meet a muscle-bound tiger-person and a muscle-bound whale-person.</p><p><br></p><p>Credits</p><p><strong>Sword Guy: </strong><a href=\"https://twitter.com/misterarnie\" rel=\"noopener noreferrer\" target=\"_blank\">Arnie Niekamp</a></p><p><strong>Night Shift: </strong><a href=\"https://twitter.com/adalrifai\" rel=\"noopener noreferrer\" target=\"_blank\">Adal Rifai</a></p><p><strong>Wizard Man: </strong><a href=\"https://twitter.com/morepeoplehappy\" rel=\"noopener noreferrer\" target=\"_blank\">Matt Young</a></p><p><strong>Ti-Gor: </strong><a href=\"https://twitter.com/kevinsciretta\" rel=\"noopener noreferrer\" target=\"_blank\">Kevin Sciretta</a></p><p><strong>Oarkahh: </strong><a href=\"https://twitter.com/cinderisa\" rel=\"noopener noreferrer\" target=\"_blank\">Carisa Barreca </a></p><p><strong>Mysterious Man: </strong><a href=\"https://twitter.com/MisterSniffen\" rel=\"noopener noreferrer\" target=\"_blank\">Tim Sniffen</a></p><p><strong>Lincoln:</strong> <a href=\"https://twitter.com/evanjacover\" rel=\"noopener noreferrer\" target=\"_blank\">Evan Jacover</a></p><p><br></p><p><strong>Producers: </strong><a href=\"https://twitter.com/misterarnie\" rel=\"noopener noreferrer\" target=\"_blank\">Arnie Niekamp</a>, <a href=\"https://twitter.com/morepeoplehappy\" rel=\"noopener noreferrer\" target=\"_blank\">Matt Young</a>, and <a href=\"https://twitter.com/adalrifai\" rel=\"noopener noreferrer\" target=\"_blank\">Adal Rifai</a></p><p><strong>Post-Production Coordination: </strong><a href=\"https://twitter.com/Garrettanite\" rel=\"noopener noreferrer\" target=\"_blank\">Garrett Schultz</a></p><p><strong>Earwolf Producer: </strong><a href=\"https://twitter.com/kimchilucas\" rel=\"noopener noreferrer\" target=\"_blank\">Kimmie Lucas</a></p><p><strong>Editor: </strong><a href=\"https://twitter.com/Garrettanite\" rel=\"noopener noreferrer\" target=\"_blank\">Garrett Schultz</a></p><p><strong>Special Assistance: </strong><a href=\"https://twitter.com/rdigiorgi\" rel=\"noopener noreferrer\" target=\"_blank\">Ryan DiGiorgi</a></p><p><strong>Magic Tavern Logo: </strong><a href=\"https://twitter.com/_allard\" rel=\"noopener noreferrer\" target=\"_blank\">Allard Laban</a></p><p><strong>Theme Music: </strong><a href=\"https://twitter.com/crabbydad\" rel=\"noopener noreferrer\" target=\"_blank\">Andy Poland</a></p><p><strong>Island Theme: </strong><a href=\"https://twitter.com/sage_gc\" rel=\"noopener noreferrer\" target=\"_blank\">Sage G.C.</a></p><p><br></p><p>You can support the show directly and receive bonus episodes and rewards by joining our Patreon at&nbsp;<a href=\"https://www.patreon.com/magictavern\" rel=\"noopener noreferrer\" target=\"_blank\">https://www.patreon.com/magictavern</a>&nbsp;for only $5 per month. Follow us on&nbsp;<a href=\"https://twitter.com/MagicTavern\" rel=\"noopener noreferrer\" target=\"_blank\">Twitter</a>&nbsp;and&nbsp;<a href=\"http://www.instagram.com/hellofromthemagictavern\" rel=\"noopener noreferrer\" target=\"_blank\">Instagram</a>, and now&nbsp;<a href=\"https://www.patreon.com/magictavern\" rel=\"noopener noreferrer\" target=\"_blank\">Patreon</a>!</p><p>See Privacy Policy at <a href=\"https://art19.com/privacy\" rel=\"noopener noreferrer\" target=\"_blank\">https://art19.com/privacy</a> and California Privacy Notice at <a href=\"https://art19.com/privacy#do-not-sell-my-info\" rel=\"noopener noreferrer\" target=\"_blank\">https://art19.com/privacy#do-not-sell-my-info</a>.</p>",
+               "explicitLanguage" : "true",
+               "feedUrl" : null,
+               "generator" : null,
+               "imageUrl" : "https://content.production.cdn.art19.com/images/d1/7c/55/42/d17c5542-9279-439f-a74b-51a35509b3b3/9e5dedf1df328ad9e6afad027be451d8a6004ace9a608a56ef5dff947e3c1da029eae177362aa133272af86fded608e7f62b10755ab476c341bdf1a988e49408.jpeg",
+               "keywords" : null,
+               "language" : null,
+               "owner" : null,
+               "websiteUrl" : "https://omny.fm/shows/hello-from-the-magic-tavern/season-3-ep-36-tiger-and-whale"
+            },
+            "subtitle" : null,
+            "summary" : "As the they continue searching for the final artifact, our heroes meet a muscle-bound tiger-person and a muscle-bound whale-person.\n\n\n\n\nCredits\n\nSword Guy: Arnie Niekamp\n\nNight Shift: Adal Rifai\n\nWizard Man: Matt Young\n\nTi-Gor: Kevin Sciretta\n\nOarkahh: Carisa Barreca \n\nMysterious Man: Tim Sniffen\n\nLincoln: Evan Jacover\n\n\n\n\nProducers: Arnie Niekamp, Matt Young, and Adal Rifai\n\nPost-Production Coordination: Garrett Schultz\n\nEarwolf Producer: Kimmie Lucas\n\nEditor: Garrett Schultz\n\nSpecial Assistance: Ryan DiGiorgi\n\nMagic Tavern Logo: Allard Laban\n\nTheme Music: Andy Poland\n\nIsland Theme: Sage G.C.\n\n\n\n\nYou can support the show directly and receive bonus episodes and rewards by joining our Patreon atÂ https://www.patreon.com/magictavernÂ for only $5 per month. Follow us onÂ TwitterÂ andÂ Instagram, and nowÂ Patreon!\n\nSee Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info.",
+            "title" : "Season 3, Ep 36 - Tiger and Whale"
+         },
+         {
+            "audioEnclosure" : {
+               "audioUrl" : "https://rss.art19.com/episodes/6150fb56-33f3-4f0d-a844-7138463a97d0.mp3?rss_browser=BAhJIgtTYWZhcmkGOgZFVA%3D%3D--e8daa48e4e049c2293a0ad1663b4a762c475e386",
+               "mimeType" : "audio/mpeg",
+               "sizeBytes" : 51663098
+            },
+            "availabilities" : [
+               {
+                  "license" : "Open",
+                  "name" : "All"
+               }
+            ],
+            "categories" : [
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90265",
+                     "display" : "Comedy",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90308",
+                     "display" : "Improv",
+                     "level" : 2
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90277",
+                     "display" : "Storytelling",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90480",
+                     "display" : "Comedy Fiction",
+                     "level" : 2
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90277",
+                     "display" : "Storytelling",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90482",
+                     "display" : "Fantasy",
+                     "level" : 2
+                  }
+               ]
+            ],
+            "credits" : [
+               {
+                  "name" : "Tim Sniffen",
+                  "personID" : "1313412",
+                  "role" : {
+                     "display" : "Co-Host"
+                  }
+               },
+               {
+                  "name" : "Arnie Niekamp",
+                  "personID" : "1312678",
+                  "role" : {
+                     "display" : "Voice Performer"
+                  }
+               },
+               {
+                  "name" : "Adal Rifai",
+                  "personID" : "1313405",
+                  "role" : {
+                     "display" : "Voice Performer"
+                  }
+               },
+               {
+                  "name" : "Matt Young",
+                  "personID" : "1313407",
+                  "role" : {
+                     "display" : "Voice Performer"
+                  }
+               },
+               {
+                  "name" : "Nicole Parker",
+                  "personID" : "514314",
+                  "role" : {
+                     "display" : "Guest"
+                  }
+               }
+            ],
+            "description" : "A traveling story singer needs help with her songs. Also Chunt might die.\r\n\r\nCredits\r\n\r\nArnie: Arnie Niekamp\r\nChunt: Adal Rifai\r\nUsidore: Matt Young\r\nSpirulina Jazzhands: Nicole Parker\r\nMysterious Man: Tim Sniffen\r\n\r\nProducers: Arnie Niekamp, Matt Young, and Adal Rifai\r\nPost-Production Coordination: Garrett Schultz\r\nEarwolf Producer: Kimmie Lucas\r\nEditor: Stephen Dranger\r\nSpecial Assistance: Ryan DiGiorgi\r\nMagic Tavern Logo: Allard Laban\r\nTheme Music: Andy Poland",
+            "durationSeconds" : 3228,
+            "editorialStatus" : "enhanced",
+            "episodeID" : "GA0000P00189FZ4",
+            "episodeNumber" : null,
+            "language" : "en",
+            "lastUpdateDateTime" : "2021-12-16T01:46:09Z",
+            "objectType" : "episode",
+            "publishDateTime" : "2020-06-22T04:00:00Z",
+            "seasonNumber" : null,
+            "seriesReference" : {
+               "href" : "/series?seriesIDs=GA0000N000000RZ",
+               "seriesID" : "GA0000N000000RZ",
+               "title" : "Hello From the Magic Tavern"
+            },
+            "sourceFeed" : {
+               "author" : null,
+               "categories" : null,
+               "contentType" : null,
+               "copyright" : null,
+               "description" : "<p>A traveling story singer needs help with her songs. Also Chunt might die.</p><p><br></p><p>Credits</p><p><strong>Arnie: </strong><a href=\"https://twitter.com/misterarnie\" rel=\"noopener noreferrer\" target=\"_blank\">Arnie Niekamp</a></p><p><strong>Chunt: </strong><a href=\"https://twitter.com/adalrifai\" rel=\"noopener noreferrer\" target=\"_blank\">Adal Rifai</a></p><p><strong>Usidore: </strong><a href=\"https://twitter.com/morepeoplehappy\" rel=\"noopener noreferrer\" target=\"_blank\">Matt Young</a></p><p><strong>Spirulina Jazzhands: </strong><a href=\"https://twitter.com/npredford\" rel=\"noopener noreferrer\" target=\"_blank\">Nicole Parker</a></p><p><strong>Mysterious Man: </strong><a href=\"https://twitter.com/MisterSniffen\" rel=\"noopener noreferrer\" target=\"_blank\">Tim Sniffen</a></p><p><br></p><p><strong>Producers: </strong><a href=\"https://twitter.com/misterarnie\" rel=\"noopener noreferrer\" target=\"_blank\">Arnie Niekamp</a>, <a href=\"https://twitter.com/morepeoplehappy\" rel=\"noopener noreferrer\" target=\"_blank\">Matt Young</a>, and <a href=\"https://twitter.com/adalrifai\" rel=\"noopener noreferrer\" target=\"_blank\">Adal Rifai</a></p><p><strong>Post-Production Coordination: </strong><a href=\"https://twitter.com/Garrettanite\" rel=\"noopener noreferrer\" target=\"_blank\">Garrett Schultz</a></p><p><strong>Earwolf Producer: </strong><a href=\"https://twitter.com/kimchilucas\" rel=\"noopener noreferrer\" target=\"_blank\">Kimmie Lucas</a></p><p><strong>Editor: </strong><a href=\"https://twitter.com/illuminatedwax\" rel=\"noopener noreferrer\" target=\"_blank\">Stephen Dranger</a></p><p><strong>Special Assistance: </strong><a href=\"https://twitter.com/rdigiorgi\" rel=\"noopener noreferrer\" target=\"_blank\">Ryan DiGiorgi</a></p><p><strong>Magic Tavern Logo: </strong><a href=\"https://twitter.com/_allard\" rel=\"noopener noreferrer\" target=\"_blank\">Allard Laban</a></p><p><strong>Theme Music: </strong><a href=\"https://twitter.com/crabbydad\" rel=\"noopener noreferrer\" target=\"_blank\">Andy Poland</a></p><p><br></p><p>You can support the show directly and receive bonus episodes and rewards by joining our Patreon at&nbsp;<a href=\"https://www.patreon.com/magictavern\" rel=\"noopener noreferrer\" target=\"_blank\">https://www.patreon.com/magictavern</a>&nbsp;for only $5 per month. Follow us on&nbsp;<a href=\"https://twitter.com/MagicTavern\" rel=\"noopener noreferrer\" target=\"_blank\">Twitter</a>&nbsp;and&nbsp;<a href=\"http://www.instagram.com/hellofromthemagictavern\" rel=\"noopener noreferrer\" target=\"_blank\">Instagram</a>, and now&nbsp;<a href=\"https://www.patreon.com/magictavern\" rel=\"noopener noreferrer\" target=\"_blank\">Patreon</a>!</p><p>See Privacy Policy at <a href=\"https://art19.com/privacy\" rel=\"noopener noreferrer\" target=\"_blank\">https://art19.com/privacy</a> and California Privacy Notice at <a href=\"https://art19.com/privacy#do-not-sell-my-info\" rel=\"noopener noreferrer\" target=\"_blank\">https://art19.com/privacy#do-not-sell-my-info</a>.</p>",
+               "explicitLanguage" : "true",
+               "feedUrl" : null,
+               "generator" : null,
+               "imageUrl" : "https://content.production.cdn.art19.com/images/d1/7c/55/42/d17c5542-9279-439f-a74b-51a35509b3b3/9e5dedf1df328ad9e6afad027be451d8a6004ace9a608a56ef5dff947e3c1da029eae177362aa133272af86fded608e7f62b10755ab476c341bdf1a988e49408.jpeg",
+               "keywords" : null,
+               "language" : null,
+               "owner" : null,
+               "websiteUrl" : "https://omny.fm/shows/hello-from-the-magic-tavern/season-3-ep-46-jazzhands-w-nicole-parker"
+            },
+            "subtitle" : null,
+            "summary" : "A traveling story singer needs help with her songs. Also Chunt might die.\n\n\n\n\nCredits\n\nArnie: Arnie Niekamp\n\nChunt: Adal Rifai\n\nUsidore: Matt Young\n\nSpirulina Jazzhands: Nicole Parker\n\nMysterious Man: Tim Sniffen\n\n\n\n\nProducers: Arnie Niekamp, Matt Young, and Adal Rifai\n\nPost-Production Coordination: Garrett Schultz\n\nEarwolf Producer: Kimmie Lucas\n\nEditor: Stephen Dranger\n\nSpecial Assistance: Ryan DiGiorgi\n\nMagic Tavern Logo: Allard Laban\n\nTheme Music: Andy Poland\n\n\n\n\nYou can support the show directly and receive bonus episodes and rewards by joining our Patreon atÂ https://www.patreon.com/magictavernÂ for only $5 per month. Follow us onÂ TwitterÂ andÂ Instagram, and nowÂ Patreon!\n\nSee Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info.",
+            "title" : "Season 3, Ep 46 - Jazzhands (w/ Nicole Parker)"
+         },
+         {
+            "audioEnclosure" : {
+               "audioUrl" : "https://rss.art19.com/episodes/b7d7386f-a143-4986-ba3b-d34415e8c31d.mp3?rss_browser=BAhJIgtTYWZhcmkGOgZFVA%3D%3D--e8daa48e4e049c2293a0ad1663b4a762c475e386",
+               "mimeType" : "audio/mpeg",
+               "sizeBytes" : 49089306
+            },
+            "availabilities" : [
+               {
+                  "license" : "Open",
+                  "name" : "All"
+               }
+            ],
+            "categories" : [
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90265",
+                     "display" : "Comedy",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90308",
+                     "display" : "Improv",
+                     "level" : 2
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90277",
+                     "display" : "Storytelling",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90480",
+                     "display" : "Comedy Fiction",
+                     "level" : 2
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90277",
+                     "display" : "Storytelling",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90482",
+                     "display" : "Fantasy",
+                     "level" : 2
+                  }
+               ]
+            ],
+            "credits" : [
+               {
+                  "name" : "Tim Sniffen",
+                  "personID" : "1313412",
+                  "role" : {
+                     "display" : "Co-Host"
+                  }
+               },
+               {
+                  "name" : "Arnie Niekamp",
+                  "personID" : "1312678",
+                  "role" : {
+                     "display" : "Voice Performer"
+                  }
+               },
+               {
+                  "name" : "Adal Rifai",
+                  "personID" : "1313405",
+                  "role" : {
+                     "display" : "Voice Performer"
+                  }
+               },
+               {
+                  "name" : "Matt Young",
+                  "personID" : "1313407",
+                  "role" : {
+                     "display" : "Voice Performer"
+                  }
+               },
+               {
+                  "name" : "Lily Sullivan",
+                  "personID" : "689700",
+                  "role" : {
+                     "display" : "Guest"
+                  }
+               }
+            ],
+            "description" : "A shopping trip to stock up on new weapons leads to an unusual blacksmith named Sylvia.\r\n\r\nCredits\r\n\r\nArnie: Arnie Niekamp\r\nChunt: Adal Rifai\r\nUsidore: Matt Young\r\nSylvia the Blacksmith: Lily Sullivan\r\nMysterious Man: Tim Sniffen\r\n\r\nProducers: Arnie Niekamp, Matt Young, and Adal Rifai\r\nPost-Production Coordination: Garrett Schultz\r\nEarwolf Producer: Kimmie Lucas\r\nEditor: Sage G.C.\r\nSpecial Assistance: Ryan DiGiorgi\r\nMagic Tavern Logo: Allard Laban\r\nTheme Music: Andy Poland",
+            "durationSeconds" : 3068,
+            "editorialStatus" : "enhanced",
+            "episodeID" : "GA0000P001hGmHS",
+            "episodeNumber" : null,
+            "language" : "en",
+            "lastUpdateDateTime" : "2021-12-16T01:46:11Z",
+            "objectType" : "episode",
+            "publishDateTime" : "2021-01-25T05:00:00Z",
+            "seasonNumber" : null,
+            "seriesReference" : {
+               "href" : "/series?seriesIDs=GA0000N000000RZ",
+               "seriesID" : "GA0000N000000RZ",
+               "title" : "Hello From the Magic Tavern"
+            },
+            "sourceFeed" : {
+               "author" : null,
+               "categories" : null,
+               "contentType" : null,
+               "copyright" : null,
+               "description" : "<p>A shopping trip to stock up on new weapons leads to an unusual blacksmith named Sylvia.</p><p><br></p><p>Credits</p><p><strong>Arnie: </strong><a href=\"https://twitter.com/misterarnie\" rel=\"noopener noreferrer\" target=\"_blank\">Arnie Niekamp</a></p><p><strong>Chunt: </strong><a href=\"https://twitter.com/adalrifai\" rel=\"noopener noreferrer\" target=\"_blank\">Adal Rifai</a></p><p><strong>Usidore: </strong><a href=\"https://twitter.com/morepeoplehappy\" rel=\"noopener noreferrer\" target=\"_blank\">Matt Young</a></p><p><strong>Sylvia the Blacksmith</strong>: <a href=\"https://twitter.com/LilyYily\" rel=\"noopener noreferrer\" target=\"_blank\">Lily Sullivan</a></p><p><strong>Mysterious Man: </strong><a href=\"https://twitter.com/MisterSniffen\" rel=\"noopener noreferrer\" target=\"_blank\">Tim Sniffen</a></p><p><br></p><p><strong>Producers: </strong><a href=\"https://twitter.com/misterarnie\" rel=\"noopener noreferrer\" target=\"_blank\">Arnie Niekamp</a>, <a href=\"https://twitter.com/morepeoplehappy\" rel=\"noopener noreferrer\" target=\"_blank\">Matt Young</a>, and <a href=\"https://twitter.com/adalrifai\" rel=\"noopener noreferrer\" target=\"_blank\">Adal Rifai</a></p><p><strong>Post-Production Coordination: </strong><a href=\"https://twitter.com/Garrettanite\" rel=\"noopener noreferrer\" target=\"_blank\">Garrett Schultz</a></p><p><strong>Earwolf Producer: </strong><a href=\"https://twitter.com/kimchilucas\" rel=\"noopener noreferrer\" target=\"_blank\">Kimmie Lucas</a></p><p><strong>Editor: </strong><a href=\"https://twitter.com/Sage_GC\" rel=\"noopener noreferrer\" target=\"_blank\">Sage G.C.</a></p><p><strong>Special Assistance: </strong><a href=\"https://twitter.com/rdigiorgi\" rel=\"noopener noreferrer\" target=\"_blank\">Ryan DiGiorgi</a></p><p><strong>Magic Tavern Logo: </strong><a href=\"https://twitter.com/_allard\" rel=\"noopener noreferrer\" target=\"_blank\">Allard Laban</a></p><p><strong>Theme Music: </strong><a href=\"https://twitter.com/crabbydad\" rel=\"noopener noreferrer\" target=\"_blank\">Andy Poland</a></p><p><br></p><p>You can support the show directly and receive bonus episodes and rewards by joining our Patreon at&nbsp;<a href=\"https://www.patreon.com/magictavern\" rel=\"noopener noreferrer\" target=\"_blank\">https://www.patreon.com/magictavern</a>&nbsp;for only $5 per month. Follow us on&nbsp;<a href=\"https://twitter.com/MagicTavern\" rel=\"noopener noreferrer\" target=\"_blank\">Twitter</a>&nbsp;and&nbsp;<a href=\"http://www.instagram.com/hellofromthemagictavern\" rel=\"noopener noreferrer\" target=\"_blank\">Instagram</a>, and now&nbsp;<a href=\"https://www.patreon.com/magictavern\" rel=\"noopener noreferrer\" target=\"_blank\">Patreon</a>!</p><p>See Privacy Policy at <a href=\"https://art19.com/privacy\" rel=\"noopener noreferrer\" target=\"_blank\">https://art19.com/privacy</a> and California Privacy Notice at <a href=\"https://art19.com/privacy#do-not-sell-my-info\" rel=\"noopener noreferrer\" target=\"_blank\">https://art19.com/privacy#do-not-sell-my-info</a>.</p>",
+               "explicitLanguage" : "true",
+               "feedUrl" : null,
+               "generator" : null,
+               "imageUrl" : "https://content.production.cdn.art19.com/images/d1/7c/55/42/d17c5542-9279-439f-a74b-51a35509b3b3/9e5dedf1df328ad9e6afad027be451d8a6004ace9a608a56ef5dff947e3c1da029eae177362aa133272af86fded608e7f62b10755ab476c341bdf1a988e49408.jpeg",
+               "keywords" : null,
+               "language" : null,
+               "owner" : null,
+               "websiteUrl" : "https://omny.fm/shows/hello-from-the-magic-tavern/season-3-ep-75-blacksmith-w-lily-sullivan"
+            },
+            "subtitle" : null,
+            "summary" : "A shopping trip to stock up on new weapons leads to an unusual blacksmith named Sylvia.\n\n\n\n\nCredits\n\nArnie: Arnie Niekamp\n\nChunt: Adal Rifai\n\nUsidore: Matt Young\n\nSylvia the Blacksmith: Lily Sullivan\n\nMysterious Man: Tim Sniffen\n\n\n\n\nProducers: Arnie Niekamp, Matt Young, and Adal Rifai\n\nPost-Production Coordination: Garrett Schultz\n\nEarwolf Producer: Kimmie Lucas\n\nEditor: Sage G.C.\n\nSpecial Assistance: Ryan DiGiorgi\n\nMagic Tavern Logo: Allard Laban\n\nTheme Music: Andy Poland\n\n\n\n\nYou can support the show directly and receive bonus episodes and rewards by joining our Patreon atÂ https://www.patreon.com/magictavernÂ for only $5 per month. Follow us onÂ TwitterÂ andÂ Instagram, and nowÂ Patreon!\n\nSee Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info.",
+            "title" : "Season 3, Ep 75 - Blacksmith (w/ Lily Sullivan)"
+         },
+         {
+            "audioEnclosure" : {
+               "audioUrl" : "https://rss.art19.com/episodes/42ad6502-59e4-4d48-84ef-ccd9103df88f.mp3?rss_browser=BAhJIgtTYWZhcmkGOgZFVA%3D%3D--e8daa48e4e049c2293a0ad1663b4a762c475e386",
+               "mimeType" : "audio/mpeg",
+               "sizeBytes" : 64977606
+            },
+            "availabilities" : [
+               {
+                  "license" : "Open",
+                  "name" : "All"
+               }
+            ],
+            "categories" : [
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90265",
+                     "display" : "Comedy",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90308",
+                     "display" : "Improv",
+                     "level" : 2
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90277",
+                     "display" : "Storytelling",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90480",
+                     "display" : "Comedy Fiction",
+                     "level" : 2
+                  }
+               ]
+            ],
+            "credits" : [
+               {
+                  "name" : "Tim Sniffen",
+                  "personID" : "1313412",
+                  "role" : {
+                     "display" : "Co-Host"
+                  }
+               },
+               {
+                  "name" : "Arnie Niekamp",
+                  "personID" : "1312678",
+                  "role" : {
+                     "display" : "Voice Performer"
+                  }
+               },
+               {
+                  "name" : "Adal Rifai",
+                  "personID" : "1313405",
+                  "role" : {
+                     "display" : "Voice Performer"
+                  }
+               },
+               {
+                  "name" : "Matt Young",
+                  "personID" : "1313407",
+                  "role" : {
+                     "display" : "Voice Performer"
+                  }
+               },
+               {
+                  "name" : "Bill Arnett",
+                  "personID" : "665684",
+                  "role" : {
+                     "display" : "Guest"
+                  }
+               },
+               {
+                  "name" : "Mark Logsdon",
+                  "personID" : "1337693",
+                  "role" : {
+                     "display" : "Guest"
+                  }
+               },
+               {
+                  "name" : "Brooke Breit",
+                  "personID" : "1313448",
+                  "role" : {
+                     "display" : "Guest"
+                  }
+               },
+               {
+                  "name" : "Kat Kuhl",
+                  "personID" : "1337696",
+                  "role" : {
+                     "display" : "Guest"
+                  }
+               },
+               {
+                  "name" : "James DâAmato",
+                  "personID" : "1336674",
+                  "role" : {
+                     "display" : "Guest"
+                  }
+               }
+            ],
+            "description" : "Everything comes to a head at the office Holiday Party.\r\n\r\n\r\nCredits:\r\nArnie, aka Orlando Bloom: Arnie Niekamp\r\nChunt, aka Dan Smith: Adal Rifai\r\nUsidore, aka John Bastion: Matt Young\r\nMetamore: Bill Arnett\r\nKrom the Fingarian, aka Gail Davidson: Mark Logsdon\r\nFlower, aka Gail Durst: Brooke Breit\r\nMusa and Koji: Kat Kuhl and James DâAmato\r\nMysterious Man: Tim Sniffen\r\nHigh Time Queen: Brooke Breit\r\n\r\n\r\nProducers: Arnie Niekamp, Ryan DiGiorgi, Evan Jacover\r\nEditor: Ryan DiGiorgi\r\nTheme Music: Andy Poland\r\nMagic Tavern Logo: Allard Laban\r\nAudio Assistance: Jason Knox\r\nProduction Assistance: Garrett Schultz",
+            "durationSeconds" : 4061,
+            "editorialStatus" : "enhanced",
+            "episodeID" : "GA0000P000GbRtT",
+            "episodeNumber" : null,
+            "language" : "en",
+            "lastUpdateDateTime" : "2021-12-17T01:35:38Z",
+            "objectType" : "episode",
+            "publishDateTime" : "2019-06-24T04:00:00Z",
+            "seasonNumber" : null,
+            "seriesReference" : {
+               "href" : "/series?seriesIDs=GA0000N000000RZ",
+               "seriesID" : "GA0000N000000RZ",
+               "title" : "Hello From the Magic Tavern"
+            },
+            "sourceFeed" : {
+               "author" : null,
+               "categories" : null,
+               "contentType" : null,
+               "copyright" : null,
+               "description" : "<p>Everything comes to a head at the office Holiday Party.</p><p><br></p><p>Credits</p><p><strong>Arnie, aka Orlando Bloom: </strong><a href=\"https://twitter.com/misterarnie\" rel=\"noopener noreferrer\" target=\"_blank\">Arnie Niekamp</a></p><p><strong>Chunt, aka Dan Smith: </strong><a href=\"https://twitter.com/adalrifai\" rel=\"noopener noreferrer\" target=\"_blank\">Adal Rifai</a></p><p><strong>Usidore, aka John Bastion: </strong><a href=\"https://twitter.com/morepeoplehappy\" rel=\"noopener noreferrer\" target=\"_blank\">Matt Young</a></p><p><strong>Metamore: </strong><a href=\"https://twitter.com/btarnett\" rel=\"noopener noreferrer\" target=\"_blank\">Bill Arnett</a></p><p><strong>Krom the Fingarian, aka Gail Davidson: </strong><a href=\"https://twitter.com/marklogdog\" rel=\"noopener noreferrer\" target=\"_blank\">Mark Logsdon</a></p><p><strong>Flower, aka Gail Durst: </strong><a href=\"https://twitter.com/brookebreit\" rel=\"noopener noreferrer\" target=\"_blank\">Brooke Breit</a></p><p><strong>Musa and Koji: </strong><a href=\"https://twitter.com/kat_kuhl_\" rel=\"noopener noreferrer\" target=\"_blank\">Kat Kuhl</a> and <a href=\"https://twitter.com/OneShotRPG\" rel=\"noopener noreferrer\" target=\"_blank\">James DâAmato</a></p><p><strong>Mysterious Man: </strong><a href=\"https://twitter.com/MisterSniffen\" rel=\"noopener noreferrer\" target=\"_blank\">Tim Sniffen</a></p><p><strong>High Time Queen: </strong><a href=\"https://twitter.com/brookebreit\" rel=\"noopener noreferrer\" target=\"_blank\">Brooke Breit</a></p><p><br></p><p><strong>Producers: </strong><a href=\"https://twitter.com/misterarnie\" rel=\"noopener noreferrer\" target=\"_blank\">Arnie Niekamp</a>, <a href=\"https://twitter.com/rdigiorgi\" rel=\"noopener noreferrer\" target=\"_blank\">Ryan DiGiorgi</a>, <a href=\"https://twitter.com/evanjacover\" rel=\"noopener noreferrer\" target=\"_blank\">Evan Jacover</a></p><p><strong>Editor: </strong><a href=\"https://twitter.com/rdigiorgi\" rel=\"noopener noreferrer\" target=\"_blank\">Ryan DiGiorgi</a></p><p><strong>Theme Music: </strong><a href=\"https://twitter.com/crabbydad\" rel=\"noopener noreferrer\" target=\"_blank\">Andy Poland</a></p><p><strong>Magic Tavern Logo: </strong><a href=\"https://twitter.com/_allard\" rel=\"noopener noreferrer\" target=\"_blank\">Allard Laban</a></p><p><strong>Audio Assistance: </strong><a href=\"https://twitter.com/jasonbknox\" rel=\"noopener noreferrer\" target=\"_blank\">Jason Knox</a></p><p><strong>Production Assistance: </strong><a href=\"https://twitter.com/Garrettanite\" rel=\"noopener noreferrer\" target=\"_blank\">Garrett Schultz</a></p><p><br></p><p>You can support the show directly and receive bonus episodes and rewards by joining our Patreon at&nbsp;<a href=\"https://www.patreon.com/magictavern\" rel=\"noopener noreferrer\" target=\"_blank\">https://www.patreon.com/magictavern</a>&nbsp;for only $5 per month. Follow us on&nbsp;<a href=\"https://twitter.com/MagicTavern\" rel=\"noopener noreferrer\" target=\"_blank\">Twitter</a>&nbsp;and&nbsp;<a href=\"http://www.instagram.com/hellofromthemagictavern\" rel=\"noopener noreferrer\" target=\"_blank\">Instagram</a>, and now&nbsp;<a href=\"https://www.patreon.com/magictavern\" rel=\"noopener noreferrer\" target=\"_blank\">Patreon</a>!</p><p>See Privacy Policy at <a href=\"https://art19.com/privacy\" rel=\"noopener noreferrer\" target=\"_blank\">https://art19.com/privacy</a> and California Privacy Notice at <a href=\"https://art19.com/privacy#do-not-sell-my-info\" rel=\"noopener noreferrer\" target=\"_blank\">https://art19.com/privacy#do-not-sell-my-info</a>.</p>",
+               "explicitLanguage" : "true",
+               "feedUrl" : null,
+               "generator" : null,
+               "imageUrl" : "https://content.production.cdn.art19.com/images/7c/c1/02/40/7cc10240-c904-422f-ad69-51ea243a337f/7a953565ff9e7554e2709cf08c528676159685ce2042bf6e8b09b637218e8d80d1815d648e3565a2b24a24de67faf05726a86baa3277d08a368584091de14b7b.jpeg",
+               "keywords" : null,
+               "language" : null,
+               "owner" : null,
+               "websiteUrl" : "https://omny.fm/shows/hello-from-the-magic-tavern/offices-and-bosses-s1e5-the-i-t-team"
+            },
+            "subtitle" : null,
+            "summary" : "Everything comes to a head at the office Holiday Party.\n\n\n\n\nCredits\n\nArnie, aka Orlando Bloom: Arnie Niekamp\n\nChunt, aka Dan Smith: Adal Rifai\n\nUsidore, aka John Bastion: Matt Young\n\nMetamore: Bill Arnett\n\nKrom the Fingarian, aka Gail Davidson: Mark Logsdon\n\nFlower, aka Gail Durst: Brooke Breit\n\nMusa and Koji: Kat Kuhl and James DâAmato\n\nMysterious Man: Tim Sniffen\n\nHigh Time Queen: Brooke Breit\n\n\n\n\nProducers: Arnie Niekamp, Ryan DiGiorgi, Evan Jacover\n\nEditor: Ryan DiGiorgi\n\nTheme Music: Andy Poland\n\nMagic Tavern Logo: Allard Laban\n\nAudio Assistance: Jason Knox\n\nProduction Assistance: Garrett Schultz\n\n\n\n\nYou can support the show directly and receive bonus episodes and rewards by joining our Patreon atÂ https://www.patreon.com/magictavernÂ for only $5 per month. Follow us onÂ TwitterÂ andÂ Instagram, and nowÂ Patreon!\n\nSee Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info.",
+            "title" : "Offices and Bosses S1E5: The I.T. Team"
+         },
+         {
+            "audioEnclosure" : {
+               "audioUrl" : "https://rss.art19.com/episodes/b775b6b3-709a-45e5-90a5-f92dfc1117f7.mp3?rss_browser=BAhJIgtTYWZhcmkGOgZFVA%3D%3D--e8daa48e4e049c2293a0ad1663b4a762c475e386",
+               "mimeType" : "audio/mpeg",
+               "sizeBytes" : 41274305
+            },
+            "availabilities" : [
+               {
+                  "license" : "Open",
+                  "name" : "All"
+               }
+            ],
+            "categories" : [
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90265",
+                     "display" : "Comedy",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90308",
+                     "display" : "Improv",
+                     "level" : 2
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90265",
+                     "display" : "Comedy",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90316",
+                     "display" : "Comedy Crews",
+                     "level" : 2
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90277",
+                     "display" : "Storytelling",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90480",
+                     "display" : "Comedy Fiction",
+                     "level" : 2
+                  }
+               ]
+            ],
+            "credits" : [
+               {
+                  "name" : "Rachel Bloom",
+                  "personID" : "652565",
+                  "role" : {
+                     "display" : "Guest"
+                  }
+               },
+               {
+                  "name" : "Evan Jacover",
+                  "personID" : "1313421",
+                  "role" : {
+                     "display" : "Guest"
+                  }
+               },
+               {
+                  "name" : "Tim Sniffen",
+                  "personID" : "1313412",
+                  "role" : {
+                     "display" : "Co-Host"
+                  }
+               },
+               {
+                  "name" : "Arnie Niekamp",
+                  "personID" : "1312678",
+                  "role" : {
+                     "display" : "Voice Performer"
+                  }
+               },
+               {
+                  "name" : "Adal Rifai",
+                  "personID" : "1313405",
+                  "role" : {
+                     "display" : "Voice Performer"
+                  }
+               },
+               {
+                  "name" : "Matt Young",
+                  "personID" : "1313407",
+                  "role" : {
+                     "display" : "Voice Performer"
+                  }
+               }
+            ],
+            "description" : "A walk through the forest leads to an encounter with a rare magical creature: a woman in a tree thatâs a fan of the podcast. Credits: Arnie: Arnie Niekamp Chunt: Adal Rifai Usidore: Matt Young Jessica the Tree Wench: Rachel Bloom Mysterious Man: Tim Sniffen Lincoln: Evan Jacover Producers: Arnie Niekamp, Matt Young, and Adal Rifai Post-Production Coordination: Garrett Schultz Earwolf Producer: Kimmie Lucas Editor: Tim Joyce Special Assistance: Ryan DiGiorgi Magic Tavern Logo: Allard Laban Theme Music: Andy Poland",
+            "durationSeconds" : 2579,
+            "editorialStatus" : "enhanced",
+            "episodeID" : "GA0000P000RbRV7",
+            "episodeNumber" : null,
+            "language" : "en",
+            "lastUpdateDateTime" : "2021-12-16T01:46:07Z",
+            "objectType" : "episode",
+            "publishDateTime" : "2019-09-23T04:00:00Z",
+            "seasonNumber" : null,
+            "seriesReference" : {
+               "href" : "/series?seriesIDs=GA0000N000000RZ",
+               "seriesID" : "GA0000N000000RZ",
+               "title" : "Hello From the Magic Tavern"
+            },
+            "sourceFeed" : {
+               "author" : null,
+               "categories" : null,
+               "contentType" : null,
+               "copyright" : null,
+               "description" : "<p>A walk through the forest leads to an encounter with a rare magical creature: a woman in a tree that's a fan of the podcast.</p><p><br></p><p>Credits</p><p><strong>Arnie: </strong><a href=\"https://twitter.com/misterarnie\" rel=\"noopener noreferrer\" target=\"_blank\">Arnie Niekamp</a></p><p><strong>Chunt: </strong><a href=\"https://twitter.com/adalrifai\" rel=\"noopener noreferrer\" target=\"_blank\">Adal Rifai</a></p><p><strong>Usidore: </strong><a href=\"https://twitter.com/morepeoplehappy\" rel=\"noopener noreferrer\" target=\"_blank\">Matt Young</a></p><p><strong>Jessica the Tree Wench: </strong><a href=\"https://twitter.com/Racheldoesstuff\" rel=\"noopener noreferrer\" target=\"_blank\">Rachel Bloom</a></p><p><strong>Mysterious Man: </strong><a href=\"https://twitter.com/MisterSniffen\" rel=\"noopener noreferrer\" target=\"_blank\">Tim Sniffen</a></p><p><strong>Lincoln: </strong><a href=\"https://twitter.com/evanjacover\" rel=\"noopener noreferrer\" target=\"_blank\">Evan Jacover</a></p><p><br></p><p><strong>Producers: </strong><a href=\"https://twitter.com/misterarnie\" rel=\"noopener noreferrer\" target=\"_blank\">Arnie Niekamp</a>, <a href=\"https://twitter.com/morepeoplehappy\" rel=\"noopener noreferrer\" target=\"_blank\">Matt Young</a>, and <a href=\"https://twitter.com/adalrifai\" rel=\"noopener noreferrer\" target=\"_blank\">Adal Rifai</a></p><p><strong>Post-Production Coordination: </strong><a href=\"https://twitter.com/Garrettanite\" rel=\"noopener noreferrer\" target=\"_blank\">Garrett Schultz</a></p><p><strong>Earwolf Producer: </strong><a href=\"https://twitter.com/kimchilucas\" rel=\"noopener noreferrer\" target=\"_blank\">Kimmie Lucas</a></p><p><strong>Editor: </strong><a href=\"https://twitter.com/mrtimjoyce\" rel=\"noopener noreferrer\" target=\"_blank\">Tim Joyce</a></p><p><strong>Special Assistance: </strong><a href=\"https://twitter.com/rdigiorgi\" rel=\"noopener noreferrer\" target=\"_blank\">Ryan DiGiorgi</a></p><p><strong>Magic Tavern Logo: </strong><a href=\"https://twitter.com/_allard\" rel=\"noopener noreferrer\" target=\"_blank\">Allard Laban</a></p><p><strong>Theme Music: </strong><a href=\"https://twitter.com/crabbydad\" rel=\"noopener noreferrer\" target=\"_blank\">Andy Poland</a></p><p><br></p><p>You can support the show directly and receive bonus episodes and rewards by joining our Patreon at&nbsp;<a href=\"https://www.patreon.com/magictavern\" rel=\"noopener noreferrer\" target=\"_blank\">https://www.patreon.com/magictavern</a>&nbsp;for only $5 per month. Follow us on&nbsp;<a href=\"https://twitter.com/MagicTavern\" rel=\"noopener noreferrer\" target=\"_blank\">Twitter</a>&nbsp;and&nbsp;<a href=\"http://www.instagram.com/hellofromthemagictavern\" rel=\"noopener noreferrer\" target=\"_blank\">Instagram</a>, and now&nbsp;<a href=\"https://www.patreon.com/magictavern\" rel=\"noopener noreferrer\" target=\"_blank\">Patreon</a>!</p><p>See Privacy Policy at <a href=\"https://art19.com/privacy\" rel=\"noopener noreferrer\" target=\"_blank\">https://art19.com/privacy</a> and California Privacy Notice at <a href=\"https://art19.com/privacy#do-not-sell-my-info\" rel=\"noopener noreferrer\" target=\"_blank\">https://art19.com/privacy#do-not-sell-my-info</a>.</p>",
+               "explicitLanguage" : "true",
+               "feedUrl" : null,
+               "generator" : null,
+               "imageUrl" : "https://content.production.cdn.art19.com/images/d1/7c/55/42/d17c5542-9279-439f-a74b-51a35509b3b3/9e5dedf1df328ad9e6afad027be451d8a6004ace9a608a56ef5dff947e3c1da029eae177362aa133272af86fded608e7f62b10755ab476c341bdf1a988e49408.jpeg",
+               "keywords" : null,
+               "language" : null,
+               "owner" : null,
+               "websiteUrl" : "https://omny.fm/shows/hello-from-the-magic-tavern/season-3-ep-10-tree-wench-w-rachel-bloom"
+            },
+            "subtitle" : null,
+            "summary" : "A walk through the forest leads to an encounter with a rare magical creature: a woman in a tree that's a fan of the podcast.\n\n\n\n\nCredits\n\nArnie: Arnie Niekamp\n\nChunt: Adal Rifai\n\nUsidore: Matt Young\n\nJessica the Tree Wench: Rachel Bloom\n\nMysterious Man: Tim Sniffen\n\nLincoln: Evan Jacover\n\n\n\n\nProducers: Arnie Niekamp, Matt Young, and Adal Rifai\n\nPost-Production Coordination: Garrett Schultz\n\nEarwolf Producer: Kimmie Lucas\n\nEditor: Tim Joyce\n\nSpecial Assistance: Ryan DiGiorgi\n\nMagic Tavern Logo: Allard Laban\n\nTheme Music: Andy Poland\n\n\n\n\nYou can support the show directly and receive bonus episodes and rewards by joining our Patreon atÂ https://www.patreon.com/magictavernÂ for only $5 per month. Follow us onÂ TwitterÂ andÂ Instagram, and nowÂ Patreon!\n\nSee Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info.",
+            "title" : "Season 3, Ep 10 - Tree Wench (w/ Rachel Bloom)"
+         }
+      ],
+      "meta" : {
+         "count" : 10,
+         "offset" : 0,
+         "total" : 368
+      }
+   },
+   "error" : null,
+   "success" : true
+}

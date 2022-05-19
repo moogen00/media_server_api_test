@@ -1,0 +1,1069 @@
+3.10 Aod Episodes Endpoint do_aod_episode ===========================================
+{
+   "data" : {
+      "data" : [
+         {
+            "audioEnclosure" : {
+               "audioUrl" : "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/9DD8D/traffic.megaphone.fm/TPC4159344302.mp3?updated=1631814134",
+               "mimeType" : "audio/mpeg",
+               "sizeBytes" : null
+            },
+            "availabilities" : [
+               {
+                  "license" : "Open",
+                  "name" : "All"
+               }
+            ],
+            "categories" : [
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90265",
+                     "display" : "Comedy",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90319",
+                     "display" : "Funny Streamers",
+                     "level" : 2
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90275",
+                     "display" : "Society & Culture",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90445",
+                     "display" : "Culture Interviews",
+                     "level" : 2
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90270",
+                     "display" : "Lifestyle",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90388",
+                     "display" : "Games",
+                     "level" : 2
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "91080",
+                     "display" : "PokÃ©mon",
+                     "level" : 3
+                  }
+               ]
+            ],
+            "credits" : [
+               {
+                  "name" : "Joe Santagato",
+                  "personID" : "1320298",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               },
+               {
+                  "name" : "Danny Lopriore",
+                  "personID" : "1320735",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               },
+               {
+                  "name" : "Frank Alvarez",
+                  "personID" : "1320315",
+                  "role" : {
+                     "display" : "Guest"
+                  }
+               }
+            ],
+            "description" : "My guests @DannyLopriore & @Frank_Alvarez80 come on the show to discuss Pokemon, Pooping in Public, & Arming the teachers.",
+            "durationSeconds" : 4663,
+            "editorialStatus" : "enhanced",
+            "episodeID" : "GA0000P00003R9S",
+            "episodeNumber" : null,
+            "language" : "en",
+            "lastUpdateDateTime" : "2022-02-28T19:44:14Z",
+            "objectType" : "episode",
+            "publishDateTime" : "2018-02-26T19:17:41Z",
+            "seasonNumber" : null,
+            "seriesReference" : {
+               "href" : "/series?seriesIDs=GA0000N000000RR",
+               "seriesID" : "GA0000N000000RR",
+               "title" : "The Basement Yard"
+            },
+            "sourceFeed" : {
+               "author" : null,
+               "categories" : null,
+               "contentType" : null,
+               "copyright" : null,
+               "description" : "My guests @DannyLopriore & @Frank_Alvarez80 come on the show to discuss Pokemon, Pooping in Public, & Arming the teachers.",
+               "explicitLanguage" : "true",
+               "feedUrl" : null,
+               "generator" : null,
+               "imageUrl" : "https://megaphone.imgix.net/podcasts/63580936-1714-11ec-acfc-f316435ebcdb/image/artworks-000308178405-rgmwio-original.jpg?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+               "keywords" : null,
+               "language" : null,
+               "owner" : null,
+               "websiteUrl" : "https://chrt.fm/track/9DD8D/traffic.libsyn.com/secure/basementyard/405559242-thebasementyard-should-we-arm-the-teachers.m4a"
+            },
+            "subtitle" : "My guests @DannyLopriore & @Frank_Alvarez80 come â¦",
+            "summary" : "My guests @DannyLopriore & @Frank_Alvarez80 come on the show to discuss Pokemon, Pooping in Public, & Arming the teachers.",
+            "title" : "Should We Arm the Teachers?"
+         },
+         {
+            "audioEnclosure" : {
+               "audioUrl" : "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/9DD8D/traffic.megaphone.fm/TPC7938702428.mp3?updated=1631814190",
+               "mimeType" : "audio/mpeg",
+               "sizeBytes" : null
+            },
+            "availabilities" : [
+               {
+                  "license" : "Open",
+                  "name" : "All"
+               }
+            ],
+            "categories" : [
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90265",
+                     "display" : "Comedy",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90319",
+                     "display" : "Funny Streamers",
+                     "level" : 2
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90280",
+                     "display" : "TV & Film",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90513",
+                     "display" : "Entertainment Talk",
+                     "level" : 2
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90271",
+                     "display" : "Music",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90394",
+                     "display" : "Music Commentary & Analysis",
+                     "level" : 2
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90723",
+                     "display" : "Specific Music Artists",
+                     "level" : 3
+                  }
+               ]
+            ],
+            "credits" : [
+               {
+                  "name" : "Joe Santagato",
+                  "personID" : "1320298",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               },
+               {
+                  "name" : "Danny Lopriore",
+                  "personID" : "1320735",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               },
+               {
+                  "name" : "Harry Styles",
+                  "personID" : "878203",
+                  "role" : {
+                     "display" : "Subject"
+                  }
+               },
+               {
+                  "name" : "Donald Trump",
+                  "personID" : "1805",
+                  "role" : {
+                     "display" : "Subject"
+                  }
+               }
+            ],
+            "description" : "In this episode, I talk about the AMAs, Harry Styles, Donald Trump, & why kids suck. Nothing surprising.",
+            "durationSeconds" : 1883,
+            "editorialStatus" : "enhanced",
+            "episodeID" : "GA0000P00003R61",
+            "episodeNumber" : null,
+            "language" : "en",
+            "lastUpdateDateTime" : "2022-02-28T19:42:39Z",
+            "objectType" : "episode",
+            "publishDateTime" : "2015-11-23T19:26:35Z",
+            "seasonNumber" : null,
+            "seriesReference" : {
+               "href" : "/series?seriesIDs=GA0000N000000RR",
+               "seriesID" : "GA0000N000000RR",
+               "title" : "The Basement Yard"
+            },
+            "sourceFeed" : {
+               "author" : null,
+               "categories" : null,
+               "contentType" : null,
+               "copyright" : null,
+               "description" : "In this episode, I talk about the AMAs, Harry Styles, Donald Trump, & why kids suck. Nothing surprising.",
+               "explicitLanguage" : "true",
+               "feedUrl" : null,
+               "generator" : null,
+               "imageUrl" : "https://megaphone.imgix.net/podcasts/81604c90-1714-11ec-acfc-ab4f12220360/image/artworks-000137122889-5q3w3y-original.jpg?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+               "keywords" : null,
+               "language" : null,
+               "owner" : null,
+               "websiteUrl" : "https://chrt.fm/track/9DD8D/traffic.libsyn.com/secure/basementyard/234384352-thebasementyard-the-fangirls-want-me-to-di.mp3"
+            },
+            "subtitle" : "In this episode, I talk about the AMAs, Harry Styâ¦",
+            "summary" : "In this episode, I talk about the AMAs, Harry Styles, Donald Trump, & why kids suck. Nothing surprising.",
+            "title" : "The Fangirls Want Me to Die"
+         },
+         {
+            "audioEnclosure" : {
+               "audioUrl" : "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/9DD8D/traffic.megaphone.fm/TPC2671890696.mp3?updated=1631814165",
+               "mimeType" : "audio/mpeg",
+               "sizeBytes" : null
+            },
+            "availabilities" : [
+               {
+                  "license" : "Open",
+                  "name" : "All"
+               }
+            ],
+            "categories" : [
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90265",
+                     "display" : "Comedy",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90319",
+                     "display" : "Funny Streamers",
+                     "level" : 2
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90271",
+                     "display" : "Music",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90394",
+                     "display" : "Music Commentary & Analysis",
+                     "level" : 2
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90721",
+                     "display" : "Music Interviews",
+                     "level" : 3
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90270",
+                     "display" : "Lifestyle",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90370",
+                     "display" : "Influencers & Vloggers",
+                     "level" : 2
+                  }
+               ]
+            ],
+            "credits" : [
+               {
+                  "name" : "Joe Santagato",
+                  "personID" : "1320298",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               },
+               {
+                  "name" : "Danny Lopriore",
+                  "personID" : "1320735",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               },
+               {
+                  "name" : "Tim Delaghetto",
+                  "personID" : "881912",
+                  "role" : {
+                     "display" : "Guest"
+                  }
+               }
+            ],
+            "description" : "I have @TimothyDeLaG on to talk about his 10 years on YouTuber & other things!",
+            "durationSeconds" : 3005,
+            "editorialStatus" : "enhanced",
+            "episodeID" : "GA0000P00003R7H",
+            "episodeNumber" : null,
+            "language" : "en",
+            "lastUpdateDateTime" : "2022-02-28T19:43:16Z",
+            "objectType" : "episode",
+            "publishDateTime" : "2016-10-24T23:21:15Z",
+            "seasonNumber" : null,
+            "seriesReference" : {
+               "href" : "/series?seriesIDs=GA0000N000000RR",
+               "seriesID" : "GA0000N000000RR",
+               "title" : "The Basement Yard"
+            },
+            "sourceFeed" : {
+               "author" : null,
+               "categories" : null,
+               "contentType" : null,
+               "copyright" : null,
+               "description" : "I have @TimothyDeLaG on to talk about his 10 years on YouTuber & other things!",
+               "explicitLanguage" : "true",
+               "feedUrl" : null,
+               "generator" : null,
+               "imageUrl" : "https://megaphone.imgix.net/podcasts/75c826a0-1714-11ec-acfc-6fc5733761c6/image/avatars-000474300243-0lhdif-original.jpg?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+               "keywords" : null,
+               "language" : null,
+               "owner" : null,
+               "websiteUrl" : "https://chrt.fm/track/9DD8D/traffic.libsyn.com/secure/basementyard/289809363-thebasementyard-tim-delaghetto-is-in-the-basement.mp3"
+            },
+            "subtitle" : "I have @TimothyDeLaG on to talk about his 10 yearâ¦",
+            "summary" : "I have @TimothyDeLaG on to talk about his 10 years on YouTuber & other things!",
+            "title" : "Tim Delaghetto Is in the Basement"
+         },
+         {
+            "audioEnclosure" : {
+               "audioUrl" : "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/9DD8D/traffic.megaphone.fm/TPC5899425339.mp3?updated=1631814155",
+               "mimeType" : "audio/mpeg",
+               "sizeBytes" : null
+            },
+            "availabilities" : [
+               {
+                  "license" : "Open",
+                  "name" : "All"
+               }
+            ],
+            "categories" : [
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90265",
+                     "display" : "Comedy",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90319",
+                     "display" : "Funny Streamers",
+                     "level" : 2
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90267",
+                     "display" : "Health & Living",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90343",
+                     "display" : "Love & Relationships",
+                     "level" : 2
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90632",
+                     "display" : "Sexuality",
+                     "level" : 3
+                  }
+               ]
+            ],
+            "credits" : [
+               {
+                  "name" : "Joe Santagato",
+                  "personID" : "1320298",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               },
+               {
+                  "name" : "Danny Lopriore",
+                  "personID" : "1320735",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               }
+            ],
+            "description" : "@LambVM10 is on this week to talk about wether camel toes & chokers are sexy or not.",
+            "durationSeconds" : 2774,
+            "editorialStatus" : "enhanced",
+            "episodeID" : "GA0000P00003R84",
+            "episodeNumber" : null,
+            "language" : "en",
+            "lastUpdateDateTime" : "2022-02-28T19:43:33Z",
+            "objectType" : "episode",
+            "publishDateTime" : "2017-03-21T01:11:31Z",
+            "seasonNumber" : null,
+            "seriesReference" : {
+               "href" : "/series?seriesIDs=GA0000N000000RR",
+               "seriesID" : "GA0000N000000RR",
+               "title" : "The Basement Yard"
+            },
+            "sourceFeed" : {
+               "author" : null,
+               "categories" : null,
+               "contentType" : null,
+               "copyright" : null,
+               "description" : "@LambVM10 is on this week to talk about wether camel toes & chokers are sexy or not.",
+               "explicitLanguage" : "true",
+               "feedUrl" : null,
+               "generator" : null,
+               "imageUrl" : "https://megaphone.imgix.net/podcasts/7027a478-1714-11ec-acfc-57749d1e3c86/image/artworks-000213673744-faxt4y-original.jpg?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+               "keywords" : null,
+               "language" : null,
+               "owner" : null,
+               "websiteUrl" : "https://chrt.fm/track/9DD8D/traffic.libsyn.com/secure/basementyard/313533394-thebasementyard-are-camel-toes-sexy.mp3"
+            },
+            "subtitle" : "@LambVM10 is on this week to talk about wether caâ¦",
+            "summary" : "@LambVM10 is on this week to talk about wether camel toes & chokers are sexy or not.",
+            "title" : "Are Camel Toes Sexy?"
+         },
+         {
+            "audioEnclosure" : {
+               "audioUrl" : "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/9DD8D/traffic.megaphone.fm/TPC7577690689.mp3?updated=1631814107",
+               "mimeType" : "audio/mpeg",
+               "sizeBytes" : null
+            },
+            "availabilities" : [
+               {
+                  "license" : "Open",
+                  "name" : "All"
+               }
+            ],
+            "categories" : [
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90265",
+                     "display" : "Comedy",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90319",
+                     "display" : "Funny Streamers",
+                     "level" : 2
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90280",
+                     "display" : "TV & Film",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90513",
+                     "display" : "Entertainment Talk",
+                     "level" : 2
+                  }
+               ]
+            ],
+            "credits" : [
+               {
+                  "name" : "Joe Santagato",
+                  "personID" : "1320298",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               },
+               {
+                  "name" : "Danny Lopriore",
+                  "personID" : "1320735",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               }
+            ],
+            "description" : "On this episode, Danny and I discuss the most cringeworthy TikToks we've ever seen.",
+            "durationSeconds" : 4886,
+            "editorialStatus" : "enhanced",
+            "episodeID" : "GA0000P00003RC9",
+            "episodeNumber" : null,
+            "language" : "en",
+            "lastUpdateDateTime" : "2022-02-28T19:44:56Z",
+            "objectType" : "episode",
+            "publishDateTime" : "2019-03-04T12:00:43Z",
+            "seasonNumber" : null,
+            "seriesReference" : {
+               "href" : "/series?seriesIDs=GA0000N000000RR",
+               "seriesID" : "GA0000N000000RR",
+               "title" : "The Basement Yard"
+            },
+            "sourceFeed" : {
+               "author" : null,
+               "categories" : null,
+               "contentType" : null,
+               "copyright" : null,
+               "description" : "On this episode, Danny and I discuss the most cringeworthy TikToks we've ever seen.",
+               "explicitLanguage" : "true",
+               "feedUrl" : null,
+               "generator" : null,
+               "imageUrl" : "https://megaphone.imgix.net/podcasts/5607b66e-1714-11ec-acfc-c3905845d205/image/artworks-000498325104-zinrs1-original.jpg?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+               "keywords" : null,
+               "language" : null,
+               "owner" : null,
+               "websiteUrl" : "https://chrt.fm/track/9DD8D/traffic.libsyn.com/secure/basementyard/584684700-thebasementyard-179-somebody-better-call-the-law.m4a"
+            },
+            "subtitle" : "On this episode, Danny and I discuss the most criâ¦",
+            "summary" : "On this episode, Danny and I discuss the most cringeworthy TikToks we've ever seen.",
+            "title" : "#179 - Somebody Better Call the Law"
+         },
+         {
+            "audioEnclosure" : {
+               "audioUrl" : "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/9DD8D/traffic.megaphone.fm/TPC5010047145.mp3?updated=1631814109",
+               "mimeType" : "audio/mpeg",
+               "sizeBytes" : null
+            },
+            "availabilities" : [
+               {
+                  "license" : "Open",
+                  "name" : "All"
+               }
+            ],
+            "categories" : [
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90265",
+                     "display" : "Comedy",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90319",
+                     "display" : "Funny Streamers",
+                     "level" : 2
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90271",
+                     "display" : "Music",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90394",
+                     "display" : "Music Commentary & Analysis",
+                     "level" : 2
+                  }
+               ]
+            ],
+            "credits" : [
+               {
+                  "name" : "Joe Santagato",
+                  "personID" : "1320298",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               },
+               {
+                  "name" : "Danny Lopriore",
+                  "personID" : "1320735",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               }
+            ],
+            "description" : "On this episode, Danny turns thirty, we discuss reading comments, some of our favorite music and more!",
+            "durationSeconds" : 5996,
+            "editorialStatus" : "enhanced",
+            "episodeID" : "GA0000P00003RC6",
+            "episodeNumber" : null,
+            "language" : "en",
+            "lastUpdateDateTime" : "2022-02-28T19:44:53Z",
+            "objectType" : "episode",
+            "publishDateTime" : "2019-02-11T12:00:05Z",
+            "seasonNumber" : null,
+            "seriesReference" : {
+               "href" : "/series?seriesIDs=GA0000N000000RR",
+               "seriesID" : "GA0000N000000RR",
+               "title" : "The Basement Yard"
+            },
+            "sourceFeed" : {
+               "author" : null,
+               "categories" : null,
+               "contentType" : null,
+               "copyright" : null,
+               "description" : "On this episode, Danny turns thirty, we discuss reading comments, some of our favorite music and more!",
+               "explicitLanguage" : "true",
+               "feedUrl" : null,
+               "generator" : null,
+               "imageUrl" : "https://megaphone.imgix.net/podcasts/56d13a48-1714-11ec-acfc-6f0829259f7a/image/artworks-000482892651-559ysr-original.jpg?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+               "keywords" : null,
+               "language" : null,
+               "owner" : null,
+               "websiteUrl" : "https://chrt.fm/track/9DD8D/traffic.libsyn.com/secure/basementyard/569791242-thebasementyard-176-thirty-years-old-1.m4a"
+            },
+            "subtitle" : "On this episode, Danny turns thirty, we discuss râ¦",
+            "summary" : "On this episode, Danny turns thirty, we discuss reading comments, some of our favorite music and more!",
+            "title" : "#176 - Thirty Years Old"
+         },
+         {
+            "audioEnclosure" : {
+               "audioUrl" : "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/9DD8D/traffic.megaphone.fm/TPC8958068893.mp3?updated=1631814175",
+               "mimeType" : "audio/mpeg",
+               "sizeBytes" : null
+            },
+            "availabilities" : [
+               {
+                  "license" : "Open",
+                  "name" : "All"
+               }
+            ],
+            "categories" : [
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90265",
+                     "display" : "Comedy",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90319",
+                     "display" : "Funny Streamers",
+                     "level" : 2
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90277",
+                     "display" : "Storytelling",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90476",
+                     "display" : "Personal Stories",
+                     "level" : 2
+                  }
+               ]
+            ],
+            "credits" : [
+               {
+                  "name" : "Joe Santagato",
+                  "personID" : "1320298",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               },
+               {
+                  "name" : "Danny Lopriore",
+                  "personID" : "1320735",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               },
+               {
+                  "name" : "Anthony Davino",
+                  "personID" : "1373812",
+                  "role" : {
+                     "display" : "Guest"
+                  }
+               }
+            ],
+            "description" : "@AntVino will not leave me alone so he's back to talk about strip clubs!",
+            "durationSeconds" : 1945,
+            "editorialStatus" : "enhanced",
+            "episodeID" : "GA0000P00003R6X",
+            "episodeNumber" : null,
+            "language" : "en",
+            "lastUpdateDateTime" : "2022-02-28T19:42:59Z",
+            "objectType" : "episode",
+            "publishDateTime" : "2016-05-23T22:01:32Z",
+            "seasonNumber" : null,
+            "seriesReference" : {
+               "href" : "/series?seriesIDs=GA0000N000000RR",
+               "seriesID" : "GA0000N000000RR",
+               "title" : "The Basement Yard"
+            },
+            "sourceFeed" : {
+               "author" : null,
+               "categories" : null,
+               "contentType" : null,
+               "copyright" : null,
+               "description" : "@AntVino will not leave me alone so he's back to talk about strip clubs!",
+               "explicitLanguage" : "true",
+               "feedUrl" : null,
+               "generator" : null,
+               "imageUrl" : "https://megaphone.imgix.net/podcasts/7b156bcc-1714-11ec-acfc-e3f8aad63d68/image/avatars-000474300243-0lhdif-original.jpg?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+               "keywords" : null,
+               "language" : null,
+               "owner" : null,
+               "websiteUrl" : "https://chrt.fm/track/9DD8D/traffic.libsyn.com/secure/basementyard/265576323-thebasementyard-strip-club-confessions-w-davino.mp3"
+            },
+            "subtitle" : "@AntVino will not leave me alone so he's back to â¦",
+            "summary" : "@AntVino will not leave me alone so he's back to talk about strip clubs!",
+            "title" : "Strip Club Confessions W/ Davino"
+         },
+         {
+            "audioEnclosure" : {
+               "audioUrl" : "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/9DD8D/traffic.megaphone.fm/TPC2772934702.mp3?updated=1631814115",
+               "mimeType" : "audio/mpeg",
+               "sizeBytes" : null
+            },
+            "availabilities" : [
+               {
+                  "license" : "Open",
+                  "name" : "All"
+               }
+            ],
+            "categories" : [
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90265",
+                     "display" : "Comedy",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90319",
+                     "display" : "Funny Streamers",
+                     "level" : 2
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90275",
+                     "display" : "Society & Culture",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90445",
+                     "display" : "Culture Interviews",
+                     "level" : 2
+                  }
+               ]
+            ],
+            "credits" : [
+               {
+                  "name" : "Joe Santagato",
+                  "personID" : "1320298",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               },
+               {
+                  "name" : "Danny Lopriore",
+                  "personID" : "1320735",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               },
+               {
+                  "name" : "Keith Santagato",
+                  "personID" : "1320314",
+                  "role" : {
+                     "display" : "Guest"
+                  }
+               }
+            ],
+            "description" : "My brother Keith is back on the podcast after a long hiatus!",
+            "durationSeconds" : 5056,
+            "editorialStatus" : "enhanced",
+            "episodeID" : "GA0000P00003RBX",
+            "episodeNumber" : null,
+            "language" : "en",
+            "lastUpdateDateTime" : "2022-02-28T19:44:43Z",
+            "objectType" : "episode",
+            "publishDateTime" : "2018-11-12T12:00:28Z",
+            "seasonNumber" : null,
+            "seriesReference" : {
+               "href" : "/series?seriesIDs=GA0000N000000RR",
+               "seriesID" : "GA0000N000000RR",
+               "title" : "The Basement Yard"
+            },
+            "sourceFeed" : {
+               "author" : null,
+               "categories" : null,
+               "contentType" : null,
+               "copyright" : null,
+               "description" : "My brother Keith is back on the podcast after a long hiatus!",
+               "explicitLanguage" : "true",
+               "feedUrl" : null,
+               "generator" : null,
+               "imageUrl" : "https://megaphone.imgix.net/podcasts/5a27fb3c-1714-11ec-acfc-3bd6cbb83367/image/artworks-000438257538-bmj2z6-original.jpg?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+               "keywords" : null,
+               "language" : null,
+               "owner" : null,
+               "websiteUrl" : "https://chrt.fm/track/9DD8D/traffic.libsyn.com/secure/basementyard/528455382-thebasementyard-163-the-return-of-keith.m4a"
+            },
+            "subtitle" : "My brother Keith is back on the podcast after a lâ¦",
+            "summary" : "My brother Keith is back on the podcast after a long hiatus!",
+            "title" : "#163 - The Return of Keith"
+         },
+         {
+            "audioEnclosure" : {
+               "audioUrl" : "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/9DD8D/traffic.megaphone.fm/TPC2925130286.mp3?updated=1631814158",
+               "mimeType" : "audio/mpeg",
+               "sizeBytes" : null
+            },
+            "availabilities" : [
+               {
+                  "license" : "Open",
+                  "name" : "All"
+               }
+            ],
+            "categories" : [
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90265",
+                     "display" : "Comedy",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90319",
+                     "display" : "Funny Streamers",
+                     "level" : 2
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90275",
+                     "display" : "Society & Culture",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90445",
+                     "display" : "Culture Interviews",
+                     "level" : 2
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90274",
+                     "display" : "Science",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90442",
+                     "display" : "Social Sciences",
+                     "level" : 2
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90877",
+                     "display" : "Transportation / Transit",
+                     "level" : 3
+                  }
+               ]
+            ],
+            "credits" : [
+               {
+                  "name" : "Joe Santagato",
+                  "personID" : "1320298",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               },
+               {
+                  "name" : "Danny Lopriore",
+                  "personID" : "1320735",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               },
+               {
+                  "name" : "Timothy J Deguzman",
+                  "personID" : "1373818",
+                  "role" : {
+                     "display" : "Guest"
+                  }
+               }
+            ],
+            "description" : "On this episode, I have @LambVM10 & @TimboTheTruth from @VeteransMinimum on to talk about the NYC Subway",
+            "durationSeconds" : 2868,
+            "editorialStatus" : "enhanced",
+            "episodeID" : "GA0000P00003R7r",
+            "episodeNumber" : null,
+            "language" : "en",
+            "lastUpdateDateTime" : "2022-02-28T19:43:28Z",
+            "objectType" : "episode",
+            "publishDateTime" : "2017-02-07T00:00:50Z",
+            "seasonNumber" : null,
+            "seriesReference" : {
+               "href" : "/series?seriesIDs=GA0000N000000RR",
+               "seriesID" : "GA0000N000000RR",
+               "title" : "The Basement Yard"
+            },
+            "sourceFeed" : {
+               "author" : null,
+               "categories" : null,
+               "contentType" : null,
+               "copyright" : null,
+               "description" : "On this episode, I have @LambVM10 & @TimboTheTruth from @VeteransMinimum on to talk about the NYC Subway",
+               "explicitLanguage" : "true",
+               "feedUrl" : null,
+               "generator" : null,
+               "imageUrl" : "https://megaphone.imgix.net/podcasts/71b24cf8-1714-11ec-acfc-9fe163ad8e69/image/artworks-000206538472-2fwvu6-original.jpg?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+               "keywords" : null,
+               "language" : null,
+               "owner" : null,
+               "websiteUrl" : "https://chrt.fm/track/9DD8D/traffic.libsyn.com/secure/basementyard/306462389-thebasementyard-ommggg-it-hurts.mp3"
+            },
+            "subtitle" : "On this episode, I have @LambVM10 & @TimboTheTrutâ¦",
+            "summary" : "On this episode, I have @LambVM10 & @TimboTheTruth from @VeteransMinimum on to talk about the NYC Subway",
+            "title" : "The NYC Subway"
+         },
+         {
+            "audioEnclosure" : {
+               "audioUrl" : "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/9DD8D/traffic.megaphone.fm/TPC8615852097.mp3?updated=1631814105",
+               "mimeType" : "audio/mpeg",
+               "sizeBytes" : null
+            },
+            "availabilities" : [
+               {
+                  "license" : "Open",
+                  "name" : "All"
+               }
+            ],
+            "categories" : [
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90277",
+                     "display" : "Storytelling",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90476",
+                     "display" : "Personal Stories",
+                     "level" : 2
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90265",
+                     "display" : "Comedy",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90319",
+                     "display" : "Funny Streamers",
+                     "level" : 2
+                  }
+               ]
+            ],
+            "credits" : [
+               {
+                  "name" : "Joe Santagato",
+                  "personID" : "1320298",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               },
+               {
+                  "name" : "Danny Lopriore",
+                  "personID" : "1320735",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               }
+            ],
+            "description" : "On this episode, Danny & Joe talk about wether they've tried their own bodily fluids. All of them.",
+            "durationSeconds" : 4410,
+            "editorialStatus" : "enhanced",
+            "episodeID" : "GA0000P00003RCH",
+            "episodeNumber" : null,
+            "language" : "en",
+            "lastUpdateDateTime" : "2022-02-28T19:45:00Z",
+            "objectType" : "episode",
+            "publishDateTime" : "2019-04-15T11:00:44Z",
+            "seasonNumber" : null,
+            "seriesReference" : {
+               "href" : "/series?seriesIDs=GA0000N000000RR",
+               "seriesID" : "GA0000N000000RR",
+               "title" : "The Basement Yard"
+            },
+            "sourceFeed" : {
+               "author" : null,
+               "categories" : null,
+               "contentType" : null,
+               "copyright" : null,
+               "description" : "On this episode, Danny & Joe talk about wether they've tried their own bodily fluids. ALL of them.",
+               "explicitLanguage" : "true",
+               "feedUrl" : null,
+               "generator" : null,
+               "imageUrl" : "https://megaphone.imgix.net/podcasts/54c9ceea-1714-11ec-acfc-c304b900306d/image/artworks-000520236186-xx44w3-original.jpg?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+               "keywords" : null,
+               "language" : null,
+               "owner" : null,
+               "websiteUrl" : "https://chrt.fm/track/9DD8D/traffic.libsyn.com/secure/basementyard/606196731-thebasementyard-185-you-ever-taste-your-own-pee.m4a"
+            },
+            "subtitle" : "On this episode, Danny & Joe talk about wether thâ¦",
+            "summary" : "On this episode, Danny & Joe talk about wether they've tried their own bodily fluids. ALL of them.",
+            "title" : "#185 - You Ever Taste Your Own Pee?"
+         }
+      ],
+      "meta" : {
+         "count" : 10,
+         "offset" : 0,
+         "total" : 355
+      }
+   },
+   "error" : null,
+   "success" : true
+}

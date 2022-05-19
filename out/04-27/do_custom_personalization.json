@@ -1,0 +1,8 @@
+3.11 Send Personality Data Endpoint do_custom_personalization ===========================================
+curl -X GET "https://bestream-api.com/api/v1/custom/personalization?eventType=user_select_track&contentType=music&contentId=GNFTDQVWKBSZR6K&plThemeId=PL007" -H "CLIENT-KEY:DvbzjZagSY3aRiG5LDRH" -H "USER-TOKEN:demo@obigo.com" -H "Content-Type:application/x-www-form-urlencoded"
+{
+   "error" : "Bad Request",
+   "path" : "/api/v1/custom/personalization",
+   "status" : 400,
+   "timestamp" : 1651042792639
+}

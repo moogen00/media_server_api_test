@@ -1,0 +1,490 @@
+3.6 Aod Playback Endpoint do_playback_aod ===========================================
+{
+   "data" : [
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/eca7921f-71f7-49f8-a16b-5d0fe876bb31/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=eca7921f-71f7-49f8-a16b-5d0fe876bb31&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 25895559
+         },
+         "description" : "President Trump traveled on Wednesday to Dayton, Ohio, and El Paso, where mass shootings killed 31 people. Our colleagues described the scene in both cities. Guests: Mitch Smith, who covers the Midwest for The New York Times, and Michael Crowley, a White House correspondent. For more information on todayâs episode, visit nytimes.com/thedaily. Background reading: President Trump began a day set aside for healing in Dayton and El Paso by lashing out at rivals, using the kind of divisive language that prompted protests in both cities even before he arrived.Across El Paso, some residents worried that Mr. Trumpâs visit might do more harm than good.",
+         "durationSeconds" : 1599,
+         "episodeID" : "GA0000P000Hh1FX",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/eca7921f-71f7-49f8-a16b-5d0fe876bb31/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "President Trump traveled on Wednesday to Dayton, Ohio, and El Paso, where mass shootings killed 31 people. Our colleagues described the scene in both cities. Guests: Mitch Smith, who covers the Midwest for The New York Times, and Michael Crowley, a White House correspondent. For more information on todayâs episode, visit nytimes.com/thedaily.Â \n\nBackground reading:Â President Trump began a day set aside for healing in Dayton and El Paso by lashing out at rivals, using the kind of divisive language that prompted protests in both cities even before he arrived.Across El Paso, some residents worried that Mr. Trumpâs visit might do more harm than good.",
+         "summary" : "President Trump traveled on Wednesday to Dayton, Ohio, and El Paso, where mass shootings killed 31 people. Our colleagues described the scene in both cities. Guests: Mitch Smith, who covers the Midwest for The New York Times, and Michael Crowley, a White House correspondent. For more information on todayâs episode, visit nytimes.com/thedaily.Â \n\nBackground reading:Â President Trump began a day set aside for healing in Dayton and El Paso by lashing out at rivals, using the kind of divisive language that prompted protests in both cities even before he arrived.Across El Paso, some residents worried that Mr. Trumpâs visit might do more harm than good.",
+         "title" : "Two Cities in Mourning"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/637fe2ba-1ab6-4aac-a7ce-f7ab03d13b23/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=637fe2ba-1ab6-4aac-a7ce-f7ab03d13b23&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 25223071
+         },
+         "description" : "A New York Times investigation found that the United States is actively infiltrating Russiaâs electric power grid. We look at what that means for the future of cyberwarfare. Guest: David E. Sanger, a national security correspondent for The New York Times and the author of âThe Perfect Weapon: War, Sabotage, and Fear in the Cyber Age.â For more information on todayâs episode, visit nytimes.com/thedaily. Background reading: The cyberattacks on Russiaâs power grid are intended partly as a warning, and partly to be poised to act if a major conflict broke out between Washington and Moscow.In response to The Timesâs report, the Kremlin warned that American attacks could escalate into cyberwar.",
+         "durationSeconds" : 1557,
+         "episodeID" : "GA0000P000GhCM7",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/637fe2ba-1ab6-4aac-a7ce-f7ab03d13b23/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "A New York Times investigation found that the United States is actively infiltrating Russiaâs electric power grid. We look at what that means for the future of cyberwarfare. Guest: David E. Sanger, a national security correspondent for The New York Times and the author of âThe Perfect Weapon: War, Sabotage, and Fear in the Cyber Age.â For more information on todayâs episode, visit nytimes.com/thedaily. \n\nBackground reading: The cyberattacks on Russiaâs power grid are intended partly as a warning, and partly to be poised to act if a major conflict broke out between Washington and Moscow.In response to The Timesâs report, the Kremlin warned that American attacks could escalate into cyberwar.",
+         "summary" : "A New York Times investigation found that the United States is actively infiltrating Russiaâs electric power grid. We look at what that means for the future of cyberwarfare. Guest: David E. Sanger, a national security correspondent for The New York Times and the author of âThe Perfect Weapon: War, Sabotage, and Fear in the Cyber Age.â For more information on todayâs episode, visit nytimes.com/thedaily. \n\nBackground reading: The cyberattacks on Russiaâs power grid are intended partly as a warning, and partly to be poised to act if a major conflict broke out between Washington and Moscow.In response to The Timesâs report, the Kremlin warned that American attacks could escalate into cyberwar.",
+         "title" : "Hacking the Russian Power Grid"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/901360ec-d256-4001-bf35-1ada42196b54/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=901360ec-d256-4001-bf35-1ada42196b54&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 22694008
+         },
+         "description" : "From the day Roe v. Wade was decided, some have seen the constitutional right to an abortion as an inferred right rather than a guaranteed one. That distinction has become a threat to the lawâs survival. Guests: Sabrina Tavernise, a national correspondent for The New York Times, spoke with Adam Liptak, who covers the Supreme Court for The Times. For more information on todayâs episode, visit nytimes.com/thedaily. Background reading: Because the court led by Chief Justice John Roberts tends toward incrementalism, it is more likely to hear cases that chip away at abortion rights than to overturn Roe v. Wade directly.But after nearly five decades, the anti-abortion movement is closer than it has ever been to dismantling Roe.",
+         "durationSeconds" : 1399,
+         "episodeID" : "GA0000P000GhCHt",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/901360ec-d256-4001-bf35-1ada42196b54/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "From the day Roe v. Wade was decided, some have seen the constitutional right to an abortion as an inferred right rather than a guaranteed one. That distinction has become a threat to the lawâs survival. Guests: Sabrina Tavernise, a national correspondent for The New York Times, spoke with Adam Liptak, who covers the Supreme Court for The Times. For more information on todayâs episode, visit nytimes.com/thedaily. \n\nBackground reading: Because the court led by Chief Justice John Roberts tends toward incrementalism, it is more likely to hear cases that chip away at abortion rights than to overturn Roe v. Wade directly.But after nearly five decades, the anti-abortion movement is closer than it has ever been to dismantling Roe.",
+         "summary" : "From the day Roe v. Wade was decided, some have seen the constitutional right to an abortion as an inferred right rather than a guaranteed one. That distinction has become a threat to the lawâs survival. Guests: Sabrina Tavernise, a national correspondent for The New York Times, spoke with Adam Liptak, who covers the Supreme Court for The Times. For more information on todayâs episode, visit nytimes.com/thedaily. \n\nBackground reading: Because the court led by Chief Justice John Roberts tends toward incrementalism, it is more likely to hear cases that chip away at abortion rights than to overturn Roe v. Wade directly.But after nearly five decades, the anti-abortion movement is closer than it has ever been to dismantling Roe.",
+         "title" : "The Legal Vulnerability of Roe v. Wade"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/a2a8ef34-02fd-4d46-9178-98ed8fe4d9f7/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=a2a8ef34-02fd-4d46-9178-98ed8fe4d9f7&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 21726000
+         },
+         "description" : "President Trumpâs plan to build a âbig, beautiful wallâ between the United States and Mexico has become the ultimate symbol of a hard-line immigration policy. So why, as Congress voted to end a government shutdown and take up the issue of immigration, have Democrats suggested that they would agree to fund the wall if Republicans protect the Dreamers? Guest: Julie Hirschfeld Davis, a White House correspondent for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1339,
+         "episodeID" : "GA0000P0000FGRD",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/a2a8ef34-02fd-4d46-9178-98ed8fe4d9f7/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "President Trumpâs plan to build a âbig, beautiful wallâ between the United States and Mexico has become the ultimate symbol of a hard-line immigration policy. So why, as Congress voted to end a government shutdown and take up the issue of immigration, have Democrats suggested that they would agree to fund the wall if Republicans protect the Dreamers?\n\nGuest: Julie Hirschfeld Davis, a White House correspondent for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "President Trumpâs plan to build a âbig, beautiful wallâ between the United States and Mexico has become the ultimate symbol of a hard-line immigration policy. So why, as Congress voted to end a government shutdown and take up the issue of immigration, have Democrats suggested that they would agree to fund the wall if Republicans protect the Dreamers?\n\nGuest: Julie Hirschfeld Davis, a White House correspondent for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Tuesday, Jan. 23, 2018"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/b916f4f1-cdf1-4595-9585-692197961942/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=b916f4f1-cdf1-4595-9585-692197961942&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 18422448
+         },
+         "description" : "Many farmers across the Midwest voted for Donald J. Trump in the 2016 election but hoped he would never follow through on his threats to impose tariffs on China. They feared that they would suffer if China imposed its own tariffs as payback. Now, Beijing has done just that, proposing tariffs on 106 types of American goods â including soybeans, corn and pork â in retaliation for President Trumpâs plans to penalize Chinese trade practices. Guest: Eldon Gould, a farmer in Illinois who voted for President Trump. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1132,
+         "episodeID" : "GA0000P0000FGT0",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/b916f4f1-cdf1-4595-9585-692197961942/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "Many farmers across the Midwest voted for Donald J. Trump in the 2016 election but hoped he would never follow through on his threats to impose tariffs on China. They feared that they would suffer if China imposed its own tariffs as payback. Now, Beijing has done just that, proposing tariffs on 106 types of American goods â including soybeans, corn and pork â in retaliation for President Trumpâs plans to penalize Chinese trade practices.Â Guest: Eldon Gould, a farmer in Illinois who voted for President Trump. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "Many farmers across the Midwest voted for Donald J. Trump in the 2016 election but hoped he would never follow through on his threats to impose tariffs on China. They feared that they would suffer if China imposed its own tariffs as payback. Now, Beijing has done just that, proposing tariffs on 106 types of American goods â including soybeans, corn and pork â in retaliation for President Trumpâs plans to penalize Chinese trade practices.Â Guest: Eldon Gould, a farmer in Illinois who voted for President Trump. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Thursday, Apr. 5, 2018"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/5abfdea3-109f-436d-a18b-45b31503294b/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=5abfdea3-109f-436d-a18b-45b31503294b&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 20022836
+         },
+         "description" : "From the very beginning, the West was certain that China would not pull off its economic experiment. That certainty came from a set of assumptions about how societies function and political freedoms emerge. But those assumptions were wrong â and China became stronger than ever. Guest: Philip P. Pan, the Asia editor for The New York Times, spoke with us from Beijing. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1232,
+         "episodeID" : "GA0000P0000FGbR",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/5abfdea3-109f-436d-a18b-45b31503294b/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "From the very beginning, the West was certain that China would not pull off its economic experiment. That certainty came from a set of assumptions about how societies function and political freedoms emerge. But those assumptions were wrong â and China became stronger than ever. Guest: Philip P. Pan, the Asia editor for The New York Times, spoke with us from Beijing. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "From the very beginning, the West was certain that China would not pull off its economic experiment. That certainty came from a set of assumptions about how societies function and political freedoms emerge. But those assumptions were wrong â and China became stronger than ever. Guest: Philip P. Pan, the Asia editor for The New York Times, spoke with us from Beijing. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "What the West Got Wrong About China, Part 1"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/ffe89bae-da4e-44f6-8953-e989b7faf07e/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=ffe89bae-da4e-44f6-8953-e989b7faf07e&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 28224459
+         },
+         "description" : "Many have considered Julian Assange, the founder of WikiLeaks, to be a hero of the free speech movement and a partner to journalists. He also came to be seen as a threat to national security. Then, he helped Russia interfere in a United States election. And now, he has been arrested. Our colleague tells us about the moral complexities of working with Mr. Assange. Guest: Scott Shane, who covers national security for The New York Times, has been following Mr. Assangeâs decade-long saga. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1745,
+         "episodeID" : "GA0000P0000FGrH",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/ffe89bae-da4e-44f6-8953-e989b7faf07e/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "Many have considered Julian Assange, the founder of WikiLeaks, to be a hero of the free speech movement and a partner to journalists. He also came to be seen as a threat to national security. Then, he helped Russia interfere in a United States election. And now, he has been arrested. Our colleague tells us about the moral complexities of working with Mr. Assange. Guest: Scott Shane, who covers national security for The New York Times, has been following Mr. Assangeâs decade-long saga. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "Many have considered Julian Assange, the founder of WikiLeaks, to be a hero of the free speech movement and a partner to journalists. He also came to be seen as a threat to national security. Then, he helped Russia interfere in a United States election. And now, he has been arrested. Our colleague tells us about the moral complexities of working with Mr. Assange. Guest: Scott Shane, who covers national security for The New York Times, has been following Mr. Assangeâs decade-long saga. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "The Moral Complexities of Working With Julian Assange"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/718d7c54-1333-4fa6-9102-b0a8cb741a7f/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=718d7c54-1333-4fa6-9102-b0a8cb741a7f&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 23844633
+         },
+         "description" : "The Arab world was agreed that by officially recognizing Jerusalem as the capital of Israel, President Trump has sabotaged the chance of peace between Israel and the Palestinians. But had Arab leaders given up on the Palestinians long ago? And we hear what itâs like to visit the most powerful figure in the Arab world: Saudi Arabiaâs crown prince. Guests: Anne Barnard, the Beirut bureau chief of The New York Times; Thomas L. Friedman, a Times opinion columnist. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1471,
+         "episodeID" : "GA0000P0000FGPG",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/718d7c54-1333-4fa6-9102-b0a8cb741a7f/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "The Arab world was agreed that by officially recognizing Jerusalem as the capital of Israel, President Trump has sabotaged the chance of peace between Israel and the Palestinians. But had Arab leaders given up on the Palestinians long ago? And we hear what itâs like to visit the most powerful figure in the Arab world: Saudi Arabiaâs crown prince. Guests: Anne Barnard, the Beirut bureau chief of The New York Times; Thomas L. Friedman, a Times opinion columnist. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "The Arab world was agreed that by officially recognizing Jerusalem as the capital of Israel, President Trump has sabotaged the chance of peace between Israel and the Palestinians. But had Arab leaders given up on the Palestinians long ago? And we hear what itâs like to visit the most powerful figure in the Arab world: Saudi Arabiaâs crown prince. Guests: Anne Barnard, the Beirut bureau chief of The New York Times; Thomas L. Friedman, a Times opinion columnist. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Thursday, Dec. 7, 2017"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/d543131c-2b6b-495e-8080-1b1d5bb90d62/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=d543131c-2b6b-495e-8080-1b1d5bb90d62&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 27735833
+         },
+         "description" : "Basim Razzo lost his family and his home in an airstrike by the American-led coalition fighting the Islamic State. Video of the strike shows a target hit with military precision. In Part 2 of our look at civilian casualties in Iraq, Mr. Razzo sets out to learn why his home was targeted. Guests: Basim Razzo; Azmat Khan, an investigative reporter who has been looking into civilian deaths in the fight against ISIS. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1714,
+         "episodeID" : "GA0000P0000FGP0",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/d543131c-2b6b-495e-8080-1b1d5bb90d62/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "Basim Razzo lost his family and his home in an airstrike by the American-led coalition fighting the Islamic State. Video of the strike shows a target hit with military precision. In Part 2 of our look at civilian casualties in Iraq, Mr. Razzo sets out to learn why his home was targeted. Guests: Basim Razzo; Azmat Khan, an investigative reporter who has been looking into civilian deaths in the fight against ISIS. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "Basim Razzo lost his family and his home in an airstrike by the American-led coalition fighting the Islamic State. Video of the strike shows a target hit with military precision. In Part 2 of our look at civilian casualties in Iraq, Mr. Razzo sets out to learn why his home was targeted. Guests: Basim Razzo; Azmat Khan, an investigative reporter who has been looking into civilian deaths in the fight against ISIS. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Friday, Nov. 17, 2017"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/6c8b67da-c972-4bce-aa67-504e7492e458/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=6c8b67da-c972-4bce-aa67-504e7492e458&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 20462088
+         },
+         "description" : "What was Jeff Sessions, the new attorney general, doing meeting with the Russian ambassador two months before election day? And who is this mysterious Russian ambassador who has caused so much trouble for not one but two senior officials in the Trump White House? Guests: Matthew Rosenberg, a national security reporter for The New York Times; Peter Baker, our chief White House correspondent. For more information on todayâs episode, visit http://nyti.ms/2mRrvQa.",
+         "durationSeconds" : 1260,
+         "episodeID" : "GA0000P0000FGF7",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/6c8b67da-c972-4bce-aa67-504e7492e458/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "What was Jeff Sessions, the new attorney general, doing meeting with the Russian ambassador two months before election day? And who is this mysterious Russian ambassador who has caused so much trouble for not one but two senior officials in the Trump White House? Guests: Matthew Rosenberg, a national security reporter for The New York Times; Peter Baker, our chief White House correspondent. For more information on todayâs episode, visit http://nyti.ms/2mRrvQa.",
+         "summary" : "What was Jeff Sessions, the new attorney general, doing meeting with the Russian ambassador two months before election day? And who is this mysterious Russian ambassador who has caused so much trouble for not one but two senior officials in the Trump White House? Guests: Matthew Rosenberg, a national security reporter for The New York Times; Peter Baker, our chief White House correspondent. For more information on todayâs episode, visit http://nyti.ms/2mRrvQa.",
+         "title" : "Friday, March 3, 2017"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/b7d9268e-f19f-4004-b7e1-66f97231256a/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=b7d9268e-f19f-4004-b7e1-66f97231256a&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 20006935
+         },
+         "description" : "Robert Mugabe has been the leader of Zimbabwe as long as there has been a Zimbabwe. Having once proclaimed that âonly God will remove me,â he resigned as president on Tuesday after nearly four decades in power. Will he be remembered as a tyrant, or as a hero? Guest: Jeffrey Gettleman, who was East Africa bureau chief of The New York Times for more than a decade. For more information on todayâs episode, visit nytimes.com/thedaily. We will be taking the rest of the week off for Thanksgiving. See you Monday.",
+         "durationSeconds" : 1231,
+         "episodeID" : "GA0000P0000FGP4",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/b7d9268e-f19f-4004-b7e1-66f97231256a/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "Robert Mugabe has been the leader of Zimbabwe as long as there has been a Zimbabwe. Having once proclaimed that âonly God will remove me,â he resigned as president on Tuesday after nearly four decades in power. Will he be remembered as a tyrant, or as a hero? Guest: Jeffrey Gettleman, who was East Africa bureau chief of The New York Times for more than a decade. For more information on todayâs episode, visit nytimes.com/thedaily.\n\nWe will be taking the rest of the week off for Thanksgiving. See you Monday.",
+         "summary" : "Robert Mugabe has been the leader of Zimbabwe as long as there has been a Zimbabwe. Having once proclaimed that âonly God will remove me,â he resigned as president on Tuesday after nearly four decades in power. Will he be remembered as a tyrant, or as a hero? Guest: Jeffrey Gettleman, who was East Africa bureau chief of The New York Times for more than a decade. For more information on todayâs episode, visit nytimes.com/thedaily.\n\nWe will be taking the rest of the week off for Thanksgiving. See you Monday.",
+         "title" : "Wednesday, Nov. 22, 2017"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/dab9cb56-8065-4766-99d4-d3bd7b5ff318/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=dab9cb56-8065-4766-99d4-d3bd7b5ff318&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 22790962
+         },
+         "description" : "President Trump has chosen John R. Bolton to be his new national security adviser. In 2005, a Republican-controlled Senate committee refused to confirm Mr. Bolton as President George W. Bushâs ambassador to the United Nations. We look back at those confirmation hearings, which portrayed Mr. Bolton as a threat to national security. Guest: Elizabeth Williamson, who writes about Washington in the Trump era for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1405,
+         "episodeID" : "GA0000P0000FGSZ",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/dab9cb56-8065-4766-99d4-d3bd7b5ff318/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "President Trump has chosen John R. Bolton to be his new national security adviser. In 2005, a Republican-controlled Senate committee refused to confirm Mr. Bolton as President George W. Bushâs ambassador to the United Nations. We look back at those confirmation hearings, which portrayed Mr. Bolton as a threat to national security. Guest: Elizabeth Williamson, who writes about Washington in the Trump era for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "President Trump has chosen John R. Bolton to be his new national security adviser. In 2005, a Republican-controlled Senate committee refused to confirm Mr. Bolton as President George W. Bushâs ambassador to the United Nations. We look back at those confirmation hearings, which portrayed Mr. Bolton as a threat to national security. Guest: Elizabeth Williamson, who writes about Washington in the Trump era for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Wednesday, March 28, 2018"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/3a9bc679-ae0d-4297-8857-8d903a288cb2/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=3a9bc679-ae0d-4297-8857-8d903a288cb2&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 20491789
+         },
+         "description" : "In a 5-to-4 vote, the Supreme Court upheld President Trumpâs ban on travel into the United States by citizens of several predominantly Muslim countries. What does the decision say about the extent of the presidentâs power to control immigration? Guest: Adam Liptak, who covers the Supreme Court for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1262,
+         "episodeID" : "GA0000P0000FGW5",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/3a9bc679-ae0d-4297-8857-8d903a288cb2/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "In a 5-to-4 vote, the Supreme Court upheld President Trumpâs ban on travel into the United States by citizens of several predominantly Muslim countries. What does the decision say about the extent of the presidentâs power to control immigration? Guest: Adam Liptak, who covers the Supreme Court for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "In a 5-to-4 vote, the Supreme Court upheld President Trumpâs ban on travel into the United States by citizens of several predominantly Muslim countries. What does the decision say about the extent of the presidentâs power to control immigration? Guest: Adam Liptak, who covers the Supreme Court for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "The Supreme Court Upholds Trumpâs Travel Ban"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/7cc78ffb-9c47-4759-adbc-5d6a2babcf6d/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=7cc78ffb-9c47-4759-adbc-5d6a2babcf6d&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 30280393
+         },
+         "description" : "Through his media empire, Rupert Murdoch has reshaped the politics of countries across the English-speaking world, pushing their governments to the right. We look inside the struggle over who will control that empire once heâs gone. Guests: Jonathan Mahler and Jim Rutenberg, who spent six months investigating the Murdoch family for The New York Times Magazine. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1873,
+         "episodeID" : "GA0000P0000FGr9",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/7cc78ffb-9c47-4759-adbc-5d6a2babcf6d/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "Through his media empire, Rupert Murdoch has reshaped the politics of countries across the English-speaking world, pushing their governments to the right. We look inside the struggle over who will control that empire once heâs gone. Guests: Jonathan Mahler and Jim Rutenberg, who spent six months investigating the Murdoch family for The New York Times Magazine. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "Through his media empire, Rupert Murdoch has reshaped the politics of countries across the English-speaking world, pushing their governments to the right. We look inside the struggle over who will control that empire once heâs gone. Guests: Jonathan Mahler and Jim Rutenberg, who spent six months investigating the Murdoch family for The New York Times Magazine. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "The Battle to Control the Murdoch Media Empire"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/a989d5f0-d86f-4777-b8d4-6ed6a4bc5983/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=a989d5f0-d86f-4777-b8d4-6ed6a4bc5983&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 22532693
+         },
+         "description" : "For weeks, House Democrats have found their agenda overshadowed by the struggle to reopen the government. Now that itâs open, they have a plan. Guest: Nicholas Fandos, who covers Congress for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1389,
+         "episodeID" : "GA0000P0000FGhZ",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/a989d5f0-d86f-4777-b8d4-6ed6a4bc5983/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "For weeks, House Democrats have found their agenda overshadowed by the struggle to reopen the government. Now that itâs open, they have a plan. Guest: Nicholas Fandos, who covers Congress for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "For weeks, House Democrats have found their agenda overshadowed by the struggle to reopen the government. Now that itâs open, they have a plan. Guest: Nicholas Fandos, who covers Congress for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "How Democrats Will Govern (Now That Government Is Open)"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/e1de325d-186b-44d5-84b2-1cac9ee31512/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=e1de325d-186b-44d5-84b2-1cac9ee31512&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 21149252
+         },
+         "description" : "Weeks before the midterm elections, moderate and progressive Democrats in Missouri are grappling with what the party stands for and who gets to define it. What happens will determine the fate of one of the most endangered Democratic senators in the country. Guest Host: Sabrina Tavernise, a national correspondent who reported this story for The New York Times and âThe Daily.â For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1303,
+         "episodeID" : "GA0000P0000FGZP",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/e1de325d-186b-44d5-84b2-1cac9ee31512/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "Weeks before the midterm elections, moderate and progressive Democrats in Missouri are grappling with what the party stands for and who gets to define it. What happens will determine the fate of one of the most endangered Democratic senators in the country. Guest Host: Sabrina Tavernise, a national correspondent who reported this story for The New York Times and âThe Daily.â For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "Weeks before the midterm elections, moderate and progressive Democrats in Missouri are grappling with what the party stands for and who gets to define it. What happens will determine the fate of one of the most endangered Democratic senators in the country. Guest Host: Sabrina Tavernise, a national correspondent who reported this story for The New York Times and âThe Daily.â For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "The Battle for Missouri, Part 1: The Anti-Abortion Democrat"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/c9286d1a-0c37-4175-b221-57ed3c2286c0/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=c9286d1a-0c37-4175-b221-57ed3c2286c0&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 26089910
+         },
+         "description" : "With the prominent opposition leader Leopoldo LÃ³pez under house arrest, Venezuela thought its loudest political prisoner had finally been silenced. But he refused to buckle, even facing the prospect of going back to prison. Hereâs the second part of Mr. LÃ³pezâs story. Guest: Wil S. Hylton, a contributing writer for The New York Times Magazine. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1611,
+         "episodeID" : "GA0000P0000FGSH",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/c9286d1a-0c37-4175-b221-57ed3c2286c0/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "With the prominent opposition leader Leopoldo LÃ³pez under house arrest, Venezuela thought its loudest political prisoner had finally been silenced. But he refused to buckle, even facing the prospect of going back to prison. Hereâs the second part of Mr. LÃ³pezâs story. Guest: Wil S. Hylton, a contributing writer for The New York Times Magazine. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "With the prominent opposition leader Leopoldo LÃ³pez under house arrest, Venezuela thought its loudest political prisoner had finally been silenced. But he refused to buckle, even facing the prospect of going back to prison. Hereâs the second part of Mr. LÃ³pezâs story. Guest: Wil S. Hylton, a contributing writer for The New York Times Magazine. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Tuesday, Mar. 13, 2018"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/8adc1243-547e-486d-9450-2d54036c7aa6/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=8adc1243-547e-486d-9450-2d54036c7aa6&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 19096202
+         },
+         "description" : "President Trump addresses the United Nations General Assembly for the first time, and says itâs every nation for itself. We look at the speech, and the people who crafted its message. Guests: Mark Landler, who covered the presidentâs speech; Maggie Haberman, a White House correspondent. For more information on todayâs episode, visit nytimes.com/thedaily. You can support \"The Daily\" by subscribing to The Times. We're offering listeners one month free, then 50% off for a year. Go to nytimes.com/thedailyoffer for more information.",
+         "durationSeconds" : 1174,
+         "episodeID" : "GA0000P0000FGMT",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/8adc1243-547e-486d-9450-2d54036c7aa6/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "President Trump addresses the United Nations General Assembly for the first time, and says itâs every nation for itself. We look at the speech, and the people who crafted its message. Guests: Mark Landler, who covered the presidentâs speech; Maggie Haberman, a White House correspondent. For more information on todayâs episode, visitÂ nytimes.com/thedaily. You can support \"The Daily\" by subscribing to The Times. We're offering listeners one month free, then 50% off for a year. Go toÂ nytimes.com/thedailyofferÂ for more information.",
+         "summary" : "President Trump addresses the United Nations General Assembly for the first time, and says itâs every nation for itself. We look at the speech, and the people who crafted its message. Guests: Mark Landler, who covered the presidentâs speech; Maggie Haberman, a White House correspondent. For more information on todayâs episode, visitÂ nytimes.com/thedaily. You can support \"The Daily\" by subscribing to The Times. We're offering listeners one month free, then 50% off for a year. Go toÂ nytimes.com/thedailyofferÂ for more information.",
+         "title" : "Wednesday, Sept. 20, 2017"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/322781b7-ca50-4025-844a-d2d8fb9c6fb4/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=322781b7-ca50-4025-844a-d2d8fb9c6fb4&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 14325614
+         },
+         "description" : "President Trump wanted a faster battle plan. Iraqi leaders wanted quicker airstrikes. Is that why about 200 civilians are now dead in Mosul? Guests: Tim Arango and Rukmini Callimachi, New York Times reporters who have reported from Iraq. For more information on todayâs episode, visit http://nyti.ms/2obiy4v.",
+         "durationSeconds" : 876,
+         "episodeID" : "GA0000P0000FGFW",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/322781b7-ca50-4025-844a-d2d8fb9c6fb4/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "President Trump wanted a faster battle plan. Iraqi leaders wanted quicker airstrikes. Is that why about 200 civilians are now dead in Mosul? Guests: Tim Arango and Rukmini Callimachi, New York Times reporters who have reported from Iraq. For more information on todayâs episode, visit http://nyti.ms/2obiy4v.",
+         "summary" : "President Trump wanted a faster battle plan. Iraqi leaders wanted quicker airstrikes. Is that why about 200 civilians are now dead in Mosul? Guests: Tim Arango and Rukmini Callimachi, New York Times reporters who have reported from Iraq. For more information on todayâs episode, visit http://nyti.ms/2obiy4v.",
+         "title" : "Tuesday, March 28, 2017"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/d3cab203-959c-493d-8420-2cee26c1f4e1/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=d3cab203-959c-493d-8420-2cee26c1f4e1&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 18010758
+         },
+         "description" : "President Trump has disavowed the Iran nuclear deal, and he has threatened to leave it altogether if Congress does not amend it to permanently block Tehran from building nuclear weapons. Today, a top negotiator in the Obama administration talks about how the deal was reached and what it feels like to watch Mr. Trump threaten to undo it. Guests: Jake Sullivan, a negotiator for the Iran deal; Peter Baker, chief White House correspondent for The Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1107,
+         "episodeID" : "GA0000P0000FGN8",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/d3cab203-959c-493d-8420-2cee26c1f4e1/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "President Trump has disavowed the Iran nuclear deal, and he has threatened to leave it altogether if Congress does not amend it to permanently block Tehran from building nuclear weapons. Today, a top negotiator in the Obama administration talks about how the deal was reached and what it feels like to watch Mr. Trump threaten to undo it. Guests: Jake Sullivan, a negotiator for the Iran deal; Peter Baker, chief White House correspondent for The Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "President Trump has disavowed the Iran nuclear deal, and he has threatened to leave it altogether if Congress does not amend it to permanently block Tehran from building nuclear weapons. Today, a top negotiator in the Obama administration talks about how the deal was reached and what it feels like to watch Mr. Trump threaten to undo it. Guests: Jake Sullivan, a negotiator for the Iran deal; Peter Baker, chief White House correspondent for The Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Monday, Oct. 16, 2017"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/7aff5f93-a08c-485d-b5c2-38e06feb3354/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=7aff5f93-a08c-485d-b5c2-38e06feb3354&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 19056491
+         },
+         "description" : "What single figure connects the 2008 financial crisis, the creation of the 2010 Dodd-Frank Act, the Tea Party movement, Donald J. Trumpâs election and, now, the potential dismantling of the biggest safeguard against Americaâs economic ruin? His name is Gary D. Cohn. Also, a Times investigation goes inside the world of the Islamic State and finds that terrorists no longer have to cross borders to carry out their attacks.",
+         "durationSeconds" : 1172,
+         "episodeID" : "GA0000P0000FGDS",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/7aff5f93-a08c-485d-b5c2-38e06feb3354/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "What single figure connects the 2008 financial crisis, the creation of the 2010 Dodd-Frank Act, the Tea Party movement, Donald J. Trumpâs election and, now, the potential dismantling of the biggest safeguard against Americaâs economic ruin? His name is Gary D. Cohn. Also, a Times investigation goes inside the world of the Islamic State and finds that terrorists no longer have to cross borders to carry out their attacks.",
+         "summary" : "What single figure connects the 2008 financial crisis, the creation of the 2010 Dodd-Frank Act, the Tea Party movement, Donald J. Trumpâs election and, now, the potential dismantling of the biggest safeguard against Americaâs economic ruin? His name is Gary D. Cohn. Also, a Times investigation goes inside the world of the Islamic State and finds that terrorists no longer have to cross borders to carry out their attacks.",
+         "title" : "Monday, Feb. 6, 2017"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/919e9c49-9abd-4c0a-99f9-3aff46cde1ae/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=919e9c49-9abd-4c0a-99f9-3aff46cde1ae&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 17538047
+         },
+         "description" : "The man charged in the deadly truck attack in Manhattan on Tuesday entered the United States seven years ago through a lottery program intended to diversify the country. President Trump has pressed Congress to cancel the program. âSounds nice,â he said. âIt is not nice. It is not good.â Guests: Michael Schwirtz, an investigative reporter for The New York Times; Peter Baker, chief White House correspondent. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1077,
+         "episodeID" : "GA0000P0000FGNS",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/919e9c49-9abd-4c0a-99f9-3aff46cde1ae/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "The man charged in the deadly truck attack in Manhattan on Tuesday entered the United States seven years ago through a lottery program intended to diversify the country. President Trump has pressed Congress to cancel the program. âSounds nice,â he said. âIt is not nice. It is not good.â Â Guests: Michael Schwirtz, an investigative reporter for The New York Times; Peter Baker, chief White House correspondent. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "The man charged in the deadly truck attack in Manhattan on Tuesday entered the United States seven years ago through a lottery program intended to diversify the country. President Trump has pressed Congress to cancel the program. âSounds nice,â he said. âIt is not nice. It is not good.â Â Guests: Michael Schwirtz, an investigative reporter for The New York Times; Peter Baker, chief White House correspondent. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Thursday, Nov. 2, 2017"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/c4a170c9-ed7f-4f91-85d2-efdbde07e4cd/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=c4a170c9-ed7f-4f91-85d2-efdbde07e4cd&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 25776866
+         },
+         "description" : "Two years and 448 pages later, a redacted version of the Mueller report has been made public. Hereâs what weâve learned. Guests: Michael S. Schmidt and Mark Mazzetti, who have been covering the special counsel investigation for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily. This episode includes disturbing language. Background reading:The Mueller report laid out the scope of Russian election interference and President Trumpâs frantic efforts to thwart the special counsel investigation.Read a rundown of what we know so far from the report.Times reporters shared key annotated excerpts from the report.",
+         "durationSeconds" : 1592,
+         "episodeID" : "GA0000P0000FGrP",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/c4a170c9-ed7f-4f91-85d2-efdbde07e4cd/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "Two years and 448 pages later, a redacted version of the Mueller report has been made public. Hereâs what weâve learned. Guests: Michael S. Schmidt and Mark Mazzetti, who have been covering the special counsel investigation for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.\n\nThis episode includes disturbing language.\n\nBackground reading:The Mueller report laid out the scope of Russian election interference and President Trumpâs frantic efforts to thwart the special counsel investigation.Read a rundown of what we know so far from the report.Times reporters shared key annotated excerpts from the report.",
+         "summary" : "Two years and 448 pages later, a redacted version of the Mueller report has been made public. Hereâs what weâve learned. Guests: Michael S. Schmidt and Mark Mazzetti, who have been covering the special counsel investigation for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.\n\nThis episode includes disturbing language.\n\nBackground reading:The Mueller report laid out the scope of Russian election interference and President Trumpâs frantic efforts to thwart the special counsel investigation.Read a rundown of what we know so far from the report.Times reporters shared key annotated excerpts from the report.",
+         "title" : "The Mueller Report Is Released"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/799a1a59-b201-4e5e-835b-75463eb50e63/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=799a1a59-b201-4e5e-835b-75463eb50e63&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 21368640
+         },
+         "description" : "My colleague gives the view from inside Venezuela and describes his cross-country road trip there that captures the story of a country on the brink of collapse. Guest: Nicholas Casey, an international correspondent for The New York Times. For more information on todayâs episode, visit http://nyti.ms/2qz8Czd.",
+         "durationSeconds" : 1316,
+         "episodeID" : "GA0000P0000FGGJ",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/799a1a59-b201-4e5e-835b-75463eb50e63/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "My colleague gives the view from inside Venezuela and describes his cross-country road trip there that captures the story of a country on the brink of collapse. Guest: Nicholas Casey, an international correspondent for The New York Times. For more information on todayâs episode, visit http://nyti.ms/2qz8Czd.",
+         "summary" : "My colleague gives the view from inside Venezuela and describes his cross-country road trip there that captures the story of a country on the brink of collapse. Guest: Nicholas Casey, an international correspondent for The New York Times. For more information on todayâs episode, visit http://nyti.ms/2qz8Czd.",
+         "title" : "Monday, May 1, 2017"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/46f4bc24-edd4-48f7-b33a-f402504dc355/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=46f4bc24-edd4-48f7-b33a-f402504dc355&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 21074402
+         },
+         "description" : "Fox Newsâs biggest star is out of a job two and a half weeks after a Times investigation into sexual harassment allegations. We talk to one of the two reporters who are most responsible â perhaps responsible â for Bill OâReillyâs ouster. Guests: Emily Steel, who spent months investigating allegations against Mr. OâReilly; and Jim Rutenberg, the media columnist for The Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1298,
+         "episodeID" : "GA0000P0000FGG9",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/46f4bc24-edd4-48f7-b33a-f402504dc355/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "Fox Newsâs biggest star is out of a job two and a half weeks after a Times investigation into sexual harassment allegations. We talk to one of the two reporters who are most responsible â perhaps responsible â for Bill OâReillyâs ouster. Guests: Emily Steel, who spent months investigating allegations against Mr. OâReilly; and Jim Rutenberg, the media columnist for The Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "Fox Newsâs biggest star is out of a job two and a half weeks after a Times investigation into sexual harassment allegations. We talk to one of the two reporters who are most responsible â perhaps responsible â for Bill OâReillyâs ouster. Guests: Emily Steel, who spent months investigating allegations against Mr. OâReilly; and Jim Rutenberg, the media columnist for The Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Thursday, April 20, 2017"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/1d951e43-3c58-4068-a05e-98047d646f2a/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=1d951e43-3c58-4068-a05e-98047d646f2a&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 20346735
+         },
+         "description" : "A back-and-forth between President Trump and Myeshia Johnson, the widow of a U.S. soldier killed in Niger this month, has consumed the news cycle for the past week. But what actually happened in Niger? And Senator Jeff Flake, a Republican from Arizona, delivered an impassioned rebuke to President Trump as he announced he would not seek re-election. Guests: Helene Cooper, a Pentagon correspondent for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1253,
+         "episodeID" : "GA0000P0000FGNH",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/1d951e43-3c58-4068-a05e-98047d646f2a/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "A back-and-forth between President Trump and Myeshia Johnson, the widow of a U.S. soldier killed in Niger this month, has consumed the news cycle for the past week. But what actually happened in Niger? And Senator Jeff Flake, a Republican from Arizona, delivered an impassioned rebuke to President Trump as he announced he would not seek re-election. Guests: Helene Cooper, a Pentagon correspondent for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "A back-and-forth between President Trump and Myeshia Johnson, the widow of a U.S. soldier killed in Niger this month, has consumed the news cycle for the past week. But what actually happened in Niger? And Senator Jeff Flake, a Republican from Arizona, delivered an impassioned rebuke to President Trump as he announced he would not seek re-election. Guests: Helene Cooper, a Pentagon correspondent for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Wednesday, Oct. 25, 2017"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/fd7488a0-55d6-4669-b72f-c855c8822861/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=fd7488a0-55d6-4669-b72f-c855c8822861&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 22756267
+         },
+         "description" : "A profile of five of the people responsible for figuring out Russiaâs role in the 2016 election: the new special counsel, and four Senate Republicans who say they will follow evidence wherever it leads. Guests: Matt Apuzzo, who reports on law enforcement and security matters; Carl Hulse, who covers Congress. For more information on todayâs episode, visit http://nyti.ms/2qzVjPC.",
+         "durationSeconds" : 1403,
+         "episodeID" : "GA0000P0000FGH6",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/fd7488a0-55d6-4669-b72f-c855c8822861/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "A profile of five of the people responsible for figuring out Russiaâs role in the 2016 election: the new special counsel, and four Senate Republicans who say they will follow evidence wherever it leads. Guests: Matt Apuzzo, who reports on law enforcement and security matters; Carl Hulse, who covers Congress. For more information on todayâs episode, visit http://nyti.ms/2qzVjPC.",
+         "summary" : "A profile of five of the people responsible for figuring out Russiaâs role in the 2016 election: the new special counsel, and four Senate Republicans who say they will follow evidence wherever it leads. Guests: Matt Apuzzo, who reports on law enforcement and security matters; Carl Hulse, who covers Congress. For more information on todayâs episode, visit http://nyti.ms/2qzVjPC.",
+         "title" : "Tuesday, May 30, 2017"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/5fcfa5a6-862a-420e-957f-36cdaf17242d/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=5fcfa5a6-862a-420e-957f-36cdaf17242d&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 25018278
+         },
+         "description" : "The confirmation of Judge Brett M. Kavanaugh to the Supreme Court may hinge on a single ruling: Roe v. Wade, the 1973 decision that established a constitutional right to abortion in the United States. In a two-part series, âThe Dailyâ takes a look at the history and legacy of the case. Guest: Sabrina Tavernise, a New York Times correspondent who reported on the story of Roe v. Wade for âThe Daily.â For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1544,
+         "episodeID" : "GA0000P0000FGWT",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/5fcfa5a6-862a-420e-957f-36cdaf17242d/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "The confirmation of Judge Brett M. Kavanaugh to the Supreme Court may hinge on a single ruling: Roe v. Wade, the 1973 decision that established a constitutional right to abortion in the United States. In a two-part series, âThe Dailyâ takes a look at the history and legacy of the case. Guest: Sabrina Tavernise, a New York Times correspondent who reported on the story of Roe v. Wade for âThe Daily.â For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "The confirmation of Judge Brett M. Kavanaugh to the Supreme Court may hinge on a single ruling: Roe v. Wade, the 1973 decision that established a constitutional right to abortion in the United States. In a two-part series, âThe Dailyâ takes a look at the history and legacy of the case. Guest: Sabrina Tavernise, a New York Times correspondent who reported on the story of Roe v. Wade for âThe Daily.â For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Roe v. Wade, Part 1: Who Was Jane Roe?"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/39e356fa-036a-4e8d-914e-54fe9c4d45fb/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=39e356fa-036a-4e8d-914e-54fe9c4d45fb&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 25457956
+         },
+         "description" : "How do we reconcile unexpected American military action overseas with President Trumpâs isolationist campaign rhetoric? Guests: Helene Cooper, a reporter in Washington who covers the Pentagon; Rick Perlstein, who writes for The Times Magazine. For more information on todayâs episode, visit http://nyti.ms/2omilHM.",
+         "durationSeconds" : 1572,
+         "episodeID" : "GA0000P0000FGG5",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/39e356fa-036a-4e8d-914e-54fe9c4d45fb/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "How do we reconcile unexpected American military action overseas with President Trumpâs isolationist campaign rhetoric? Guests: Helene Cooper, a reporter in Washington who covers the Pentagon; Rick Perlstein, who writes for The Times Magazine. For more information on todayâs episode, visit http://nyti.ms/2omilHM.",
+         "summary" : "How do we reconcile unexpected American military action overseas with President Trumpâs isolationist campaign rhetoric? Guests: Helene Cooper, a reporter in Washington who covers the Pentagon; Rick Perlstein, who writes for The Times Magazine. For more information on todayâs episode, visit http://nyti.ms/2omilHM.",
+         "title" : "Friday, April 14, 2017"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/f6b77ba8-83d3-4ec8-83da-693009f7ccd4/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=f6b77ba8-83d3-4ec8-83da-693009f7ccd4&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 21396229
+         },
+         "description" : "For years, the N.F.L. has avoided bringing politics onto the field. But in stadiums across the country on Sunday, players locked arms in protest as the national anthem played. We discuss how President Trump has forced professional athletes to become more political than ever before. Guest: Michael Powell, a sports columnist for The Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1318,
+         "episodeID" : "GA0000P0000FGMX",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/f6b77ba8-83d3-4ec8-83da-693009f7ccd4/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "For years, the N.F.L. has avoided bringing politics onto the field. But in stadiums across the country on Sunday, players locked arms in protest as the national anthem played. We discuss how President Trump has forced professional athletes to become more political than ever before. Guest: Michael Powell, a sports columnist for The Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "For years, the N.F.L. has avoided bringing politics onto the field. But in stadiums across the country on Sunday, players locked arms in protest as the national anthem played. We discuss how President Trump has forced professional athletes to become more political than ever before. Guest: Michael Powell, a sports columnist for The Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Monday, Sept. 25, 2017"
+      }
+   ],
+   "meta" : {
+      "limit" : 30,
+      "offset" : 0,
+      "total" : 1520
+   }
+}

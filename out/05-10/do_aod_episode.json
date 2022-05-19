@@ -1,0 +1,1017 @@
+3.10 Aod Episodes Endpoint do_aod_episode ===========================================
+{
+   "data" : {
+      "data" : [
+         {
+            "audioEnclosure" : {
+               "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/f0a6e51a-5761-43ca-bc77-31654a69cc01/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=f0a6e51a-5761-43ca-bc77-31654a69cc01&feed=54nAGcIl",
+               "mimeType" : "audio/mpeg",
+               "sizeBytes" : 32267916
+            },
+            "availabilities" : [
+               {
+                  "license" : "Open",
+                  "name" : "All"
+               }
+            ],
+            "categories" : [
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90267",
+                     "display" : "Health & Living",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90341",
+                     "display" : "Mental Health",
+                     "level" : 2
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "91067",
+                     "display" : "Trauma",
+                     "level" : 3
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90277",
+                     "display" : "Storytelling",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90479",
+                     "display" : "Biography",
+                     "level" : 2
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90275",
+                     "display" : "Society & Culture",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90446",
+                     "display" : "Communities",
+                     "level" : 2
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90811",
+                     "display" : "Military Life",
+                     "level" : 3
+                  }
+               ]
+            ],
+            "credits" : [
+               {
+                  "name" : "Michael Barbaro",
+                  "personID" : "1314610",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               },
+               {
+                  "name" : "Dave Philipps",
+                  "personID" : "1306773",
+                  "role" : {
+                     "display" : "Guest"
+                  }
+               },
+               {
+                  "name" : "Kevin Larson",
+                  "personID" : "1806387",
+                  "role" : {
+                     "display" : "Subject"
+                  }
+               }
+            ],
+            "description" : "\r\nThis episode contains descriptions of suicide.Â \r\nOver the past five years, a series of investigations by The Times has revealed the terror and tragedy that Americaâs air wars, despite being promoted as the most precise in history, have brought to civilians on the ground.\r\nThe program has also exacted a heavy toll on the military personnel guiding the drones to their targets. They include soldiers such as Capt. Kevin Larson, a decorated pilot, who died by suicide after a drug arrest and court-martial.\r\nFor suicide prevention resources in the United States, go to SpeakingOfSuicide.com/resources. Go here for resources outside the United States.\r\nGuest: Dave Philipps, a national correspondent covering the military for The New York Times.\r\nWant more from The Daily? For one big idea on the news each week from our team, subscribe to our newsletter.Â \r\nBackground reading:Â Captain Larson was one of the best drone pilots in the U.S. Air Force. Yet as the job weighed on him and untold others, the military failed to recognize its full impact.\r\nFor more information on todayâs episode, visit nytimes.com/thedaily. Transcripts of each episode will be made available by the next workday.Â ",
+            "durationSeconds" : 2016,
+            "editorialStatus" : "enhanced",
+            "episodeID" : "GA0000P002rWWXM",
+            "episodeNumber" : null,
+            "language" : "en",
+            "lastUpdateDateTime" : "2022-05-09T13:03:27Z",
+            "objectType" : "episode",
+            "publishDateTime" : "2022-05-09T09:45:00Z",
+            "seasonNumber" : null,
+            "seriesReference" : {
+               "href" : "/series?seriesIDs=GA0000N000002h2",
+               "seriesID" : "GA0000N000002h2",
+               "title" : "The Daily"
+            },
+            "subtitle" : "This episode contains descriptions of suicide. \r\n\r\nOver the past five years, a series of investigations by The Times has revealed the terror and tragedy that Americaâs air wars, despite being promoted as the most precise in history, have brought to civilians on the ground.\r\n\r\nThe program has also exacted a heavy toll on the military personnel guiding the drones to their targets. They include soldiers such as Capt. Kevin Larson, a decorated pilot, who died by suicide after a drug arrest and court-martial.\r\n\r\nFor suicide prevention resources in the United States, go to SpeakingOfSuicide.com/resources. Go here for resources outside the United States.\r\n\r\nGuest: Dave Philipps, a national correspondent covering the military for The New York Times.",
+            "summary" : "This episode contains descriptions of suicide. \n\nOver the past five years, a series of investigations by The Times has revealed the terror and tragedy that Americaâs air wars, despite being promoted as the most precise in history, have brought to civilians on the ground.\n\nThe program has also exacted a heavy toll on the military personnel guiding the drones to their targets. They include soldiers such as Capt. Kevin Larson, a decorated pilot, who died by suicide after a drug arrest and court-martial.\n\nFor suicide prevention resources in the United States, go to SpeakingOfSuicide.com/resources. Go here for resources outside the United States.\n\nGuest: Dave Philipps, a national correspondent covering the military for The New York Times.",
+            "title" : "The Unseen Trauma of Americaâs Drone Pilots"
+         },
+         {
+            "audioEnclosure" : {
+               "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/bea56b17-13c0-4064-803a-5ad9de904545/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=bea56b17-13c0-4064-803a-5ad9de904545&feed=54nAGcIl",
+               "mimeType" : "audio/mpeg",
+               "sizeBytes" : 58151819
+            },
+            "availabilities" : [
+               {
+                  "license" : "Open",
+                  "name" : "All"
+               }
+            ],
+            "categories" : [
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90277",
+                     "display" : "Storytelling",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90476",
+                     "display" : "Personal Stories",
+                     "level" : 2
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90270",
+                     "display" : "Lifestyle",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90374",
+                     "display" : "Outdoor Recreation",
+                     "level" : 2
+                  }
+               ]
+            ],
+            "credits" : [
+               {
+                  "name" : "Michael Barbaro",
+                  "personID" : "1314610",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               },
+               {
+                  "name" : "Jon Mooallem",
+                  "personID" : "1019096",
+                  "role" : {
+                     "display" : "Guest"
+                  }
+               }
+            ],
+            "description" : "\r\nIt was meant to mark the start of their lives out of college, but the adventure quickly turned into a nightmare. Beginning with what seemed to be a lucky whale sighting, three friends set out on a sea-kayaking trip through Glacier Bay National Park in Alaska, watching out for bears, and having a good time, when tragedy struck.\r\nIn recounting the days preceding and following the accident, which seriously injured one of his friends, the Times journalist Jon Mooallem explains how he was forced to reckon with his fears. Detailing the incidentâs surprising repercussions, he muses on the importance of overcoming oneâs fears, and finding poetry in lifeâs darkest moments.\r\nThis story was written by Jon Mooallem. To hear more audio stories from publications like The New York Times, download Audm for iPhone or Android.",
+            "durationSeconds" : 3634,
+            "editorialStatus" : "enhanced",
+            "episodeID" : "GA0000P002rSW8R",
+            "episodeNumber" : null,
+            "language" : "en",
+            "lastUpdateDateTime" : "2022-05-09T12:58:38Z",
+            "objectType" : "episode",
+            "publishDateTime" : "2022-05-08T10:00:00Z",
+            "seasonNumber" : null,
+            "seriesReference" : {
+               "href" : "/series?seriesIDs=GA0000N000002h2",
+               "seriesID" : "GA0000N000002h2",
+               "title" : "The Daily"
+            },
+            "subtitle" : "It was meant to mark the start of their lives out of college, but the adventure quickly turned into a nightmare. Beginning with what seemed to be a lucky whale sighting, three friends set out on a sea-kayaking trip through Glacier Bay National Park in Alaska, watching out for bears, and having a good time, when tragedy struck.\r\n\r\nIn recounting the days preceding and following the accident, which seriously injured one of his friends, the Times journalist Jon Mooallem explains how he was forced to reckon with his fears. Detailing the incidentâs surprising repercussions, he muses on the importance of overcoming oneâs fears, and finding poetry in lifeâs darkest moments.",
+            "summary" : "It was meant to mark the start of their lives out of college, but the adventure quickly turned into a nightmare. Beginning with what seemed to be a lucky whale sighting, three friends set out on a sea-kayaking trip through Glacier Bay National Park in Alaska, watching out for bears, and having a good time, when tragedy struck.\n\nIn recounting the days preceding and following the accident, which seriously injured one of his friends, the Times journalist Jon Mooallem explains how he was forced to reckon with his fears. Detailing the incidentâs surprising repercussions, he muses on the importance of overcoming oneâs fears, and finding poetry in lifeâs darkest moments.",
+            "title" : "The Sunday Read: âIt Was Just a Kayaking Trip. Until It Upended Our Lives.â"
+         },
+         {
+            "audioEnclosure" : {
+               "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/fd5ea205-729a-464b-aeac-12f51b3855dd/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=fd5ea205-729a-464b-aeac-12f51b3855dd&feed=54nAGcIl",
+               "mimeType" : "audio/mpeg",
+               "sizeBytes" : 29468533
+            },
+            "availabilities" : [
+               {
+                  "license" : "Open",
+                  "name" : "All"
+               }
+            ],
+            "categories" : [
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90272",
+                     "display" : "News & Politics",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90419",
+                     "display" : "Government",
+                     "level" : 2
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90275",
+                     "display" : "Society & Culture",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90450",
+                     "display" : "Law",
+                     "level" : 2
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90275",
+                     "display" : "Society & Culture",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90447",
+                     "display" : "Social Issues",
+                     "level" : 2
+                  }
+               ]
+            ],
+            "credits" : [
+               {
+                  "name" : "Michael Barbaro",
+                  "personID" : "1314610",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               },
+               {
+                  "name" : "Sabrina Tavernise",
+                  "personID" : "1394061",
+                  "role" : {
+                     "display" : "Guest"
+                  }
+               },
+               {
+                  "name" : "Jane Roe",
+                  "personID" : "1367272",
+                  "role" : {
+                     "display" : "Subject"
+                  }
+               }
+            ],
+            "description" : "\r\nToday, we revisit a two-part series that first ran in 2018 about the history of Roe v. Wade and the woman behind it.\r\nAlmost 50 years ago, when the Supreme Court first ruled that women had the constitutional right to an abortion, it was met with little controversy.\r\nIn Part 2, we asked: How, then, did abortion become one of the most controversial issues of our time?\r\nGuest: Sabrina Tavernise, co-host of The Daily. As a correspondent in 2018, she reported on the story of Roe v. Wade.\r\nWant more from The Daily? For one big idea on the news each week from our team, subscribe to our newsletter.Â \r\nBackground reading:Norma McCorvey, the âJane Roeâ of Roe v. Wade who became a divisive icon for both sides of the abortion debate, died in 2017 at the age of 69.\r\nWhat would the end of Roe mean? Here are some key questions and answers.\r\nFor more information on today's episode, visit nytimes.com/thedaily.Â ",
+            "durationSeconds" : 1841,
+            "editorialStatus" : "enhanced",
+            "episodeID" : "GA0000P002rP2mV",
+            "episodeNumber" : null,
+            "language" : "en",
+            "lastUpdateDateTime" : "2022-05-09T12:49:21Z",
+            "objectType" : "episode",
+            "publishDateTime" : "2022-05-07T10:05:00Z",
+            "seasonNumber" : null,
+            "seriesReference" : {
+               "href" : "/series?seriesIDs=GA0000N000002h2",
+               "seriesID" : "GA0000N000002h2",
+               "title" : "The Daily"
+            },
+            "subtitle" : "Today, we revisit a two-part series that first ran in 2018 about the history of Roe v. Wade and the woman behind it.\r\n\r\nAlmost 50 years ago, when the Supreme Court first ruled that women had the constitutional right to an abortion, it was met with little controversy.\r\n\r\nIn Part 2, we asked: How, then, did abortion become one of the most controversial issues of our time?",
+            "summary" : "Today, we revisit a two-part series that first ran in 2018 about the history of Roe v. Wade and the woman behind it.\n\nAlmost 50 years ago, when the Supreme Court first ruled that women had the constitutional right to an abortion, it was met with little controversy.\n\nIn Part 2, we asked: How, then, did abortion become one of the most controversial issues of our time?",
+            "title" : "The Story of Roe v. Wade, Part 2: The Culture Wars (From the Archive)"
+         },
+         {
+            "audioEnclosure" : {
+               "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/402dbf75-65de-4e50-b6ef-5d83416644d9/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=402dbf75-65de-4e50-b6ef-5d83416644d9&feed=54nAGcIl",
+               "mimeType" : "audio/mpeg",
+               "sizeBytes" : 22381349
+            },
+            "availabilities" : [
+               {
+                  "license" : "Open",
+                  "name" : "All"
+               }
+            ],
+            "categories" : [
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90272",
+                     "display" : "News & Politics",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90416",
+                     "display" : "News & Politics Commentary",
+                     "level" : 2
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90757",
+                     "display" : "Political Commentary",
+                     "level" : 3
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90275",
+                     "display" : "Society & Culture",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90450",
+                     "display" : "Law",
+                     "level" : 2
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90275",
+                     "display" : "Society & Culture",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90447",
+                     "display" : "Social Issues",
+                     "level" : 2
+                  }
+               ]
+            ],
+            "credits" : [
+               {
+                  "name" : "Michael Barbaro",
+                  "personID" : "1314610",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               },
+               {
+                  "name" : "Sabrina Tavernise",
+                  "personID" : "1394061",
+                  "role" : {
+                     "display" : "Guest"
+                  }
+               },
+               {
+                  "name" : "Jane Roe",
+                  "personID" : "1367272",
+                  "role" : {
+                     "display" : "Subject"
+                  }
+               }
+            ],
+            "description" : "\r\nThis week, the release of a draft Supreme Court opinion striking down Roe v. Wade has put a spotlight on the 50-year-old case that redefined abortion in America.\r\nToday, we revisit a two-part series that first ran in 2018 about the history of the case and the woman behind it.\r\nIn Part 1, the story of Jane Roe.\r\nGuest: Sabrina Tavernise, co-host of The Daily. As a correspondent in 2018, she reported on the story of Roe v. Wade.\r\nWant more from The Daily? For one big idea on the news each week from our team, subscribe to our newsletter.Â \r\nBackground reading:The leaked draft opinion that would overturn Roe v. Wade also takes aim at its version of history, challenging decades of scholarship that argues abortion was not always a crime.Remembering a time before Roe: When New York legalized abortion in 1970, three years before the landmark ruling, hundreds of thousands of women traveled there from other states for the procedure.\r\nFor more information on todayâs episode, visit nytimes.com/thedaily.",
+            "durationSeconds" : 1398,
+            "editorialStatus" : "enhanced",
+            "episodeID" : "GA0000P002rP4J8",
+            "episodeNumber" : null,
+            "language" : "en",
+            "lastUpdateDateTime" : "2022-05-09T12:41:44Z",
+            "objectType" : "episode",
+            "publishDateTime" : "2022-05-07T10:00:00Z",
+            "seasonNumber" : null,
+            "seriesReference" : {
+               "href" : "/series?seriesIDs=GA0000N000002h2",
+               "seriesID" : "GA0000N000002h2",
+               "title" : "The Daily"
+            },
+            "subtitle" : "This week, the release of a draft Supreme Court opinion striking down Roe v. Wade has put a spotlight on the 50-year-old case that redefined abortion in America.\r\n\r\nToday, we revisit a two-part series that first ran in 2018 about the history of the case and the woman behind it.\r\n\r\nIn Part 1, the story of Jane Roe.",
+            "summary" : "This week, the release of a draft Supreme Court opinion striking down Roe v. Wade has put a spotlight on the 50-year-old case that redefined abortion in America.\n\nToday, we revisit a two-part series that first ran in 2018 about the history of the case and the woman behind it.\n\nIn Part 1, the story of Jane Roe.",
+            "title" : "The Story of Roe v. Wade, Part 1: Who Was Jane Roe? (From the Archive)"
+         },
+         {
+            "audioEnclosure" : {
+               "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/4267207d-ac9c-4c61-aa87-90f9f046d21d/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=4267207d-ac9c-4c61-aa87-90f9f046d21d&feed=54nAGcIl",
+               "mimeType" : "audio/mpeg",
+               "sizeBytes" : 38881933
+            },
+            "availabilities" : [
+               {
+                  "license" : "Open",
+                  "name" : "All"
+               }
+            ],
+            "categories" : [
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90272",
+                     "display" : "News & Politics",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90419",
+                     "display" : "Government",
+                     "level" : 2
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90275",
+                     "display" : "Society & Culture",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90447",
+                     "display" : "Social Issues",
+                     "level" : 2
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90272",
+                     "display" : "News & Politics",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90416",
+                     "display" : "News & Politics Commentary",
+                     "level" : 2
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90757",
+                     "display" : "Political Commentary",
+                     "level" : 3
+                  }
+               ]
+            ],
+            "credits" : [
+               {
+                  "name" : "Michael Barbaro",
+                  "personID" : "1314610",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               }
+            ],
+            "description" : "\r\nSince the leak of the Supreme Court opinion on overturning the constitutional right to abortion, both sides of the fight have been scrambling.\r\nToday, in the first of two parts, we speak to anti-abortion activists such as Michael Gonidakis, president of Ohio Right to Life, about what comes next.\r\nâItâs been a whirlwind,â he said. âWeâre in uncharted territory.â\r\nWant more from The Daily? For one big idea on the news each week from our team, subscribe to our newsletter.Â \r\nBackground reading:Â For half a century, right-wing legal thinkers have been working toward the moment foretold by the leaked draft.Democrats aim to use abortion rights to jolt state legislative races.\r\nFor more information on todayâs episode, visit nytimes.com/thedaily. Transcripts of each episode will be made available by the next workday.Â ",
+            "durationSeconds" : 2430,
+            "editorialStatus" : "enhanced",
+            "episodeID" : "GA0000P002rJG92",
+            "episodeNumber" : null,
+            "language" : "en",
+            "lastUpdateDateTime" : "2022-05-07T07:02:50Z",
+            "objectType" : "episode",
+            "publishDateTime" : "2022-05-06T09:50:11Z",
+            "seasonNumber" : null,
+            "seriesReference" : {
+               "href" : "/series?seriesIDs=GA0000N000002h2",
+               "seriesID" : "GA0000N000002h2",
+               "title" : "The Daily"
+            },
+            "subtitle" : "Since the leak of the Supreme Court opinion on overturning the constitutional right to abortion, both sides of the fight have been scrambling.\r\n\r\nToday, in the first of two parts, we speak to anti-abortion activists such as Michael Gonidakis, president of Ohio Right to Life, about what comes next.\r\n\r\nâItâs been a whirlwind,â he said. âWeâre in uncharted territory.â",
+            "summary" : "Since the leak of the Supreme Court draft opinion on overturning the constitutional right to abortion, both sides of the fight have been scrambling.\n\nToday, in the first of two parts, we speak to anti-abortion activists such as Michael Gonidakis, president of Ohio Right to Life, about what comes next.\n\nâItâs been a whirlwind,â he said. âWeâre in uncharted territory.â",
+            "title" : "Anti-Abortion Activists on a Post-Roe Future"
+         },
+         {
+            "audioEnclosure" : {
+               "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/2e318785-0398-4ab1-abd4-4357581df922/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=2e318785-0398-4ab1-abd4-4357581df922&feed=54nAGcIl",
+               "mimeType" : "audio/mpeg",
+               "sizeBytes" : 20840826
+            },
+            "availabilities" : [
+               {
+                  "license" : "Open",
+                  "name" : "All"
+               }
+            ],
+            "categories" : [
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90272",
+                     "display" : "News & Politics",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90416",
+                     "display" : "News & Politics Commentary",
+                     "level" : 2
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90757",
+                     "display" : "Political Commentary",
+                     "level" : 3
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90272",
+                     "display" : "News & Politics",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90419",
+                     "display" : "Government",
+                     "level" : 2
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90275",
+                     "display" : "Society & Culture",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90450",
+                     "display" : "Law",
+                     "level" : 2
+                  }
+               ]
+            ],
+            "credits" : [
+               {
+                  "name" : "Michael Barbaro",
+                  "personID" : "1314610",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               },
+               {
+                  "name" : "Margot Sanger-Katz",
+                  "personID" : "1479389",
+                  "role" : {
+                     "display" : "Guest"
+                  }
+               }
+            ],
+            "description" : "\r\nIf the Supreme Court revokes Roe v. Wade, individual states will probably be left to make their own decisions about abortion provision.\r\nSome states will ban abortion, and some will continue to allow it. And then there is a third group: swing states, where a final decision will be up for grabs.\r\nGuest: Margot Sanger-Katz, a domestic correspondent covering health care for The New York Times.\r\nWant more from The Daily? For one big idea on the news each week from our team, subscribe to our newsletter.Â \r\nBackground reading:Â \r\nWho gets abortions in the United States?\r\nWhat are trigger laws? \r\nAnd which states have them?\r\nFor more information on todayâs episode, visit nytimes.com/thedaily. Transcripts of each episode will be made available by the next workday.Â ",
+            "durationSeconds" : 1302,
+            "editorialStatus" : "enhanced",
+            "episodeID" : "GA0000P002rGPXb",
+            "episodeNumber" : null,
+            "language" : "en",
+            "lastUpdateDateTime" : "2022-05-05T20:42:57Z",
+            "objectType" : "episode",
+            "publishDateTime" : "2022-05-05T09:45:00Z",
+            "seasonNumber" : null,
+            "seriesReference" : {
+               "href" : "/series?seriesIDs=GA0000N000002h2",
+               "seriesID" : "GA0000N000002h2",
+               "title" : "The Daily"
+            },
+            "subtitle" : "If the Supreme Court revokes Roe v. Wade, individual states will probably be left to make their own decisions about abortion provision.\r\n\r\nSome states will ban abortion, and some will continue to allow it. And then there is a third group: swing states, where a final decision will be up for grabs.\r\n\r\nGuest: Margot Sanger-Katz, a domestic correspondent covering health care for The New York Times.",
+            "summary" : "If the Supreme Court revokes Roe v. Wade, individual states will probably be left to make their own decisions about abortion provision.\n\nSome states will ban abortion, and some will continue to allow it. And then there is a third group: swing states, where a final decision will be up for grabs.\n\nGuest: Margot Sanger-Katz, a domestic correspondent covering health care for The New York Times.",
+            "title" : "A Post-Roe Map of America"
+         },
+         {
+            "audioEnclosure" : {
+               "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/00308898-1b45-47e3-bee8-eeda4de6a654/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=00308898-1b45-47e3-bee8-eeda4de6a654&feed=54nAGcIl",
+               "mimeType" : "audio/mpeg",
+               "sizeBytes" : 27057152
+            },
+            "availabilities" : [
+               {
+                  "license" : "Open",
+                  "name" : "All"
+               }
+            ],
+            "categories" : [
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90272",
+                     "display" : "News & Politics",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90416",
+                     "display" : "News & Politics Commentary",
+                     "level" : 2
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90757",
+                     "display" : "Political Commentary",
+                     "level" : 3
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90272",
+                     "display" : "News & Politics",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90419",
+                     "display" : "Government",
+                     "level" : 2
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90275",
+                     "display" : "Society & Culture",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90447",
+                     "display" : "Social Issues",
+                     "level" : 2
+                  }
+               ]
+            ],
+            "credits" : [
+               {
+                  "name" : "Michael Barbaro",
+                  "personID" : "1314610",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               },
+               {
+                  "name" : "Adam Liptak",
+                  "personID" : "1035664",
+                  "role" : {
+                     "display" : "Guest"
+                  }
+               }
+            ],
+            "description" : "\r\nThe revelation that the Supreme Court could end the constitutional right to abortion in the United States has set off a political firestorm and deepened divisions about one of the most contentious issues in American society.\r\nWhat exactly is in the draft opinion that was leaked this week, and what does it mean for the court and for the country?\r\nGuest: Adam Liptak, who covers the Supreme Court for The New York Times.\r\nWant more from The Daily? For one big idea on the news each week from our team, subscribe to our newsletter.Â \r\nBackground reading:Â Here are some key questions and answers about the possible effects of ending Roe v. Wade.If the Supreme Court does overturn the ruling, where would abortion be banned?\r\nFor more information on todayâs episode, visit nytimes.com/thedaily. Transcripts of each episode will be made available by the next workday.Â ",
+            "durationSeconds" : 1691,
+            "editorialStatus" : "enhanced",
+            "episodeID" : "GA0000P002rFDJ8",
+            "episodeNumber" : null,
+            "language" : "en",
+            "lastUpdateDateTime" : "2022-05-05T20:42:57Z",
+            "objectType" : "episode",
+            "publishDateTime" : "2022-05-04T09:45:00Z",
+            "seasonNumber" : null,
+            "seriesReference" : {
+               "href" : "/series?seriesIDs=GA0000N000002h2",
+               "seriesID" : "GA0000N000002h2",
+               "title" : "The Daily"
+            },
+            "subtitle" : "The revelation that the Supreme Court could end the constitutional right to abortion in the United States has set off a political firestorm and deepened divisions about one of the most contentious issues in American society.\r\n\r\nWhat exactly is in the draft opinion that was leaked this week, and what does it mean for the court and for the country?\r\n\r\nGuest: Adam Liptak, who covers the Supreme Court for The New York Times.",
+            "summary" : "The revelation that the Supreme Court could end the constitutional right to abortion in the United States has set off a political firestorm and deepened divisions about one of the most contentious issues in American society.\n\nWhat exactly is in the draft opinion that was leaked this week, and what does it mean for the court and for the country?\n\nGuest: Adam Liptak, who covers the Supreme Court for The New York Times.",
+            "title" : "Is This How Roe Ends?"
+         },
+         {
+            "audioEnclosure" : {
+               "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/11d93037-bf57-41d1-9e34-beed5d128890/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=11d93037-bf57-41d1-9e34-beed5d128890&feed=54nAGcIl",
+               "mimeType" : "audio/mpeg",
+               "sizeBytes" : 32772856
+            },
+            "availabilities" : [
+               {
+                  "license" : "Open",
+                  "name" : "All"
+               }
+            ],
+            "categories" : [
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90272",
+                     "display" : "News & Politics",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90416",
+                     "display" : "News & Politics Commentary",
+                     "level" : 2
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90757",
+                     "display" : "Political Commentary",
+                     "level" : 3
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90272",
+                     "display" : "News & Politics",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90419",
+                     "display" : "Government",
+                     "level" : 2
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90272",
+                     "display" : "News & Politics",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90414",
+                     "display" : "News",
+                     "level" : 2
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90744",
+                     "display" : "News & Politics Interviews",
+                     "level" : 3
+                  }
+               ]
+            ],
+            "credits" : [
+               {
+                  "name" : "Michael Barbaro",
+                  "personID" : "1314610",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               },
+               {
+                  "name" : "Shane Goldmacher",
+                  "personID" : "1321679",
+                  "role" : {
+                     "display" : "Guest"
+                  }
+               },
+               {
+                  "name" : "Donald Trump",
+                  "personID" : "1805",
+                  "role" : {
+                     "display" : "Subject"
+                  }
+               }
+            ],
+            "description" : "\r\nUnlike other former presidents after leaving office, Donald J. Trump has remained in the middle of the political stage â raising more money than the Republican Party itself and doling out coveted endorsements.\r\nWho has Mr. Trump backed in the midterms? And to what lengths have candidates gone to secure his favor?\r\nGuest: Shane Goldmacher, a national political reporter for The New York Times.\r\nWant more from The Daily? For one big idea on the news each week from our team, subscribe to our newsletter.Â \r\nBackground reading:Â Inspiring fear, hoarding cash, doling out favors and seeking to crush rivals, Mr. Trump is behaving more like an old-time political boss than a typical former president.\r\nFor more information on todayâs episode, visit nytimes.com/thedaily. Transcripts of each episode will be made available by the next workday.Â ",
+            "durationSeconds" : 2048,
+            "editorialStatus" : "enhanced",
+            "episodeID" : "GA0000P002rC25C",
+            "episodeNumber" : null,
+            "language" : "en",
+            "lastUpdateDateTime" : "2022-05-03T17:33:08Z",
+            "objectType" : "episode",
+            "publishDateTime" : "2022-05-03T09:50:00Z",
+            "seasonNumber" : null,
+            "seriesReference" : {
+               "href" : "/series?seriesIDs=GA0000N000002h2",
+               "seriesID" : "GA0000N000002h2",
+               "title" : "The Daily"
+            },
+            "subtitle" : "Unlike other former presidents after leaving office, Donald J. Trump has remained in the middle of the political stage â raising more money than the Republican Party itself and doling out coveted endorsements.\r\n\r\nWho has Mr. Trump backed in the midterms? And to what lengths have candidates gone to secure his favor?\r\n\r\nGuest: Shane Goldmacher, a national political reporter for The New York Times.",
+            "summary" : "Unlike other former presidents after leaving office, Donald J. Trump has remained in the middle of the political stage â raising more money than the Republican Party itself and doling out coveted endorsements.\n\nWho has Mr. Trump backed in the midterms? And to what lengths have candidates gone to secure his favor?\n\nGuest: Shane Goldmacher, a national political reporter for The New York Times.",
+            "title" : "The Mar-a-Lago Midterms"
+         },
+         {
+            "audioEnclosure" : {
+               "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/ed445768-99b4-42e0-982d-d7f49a3dc12c/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=ed445768-99b4-42e0-982d-d7f49a3dc12c&feed=54nAGcIl",
+               "mimeType" : "audio/mpeg",
+               "sizeBytes" : 31641425
+            },
+            "availabilities" : [
+               {
+                  "license" : "Open",
+                  "name" : "All"
+               }
+            ],
+            "categories" : [
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90264",
+                     "display" : "Business",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90292",
+                     "display" : "Business News",
+                     "level" : 2
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90272",
+                     "display" : "News & Politics",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90416",
+                     "display" : "News & Politics Commentary",
+                     "level" : 2
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90757",
+                     "display" : "Political Commentary",
+                     "level" : 3
+                  }
+               ]
+            ],
+            "credits" : [
+               {
+                  "name" : "Michael Barbaro",
+                  "personID" : "1314610",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               },
+               {
+                  "name" : "Noam Scheiber",
+                  "personID" : "661768",
+                  "role" : {
+                     "display" : "Guest"
+                  }
+               }
+            ],
+            "description" : "\r\nThe United States is seeing a revival in union membership.\r\nIn the last six months, the National Labor Relations Board has recorded a 60 percent increase in workers filing for petitions that allow for union elections to take place.\r\nThe circumstances that have prompted these unionization efforts have some similarities with the period that brought the largest gain in union membership in U.S. history, during the 1930s.\r\nWhat can that era tell us about today, and are current efforts just a blip?\r\nGuest: Noam Scheiber, a reporter covering workers and the workplace for The New York Times.\r\nWant more from The Daily? For one big idea on the news each week from our team, subscribe to our newsletter.Â \r\nBackground reading:Â Since the Great Recession, the college-educated have taken more frontline jobs at companies like Starbucks and Amazon. Now theyâre helping to unionize them.\r\nFor more information on todayâs episode, visitÂ \r\nnytimes.com/thedaily\r\n. Transcripts of each episode will be made available by the next workday.",
+            "durationSeconds" : 1977,
+            "editorialStatus" : "enhanced",
+            "episodeID" : "GA0000P002r67mD",
+            "episodeNumber" : null,
+            "language" : "en",
+            "lastUpdateDateTime" : "2022-05-02T14:16:48Z",
+            "objectType" : "episode",
+            "publishDateTime" : "2022-05-02T09:45:00Z",
+            "seasonNumber" : null,
+            "seriesReference" : {
+               "href" : "/series?seriesIDs=GA0000N000002h2",
+               "seriesID" : "GA0000N000002h2",
+               "title" : "The Daily"
+            },
+            "subtitle" : "The United States is seeing a revival in union membership.\r\n\r\nIn the last six months, the National Labor Relations Board has recorded a 60 percent increase in workers filing for petitions that allow for union elections to take place.\r\n\r\nThe circumstances that have prompted these unionization efforts have some similarities with the period that brought the largest gain in union membership in U.S. history, during the 1930s.\r\n\r\nWhat can that era tell us about today, and are current efforts just a blip?",
+            "summary" : "The United States is seeing a revival in union membership.\n\nIn the last six months, the National Labor Relations Board has recorded a 60 percent increase in workers filing for petitions that allow for union elections to take place.\n\nThe circumstances that have prompted these unionization efforts have some similarities with the period that brought the largest gain in union membership in U.S. history, during the 1930s.\n\nWhat can that era tell us about today, and are current efforts just a blip?",
+            "title" : "Are Unions Making a Comeback?"
+         },
+         {
+            "audioEnclosure" : {
+               "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/58c5c691-8576-40b2-a01e-0bb01ce5d1de/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=58c5c691-8576-40b2-a01e-0bb01ce5d1de&feed=54nAGcIl",
+               "mimeType" : "audio/mpeg",
+               "sizeBytes" : 51355905
+            },
+            "availabilities" : [
+               {
+                  "license" : "Open",
+                  "name" : "All"
+               }
+            ],
+            "categories" : [
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90272",
+                     "display" : "News & Politics",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90416",
+                     "display" : "News & Politics Commentary",
+                     "level" : 2
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90757",
+                     "display" : "Political Commentary",
+                     "level" : 3
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90272",
+                     "display" : "News & Politics",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90414",
+                     "display" : "News",
+                     "level" : 2
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90744",
+                     "display" : "News & Politics Interviews",
+                     "level" : 3
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90272",
+                     "display" : "News & Politics",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90414",
+                     "display" : "News",
+                     "level" : 2
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90745",
+                     "display" : "World News",
+                     "level" : 3
+                  }
+               ]
+            ],
+            "credits" : [
+               {
+                  "name" : "Michael Barbaro",
+                  "personID" : "1314610",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               },
+               {
+                  "name" : "Robert Draper",
+                  "personID" : "966419",
+                  "role" : {
+                     "display" : "Guest"
+                  }
+               },
+               {
+                  "name" : "Fiona Hill",
+                  "personID" : "1332842",
+                  "role" : {
+                     "display" : "Guest"
+                  }
+               },
+               {
+                  "name" : "John Bolton",
+                  "personID" : "962241",
+                  "role" : {
+                     "display" : "Guest"
+                  }
+               },
+               {
+                  "name" : "Robert Draper",
+                  "personID" : "966419",
+                  "role" : {
+                     "display" : "Participant"
+                  }
+               },
+               {
+                  "name" : "Donald Trump",
+                  "personID" : "1805",
+                  "role" : {
+                     "display" : "Subject"
+                  }
+               }
+            ],
+            "description" : "\r\nIs there a connection between former President Donald J. Trumpâs pressure campaign on Ukraine, the Russian invasion and the events of Jan. 6, 2021?\r\nThe journalist Robert Draper talked to Fiona Hill, John Bolton and other former Trump advisers to gauge the extent to which the ex-presidentâs actions had a ripple effect.\r\nThis story was written by Robert Draper and recorded by Audm. To hear more audio stories from publications like The New York Times, download Audm for iPhone or Android.\r\nÂ ",
+            "durationSeconds" : 3217,
+            "editorialStatus" : "enhanced",
+            "episodeID" : "GA0000P002r5GDZ",
+            "episodeNumber" : null,
+            "language" : "en",
+            "lastUpdateDateTime" : "2022-05-03T17:33:06Z",
+            "objectType" : "episode",
+            "publishDateTime" : "2022-05-01T10:00:00Z",
+            "seasonNumber" : null,
+            "seriesReference" : {
+               "href" : "/series?seriesIDs=GA0000N000002h2",
+               "seriesID" : "GA0000N000002h2",
+               "title" : "The Daily"
+            },
+            "subtitle" : "Is there a connection between former President Donald J. Trumpâs pressure campaign on Ukraine, the Russian invasion and the events of Jan. 6, 2021?\r\n\r\nThe journalist Robert Draper talked to Fiona Hill, John Bolton and other former Trump advisers to gauge the extent to which the ex-presidentâs actions had a ripple effect.",
+            "summary" : "Is there a connection between former President Donald J. Trumpâs pressure campaign on Ukraine, the Russian invasion and the events of Jan. 6, 2021?\n\nThe journalist Robert Draper talked to Fiona Hill, John Bolton and other former Trump advisers to gauge the extent to which the ex-presidentâs actions had a ripple effect.",
+            "title" : "The Sunday Read: âThis Was Trump Pulling a Putinâ"
+         }
+      ],
+      "meta" : {
+         "count" : 10,
+         "offset" : 0,
+         "total" : 1519
+      }
+   },
+   "error" : null,
+   "success" : true
+}
