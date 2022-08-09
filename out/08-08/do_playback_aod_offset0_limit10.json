@@ -1,0 +1,170 @@
+3.6 Aod Playback Endpoint do_playback_aod_offset0_limit10 ===========================================
+{
+   "data" : [
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/adf91938-260d-480e-b806-b01da97c4e41/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=adf91938-260d-480e-b806-b01da97c4e41&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 25045848
+         },
+         "description" : "Her disclosure of classified documents in 2010 ushered in the age of leaks. Now Chelsea Manning has been freed from prison and talks about why she did it â and everything that followed. Guest: Matt Shaer, a contributing writer for the magazine, who narrates the tapes from his conversation with Ms. Manning, her first in-person, on-the-record interview in almost a decade. For more information on todayâs episode, visit nytimes.com/thedaily. For two weeks, weâre offering listeners a free trial of a New York Times digital subscription. Visit nytimes.com/dailytrial to sign up.",
+         "durationSeconds" : 1546,
+         "episodeID" : "GA0000P0000FGHJ",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/adf91938-260d-480e-b806-b01da97c4e41/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "Her disclosure of classified documents in 2010 ushered in the age of leaks. Now Chelsea Manning has been freed from prison and talks about why she did it â and everything that followed. Guest: Matt Shaer, a contributing writer for the magazine, who narrates the tapes from his conversation with Ms. Manning, her first in-person, on-the-record interview in almost a decade. For more information on todayâs episode, visit nytimes.com/thedaily. For two weeks, weâre offering listeners a free trial of a New York Times digital subscription. Visit nytimes.com/dailytrial to sign up.",
+         "summary" : "Her disclosure of classified documents in 2010 ushered in the age of leaks. Now Chelsea Manning has been freed from prison and talks about why she did it â and everything that followed. Guest: Matt Shaer, a contributing writer for the magazine, who narrates the tapes from his conversation with Ms. Manning, her first in-person, on-the-record interview in almost a decade. For more information on todayâs episode, visit nytimes.com/thedaily. For two weeks, weâre offering listeners a free trial of a New York Times digital subscription. Visit nytimes.com/dailytrial to sign up.",
+         "title" : "Tuesday, June 13, 2017"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/8b761c35-485d-45eb-93e4-610187e122a6/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=8b761c35-485d-45eb-93e4-610187e122a6&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 21170970
+         },
+         "description" : "Dr. Leana Wen, the first physician to lead Planned Parenthood in decades, was ousted after just eight months on the job. Her departure highlights a central tension over the direction of the group: Is it a political organization first, or a health organization? Guest: Sarah Kliff, an investigative reporter for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily. Background reading: As states began to pass ever more restrictive laws on abortion, Planned Parenthoodâs leaders felt they needed a more aggressive political leader to fight efforts to roll back abortion access.âI was asked to leave for the same reason I was hired: I was changing the direction of Planned Parenthood,â Dr. Wen wrote in an Op-Ed for The Times.",
+         "durationSeconds" : 1304,
+         "episodeID" : "GA0000P000GhCNb",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/8b761c35-485d-45eb-93e4-610187e122a6/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "Dr. Leana Wen, the first physician to lead Planned Parenthood in decades, was ousted after just eight months on the job. Her departure highlights a central tension over the direction of the group: Is it a political organization first, or a health organization?Â Guest: Sarah Kliff, an investigative reporter for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.Â \n\nBackground reading:Â As states began to pass ever more restrictive laws on abortion, Planned Parenthoodâs leaders felt they needed a more aggressive political leader to fight efforts to roll back abortion access.âI was asked to leave for the same reason I was hired: I was changing the direction of Planned Parenthood,â Dr. Wen wrote in an Op-Ed for The Times.",
+         "summary" : "Dr. Leana Wen, the first physician to lead Planned Parenthood in decades, was ousted after just eight months on the job. Her departure highlights a central tension over the direction of the group: Is it a political organization first, or a health organization?Â Guest: Sarah Kliff, an investigative reporter for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.Â \n\nBackground reading:Â As states began to pass ever more restrictive laws on abortion, Planned Parenthoodâs leaders felt they needed a more aggressive political leader to fight efforts to roll back abortion access.âI was asked to leave for the same reason I was hired: I was changing the direction of Planned Parenthood,â Dr. Wen wrote in an Op-Ed for The Times.",
+         "title" : "The Fight Over Planned Parenthoodâs Future"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/606e09c3-401f-45db-922d-f9620d877c0b/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=606e09c3-401f-45db-922d-f9620d877c0b&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 21355275
+         },
+         "description" : "In the years before his death, Osama bin Laden seemed to be grooming a successor to lead Al Qaeda: his own son. Hereâs what we learned this week about those plans. Guest: Rukmini Callimachi, who covers terrorism for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily. Background reading: The care Osama bin Laden showed his son was not just fatherly, but appears to have been an attempt by the worldâs most hunted terrorist to secure his legacy.The United States had a role in the operation that killed Hamza bin Laden, officials said. But other details, including where he died, are unknown.",
+         "durationSeconds" : 1316,
+         "episodeID" : "GA0000P000HZ0Jh",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/606e09c3-401f-45db-922d-f9620d877c0b/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "In the years before his death, Osama bin Laden seemed to be grooming a successor to lead Al Qaeda: his own son. Hereâs what we learned this week about those plans. Guest: Rukmini Callimachi, who covers terrorism for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.Â \n\nBackground reading:Â The care Osama bin Laden showed his son was not just fatherly, but appears to have been an attempt by the worldâs most hunted terrorist to secure his legacy.The United States had a role in the operation that killed Hamza bin Laden, officials said. But other details, including where he died, are unknown.",
+         "summary" : "In the years before his death, Osama bin Laden seemed to be grooming a successor to lead Al Qaeda: his own son. Hereâs what we learned this week about those plans. Guest: Rukmini Callimachi, who covers terrorism for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.Â \n\nBackground reading:Â The care Osama bin Laden showed his son was not just fatherly, but appears to have been an attempt by the worldâs most hunted terrorist to secure his legacy.The United States had a role in the operation that killed Hamza bin Laden, officials said. But other details, including where he died, are unknown.",
+         "title" : "Osama bin Ladenâs Successor"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/321e261a-dab2-4858-aa15-843e8952c00e/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=321e261a-dab2-4858-aa15-843e8952c00e&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 22902563
+         },
+         "description" : "Prosecutors in New York have accused the billionaire financier Jeffrey Epstein of sexually abusing dozens of underage girls and of asking them to recruit others. We spoke with our colleague about what happened in a similar case against Mr. Epstein over a decade ago. Guest: Patricia Mazzei, the Miami bureau chief for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily. Background reading: The new indictment of Mr. Epstein could prompt a reckoning for the Justice Department, which is facing fresh scrutiny over a plea deal in 2008 that protected him from federal charges.Alexander Acosta, President Trumpâs labor secretary and the former United States attorney in the Southern District of Florida, was personally involved in negotiating that plea deal.",
+         "durationSeconds" : 1412,
+         "episodeID" : "GA0000P000GhCN5",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/321e261a-dab2-4858-aa15-843e8952c00e/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "Prosecutors in New York have accused the billionaire financier Jeffrey Epstein of sexually abusing dozens of underage girls and of asking them to recruit others. We spoke with our colleague about what happened in a similar case against Mr. Epstein over a decade ago. Guest: Patricia Mazzei, the Miami bureau chief for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.Â \n\nBackground reading:Â The new indictment of Mr. Epstein could prompt a reckoning for the Justice Department, which is facing fresh scrutiny over a plea deal in 2008 that protected him from federal charges.Alexander Acosta, President Trumpâs labor secretary and the former United States attorney in the Southern District of Florida, was personally involved in negotiating that plea deal.",
+         "summary" : "Prosecutors in New York have accused the billionaire financier Jeffrey Epstein of sexually abusing dozens of underage girls and of asking them to recruit others. We spoke with our colleague about what happened in a similar case against Mr. Epstein over a decade ago. Guest: Patricia Mazzei, the Miami bureau chief for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.Â \n\nBackground reading:Â The new indictment of Mr. Epstein could prompt a reckoning for the Justice Department, which is facing fresh scrutiny over a plea deal in 2008 that protected him from federal charges.Alexander Acosta, President Trumpâs labor secretary and the former United States attorney in the Southern District of Florida, was personally involved in negotiating that plea deal.",
+         "title" : "United States v. Jeffrey Epstein"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/bb75d96b-8240-4180-95d1-3b715fc9007d/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=bb75d96b-8240-4180-95d1-3b715fc9007d&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 12410106
+         },
+         "description" : "Why President Trumpâs decision to launch missiles into Syria is at odds with nearly everything he has said about Syria. Guest: Peter Baker, the chief White House correspondent. For more information on todayâs episode, visit http://nyti.ms/2oU6HZq.",
+         "durationSeconds" : 756,
+         "episodeID" : "GA0000P0000FGG1",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/bb75d96b-8240-4180-95d1-3b715fc9007d/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "Why President Trumpâs decision to launch missiles into Syria is at odds with nearly everything he has said about Syria. Guest: Peter Baker, the chief White House correspondent. For more information on todayâs episode, visit http://nyti.ms/2oU6HZq.",
+         "summary" : "Why President Trumpâs decision to launch missiles into Syria is at odds with nearly everything he has said about Syria. Guest: Peter Baker, the chief White House correspondent. For more information on todayâs episode, visit http://nyti.ms/2oU6HZq.",
+         "title" : "Monday, April 10, 2017"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/2c044218-4387-4bff-b39f-93ba703f6f7a/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=2c044218-4387-4bff-b39f-93ba703f6f7a&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 20802728
+         },
+         "description" : "The individual mandate started as a Republican idea to fix health care, but it was at the heart of a Democratic presidentâs signature measure. Now Congress is using the tax bill to kill the mandate. Why did Republicans turn on their own big idea, and what does it mean for the future of the Affordable Care Act? Guests: Margot Sanger-Katz, a health care reporter for The Times; Jonathan Gruber, a professor of economics at M.I.T. who advised Mitt Romneyâs team on overhauling health care in Massachusetts, and the Obama administration in drafting the Affordable Care Act. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1281,
+         "episodeID" : "GA0000P0000FGPV",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/2c044218-4387-4bff-b39f-93ba703f6f7a/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "The individual mandate started as a Republican idea to fix health care, but it was at the heart of a Democratic presidentâs signature measure. Now Congress is using the tax bill to kill the mandate. Why did Republicans turn on their own big idea, and what does it mean for the future of the Affordable Care Act?\n\nGuests: Margot Sanger-Katz, a health care reporter for The Times; Jonathan Gruber, a professor of economics at M.I.T. who advised Mitt Romneyâs team on overhauling health care in Massachusetts, and the Obama administration in drafting the Affordable Care Act. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "The individual mandate started as a Republican idea to fix health care, but it was at the heart of a Democratic presidentâs signature measure. Now Congress is using the tax bill to kill the mandate. Why did Republicans turn on their own big idea, and what does it mean for the future of the Affordable Care Act?\n\nGuests: Margot Sanger-Katz, a health care reporter for The Times; Jonathan Gruber, a professor of economics at M.I.T. who advised Mitt Romneyâs team on overhauling health care in Massachusetts, and the Obama administration in drafting the Affordable Care Act. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Wednesday, Dec. 20, 2017"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/07b65f50-785b-4448-964a-8dff7d3cfbce/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=07b65f50-785b-4448-964a-8dff7d3cfbce&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 19713942
+         },
+         "description" : "President Trumpâs top deputies delivered a blunt message to the party faithful on Thursday: the Republicans are winning the fight â and it is a fight. Plus a conversation with the director of âMoonlight.â Guests: Jonathan Martin, who has covered the inside story of both political parties for years; Nikole Hannah-Jones, a staff writer for the New York Times Magazine. For more information on todayâs episode, visit http://nyti.ms/2lLN9U9.",
+         "durationSeconds" : 1213,
+         "episodeID" : "GA0000P0000FGF2",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/07b65f50-785b-4448-964a-8dff7d3cfbce/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "President Trumpâs top deputies delivered a blunt message to the party faithful on Thursday: the Republicans are winning the fight â and it is a fight. Plus a conversation with the director of âMoonlight.â Guests: Jonathan Martin, who has covered the inside story of both political parties for years; Nikole Hannah-Jones, a staff writer for the New York Times Magazine. For more information on todayâs episode, visit http://nyti.ms/2lLN9U9.",
+         "summary" : "President Trumpâs top deputies delivered a blunt message to the party faithful on Thursday: the Republicans are winning the fight â and it is a fight. Plus a conversation with the director of âMoonlight.â Guests: Jonathan Martin, who has covered the inside story of both political parties for years; Nikole Hannah-Jones, a staff writer for the New York Times Magazine. For more information on todayâs episode, visit http://nyti.ms/2lLN9U9.",
+         "title" : "Friday, Feb. 24, 2017"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/4b82d546-43d4-4aa9-9588-52b52b38751b/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=4b82d546-43d4-4aa9-9588-52b52b38751b&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 20054579
+         },
+         "description" : "How a dinner party in Washington held months before Donald Trump announced his run for president laid the groundwork for his sweeping immigration plans today. Guests: Emily Bazelon, a staff writer for The New York Times Magazine; Joe Cochrane, a correspondent for the International New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1234,
+         "episodeID" : "GA0000P0000FGF4",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/4b82d546-43d4-4aa9-9588-52b52b38751b/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "How a dinner party in Washington held months before Donald Trump announced his run for president laid the groundwork for his sweeping immigration plans today. Guests: Emily Bazelon, a staff writer for The New York Times Magazine; Joe Cochrane, a correspondent for the International New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "How a dinner party in Washington held months before Donald Trump announced his run for president laid the groundwork for his sweeping immigration plans today. Guests: Emily Bazelon, a staff writer for The New York Times Magazine; Joe Cochrane, a correspondent for the International New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Tuesday, Feb. 28, 2017"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/3dfdd380-a1e1-41a6-a0bc-866b766057b6/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=3dfdd380-a1e1-41a6-a0bc-866b766057b6&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 27135226
+         },
+         "description" : "Behind the landmark Supreme Court ruling of Brown v. Board of Education was a girl named Linda Brown, whose story led to states being ordered to desegregate schools, mostly against their will. Ms. Brown died on Sunday. Who was she, and what has changed in the 64 years since the case was decided? Guest: Nikole Hannah-Jones, an investigative reporter covering race and civil rights for The New York Times Magazine. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1677,
+         "episodeID" : "GA0000P0000FGSh",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/3dfdd380-a1e1-41a6-a0bc-866b766057b6/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "Behind the landmark Supreme Court ruling of Brown v. Board of Education was a girl named Linda Brown, whose story led to states being ordered to desegregate schools, mostly against their will. Ms. Brown died on Sunday. Who was she, and what has changed in the 64 years since the case was decided? Guest: Nikole Hannah-Jones, an investigative reporter covering race and civil rights for The New York Times Magazine. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "Behind the landmark Supreme Court ruling of Brown v. Board of Education was a girl named Linda Brown, whose story led to states being ordered to desegregate schools, mostly against their will. Ms. Brown died on Sunday. Who was she, and what has changed in the 64 years since the case was decided? Guest: Nikole Hannah-Jones, an investigative reporter covering race and civil rights for The New York Times Magazine. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Friday, March 30, 2018"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/92a5dc5a-7317-4edd-a88f-288d8dddf3e5/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=92a5dc5a-7317-4edd-a88f-288d8dddf3e5&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 26525432
+         },
+         "description" : "The 116th Congress has been sworn in. With that, Democrats have taken control of the House, and Representative Nancy Pelosi has reclaimed her position as its leader. Hereâs the scene on Capitol Hill as the day unfolded. Guest: Julie Hirschfeld Davis, who covers Congress for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1639,
+         "episodeID" : "GA0000P0000FGh9",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/92a5dc5a-7317-4edd-a88f-288d8dddf3e5/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "The 116th Congress has been sworn in. With that, Democrats have taken control of the House, and Representative Nancy Pelosi has reclaimed her position as its leader. Hereâs the scene on Capitol Hill as the day unfolded. Guest: Julie Hirschfeld Davis, who covers Congress for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "The 116th Congress has been sworn in. With that, Democrats have taken control of the House, and Representative Nancy Pelosi has reclaimed her position as its leader. Hereâs the scene on Capitol Hill as the day unfolded. Guest: Julie Hirschfeld Davis, who covers Congress for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Day 1 of a Democratic Majority"
+      }
+   ],
+   "meta" : {
+      "limit" : 10,
+      "offset" : 0,
+      "total" : 1593
+   }
+}

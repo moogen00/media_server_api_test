@@ -1,0 +1,490 @@
+3.6 Aod Playback Endpoint do_playback_aod ===========================================
+{
+   "data" : [
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/adf91938-260d-480e-b806-b01da97c4e41/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=adf91938-260d-480e-b806-b01da97c4e41&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 25045848
+         },
+         "description" : "Her disclosure of classified documents in 2010 ushered in the age of leaks. Now Chelsea Manning has been freed from prison and talks about why she did it â and everything that followed. Guest: Matt Shaer, a contributing writer for the magazine, who narrates the tapes from his conversation with Ms. Manning, her first in-person, on-the-record interview in almost a decade. For more information on todayâs episode, visit nytimes.com/thedaily. For two weeks, weâre offering listeners a free trial of a New York Times digital subscription. Visit nytimes.com/dailytrial to sign up.",
+         "durationSeconds" : 1546,
+         "episodeID" : "GA0000P0000FGHJ",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/adf91938-260d-480e-b806-b01da97c4e41/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "Her disclosure of classified documents in 2010 ushered in the age of leaks. Now Chelsea Manning has been freed from prison and talks about why she did it â and everything that followed. Guest: Matt Shaer, a contributing writer for the magazine, who narrates the tapes from his conversation with Ms. Manning, her first in-person, on-the-record interview in almost a decade. For more information on todayâs episode, visit nytimes.com/thedaily. For two weeks, weâre offering listeners a free trial of a New York Times digital subscription. Visit nytimes.com/dailytrial to sign up.",
+         "summary" : "Her disclosure of classified documents in 2010 ushered in the age of leaks. Now Chelsea Manning has been freed from prison and talks about why she did it â and everything that followed. Guest: Matt Shaer, a contributing writer for the magazine, who narrates the tapes from his conversation with Ms. Manning, her first in-person, on-the-record interview in almost a decade. For more information on todayâs episode, visit nytimes.com/thedaily. For two weeks, weâre offering listeners a free trial of a New York Times digital subscription. Visit nytimes.com/dailytrial to sign up.",
+         "title" : "Tuesday, June 13, 2017"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/8b761c35-485d-45eb-93e4-610187e122a6/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=8b761c35-485d-45eb-93e4-610187e122a6&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 21170970
+         },
+         "description" : "Dr. Leana Wen, the first physician to lead Planned Parenthood in decades, was ousted after just eight months on the job. Her departure highlights a central tension over the direction of the group: Is it a political organization first, or a health organization? Guest: Sarah Kliff, an investigative reporter for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily. Background reading: As states began to pass ever more restrictive laws on abortion, Planned Parenthoodâs leaders felt they needed a more aggressive political leader to fight efforts to roll back abortion access.âI was asked to leave for the same reason I was hired: I was changing the direction of Planned Parenthood,â Dr. Wen wrote in an Op-Ed for The Times.",
+         "durationSeconds" : 1304,
+         "episodeID" : "GA0000P000GhCNb",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/8b761c35-485d-45eb-93e4-610187e122a6/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "Dr. Leana Wen, the first physician to lead Planned Parenthood in decades, was ousted after just eight months on the job. Her departure highlights a central tension over the direction of the group: Is it a political organization first, or a health organization?Â Guest: Sarah Kliff, an investigative reporter for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.Â \n\nBackground reading:Â As states began to pass ever more restrictive laws on abortion, Planned Parenthoodâs leaders felt they needed a more aggressive political leader to fight efforts to roll back abortion access.âI was asked to leave for the same reason I was hired: I was changing the direction of Planned Parenthood,â Dr. Wen wrote in an Op-Ed for The Times.",
+         "summary" : "Dr. Leana Wen, the first physician to lead Planned Parenthood in decades, was ousted after just eight months on the job. Her departure highlights a central tension over the direction of the group: Is it a political organization first, or a health organization?Â Guest: Sarah Kliff, an investigative reporter for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.Â \n\nBackground reading:Â As states began to pass ever more restrictive laws on abortion, Planned Parenthoodâs leaders felt they needed a more aggressive political leader to fight efforts to roll back abortion access.âI was asked to leave for the same reason I was hired: I was changing the direction of Planned Parenthood,â Dr. Wen wrote in an Op-Ed for The Times.",
+         "title" : "The Fight Over Planned Parenthoodâs Future"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/606e09c3-401f-45db-922d-f9620d877c0b/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=606e09c3-401f-45db-922d-f9620d877c0b&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 21355275
+         },
+         "description" : "In the years before his death, Osama bin Laden seemed to be grooming a successor to lead Al Qaeda: his own son. Hereâs what we learned this week about those plans. Guest: Rukmini Callimachi, who covers terrorism for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily. Background reading: The care Osama bin Laden showed his son was not just fatherly, but appears to have been an attempt by the worldâs most hunted terrorist to secure his legacy.The United States had a role in the operation that killed Hamza bin Laden, officials said. But other details, including where he died, are unknown.",
+         "durationSeconds" : 1316,
+         "episodeID" : "GA0000P000HZ0Jh",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/606e09c3-401f-45db-922d-f9620d877c0b/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "In the years before his death, Osama bin Laden seemed to be grooming a successor to lead Al Qaeda: his own son. Hereâs what we learned this week about those plans. Guest: Rukmini Callimachi, who covers terrorism for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.Â \n\nBackground reading:Â The care Osama bin Laden showed his son was not just fatherly, but appears to have been an attempt by the worldâs most hunted terrorist to secure his legacy.The United States had a role in the operation that killed Hamza bin Laden, officials said. But other details, including where he died, are unknown.",
+         "summary" : "In the years before his death, Osama bin Laden seemed to be grooming a successor to lead Al Qaeda: his own son. Hereâs what we learned this week about those plans. Guest: Rukmini Callimachi, who covers terrorism for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.Â \n\nBackground reading:Â The care Osama bin Laden showed his son was not just fatherly, but appears to have been an attempt by the worldâs most hunted terrorist to secure his legacy.The United States had a role in the operation that killed Hamza bin Laden, officials said. But other details, including where he died, are unknown.",
+         "title" : "Osama bin Ladenâs Successor"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/321e261a-dab2-4858-aa15-843e8952c00e/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=321e261a-dab2-4858-aa15-843e8952c00e&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 22902563
+         },
+         "description" : "Prosecutors in New York have accused the billionaire financier Jeffrey Epstein of sexually abusing dozens of underage girls and of asking them to recruit others. We spoke with our colleague about what happened in a similar case against Mr. Epstein over a decade ago. Guest: Patricia Mazzei, the Miami bureau chief for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily. Background reading: The new indictment of Mr. Epstein could prompt a reckoning for the Justice Department, which is facing fresh scrutiny over a plea deal in 2008 that protected him from federal charges.Alexander Acosta, President Trumpâs labor secretary and the former United States attorney in the Southern District of Florida, was personally involved in negotiating that plea deal.",
+         "durationSeconds" : 1412,
+         "episodeID" : "GA0000P000GhCN5",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/321e261a-dab2-4858-aa15-843e8952c00e/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "Prosecutors in New York have accused the billionaire financier Jeffrey Epstein of sexually abusing dozens of underage girls and of asking them to recruit others. We spoke with our colleague about what happened in a similar case against Mr. Epstein over a decade ago. Guest: Patricia Mazzei, the Miami bureau chief for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.Â \n\nBackground reading:Â The new indictment of Mr. Epstein could prompt a reckoning for the Justice Department, which is facing fresh scrutiny over a plea deal in 2008 that protected him from federal charges.Alexander Acosta, President Trumpâs labor secretary and the former United States attorney in the Southern District of Florida, was personally involved in negotiating that plea deal.",
+         "summary" : "Prosecutors in New York have accused the billionaire financier Jeffrey Epstein of sexually abusing dozens of underage girls and of asking them to recruit others. We spoke with our colleague about what happened in a similar case against Mr. Epstein over a decade ago. Guest: Patricia Mazzei, the Miami bureau chief for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.Â \n\nBackground reading:Â The new indictment of Mr. Epstein could prompt a reckoning for the Justice Department, which is facing fresh scrutiny over a plea deal in 2008 that protected him from federal charges.Alexander Acosta, President Trumpâs labor secretary and the former United States attorney in the Southern District of Florida, was personally involved in negotiating that plea deal.",
+         "title" : "United States v. Jeffrey Epstein"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/bb75d96b-8240-4180-95d1-3b715fc9007d/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=bb75d96b-8240-4180-95d1-3b715fc9007d&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 12410106
+         },
+         "description" : "Why President Trumpâs decision to launch missiles into Syria is at odds with nearly everything he has said about Syria. Guest: Peter Baker, the chief White House correspondent. For more information on todayâs episode, visit http://nyti.ms/2oU6HZq.",
+         "durationSeconds" : 756,
+         "episodeID" : "GA0000P0000FGG1",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/bb75d96b-8240-4180-95d1-3b715fc9007d/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "Why President Trumpâs decision to launch missiles into Syria is at odds with nearly everything he has said about Syria. Guest: Peter Baker, the chief White House correspondent. For more information on todayâs episode, visit http://nyti.ms/2oU6HZq.",
+         "summary" : "Why President Trumpâs decision to launch missiles into Syria is at odds with nearly everything he has said about Syria. Guest: Peter Baker, the chief White House correspondent. For more information on todayâs episode, visit http://nyti.ms/2oU6HZq.",
+         "title" : "Monday, April 10, 2017"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/2c044218-4387-4bff-b39f-93ba703f6f7a/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=2c044218-4387-4bff-b39f-93ba703f6f7a&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 20802728
+         },
+         "description" : "The individual mandate started as a Republican idea to fix health care, but it was at the heart of a Democratic presidentâs signature measure. Now Congress is using the tax bill to kill the mandate. Why did Republicans turn on their own big idea, and what does it mean for the future of the Affordable Care Act? Guests: Margot Sanger-Katz, a health care reporter for The Times; Jonathan Gruber, a professor of economics at M.I.T. who advised Mitt Romneyâs team on overhauling health care in Massachusetts, and the Obama administration in drafting the Affordable Care Act. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1281,
+         "episodeID" : "GA0000P0000FGPV",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/2c044218-4387-4bff-b39f-93ba703f6f7a/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "The individual mandate started as a Republican idea to fix health care, but it was at the heart of a Democratic presidentâs signature measure. Now Congress is using the tax bill to kill the mandate. Why did Republicans turn on their own big idea, and what does it mean for the future of the Affordable Care Act?\n\nGuests: Margot Sanger-Katz, a health care reporter for The Times; Jonathan Gruber, a professor of economics at M.I.T. who advised Mitt Romneyâs team on overhauling health care in Massachusetts, and the Obama administration in drafting the Affordable Care Act. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "The individual mandate started as a Republican idea to fix health care, but it was at the heart of a Democratic presidentâs signature measure. Now Congress is using the tax bill to kill the mandate. Why did Republicans turn on their own big idea, and what does it mean for the future of the Affordable Care Act?\n\nGuests: Margot Sanger-Katz, a health care reporter for The Times; Jonathan Gruber, a professor of economics at M.I.T. who advised Mitt Romneyâs team on overhauling health care in Massachusetts, and the Obama administration in drafting the Affordable Care Act. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Wednesday, Dec. 20, 2017"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/07b65f50-785b-4448-964a-8dff7d3cfbce/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=07b65f50-785b-4448-964a-8dff7d3cfbce&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 19713942
+         },
+         "description" : "President Trumpâs top deputies delivered a blunt message to the party faithful on Thursday: the Republicans are winning the fight â and it is a fight. Plus a conversation with the director of âMoonlight.â Guests: Jonathan Martin, who has covered the inside story of both political parties for years; Nikole Hannah-Jones, a staff writer for the New York Times Magazine. For more information on todayâs episode, visit http://nyti.ms/2lLN9U9.",
+         "durationSeconds" : 1213,
+         "episodeID" : "GA0000P0000FGF2",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/07b65f50-785b-4448-964a-8dff7d3cfbce/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "President Trumpâs top deputies delivered a blunt message to the party faithful on Thursday: the Republicans are winning the fight â and it is a fight. Plus a conversation with the director of âMoonlight.â Guests: Jonathan Martin, who has covered the inside story of both political parties for years; Nikole Hannah-Jones, a staff writer for the New York Times Magazine. For more information on todayâs episode, visit http://nyti.ms/2lLN9U9.",
+         "summary" : "President Trumpâs top deputies delivered a blunt message to the party faithful on Thursday: the Republicans are winning the fight â and it is a fight. Plus a conversation with the director of âMoonlight.â Guests: Jonathan Martin, who has covered the inside story of both political parties for years; Nikole Hannah-Jones, a staff writer for the New York Times Magazine. For more information on todayâs episode, visit http://nyti.ms/2lLN9U9.",
+         "title" : "Friday, Feb. 24, 2017"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/4b82d546-43d4-4aa9-9588-52b52b38751b/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=4b82d546-43d4-4aa9-9588-52b52b38751b&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 20054579
+         },
+         "description" : "How a dinner party in Washington held months before Donald Trump announced his run for president laid the groundwork for his sweeping immigration plans today. Guests: Emily Bazelon, a staff writer for The New York Times Magazine; Joe Cochrane, a correspondent for the International New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1234,
+         "episodeID" : "GA0000P0000FGF4",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/4b82d546-43d4-4aa9-9588-52b52b38751b/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "How a dinner party in Washington held months before Donald Trump announced his run for president laid the groundwork for his sweeping immigration plans today. Guests: Emily Bazelon, a staff writer for The New York Times Magazine; Joe Cochrane, a correspondent for the International New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "How a dinner party in Washington held months before Donald Trump announced his run for president laid the groundwork for his sweeping immigration plans today. Guests: Emily Bazelon, a staff writer for The New York Times Magazine; Joe Cochrane, a correspondent for the International New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Tuesday, Feb. 28, 2017"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/3dfdd380-a1e1-41a6-a0bc-866b766057b6/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=3dfdd380-a1e1-41a6-a0bc-866b766057b6&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 27135226
+         },
+         "description" : "Behind the landmark Supreme Court ruling of Brown v. Board of Education was a girl named Linda Brown, whose story led to states being ordered to desegregate schools, mostly against their will. Ms. Brown died on Sunday. Who was she, and what has changed in the 64 years since the case was decided? Guest: Nikole Hannah-Jones, an investigative reporter covering race and civil rights for The New York Times Magazine. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1677,
+         "episodeID" : "GA0000P0000FGSh",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/3dfdd380-a1e1-41a6-a0bc-866b766057b6/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "Behind the landmark Supreme Court ruling of Brown v. Board of Education was a girl named Linda Brown, whose story led to states being ordered to desegregate schools, mostly against their will. Ms. Brown died on Sunday. Who was she, and what has changed in the 64 years since the case was decided? Guest: Nikole Hannah-Jones, an investigative reporter covering race and civil rights for The New York Times Magazine. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "Behind the landmark Supreme Court ruling of Brown v. Board of Education was a girl named Linda Brown, whose story led to states being ordered to desegregate schools, mostly against their will. Ms. Brown died on Sunday. Who was she, and what has changed in the 64 years since the case was decided? Guest: Nikole Hannah-Jones, an investigative reporter covering race and civil rights for The New York Times Magazine. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Friday, March 30, 2018"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/92a5dc5a-7317-4edd-a88f-288d8dddf3e5/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=92a5dc5a-7317-4edd-a88f-288d8dddf3e5&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 26525432
+         },
+         "description" : "The 116th Congress has been sworn in. With that, Democrats have taken control of the House, and Representative Nancy Pelosi has reclaimed her position as its leader. Hereâs the scene on Capitol Hill as the day unfolded. Guest: Julie Hirschfeld Davis, who covers Congress for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1639,
+         "episodeID" : "GA0000P0000FGh9",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/92a5dc5a-7317-4edd-a88f-288d8dddf3e5/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "The 116th Congress has been sworn in. With that, Democrats have taken control of the House, and Representative Nancy Pelosi has reclaimed her position as its leader. Hereâs the scene on Capitol Hill as the day unfolded. Guest: Julie Hirschfeld Davis, who covers Congress for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "The 116th Congress has been sworn in. With that, Democrats have taken control of the House, and Representative Nancy Pelosi has reclaimed her position as its leader. Hereâs the scene on Capitol Hill as the day unfolded. Guest: Julie Hirschfeld Davis, who covers Congress for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Day 1 of a Democratic Majority"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/aa9bdf52-a2ac-44c0-ac33-a680333748bc/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=aa9bdf52-a2ac-44c0-ac33-a680333748bc&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 17055723
+         },
+         "description" : "On the last day of its term, the Supreme Court said it would take the case about the legality of President Trumpâs travel ban. We discuss the path of the travel ban through the lower courts, the key role of two justices in determining the outcome and what this means for refugees. Guests: Adam Liptak, who covers the Supreme Court; Nicholas Kulish, who covers immigration. Caitlin Dickerson is our host; Michael Barbaro is on vacation. For more information on todayâs episode, visit http://nyti.ms/2tMr8XN.",
+         "durationSeconds" : 1047,
+         "episodeID" : "GA0000P0000FGHZ",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/aa9bdf52-a2ac-44c0-ac33-a680333748bc/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "On the last day of its term, the Supreme Court said it would take the case about the legality of President Trumpâs travel ban. We discuss the path of the travel ban through the lower courts, the key role of two justices in determining the outcome and what this means for refugees. Guests: Adam Liptak, who covers the Supreme Court; Nicholas Kulish, who covers immigration. Caitlin Dickerson is our host; Michael Barbaro is on vacation. For more information on todayâs episode, visit http://nyti.ms/2tMr8XN.",
+         "summary" : "On the last day of its term, the Supreme Court said it would take the case about the legality of President Trumpâs travel ban. We discuss the path of the travel ban through the lower courts, the key role of two justices in determining the outcome and what this means for refugees. Guests: Adam Liptak, who covers the Supreme Court; Nicholas Kulish, who covers immigration. Caitlin Dickerson is our host; Michael Barbaro is on vacation. For more information on todayâs episode, visit http://nyti.ms/2tMr8XN.",
+         "title" : "Tuesday, June 27, 2017"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/d38aa379-f78f-4fa6-84e1-84d3d0b44a86/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=d38aa379-f78f-4fa6-84e1-84d3d0b44a86&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 20679847
+         },
+         "description" : "All week, Senate Democrats have furiously protested the decision by Republicans to protect thousands of documents related to Judge Brett M. Kavanaugh, President Trumpâs nominee to the Supreme Court. On the third day of his confirmation hearings, that fury came to a head. Guest: Adam Liptak, who covers the Supreme Court for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1273,
+         "episodeID" : "GA0000P0000FGXW",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/d38aa379-f78f-4fa6-84e1-84d3d0b44a86/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "All week, Senate Democrats have furiously protested the decision by Republicans to protect thousands of documents related to Judge Brett M. Kavanaugh, President Trumpâs nominee to the Supreme Court. On the third day of his confirmation hearings, that fury came to a head. Guest: Adam Liptak, who covers the Supreme Court for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "All week, Senate Democrats have furiously protested the decision by Republicans to protect thousands of documents related to Judge Brett M. Kavanaugh, President Trumpâs nominee to the Supreme Court. On the third day of his confirmation hearings, that fury came to a head. Guest: Adam Liptak, who covers the Supreme Court for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "The Kavanaugh Documents"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/e5cd3445-140b-4d95-9b33-a0d2ed47f0d4/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=e5cd3445-140b-4d95-9b33-a0d2ed47f0d4&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 26311847
+         },
+         "description" : "For only the second time since the start of a global epidemic, a person was reported this month to have been cured of H.I.V., the virus that causes AIDS. Scientists and activists had almost given up on reaching that milestone. Hereâs a look at how we got to this point. Guest: Peter Staley, a longtime AIDS activist. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1625,
+         "episodeID" : "GA0000P0000FGmm",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/e5cd3445-140b-4d95-9b33-a0d2ed47f0d4/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "For only the second time since the start of a global epidemic, a person was reported this month to have been cured of H.I.V., the virus that causes AIDS. Scientists and activists had almost given up on reaching that milestone. Hereâs a look at how we got to this point. Guest: Peter Staley, a longtime AIDS activist. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "For only the second time since the start of a global epidemic, a person was reported this month to have been cured of H.I.V., the virus that causes AIDS. Scientists and activists had almost given up on reaching that milestone. Hereâs a look at how we got to this point. Guest: Peter Staley, a longtime AIDS activist. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "A Path to Curing H.I.V."
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/095e6513-c277-48aa-840e-c6d557947a69/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=095e6513-c277-48aa-840e-c6d557947a69&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 20770965
+         },
+         "description" : "Russiaâs interference in the 2016 election is now undisputed. Whatâs less clear is the role of the countryâs media. A Times reporter went to Moscow to see how the Kremlin is waging an information war against the West. Guest: Jim Rutenberg, media columnist for The Times who recently returned from Russia. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1279,
+         "episodeID" : "GA0000P0000FGMM",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/095e6513-c277-48aa-840e-c6d557947a69/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "Russiaâs interference in the 2016 election is now undisputed. Whatâs less clear is the role of the countryâs media. A Times reporter went to Moscow to see how the Kremlin is waging an information war against the West. Guest: Jim Rutenberg, media columnist for The Times who recently returned from Russia. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "Russiaâs interference in the 2016 election is now undisputed. Whatâs less clear is the role of the countryâs media. A Times reporter went to Moscow to see how the Kremlin is waging an information war against the West. Guest: Jim Rutenberg, media columnist for The Times who recently returned from Russia. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Wednesday, Sept. 13, 2017"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/721aaf45-d145-4b4b-be80-f07c4afbdef6/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=721aaf45-d145-4b4b-be80-f07c4afbdef6&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 23442995
+         },
+         "description" : "The Senate Judiciary Committee opens its hearing into allegations against Judge Brett M. Kavanaugh today. At stake for both parties is the swing seat on an ideologically divided Supreme Court in the thick of an election battle for control of Congress. Hereâs a preview of each sideâs plan for the hearing. Guests: Peter Baker, who covers the White House for The New York Times, and Sheryl Gay Stolberg, who covers Congress. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1446,
+         "episodeID" : "GA0000P0000FGZ6",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/721aaf45-d145-4b4b-be80-f07c4afbdef6/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "The Senate Judiciary Committee opens its hearing into allegations against Judge Brett M. Kavanaugh today. At stake for both parties is the swing seat on an ideologically divided Supreme Court in the thick of an election battle for control of Congress. Hereâs a preview of each sideâs plan for the hearing. Guests: Peter Baker, who covers the White House for The New York Times, and Sheryl Gay Stolberg, who covers Congress. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "The Senate Judiciary Committee opens its hearing into allegations against Judge Brett M. Kavanaugh today. At stake for both parties is the swing seat on an ideologically divided Supreme Court in the thick of an election battle for control of Congress. Hereâs a preview of each sideâs plan for the hearing. Guests: Peter Baker, who covers the White House for The New York Times, and Sheryl Gay Stolberg, who covers Congress. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Todayâs Hearing: Trial or Job Interview?"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/fc5112e4-593f-4c7a-8b8c-e37f95ab6d29/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=fc5112e4-593f-4c7a-8b8c-e37f95ab6d29&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 18962034
+         },
+         "description" : "As a limited travel ban goes into effect, the Trump administration has defined what constitutes a âbona fideâ relationship: whoâs close family, and whoâs not, for visitors from six predominantly Muslim nations. Guests: Michael D. Shear, White House correspondent for The New York Times, and Suzanne Ramazani, who is planning a wedding and worries that her Iranian relatives wonât be able to attend. For more information on todayâs episode, visit http://nyti.ms/2udDieF.",
+         "durationSeconds" : 1166,
+         "episodeID" : "GA0000P0000FGHm",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/fc5112e4-593f-4c7a-8b8c-e37f95ab6d29/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "As a limited travel ban goes into effect, the Trump administration has defined what constitutes a âbona fideâ relationship: whoâs close family, and whoâs not, for visitors from six predominantly Muslim nations. Guests: Michael D. Shear, White House correspondent for The New York Times, and Suzanne Ramazani, who is planning a wedding and worries that her Iranian relatives wonât be able to attend. For more information on todayâs episode, visit http://nyti.ms/2udDieF.",
+         "summary" : "As a limited travel ban goes into effect, the Trump administration has defined what constitutes a âbona fideâ relationship: whoâs close family, and whoâs not, for visitors from six predominantly Muslim nations. Guests: Michael D. Shear, White House correspondent for The New York Times, and Suzanne Ramazani, who is planning a wedding and worries that her Iranian relatives wonât be able to attend. For more information on todayâs episode, visit http://nyti.ms/2udDieF.",
+         "title" : "Friday, June 30, 2017"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/0e3dc1fa-bc71-48ad-87ca-0746ac837bb9/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=0e3dc1fa-bc71-48ad-87ca-0746ac837bb9&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 15976979
+         },
+         "description" : "President Trump plans to address the nation tonight about what he calls âthe humanitarian and national security crisis on our southern border.â But much of that chaos could be a result of the administrationâs policies. Guest: Caitlin Dickerson, who covers immigration for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 979,
+         "episodeID" : "GA0000P0000FGhC",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/0e3dc1fa-bc71-48ad-87ca-0746ac837bb9/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "President Trump plans to address the nation tonight about what he calls âthe humanitarian and national security crisis on our southern border.â But much of that chaos could be a result of the administrationâs policies. Guest: Caitlin Dickerson, who covers immigration for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "President Trump plans to address the nation tonight about what he calls âthe humanitarian and national security crisis on our southern border.â But much of that chaos could be a result of the administrationâs policies. Guest: Caitlin Dickerson, who covers immigration for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Is There a Crisis at the Border?"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/5334f6ca-31f8-47e5-b8a1-50c5c8bba47e/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=5334f6ca-31f8-47e5-b8a1-50c5c8bba47e&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 30106520
+         },
+         "description" : "Democrats have waited two years for a chance to investigate President Trump on their own terms. Starting tomorrow, they can. We look at how they plan to use â and not use â that power. Guest: Jason Zengerle, a contributing writer for The New York Times Magazine. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1863,
+         "episodeID" : "GA0000P0000FGh7",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/5334f6ca-31f8-47e5-b8a1-50c5c8bba47e/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "Democrats have waited two years for a chance to investigate President Trump on their own terms. Starting tomorrow, they can. We look at how they plan to use â and not use â that power. Guest: Jason Zengerle, a contributing writer for The New York Times Magazine. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "Democrats have waited two years for a chance to investigate President Trump on their own terms. Starting tomorrow, they can. We look at how they plan to use â and not use â that power. Guest: Jason Zengerle, a contributing writer for The New York Times Magazine. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "What Will Democrats Do With Their New Power?"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/15c1df70-8e43-452d-bd8a-d8ae69d941b3/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=15c1df70-8e43-452d-bd8a-d8ae69d941b3&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 19223685
+         },
+         "description" : "The New York Times has obtained the list of questions that Robert S. Mueller III, the special counsel looking into Russiaâs election interference, wants to ask President Trump. The wide-ranging queries offer a rare view into an investigation that has been shrouded in secrecy. Guest: Michael S. Schmidt, who has been covering the Russia investigation for The Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1182,
+         "episodeID" : "GA0000P0000FGTP",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/15c1df70-8e43-452d-bd8a-d8ae69d941b3/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "The New York Times has obtained the list of questions that Robert S. Mueller III, the special counsel looking into Russiaâs election interference, wants to ask President Trump. The wide-ranging queries offer a rare view into an investigation that has been shrouded in secrecy. Guest: Michael S. Schmidt, who has been covering the Russia investigation for The Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "The New York Times has obtained the list of questions that Robert S. Mueller III, the special counsel looking into Russiaâs election interference, wants to ask President Trump. The wide-ranging queries offer a rare view into an investigation that has been shrouded in secrecy. Guest: Michael S. Schmidt, who has been covering the Russia investigation for The Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Muellerâs Questions for Trump"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/61d5f1aa-9718-4865-8119-0c12f6a95622/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=61d5f1aa-9718-4865-8119-0c12f6a95622&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 21685473
+         },
+         "description" : "As the F.B.I. shares the results of its investigation into Judge Brett M. Kavanaugh with the Senate, we look at what the scope of the inquiry may mean for his confirmation vote â and why Republicans are changing the way they talk about his accuser. Guests: Michael D. Shear and Peter Baker, who both cover the White House for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1336,
+         "episodeID" : "GA0000P0000FGZC",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/61d5f1aa-9718-4865-8119-0c12f6a95622/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "As the F.B.I. shares the results of its investigation into Judge Brett M. Kavanaugh with the Senate, we look at what the scope of the inquiry may mean for his confirmation vote â and why Republicans are changing the way they talk about his accuser. Guests: Michael D. Shear and Peter Baker, who both cover the White House for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "As the F.B.I. shares the results of its investigation into Judge Brett M. Kavanaugh with the Senate, we look at what the scope of the inquiry may mean for his confirmation vote â and why Republicans are changing the way they talk about his accuser. Guests: Michael D. Shear and Peter Baker, who both cover the White House for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "The F.B.I.âs Kavanaugh Investigation"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/4093292c-28da-4a39-8df1-b2d4d27d0090/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=4093292c-28da-4a39-8df1-b2d4d27d0090&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 21654109
+         },
+         "description" : "A music producer. A lawyer from Moscow. The Miss Universe pageant. And now: the promise of help from the Russian government. We connect the dots on Donald Trump Jr.âs communications last summer. And what happens when thousands of rebel fighters try to re-enter society as civilians? Guests: Mark Mazzetti, our Washington investigations editor; Nicholas Casey, a correspondent based in South America. For more information on todayâs episode, visit http://nyti.ms/2uddQ9d.",
+         "durationSeconds" : 1334,
+         "episodeID" : "GA0000P0000FGJ2",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/4093292c-28da-4a39-8df1-b2d4d27d0090/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "A music producer. A lawyer from Moscow. The Miss Universe pageant. And now: the promise of help from the Russian government. We connect the dots on Donald Trump Jr.âs communications last summer. And what happens when thousands of rebel fighters try to re-enter society as civilians? Guests: Mark Mazzetti, our Washington investigations editor; Nicholas Casey, a correspondent based in South America. For more information on todayâs episode, visit http://nyti.ms/2uddQ9d.",
+         "summary" : "A music producer. A lawyer from Moscow. The Miss Universe pageant. And now: the promise of help from the Russian government. We connect the dots on Donald Trump Jr.âs communications last summer. And what happens when thousands of rebel fighters try to re-enter society as civilians? Guests: Mark Mazzetti, our Washington investigations editor; Nicholas Casey, a correspondent based in South America. For more information on todayâs episode, visit http://nyti.ms/2uddQ9d.",
+         "title" : "Tuesday, July 11, 2017"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/75f37fcc-61db-4d10-a708-d28a74cc8b38/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=75f37fcc-61db-4d10-a708-d28a74cc8b38&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 21667082
+         },
+         "description" : "Judge Kavanaugh is now Justice Kavanaugh. We look at what the last few weeks mean for the future of the Supreme Court. Guest: Adam Liptak, who covers the Supreme Court for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1335,
+         "episodeID" : "GA0000P0000FGZF",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/75f37fcc-61db-4d10-a708-d28a74cc8b38/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "Judge Kavanaugh is now Justice Kavanaugh. We look at what the last few weeks mean for the future of the Supreme Court. Guest: Adam Liptak, who covers the Supreme Court for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "Judge Kavanaugh is now Justice Kavanaugh. We look at what the last few weeks mean for the future of the Supreme Court. Guest: Adam Liptak, who covers the Supreme Court for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "A Supreme Court With Justice Kavanaugh"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/64c11b42-057e-4bc7-9686-6b97a07be2d4/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=64c11b42-057e-4bc7-9686-6b97a07be2d4&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 19829299
+         },
+         "description" : "Every day from before sunrise until late into the night, undocumented immigrants across the United States are being picked up by Immigration and Customs Enforcement officers, the front-line soldiers in President Trumpâs crackdown on illegal immigration. Increasingly, the arrests are collateral: Officers detain people they come across while looking for somebody else. Guest: Jennifer Medina, who recently spent a day in the field with immigration officers. For more information on todayâs episode, visit http://nyti.ms/2vdRpkR.",
+         "durationSeconds" : 1220,
+         "episodeID" : "GA0000P0000FGJJ",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/64c11b42-057e-4bc7-9686-6b97a07be2d4/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "Every day from before sunrise until late into the night, undocumented immigrants across the United States are being picked up by Immigration and Customs Enforcement officers, the front-line soldiers in President Trumpâs crackdown on illegal immigration. Increasingly, the arrests are collateral: Officers detain people they come across while looking for somebody else. Guest: Jennifer Medina, who recently spent a day in the field with immigration officers. For more information on todayâs episode, visit http://nyti.ms/2vdRpkR.",
+         "summary" : "Every day from before sunrise until late into the night, undocumented immigrants across the United States are being picked up by Immigration and Customs Enforcement officers, the front-line soldiers in President Trumpâs crackdown on illegal immigration. Increasingly, the arrests are collateral: Officers detain people they come across while looking for somebody else. Guest: Jennifer Medina, who recently spent a day in the field with immigration officers. For more information on todayâs episode, visit http://nyti.ms/2vdRpkR.",
+         "title" : "Monday, July 31, 2017"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/6cab1dd6-dad6-4e9b-8716-6ab761351c1c/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=6cab1dd6-dad6-4e9b-8716-6ab761351c1c&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 24317775
+         },
+         "description" : "As the shutdown continues over the presidentâs demand for a border wall, Annie Brown from âThe Dailyâ joined Azam Ahmed, a New York Times reporter, and Meridith Kohut, a photojournalist, on their endeavor to drive the entire length of the U.S.-Mexico border. Hereâs what they saw on the first part of that journey. Guests: Annie Brown, a producer for âThe Dailyâ; Azam Ahmed, the New York Times bureau chief for Mexico, Central America and the Caribbean; and Meridith Kohut, a photojournalist who covers Latin America. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1501,
+         "episodeID" : "GA0000P0000FGhH",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/6cab1dd6-dad6-4e9b-8716-6ab761351c1c/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "As the shutdown continues over the presidentâs demand for a border wall, Annie Brown from âThe Dailyâ joined Azam Ahmed, a New York Times reporter, and Meridith Kohut, a photojournalist, on their endeavor to drive the entire length of the U.S.-Mexico border. Hereâs what they saw on the first part of that journey. Guests: Annie Brown, a producer for âThe Dailyâ; Azam Ahmed, the New York Times bureau chief for Mexico, Central America and the Caribbean; and Meridith Kohut, a photojournalist who covers Latin America. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "As the shutdown continues over the presidentâs demand for a border wall, Annie Brown from âThe Dailyâ joined Azam Ahmed, a New York Times reporter, and Meridith Kohut, a photojournalist, on their endeavor to drive the entire length of the U.S.-Mexico border. Hereâs what they saw on the first part of that journey. Guests: Annie Brown, a producer for âThe Dailyâ; Azam Ahmed, the New York Times bureau chief for Mexico, Central America and the Caribbean; and Meridith Kohut, a photojournalist who covers Latin America. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Dispatches From the Border, Part 1"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/61c50e5c-26f8-45d5-8a33-8f056e0eb873/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=61c50e5c-26f8-45d5-8a33-8f056e0eb873&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 26737345
+         },
+         "description" : "In Part 2 of our series, we tell the story of an American citizen whose family members have been detained in Chinese re-education camps for Uighurs and members of other Muslim minority groups. We look at what his efforts to free them reveal about the global reach of Chinaâs surveillance. Guest: Paul Mozur, a technology reporter for The New York Times based in Shanghai, spoke with Ferkat Jawdat, a Uighur and American citizen who lives in Virginia. For more information on todayâs episode, visit nytimes.com/thedaily. Background reading: Ethnic Uighurs and other Muslim minorities have been sent to camps in vast numbers in what is Chinaâs most sweeping internment operation since the Mao era.Chinese officers have attempted to suppress opposition from Uighurs abroad by detaining their relatives.The Trump administration has avoided addressing the persecution of the Uighurs during trade talks with China, fearing such a move could jeopardize a deal.",
+         "durationSeconds" : 1652,
+         "episodeID" : "GA0000P0000FGrt",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/61c50e5c-26f8-45d5-8a33-8f056e0eb873/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "In Part 2 of our series, we tell the story of an American citizen whose family members have been detained in Chinese re-education camps for Uighurs and members of other Muslim minority groups. We look at what his efforts to free them reveal about the global reach of Chinaâs surveillance. Guest: Paul Mozur, a technology reporter for The New York Times based in Shanghai, spoke with Ferkat Jawdat, a Uighur and American citizen who lives in Virginia. For more information on todayâs episode, visit nytimes.com/thedaily. \n\nBackground reading: Ethnic Uighurs and other Muslim minorities have been sent to camps in vast numbers in what is Chinaâs most sweeping internment operation since the Mao era.Chinese officers have attempted to suppress opposition from Uighurs abroad by detaining their relatives.The Trump administration has avoided addressing the persecution of the Uighurs during trade talks with China, fearing such a move could jeopardize a deal.",
+         "summary" : "In Part 2 of our series, we tell the story of an American citizen whose family members have been detained in Chinese re-education camps for Uighurs and members of other Muslim minority groups. We look at what his efforts to free them reveal about the global reach of Chinaâs surveillance. Guest: Paul Mozur, a technology reporter for The New York Times based in Shanghai, spoke with Ferkat Jawdat, a Uighur and American citizen who lives in Virginia. For more information on todayâs episode, visit nytimes.com/thedaily. \n\nBackground reading: Ethnic Uighurs and other Muslim minorities have been sent to camps in vast numbers in what is Chinaâs most sweeping internment operation since the Mao era.Chinese officers have attempted to suppress opposition from Uighurs abroad by detaining their relatives.The Trump administration has avoided addressing the persecution of the Uighurs during trade talks with China, fearing such a move could jeopardize a deal.",
+         "title" : "The Chinese Surveillance State, Part 2"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/1190a026-bdce-4a19-962d-ca173b8649a7/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=1190a026-bdce-4a19-962d-ca173b8649a7&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 24635413
+         },
+         "description" : "Mark Zuckerberg, Facebookâs chief executive, returned to Capitol Hill on Wednesday for a second day of hearings on the companyâs mishandling of data. Unlike their Senate colleagues, House members came prepared with tough questions about privacy and the social media companyâs practices â as well as a counternarrative to the story Mr. Zuckerberg and his team have carefully crafted. And calls for congressional oversight are growing. Guest: Kevin Roose, who writes about technology for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1521,
+         "episodeID" : "GA0000P0000FGT5",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/1190a026-bdce-4a19-962d-ca173b8649a7/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "Mark Zuckerberg, Facebookâs chief executive, returned to Capitol Hill on Wednesday for a second day of hearings on the companyâs mishandling of data. Unlike their Senate colleagues, House members came prepared with tough questions about privacy and the social media companyâs practices â as well as a counternarrative to the story Mr. Zuckerberg and his team have carefully crafted. And calls for congressional oversight are growing. Guest: Kevin Roose, who writes about technology for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "Mark Zuckerberg, Facebookâs chief executive, returned to Capitol Hill on Wednesday for a second day of hearings on the companyâs mishandling of data. Unlike their Senate colleagues, House members came prepared with tough questions about privacy and the social media companyâs practices â as well as a counternarrative to the story Mr. Zuckerberg and his team have carefully crafted. And calls for congressional oversight are growing. Guest: Kevin Roose, who writes about technology for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Thursday, Apr. 12, 2018"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/4acd6730-971f-4a78-9e28-22d6eafaa02c/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=4acd6730-971f-4a78-9e28-22d6eafaa02c&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 28044704
+         },
+         "description" : "With Venezuela in crisis, its most vocal opposition leader, Leopoldo LÃ³pez, is under house arrest, unable to act. What happens if he does? Guest: Wil S. Hylton, a contributing writer for the New York Times Magazine. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1734,
+         "episodeID" : "GA0000P0000FGSG",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/4acd6730-971f-4a78-9e28-22d6eafaa02c/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "With Venezuela in crisis, its most vocal opposition leader, Leopoldo LÃ³pez, is under house arrest, unable to act. What happens if he does? Guest: Wil S. Hylton, a contributing writer for the New York Times Magazine. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "With Venezuela in crisis, its most vocal opposition leader, Leopoldo LÃ³pez, is under house arrest, unable to act. What happens if he does? Guest: Wil S. Hylton, a contributing writer for the New York Times Magazine. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Monday, Mar. 12, 2018"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/c815581d-98c0-4282-99d7-8b9d5a5aab98/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=c815581d-98c0-4282-99d7-8b9d5a5aab98&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 22683544
+         },
+         "description" : "President Trump has issued a new order indefinitely banning almost all travel to the United States from several countries, including North Korea. But why is Chad now on the list? Also, how the Supreme Courtâs cancellation of arguments on the previous policy could affect a politically charged legal case. Guests: Eric Schmitt, who covers terrorism and national security for The Times; Adam Liptak, who covers the Supreme Court. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1399,
+         "episodeID" : "GA0000P0000FGMZ",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/c815581d-98c0-4282-99d7-8b9d5a5aab98/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "President Trump has issued a new order indefinitely banning almost all travel to the United States from several countries, including North Korea. But why is Chad now on the list? Also, how the Supreme Courtâs cancellation of Â arguments on the previous policy could affect a politically charged legal case. Guests: Eric Schmitt, who covers terrorism and national security for The Times; Adam Liptak, who covers the Supreme Court. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "President Trump has issued a new order indefinitely banning almost all travel to the United States from several countries, including North Korea. But why is Chad now on the list? Also, how the Supreme Courtâs cancellation of Â arguments on the previous policy could affect a politically charged legal case. Guests: Eric Schmitt, who covers terrorism and national security for The Times; Adam Liptak, who covers the Supreme Court. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Tuesday, Sept. 26, 2017"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/6a945791-03c6-470a-a260-6d453911811f/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=6a945791-03c6-470a-a260-6d453911811f&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 21906557
+         },
+         "description" : "It was supposed to be a historic day for Republicans, with the House voting to repeal President Obamaâs health care law. At least that was the idea. What went awry? And we look at a battle over school choice in Iowa that may be a preview for a larger national fight over the White Houseâs vision for American education. Guests: Jennifer Steinhauer, who has been tracking the House health care vote; Dana Goldstein, who covers education for the Times. For more information on todayâs episode, visit http://nyti.ms/2nmKKOS.",
+         "durationSeconds" : 1350,
+         "episodeID" : "GA0000P0000FGFT",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/6a945791-03c6-470a-a260-6d453911811f/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "It was supposed to be a historic day for Republicans, with the House voting to repeal President Obamaâs health care law. At least that was the idea. What went awry? And we look at a battle over school choice in Iowa that may be a preview for a larger national fight over the White Houseâs vision for American education. Guests: Jennifer Steinhauer, who has been tracking the House health care vote; Dana Goldstein, who covers education for the Times. For more information on todayâs episode, visit http://nyti.ms/2nmKKOS.",
+         "summary" : "It was supposed to be a historic day for Republicans, with the House voting to repeal President Obamaâs health care law. At least that was the idea. What went awry? And we look at a battle over school choice in Iowa that may be a preview for a larger national fight over the White Houseâs vision for American education. Guests: Jennifer Steinhauer, who has been tracking the House health care vote; Dana Goldstein, who covers education for the Times. For more information on todayâs episode, visit http://nyti.ms/2nmKKOS.",
+         "title" : "Friday, March 24, 2017"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/93ee5530-03a0-429d-bf2e-bac8f5ab5bfd/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=93ee5530-03a0-429d-bf2e-bac8f5ab5bfd&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 19217407
+         },
+         "description" : "The F.B.I. has raided the home of President Trumpâs personal lawyer, Michael D. Cohen â the same man who acknowledged paying $130,000 to a pornographic film actress who said she had a sexual encounter with Mr. Trump. What are investigators looking for? Guest: Matt Apuzzo, who covers law enforcement for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1182,
+         "episodeID" : "GA0000P0000FGT3",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/93ee5530-03a0-429d-bf2e-bac8f5ab5bfd/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "The F.B.I. has raided the home of President Trumpâs personal lawyer, Michael D. Cohen â the same man who acknowledged paying $130,000 to a pornographic film actress who said she had a sexual encounter with Mr. Trump. What are investigators looking for? Guest: Matt Apuzzo, who covers law enforcement for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "The F.B.I. has raided the home of President Trumpâs personal lawyer, Michael D. Cohen â the same man who acknowledged paying $130,000 to a pornographic film actress who said she had a sexual encounter with Mr. Trump. What are investigators looking for? Guest: Matt Apuzzo, who covers law enforcement for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Tuesday, Apr. 10, 2018"
+      }
+   ],
+   "meta" : {
+      "limit" : 30,
+      "offset" : 0,
+      "total" : 1593
+   }
+}

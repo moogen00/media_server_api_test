@@ -1,0 +1,10 @@
+search do_smartplaylist_search_id_artist_track ===========================================
+{
+   "item" : [
+      {
+         "artistId" : "GN12EW2MCSHPP2R",
+         "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/AFFC/736D/EFF2/51EF_xlarge_front.jpg",
+         "artistName" : "ICE NINE KILLS"
+      }
+   ]
+}

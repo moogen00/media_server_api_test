@@ -1,0 +1,558 @@
+3.4 Smart PlayList Endpoint\n3.4.2 By Podcast Series ID do_smartplaylist_podcastcategoryid ===========================================
+{
+   "data" : [
+      {
+         "seriesId" : "GA0000N000000NJ",
+         "sourceFeed" : {
+            "author" : "Exactly Right",
+            "categories" : [
+               "True Crime"
+            ],
+            "contentType" : "Episodic",
+            "description" : "Lifelong fans of true crime stories Karen Kilgariff and Georgia Hardstark tell each other their favorite tales of murder and hear hometown crime stories from friends and fans.",
+            "imageUrl" : "https://content.production.cdn.art19.com/images/cd/10/8f/00/cd108f00-1228-4767-9086-0e9881e4bda1/993afe2471d1b762314c54d4349ba987f39bcb704ee5855b6eca79ab73f27bc22e3a43ced362c71c951cdedf388350e987a81ab7e2b1fad827b3eb5c01feb093.jpeg",
+            "language" : "en",
+            "owner" : "Exactly Right"
+         },
+         "subtitle" : null,
+         "summary" : "Lifelong fans of true crime stories Karen Kilgariff and Georgia Hardstark tell each other their favorite tales of murder and hear hometown crime stories from friends and fans.",
+         "title" : "My Favorite Murder With Karen Kilgariff and Georgia Hardstark"
+      },
+      {
+         "seriesId" : "GA0000N000000NS",
+         "sourceFeed" : {
+            "author" : "The Last Podcast Network",
+            "categories" : [
+               "True Crime",
+               "Comedy",
+               "Society & Culture"
+            ],
+            "contentType" : "Episodic",
+            "description" : "The Last Podcast On The Left covers all the horrors our world has to offer both imagined and real, from demons and slashers to cults and serial killers, The Last Podcast is guaranteed to satisfy your blood lust.",
+            "imageUrl" : "https://image.simplecastcdn.com/images/cdb1f1d8-cb70-41f6-9aae-fb6751090e20/ef892a1f-68b7-414a-af5d-630a7dad3c68/3000x3000/lpotl.jpg?aid=rss_feed",
+            "language" : "en",
+            "owner" : "The Last Podcast Network"
+         },
+         "subtitle" : "The Last Podcast On The Left covers all the horrors our world has to offer both imagined and real",
+         "summary" : "The Last Podcast On The Left covers all the horrors our world has to offer both imagined and real, from demons and slashers to cults and serial killers, The Last Podcast is guaranteed to satisfy your blood lust.",
+         "title" : "Last Podcast on the Left"
+      },
+      {
+         "seriesId" : "GA0000N000000RD",
+         "sourceFeed" : {
+            "author" : "James Pietragallo, Jimmie Whisman",
+            "categories" : [
+               "Comedy",
+               "True Crime",
+               "Society & Culture"
+            ],
+            "contentType" : "Episodic",
+            "description" : "<p>Two comedians look at a small town, what makes it tick, and a murder that took place there. In depth research, horrible tragedy, and the hosts' comedic spin on the whole thing. New episodes every Thursday!! </p>",
+            "imageUrl" : "https://content.production.cdn.art19.com/images/1b/bc/fe/05/1bbcfe05-f4a9-4450-9fe7-77084830de38/476fd5af015ba1883b95ba0cf96e96b0145dca0381246f4e42903fa814b540309faf8b3c5402a4d1e7b374e332b49bfa8b29a2c2b607fb2c695604a4335fbd3a.jpeg",
+            "language" : "en",
+            "owner" : "James Pietragallo & Jimmie Whisman"
+         },
+         "subtitle" : null,
+         "summary" : "<p>Two comedians look at a small town, what makes it tick, and a murder that took place there. In depth research, horrible tragedy, and the hosts' comedic spin on the whole thing. New episodes every Thursday!! </p>",
+         "title" : "Small Town Murder"
+      },
+      {
+         "seriesId" : "GA0000N000002bm",
+         "sourceFeed" : {
+            "author" : "Serial Productions",
+            "categories" : [
+               "News",
+               "True Crime"
+            ],
+            "contentType" : "Episodic",
+            "description" : "Serial is a podcast from Serial Productions, a New York Times company, hosted by Sarah Koenig. Serial unfolds one story - a true story - over the course of a whole season. The show follows the plot and characters wherever they lead, through many surprising twists and turns. Sarah won't know what happens at the end of the story until she gets there, not long before you get there with her. Each week she'll bring you the latest chapter, so it's important to listen in, starting with Episode 1. New episodes are released on Thursday mornings.",
+            "imageUrl" : "https://image.simplecastcdn.com/images/521189a6-a4f6-404d-85cf-455a989a10a4/abbe2292-3127-41d5-b418-f43bf7ffb7b5/3000x3000/serial-itunes-logo.png?aid=rss_feed",
+            "language" : "en",
+            "owner" : "Serial Productions & The New York Times"
+         },
+         "subtitle" : "A podcast from the creators of This American Life",
+         "summary" : "Serial is a podcast from Serial Productions, a New York Times company, hosted by Sarah Koenig. Serial unfolds one story - a true story - over the course of a whole season. The show follows the plot and characters wherever they lead, through many surprising twists and turns. Sarah won't know what happens at the end of the story until she gets there, not long before you get there with her. Each week she'll bring you the latest chapter, so it's important to listen in, starting with Episode 1. New episodes are released on Thursday mornings.",
+         "title" : "Serial"
+      },
+      {
+         "seriesId" : "GA0000N000002hC",
+         "sourceFeed" : {
+            "author" : "Tenderfoot TV",
+            "categories" : [
+               "True Crime",
+               "Society & Culture"
+            ],
+            "contentType" : "Serial",
+            "description" : "Host Payne Lindsey returns with season 3 to investigate the North West Montana disappearance of Ashley Loring HeavyRunner, an indigenous woman who went missing from the Blackfeet Nation Indian Reservation in 2017. Up and Vanished is a true crime series that investigates mysterious cold case disappearances. Season 1 covered the disappearance of Georgia high school teacher Tara Grinstead, resulting in 2 arrests, and season 2 focused on the disappearance of young mother Kristal Reisinger from a remote mountain town in Colorado, a case that has since been reopened.",
+            "imageUrl" : "https://megaphone.imgix.net/podcasts/a57182f8-1ffe-11e9-8e74-4b4d4b64cfd9/image/UAV-Ryan_Duke_Cover-1.jpg?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+            "language" : "en",
+            "owner" : null
+         },
+         "subtitle" : null,
+         "summary" : "Host Payne Lindsey returns with season 3 to investigate the North West Montana disappearance of Ashley Loring HeavyRunner, an indigenous woman who went missing from the Blackfeet Nation Indian Reservation in 2017. Up and Vanished is a true crime series that investigates mysterious cold case disappearances. Season 1 covered the disappearance of Georgia high school teacher Tara Grinstead, resulting in 2 arrests, and season 2 focused on the disappearance of young mother Kristal Reisinger from a remote mountain town in Colorado, a case that has since been reopened.",
+         "title" : "Up and Vanished"
+      },
+      {
+         "seriesId" : "GA0000N000002m2",
+         "sourceFeed" : {
+            "author" : "KSL Podcasts | Amazon",
+            "categories" : [
+               "True Crime",
+               "Society & Culture"
+            ],
+            "contentType" : "Serial",
+            "description" : "<p>Cold is a narrative podcast series focused on missing persons cases. Investigative journalist and host Dave Cawley takes on a single story with each season. Season 1 tells of the unsolved disappearance of Susan Powell on Dec. 7, 2009. Season 2 digs into the vanishing of Joyce Yost on Aug. 10, 1985. Cold is a KSL Podcast.</p><p>Bonus content, including pictures and case materials on the <a href=\"https://thecoldpodcast.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Cold website.</a></p><p>All episodes of Cold season 1 and 2 can be found on <a href=\"https://music.amazon.com/podcasts/90c65aee-3db8-4bd1-bf28-42a85342bfe7/Cold\" rel=\"noopener noreferrer\" target=\"_blank\">Amazon Music</a>.</p>",
+            "imageUrl" : "https://content.production.cdn.art19.com/images/49/3b/8a/d0/493b8ad0-2f99-4040-b589-246e0f6f6e55/bebf29cda9390a5709a7b8663615c2399a4e22e98f86f826ba93cd17796a82faf9473625738035ce05d8401d89d69e675fc3011ad953c18c609acbe92b922853.jpeg",
+            "language" : "en",
+            "owner" : "KSL Podcasts | Amazon"
+         },
+         "subtitle" : null,
+         "summary" : "<p>Cold is a narrative podcast series focused on missing persons cases. Investigative journalist and host Dave Cawley takes on a single story with each season. Season 1 tells of the unsolved disappearance of Susan Powell on Dec. 7, 2009. Season 2 digs into the vanishing of Joyce Yost on Aug. 10, 1985. Cold is a KSL Podcast.</p><p>Bonus content, including pictures and case materials on the <a href=\"https://thecoldpodcast.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Cold website.</a></p><p>All episodes of Cold season 1 and 2 can be found on <a href=\"https://music.amazon.com/podcasts/90c65aee-3db8-4bd1-bf28-42a85342bfe7/Cold\" rel=\"noopener noreferrer\" target=\"_blank\">Amazon Music</a>.</p>",
+         "title" : "Cold"
+      },
+      {
+         "seriesId" : "GA0000N000003tN",
+         "sourceFeed" : {
+            "author" : "Wondery",
+            "categories" : [
+               "True Crime",
+               "News",
+               "Society & Culture"
+            ],
+            "contentType" : "Serial",
+            "description" : "<p>Listen to Dr Death Season 3 exclusively by subscribing to Wondery+. Start your free trial at wonderyplus.com&nbsp;</p><p><br></p><p>Weâre at our most vulnerable when we go to our doctors. We trust the person at the other end of that scalpel. We trust the hospital. We trust the system.</p><p><br></p><p>Christopher Duntsch was a neurosurgeon who radiated confidence. He claimed he was the best in Dallas. If you had back pain, and had tried everything else, Dr. Duntsch could give you the spine surgery that would take your pain away.</p><p><br></p><p>But soon his patients started to experience complications, and the system failed to protect them. Which begs the question: who - or what - is that system meant to protect?</p><p><br></p><p>From Wondery, the network behind the hit podcast <em>Dirty John</em>, DR. DEATH is a story about a charming surgeon, 33 patients and a spineless system. Reported and hosted by Laura Beil.</p>",
+            "imageUrl" : "https://content.production.cdn.art19.com/images/d4/06/1f/5b/d4061f5b-c6d1-4304-b9d7-5e793455243a/70623915db6adec4a72cdaa15bbab7d79575e4eaaf31e3daabc2d6ea87a45d53f726ae8a94d6027f5d5a5413df5431bd21a46dc575968c0bc42e7e8acbbc4b89.jpeg",
+            "language" : "en",
+            "owner" : "Wondery"
+         },
+         "subtitle" : null,
+         "summary" : "<p>Listen to Dr Death Season 3 exclusively by subscribing to Wondery+. Start your free trial at wonderyplus.com&nbsp;</p><p><br></p><p>Weâre at our most vulnerable when we go to our doctors. We trust the person at the other end of that scalpel. We trust the hospital. We trust the system.</p><p><br></p><p>Christopher Duntsch was a neurosurgeon who radiated confidence. He claimed he was the best in Dallas. If you had back pain, and had tried everything else, Dr. Duntsch could give you the spine surgery that would take your pain away.</p><p><br></p><p>But soon his patients started to experience complications, and the system failed to protect them. Which begs the question: who - or what - is that system meant to protect?</p><p><br></p><p>From Wondery, the network behind the hit podcast <em>Dirty John</em>, DR. DEATH is a story about a charming surgeon, 33 patients and a spineless system. Reported and hosted by Laura Beil.</p>",
+         "title" : "Dr. Death | S1: Dr. Duntsch"
+      },
+      {
+         "seriesId" : "GA0000N000004F8",
+         "sourceFeed" : {
+            "author" : "audiochuck",
+            "categories" : [
+               "True Crime"
+            ],
+            "contentType" : "Episodic",
+            "description" : "If you can never get enough true crime... Congratulations, youâve found your people.",
+            "imageUrl" : "https://image.simplecastcdn.com/images/7d68c467-d3d7-41c3-b7c0-92218b530432/6b5d4ba2-4ba6-4137-9965-abd4e038dd95/3000x3000/crimejunkie-square-show-art.jpg?aid=rss_feed",
+            "language" : "en",
+            "owner" : "audiochuck"
+         },
+         "subtitle" : "Crime Junkie is a weekly podcast dedicated to giving you a true crime fix",
+         "summary" : "If you can never get enough true crime... Congratulations, youâve found your people.",
+         "title" : "Crime Junkie"
+      },
+      {
+         "seriesId" : "GA0000N0000HD8h",
+         "sourceFeed" : {
+            "author" : "Morbid Network | Wondery",
+            "categories" : [
+               "Comedy",
+               "True Crime",
+               "Society & Culture"
+            ],
+            "contentType" : "Episodic",
+            "description" : "<p>Itâs a lighthearted nightmare in here, weirdos! Morbid is a true crime, creepy history and all things spooky podcast hosted by an autopsy technician and a hairstylist. Join us for a heavy dose of research with a dash of comedy thrown in for flavor. </p>",
+            "imageUrl" : "https://content.production.cdn.art19.com/images/1b/71/6c/7d/1b716c7d-dde2-453e-ab7a-97cd0cbcef82/b477a3dcf2a9ff797e90366251452d82b9ed6fca1ef8efc6c0ab43bb3b3f318a9e909bfa5f8d31622f3a39f3212a880beed8dd06cf6a28d941108bd497ede31d.jpeg",
+            "language" : "en",
+            "owner" : "Morbid Network | Wondery"
+         },
+         "subtitle" : null,
+         "summary" : "<p>Itâs a lighthearted nightmare in here, weirdos! Morbid is a true crime, creepy history and all things spooky podcast hosted by an autopsy technician and a hairstylist. Join us for a heavy dose of research with a dash of comedy thrown in for flavor. </p>",
+         "title" : "Morbid"
+      },
+      {
+         "seriesId" : "GA0000N000000SG",
+         "sourceFeed" : {
+            "author" : "Christine Schiefer, Em Schulz",
+            "categories" : [
+               "Comedy",
+               "True Crime",
+               "Society & Culture"
+            ],
+            "contentType" : "Episodic",
+            "description" : "Murder and the paranormal finally meet! Grab your wine and milkshakes and join us every Sunday for some chilling ghost stories and downright terrifying true crime stories. The world's a scary place. And that's why we drink!",
+            "imageUrl" : "https://image.simplecastcdn.com/images/5b7d8c77-15ba-4eff-a999-2e725db21db5/b16c49a3-e93a-4af0-9710-7a6e01910410/3000x3000/image.jpg?aid=rss_feed",
+            "language" : "en-US",
+            "owner" : "Christine Schiefer, Em Schulz"
+         },
+         "subtitle" : null,
+         "summary" : "Murder and the paranormal finally meet! Grab your wine and milkshakes and join us every Sunday for some chilling ghost stories and downright terrifying true crime stories. The world's a scary place. And that's why we drink!",
+         "title" : "And That's Why We Drink"
+      },
+      {
+         "seriesId" : "GA0000N000000Tr",
+         "sourceFeed" : {
+            "author" : "James Pietragallo, Jimmie Whisman",
+            "categories" : [
+               "Comedy",
+               "True Crime",
+               "Sports"
+            ],
+            "contentType" : "Episodic",
+            "description" : "<p>Two comedians take an unmerciful and hilarious look at athletes who have lost big games...with the law! Crime in Sports does the research, and finds the funny in the world of sports true crime. New episode every week! </p>",
+            "imageUrl" : "https://content.production.cdn.art19.com/images/f5/42/67/4d/f542674d-e9f4-4396-8a90-d512e633ef31/5b527dea1161fe6c698e34cdcdf0616f5afd2ce8050e6dd87a2f39f05298c3d9aed284062ec752de09035add66b35496d6a7cdacc2869c904f46b745e8c74b58.jpeg",
+            "language" : "en",
+            "owner" : "James Pietragallo & Jimmie Whisman"
+         },
+         "subtitle" : null,
+         "summary" : "<p>Two comedians take an unmerciful and hilarious look at athletes who have lost big games...with the law! Crime in Sports does the research, and finds the funny in the world of sports true crime. New episode every week! </p>",
+         "title" : "Crime in Sports"
+      },
+      {
+         "seriesId" : "GA0000N000002hN",
+         "sourceFeed" : {
+            "author" : "ABC News",
+            "categories" : [
+               "True Crime"
+            ],
+            "contentType" : "Episodic",
+            "description" : "Money. Romance. Tragedy. Deception. The story of Elizabeth Holmes and Theranos is an unbelievable tale of ambition and fame gone terribly wrong. How did the worldâs youngest self-made female billionaire lose it all in the blink of an eye? How did the woman once heralded as âthe next Steve Jobsâ find herself facing criminal charges â to which she pleaded not guilty â and up to decades in prison? How did her technology, meant to revolutionize health care, potentially put millions of patients at risk? And how did so many smart people get it so wrong along the way?Â ABC News chief business, technology and economics correspondent Rebecca Jarvis, along with producers Taylor Dunn and Victoria Thompson, take listeners on a journey that includes a multi-year investigation. You'll hear exclusive interviews with former employees, investors, and patients, and for the first-time, the never-before-aired deposition testimony of Elizabeth Holmes, and those at the center of this story.\n\nIn a series of new episodes,Â \"The Dropout: Elizabeth Holmes on Trial\" goes inside the courtroom, breaking down the evidence and keeping score for both sides as 12 jurors decide the fate of the Theranos founder and new mother. Three years after she was first charged, we find out how this saga finally ends.",
+            "imageUrl" : "https://megaphone.imgix.net/podcasts/385b7224-a409-11ea-a312-27bb5a0f36e9/image/The_Dropout_Season_2_Podcast_Art_1500.jpg?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+            "language" : "en-US",
+            "owner" : null
+         },
+         "subtitle" : null,
+         "summary" : "Money. Romance. Tragedy. Deception. The story of Elizabeth Holmes and Theranos is an unbelievable tale of ambition and fame gone terribly wrong. How did the worldâs youngest self-made female billionaire lose it all in the blink of an eye? How did the woman once heralded as âthe next Steve Jobsâ find herself facing criminal charges â to which she pleaded not guilty â and up to decades in prison? How did her technology, meant to revolutionize health care, potentially put millions of patients at risk? And how did so many smart people get it so wrong along the way?Â ABC News chief business, technology and economics correspondent Rebecca Jarvis, along with producers Taylor Dunn and Victoria Thompson, take listeners on a journey that includes a multi-year investigation. You'll hear exclusive interviews with former employees, investors, and patients, and for the first-time, the never-before-aired deposition testimony of Elizabeth Holmes, and those at the center of this story.\n\nIn a series of new episodes,Â \"The Dropout: Elizabeth Holmes on Trial\" goes inside the courtroom, breaking down the evidence and keeping score for both sides as 12 jurors decide the fate of the Theranos founder and new mother. Three years after she was first charged, we find out how this saga finally ends.",
+         "title" : "The Dropout"
+      },
+      {
+         "seriesId" : "GA0000N000002hX",
+         "sourceFeed" : {
+            "author" : "APM Reports",
+            "categories" : [
+               "News"
+            ],
+            "contentType" : "Serial",
+            "description" : "Serial investigative journalism from APM Reports, with host Madeleine Baran and a team of reporters. Season 1 looked at the abduction of Jacob Wetterling in rural Minnesota and the accountability of sheriffs in solving crime. Season 2 examined the case of Curtis Flowers, who was tried six times for the same crime. Also, a special report on Covid-19 in the Mississippi Delta.",
+            "imageUrl" : "https://img.apmcdn.org/0e8e58bbebd60d66265923e012ff633a683d7a7b/uncropped/16675f-20180413-in-the-dark-apm-reports.jpg",
+            "language" : "en-US",
+            "owner" : "APM Reports"
+         },
+         "subtitle" : null,
+         "summary" : null,
+         "title" : "In the Dark"
+      },
+      {
+         "seriesId" : "GA0000N000002hm",
+         "sourceFeed" : {
+            "author" : "Gimlet",
+            "categories" : [
+               "News",
+               "Society & Culture",
+               "Government"
+            ],
+            "contentType" : "Serial",
+            "description" : "Welcome to Crimetown, a series produced by Marc Smerling and Zac Stuart-Pontier in partnership with Gimlet Media. Each season, we investigate the culture of crime in a different city. In Season 2, Crimetown heads to the heart of the Rust Belt: Detroit, Michigan. From its heyday as Motor City to its rebirth as the Brooklyn of the Midwest, Detroitâs history reflects a series of issues that strike at the heart of American identity: race, poverty, policing, loss of industry, the war on drugs, and our universal desire for a savior. Detroitâs a tough town, and its residents are even tougher. Theyâve weathered riots, a drug epidemic, political scandal, and innumerable other hardships, but theyâre still hereâand they have stories to tell.",
+            "imageUrl" : "https://megaphone.imgix.net/podcasts/faf93c7c-4dcc-11e6-ba15-9b8a8c61d0b5/image/uploads_2F1558659981828-e3lgq0rbckv-164f5dbf013b2ce1f4f843edac2c1dcb_2F20171116_Crimetown-ShowCover-S2_NL%2B_282_29.png?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+            "language" : "en",
+            "owner" : null
+         },
+         "subtitle" : "A new podcast from Gimlet Media exploring the tangled web of crime and corruption in American cities. Hosted by Marc Smerling and Zac Stuart-Pontier.",
+         "summary" : "Welcome to Crimetown, a series produced by Marc Smerling and Zac Stuart-Pontier in partnership with Gimlet Media. Each season, we investigate the culture of crime in a different city. In Season 2, Crimetown heads to the heart of the Rust Belt: Detroit, Michigan. From its heyday as Motor City to its rebirth as the Brooklyn of the Midwest, Detroitâs history reflects a series of issues that strike at the heart of American identity: race, poverty, policing, loss of industry, the war on drugs, and our universal desire for a savior. Detroitâs a tough town, and its residents are even tougher. Theyâve weathered riots, a drug epidemic, political scandal, and innumerable other hardships, but theyâre still hereâand they have stories to tell.",
+         "title" : "Crimetown"
+      },
+      {
+         "seriesId" : "GA0000N000002mB",
+         "sourceFeed" : {
+            "author" : "CBC Podcasts",
+            "categories" : [
+               "True Crime"
+            ],
+            "contentType" : "Serial",
+            "description" : "Host David Ridgen and investigative journalist Amanda Robb dig into the 1998 murder of her uncle, a New York doctor killed for performing abortions. They uncover a network of anti-abortion movements linked to violence in North America and Europe. Twenty years later, debates about reproductive rights are heating up in the U.S. What can we learn from the past?\n\nPrevious seasons: S1: Adrien McNaughton. S2: Sheryl Sheppard. S3: Dee & Moore. S4: Greavette. S5: Kerrie Brown. S6: Donald Izzett Jr.",
+            "imageUrl" : "https://www.cbc.ca/radio/podcasts/images/SKS-promo.jpg",
+            "language" : "en-CA",
+            "owner" : "CBC"
+         },
+         "subtitle" : null,
+         "summary" : "Host David Ridgen and investigative journalist Amanda Robb dig into the 1998 murder of her uncle, a New York doctor killed for performing abortions. They uncover a network of anti-abortion movements linked to violence in North America and Europe. Twenty years later, debates about reproductive rights are heating up in the U.S. What can we learn from the past?\n\nPrevious seasons: S1: Adrien McNaughton. S2: Sheryl Sheppard. S3: Dee & Moore. S4: Greavette. S5: Kerrie Brown. S6: Donald Izzett Jr.",
+         "title" : "Someone Knows Something: The Abortion Wars"
+      },
+      {
+         "seriesId" : "GA0000N000002r2",
+         "sourceFeed" : {
+            "author" : "TRUE CRIME GARAGE",
+            "categories" : [
+               "True Crime",
+               "News",
+               "Society & Culture"
+            ],
+            "contentType" : "Episodic",
+            "description" : "Hosts Nic and the Captain invite you to grab a chair, grab a beer and join them as they talk some true crime. This is no ordinary garage: itâs a rabbit hole of true crime, with a generous supply of alcohol and banter to lighten the load. From international atrocities to heinous stories on (US) home turf, dive head-first into a different case each week, and enjoy a cold one whilst your there.Â \n\n\n\n\nIf you consider yourself an armchair detective, youâre in the right place, and youâre amongst friends. For the mystery-seeker, True Crime Garage presents an archive of missing persons, unsolved and cold cases, plus accounts of infamous serial killers and chilling solved cases.Â \n\n\n\n\nTrue Crime Garage has just one rule: donât litter. Remember to not take yourself too seriously because if you do, nobody else will.Â \n\n\n\n\nMissing persons (including):\n\n\n\n\nMaura MurrayÂ \n\nBrandon LawsonÂ \n\nAsha Degree\n\nWiliam Tyrell\n\nEmma Fillipoff\n\nBrian Shaffer\n\nJaliek RainwalkerÂ \n\nMadeleine McCann\n\nJennifer Kesse\n\n\n\n\nUnsolved cases (including):\n\n\n\n\nMitrice RichardsonÂ \n\nKendrick Johnson\n\nJonBenet Ramsey\n\nThe Delphi murders\n\nOJ Simpson\n\nThe Tylenol MurdersÂ \n\nElisa Lam\n\nThe Photo: Kris Kremers and Lisanne FroonÂ \n\nThe West Memphis 3Â \n\nAmy Mihaljevic\n\n\n\n\n\n\n\nSerial killers (including):\n\n\n\n\nThe Long Island Serial Killer (LISK)\n\nZodiacÂ \n\nTed Bundy\n\nThe Backpacker: Ivan MilatÂ \n\nBTK: Dennis Rader\n\nJohn Wayne GacyÂ \n\nJeffrey DahmerÂ \n\nEdmund Kemper\n\nEd Gein\n\n\n\n\nSolved cases (including):\n\n\n\n\nChris Watts\n\nThe UnabomberÂ \n\nJohn LennonÂ \n\nScott Peterson\n\nSon of Sam\n\nColumbine\n\nRoom 309: Sidney Teerhuis-Moar\n\nKenneka Jenkins\n\nRae Carruth",
+            "imageUrl" : "https://image.simplecastcdn.com/images/20b232f5-ee6a-4911-916b-a6b2a7854848/a963bf0a-0c9d-41fd-b41d-4a035c34ad0f/3000x3000/image.jpg?aid=rss_feed",
+            "language" : "en-US",
+            "owner" : "TRUE CRIME GARAGE"
+         },
+         "subtitle" : null,
+         "summary" : "Hosts Nic and the Captain invite you to grab a chair, grab a beer and join them as they talk some true crime. This is no ordinary garage: itâs a rabbit hole of true crime, with a generous supply of alcohol and banter to lighten the load. From international atrocities to heinous stories on (US) home turf, dive head-first into a different case each week, and enjoy a cold one whilst your there.Â \n\n\n\n\nIf you consider yourself an armchair detective, youâre in the right place, and youâre amongst friends. For the mystery-seeker, True Crime Garage presents an archive of missing persons, unsolved and cold cases, plus accounts of infamous serial killers and chilling solved cases.Â \n\n\n\n\nTrue Crime Garage has just one rule: donât litter. Remember to not take yourself too seriously because if you do, nobody else will.Â \n\n\n\n\nMissing persons (including):\n\n\n\n\nMaura MurrayÂ \n\nBrandon LawsonÂ \n\nAsha Degree\n\nWiliam Tyrell\n\nEmma Fillipoff\n\nBrian Shaffer\n\nJaliek RainwalkerÂ \n\nMadeleine McCann\n\nJennifer Kesse\n\n\n\n\nUnsolved cases (including):\n\n\n\n\nMitrice RichardsonÂ \n\nKendrick Johnson\n\nJonBenet Ramsey\n\nThe Delphi murders\n\nOJ Simpson\n\nThe Tylenol MurdersÂ \n\nElisa Lam\n\nThe Photo: Kris Kremers and Lisanne FroonÂ \n\nThe West Memphis 3Â \n\nAmy Mihaljevic\n\n\n\n\n\n\n\nSerial killers (including):\n\n\n\n\nThe Long Island Serial Killer (LISK)\n\nZodiacÂ \n\nTed Bundy\n\nThe Backpacker: Ivan MilatÂ \n\nBTK: Dennis Rader\n\nJohn Wayne GacyÂ \n\nJeffrey DahmerÂ \n\nEdmund Kemper\n\nEd Gein\n\n\n\n\nSolved cases (including):\n\n\n\n\nChris Watts\n\nThe UnabomberÂ \n\nJohn LennonÂ \n\nScott Peterson\n\nSon of Sam\n\nColumbine\n\nRoom 309: Sidney Teerhuis-Moar\n\nKenneka Jenkins\n\nRae Carruth",
+         "title" : "True Crime Garage"
+      },
+      {
+         "seriesId" : "GA0000N000002th",
+         "sourceFeed" : {
+            "author" : "New Hampshire Public Radio",
+            "categories" : [
+               "True Crime"
+            ],
+            "contentType" : "Episodic",
+            "description" : "Two barrels, four bodies, and an enigmatic killer. The cold case that changed the way murders will be investigated forever.",
+            "imageUrl" : "https://image.simplecastcdn.com/images/bc53232d-d115-4799-937b-75b732433fa2/aef12195-a3a6-4c40-a099-208d92344c1f/3000x3000/bearbrook.jpg?aid=rss_feed",
+            "language" : "en",
+            "owner" : "New Hampshire Public Radio"
+         },
+         "subtitle" : "Two barrels, four bodies, and an enigmatic killer. The cold case that changed the way murders will be investigated forever.",
+         "summary" : "Two barrels, four bodies, and an enigmatic killer. The cold case that changed the way murders will be investigated forever.",
+         "title" : "Bear Brook"
+      },
+      {
+         "seriesId" : "GA0000N0000030C",
+         "sourceFeed" : {
+            "author" : "MSNBC, Rachel Maddow",
+            "categories" : [
+               "News",
+               "History"
+            ],
+            "contentType" : "Serial",
+            "description" : "Is it possible for an American Vice President to carry out a criminal enterprise inside the White House and have nobody remember? To have one of the most brazen political bribery scandals in American history play out before the country while nobodyâs paying attention? In her first original podcast, MSNBCâs Rachel Maddow goes back 45 years to dig into a story that got overshadowed in its day. Thereâs intrigue. Corruption. Envelopes of cash delivered to the White House. Itâs a story thatâs not well known, but it probably should be. Especially today. Bag Man. A Rachel Maddow podcast from MSNBC. Listen to the Peabody Award-nominated series now.",
+            "imageUrl" : "https://image.simplecastcdn.com/images/6d56f628-36e8-4b8a-be3e-03a3e5062540/f52a9971-a5fa-4e47-899e-2e21be98b151/3000x3000/bag-man-3000x3000.jpg?aid=rss_feed",
+            "language" : "en",
+            "owner" : "MSNBC"
+         },
+         "subtitle" : null,
+         "summary" : "Is it possible for an American Vice President to carry out a criminal enterprise inside the White House and have nobody remember? To have one of the most brazen political bribery scandals in American history play out before the country while nobodyâs paying attention? In her first original podcast, MSNBCâs Rachel Maddow goes back 45 years to dig into a story that got overshadowed in its day. Thereâs intrigue. Corruption. Envelopes of cash delivered to the White House. Itâs a story thatâs not well known, but it probably should be. Especially today. Bag Man. A Rachel Maddow podcast from MSNBC. Listen to the Peabody Award-nominated series now.",
+         "title" : "Bag Man"
+      },
+      {
+         "seriesId" : "GA0000N0000030W",
+         "sourceFeed" : {
+            "author" : "The Boston Globe | Wondery",
+            "categories" : [
+               "Sports",
+               "True Crime",
+               "News"
+            ],
+            "contentType" : "Serial",
+            "description" : "<p>All episodes are available for free, with ad-free episodes available for Wondery+ subscribers.</p><p>Football star Aaron Hernandez went from the bright lights of the Super Bowl to a convicted murderer in a few years. The Boston Globeâs Spotlight Team, best known for its investigation of the sexual abuse scandal inside the Catholic Church, takes a hard look at the crisis facing football through the lens of Aaron Hernandezâs life and terrible crimes.</p><p>From Wondery, the podcast team that brought you Dr. Death, Spotlight asks: Did a brain badly damaged by football contribute to Hernandezâs violent behavior? Did he keep secrets about his sexuality that collided with a hyper-masculine football culture? Did elite coaches and teams look the other way as Hernandez was spiraling out of control?</p><p>Spotlight uncovered new documents, audio, and interviews to go deep into the story of what happened to Aaron Hernandez, and what it means for those of us who cheer on a violent game.&nbsp;</p>",
+            "imageUrl" : "https://content.production.cdn.art19.com/images/3e/fe/50/12/3efe5012-abad-4566-a95f-04cc77b8dc10/f46808881118a060e456abee78443e5aba85437e727bf5475173da86cd1ac4364c3e99acd94b0315a25243b9083cd8d61b527982a7f26149646ba3ded6a2fe43.jpeg",
+            "language" : "en",
+            "owner" : "Wondery"
+         },
+         "subtitle" : null,
+         "summary" : "<p>All episodes are available for free, with ad-free episodes available for Wondery+ subscribers.</p><p>Football star Aaron Hernandez went from the bright lights of the Super Bowl to a convicted murderer in a few years. The Boston Globeâs Spotlight Team, best known for its investigation of the sexual abuse scandal inside the Catholic Church, takes a hard look at the crisis facing football through the lens of Aaron Hernandezâs life and terrible crimes.</p><p>From Wondery, the podcast team that brought you Dr. Death, Spotlight asks: Did a brain badly damaged by football contribute to Hernandezâs violent behavior? Did he keep secrets about his sexuality that collided with a hyper-masculine football culture? Did elite coaches and teams look the other way as Hernandez was spiraling out of control?</p><p>Spotlight uncovered new documents, audio, and interviews to go deep into the story of what happened to Aaron Hernandez, and what it means for those of us who cheer on a violent game.&nbsp;</p>",
+         "title" : "Gladiator: Aaron Hernandez and Football Inc."
+      },
+      {
+         "seriesId" : "GA0000N0000031H",
+         "sourceFeed" : {
+            "author" : "Obsessed Network",
+            "categories" : [
+               "True Crime",
+               "Society & Culture",
+               "Comedy"
+            ],
+            "contentType" : "Episodic",
+            "description" : "The true crime / comedy podcast YOU NEED IN YOUR LIFE. We recap your favorite true crime documentaries with humor, sass, and heart. FROM VULTURE: \"Itâs not wrong to laugh when youâre listening to a true-crime podcast. Or at least I hope it isnât, because if almost crashing my car while listening to True Crime Obsessed is wrong, I donât want to be right.\" Hear our take on \"Abducted in Plain Sight,\" \"The Ted Bundy Tapes,\"Dirty John: The Dirty Truth\" and so many more.",
+            "imageUrl" : "https://images.theabcdn.com/i/36105430.jpg",
+            "language" : "en",
+            "owner" : null
+         },
+         "subtitle" : null,
+         "summary" : "The true crime / comedy podcast YOU NEED IN YOUR LIFE. We recap your favorite true crime documentaries with humor, sass, and heart. FROM VULTURE: \"Itâs not wrong to laugh when youâre listening to a true-crime podcast. Or at least I hope it isnât, because if almost crashing my car while listening to True Crime Obsessed is wrong, I donât want to be right.\" Hear our take on \"Abducted in Plain Sight,\" \"The Ted Bundy Tapes,\"Dirty John: The Dirty Truth\" and so many more.",
+         "title" : "True Crime Obsessed"
+      },
+      {
+         "seriesId" : "GA0000N000003tS",
+         "sourceFeed" : {
+            "author" : "Incongruity",
+            "categories" : [
+               "True Crime",
+               "History",
+               "News"
+            ],
+            "contentType" : "Episodic",
+            "description" : "<p>The Sword and Scale true-crime podcast is an immersive audio experience covering the dark side of humanity and human nature. Our stories delve into the worst of the worst and include murder, rape, dismemberment and cannibalism. The worst monsters are real.</p><p><br></p><p><br></p>",
+            "imageUrl" : "https://content.production.cdn.art19.com/images/30/7c/68/5a/307c685a-d462-4241-a81a-563f8d3eee05/a4d20728a2345a9334b593f57f3da18462177d80fcd59071e953304f4780323be611732be847355274de4a253b57a42205c8b9df247ea6f3141e858975adf4db.jpeg",
+            "language" : "en",
+            "owner" : "Incongruity"
+         },
+         "subtitle" : null,
+         "summary" : "<p>The Sword and Scale true-crime podcast is an immersive audio experience covering the dark side of humanity and human nature. Our stories delve into the worst of the worst and include murder, rape, dismemberment and cannibalism. The worst monsters are real.</p><p><br></p><p><br></p>",
+         "title" : "Sword and Scale"
+      },
+      {
+         "seriesId" : "GA0000N000004F3",
+         "sourceFeed" : {
+            "author" : "Los Angeles Times | Wondery",
+            "categories" : [
+               "Society & Culture",
+               "News",
+               "True Crime"
+            ],
+            "contentType" : "Serial",
+            "description" : "<p>All episodes are available for free, with remastered ad-free episodes available for Wondery+ subscribers.</p><p>Debra Newell is a successful interior designer. She meets John Meehan, a handsome man who seems to check all the boxes: attentive, available, just back from a year in Iraq with Doctors Without Borders. But her family doesnât like John, and they get entangled in an increasingly complex web of love, deception, forgiveness, denial, and ultimately, survival. Reported and hosted by Christopher Goffard from the L.A. Times.</p>",
+            "imageUrl" : "https://content.production.cdn.art19.com/images/f5/cf/d8/37/f5cfd837-6c97-4422-a573-4ea06f2b2a13/92560badd97d72391e87a7f98ef308a82f3f8973b0ac04d558be398f1bb06c4d0b09e982e9f7d939e7a7be6f06470d4b2f015e2211d4c4a67c73378122690d54.jpeg",
+            "language" : "en",
+            "owner" : "Los Angeles Times | Wondery"
+         },
+         "subtitle" : null,
+         "summary" : "<p>All episodes are available for free, with remastered ad-free episodes available for Wondery+ subscribers.</p><p>Debra Newell is a successful interior designer. She meets John Meehan, a handsome man who seems to check all the boxes: attentive, available, just back from a year in Iraq with Doctors Without Borders. But her family doesnât like John, and they get entangled in an increasingly complex web of love, deception, forgiveness, denial, and ultimately, survival. Reported and hosted by Christopher Goffard from the L.A. Times.</p>",
+         "title" : "Dirty John"
+      },
+      {
+         "seriesId" : "GA0000N000004F7",
+         "sourceFeed" : {
+            "author" : "TNT / Cadence13",
+            "categories" : [
+               "True Crime",
+               "Society & Culture"
+            ],
+            "contentType" : "Serial",
+            "description" : "When Elizabeth Short, also known as The Black Dahlia, was brutally killed in 1947, it gripped the entire country. More than 70 years later, it remains America's most infamous unsolved murder. Many believe Dr. George Hodel was the killer, thanks to an investigation by Hodel's own son. But murder is just part of the Hodel family story, one filled with horrifying secrets that ripple across generations. Now, through never-before-heard archival audio and first-time interviews, the Hodel family opens up to reveal their shocking story. In this eight-part documentary series, sisters Rasha Pecoraro and Yvette Gentile, the great grand daughters of George Hodel, take a deep dive into their family history to try to figure out what really happened, and where do they all go from here? Root of Evil is the companion podcast to TNTs limited series I Am the Night. Inspired by the true story of the Hodel family, the series stars Chris Pine and comes from acclaimed Wonder Woman director Patty Jenkins.",
+            "imageUrl" : "https://www.omnycontent.com/d/playlist/d83f52e4-2455-47f4-982e-ab790120b954/746fc97b-db2e-4fef-919f-ab850163e13d/8264c1d0-8a91-4e78-827f-ab850163e14b/image.jpg?t=1584826543&size=Large",
+            "language" : "en-US",
+            "owner" : "TNT / Cadence13"
+         },
+         "subtitle" : null,
+         "summary" : "When Elizabeth Short, also known as The Black Dahlia, was brutally killed in 1947, it gripped the entire country. More than 70 years later, it remains America's most infamous unsolved murder. Many believe Dr. George Hodel was the killer, thanks to an investigation by Hodel's own son. But murder is just part of the Hodel family story, one filled with horrifying secrets that ripple across generations. Now, through never-before-heard archival audio and first-time interviews, the Hodel family opens up to reveal their shocking story. In this eight-part documentary series, sisters Rasha Pecoraro and Yvette Gentile, the great grand daughters of George Hodel, take a deep dive into their family history to try to figure out what really happened, and where do they all go from here? Root of Evil is the companion podcast to TNTs limited series I Am the Night. Inspired by the true story of the Hodel family, the series stars Chris Pine and comes from acclaimed Wonder Woman director Patty Jenkins.",
+         "title" : "Root of Evil: The True Story of the Hodel Family and the Black Dahlia"
+      },
+      {
+         "seriesId" : "GA0000N000004FD",
+         "sourceFeed" : {
+            "author" : "Vox Media Podcast Network",
+            "categories" : [
+               "True Crime"
+            ],
+            "contentType" : "Episodic",
+            "description" : "Criminal isÂ theÂ firstÂ ofÂ itsÂ kind.Â A show about people whoâve done wrong, been wronged, or gotten caught somewhere in the middle. Hosted by Phoebe Judge. Part of the Vox Media Podcast Network.",
+            "imageUrl" : "https://megaphone.imgix.net/podcasts/f547b046-5de4-11ec-acc5-733706bb297f/image/CRIMINAL_3000x3000_v2.png?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+            "language" : "en",
+            "owner" : "Vox Media Podcast Network"
+         },
+         "subtitle" : "Criminal is a podcast about crime.",
+         "summary" : "Criminal isÂ theÂ firstÂ ofÂ itsÂ kind.Â A show about people whoâve done wrong, been wronged, or gotten caught somewhere in the middle. Hosted by Phoebe Judge. Part of the Vox Media Podcast Network.",
+         "title" : "Criminal"
+      },
+      {
+         "seriesId" : "GA0000N000004FF",
+         "sourceFeed" : {
+            "author" : "Tenderfoot TV & Cadence 13",
+            "categories" : [
+               "True Crime",
+               "Society & Culture"
+            ],
+            "contentType" : "Serial",
+            "description" : "In Feb 2018, an aspiring actress vanished from her Hollywood apartment. Rolling Stone journalist Neil Strauss was asked to help the family get answers. Together, they found them...sometimes at great personal risk. Now the award-winning true crime podcast returns, unraveling the baffling and tragic case that started Neil Strauss down the rabbit hole of true crime investigation, along with his wife and his neighbors, Incubus guitarist Mike Einziger, and concert violinist Ann Marie Simpson. To Live and Die in LA Season 2 is available now.\nwww.livediela.com",
+            "imageUrl" : "https://megaphone.imgix.net/podcasts/0499c1ac-3399-11e9-8483-1399efb224e5/image/LiveDie-S2-Cover_0.5x.jpg?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+            "language" : "en",
+            "owner" : "Tenderfoot TV"
+         },
+         "subtitle" : null,
+         "summary" : "In Feb 2018, an aspiring actress vanished from her Hollywood apartment. Rolling Stone journalist Neil Strauss was asked to help the family get answers. Together, they found them...sometimes at great personal risk. Now the award-winning true crime podcast returns, unraveling the baffling and tragic case that started Neil Strauss down the rabbit hole of true crime investigation, along with his wife and his neighbors, Incubus guitarist Mike Einziger, and concert violinist Ann Marie Simpson. To Live and Die in LA Season 2 is available now.\nwww.livediela.com",
+         "title" : "To Live and Die in LA"
+      },
+      {
+         "seriesId" : "GA0000N000004FN",
+         "sourceFeed" : {
+            "author" : "iHeartPodcasts & Tenderfoot TV",
+            "categories" : [
+               "True Crime",
+               "Society & Culture"
+            ],
+            "contentType" : "Serial",
+            "description" : "From the producers of Up and Vanished, Tenderfoot TV and HowStuffWorks present, 'Atlanta Monster.' This true crime podcast tells the story of one of the cityâs darkest secrets, The Atlanta Child Murders. Nearly 40 years after these horrific crimes, many questions still remain. Host Payne Lindsey aims to find truth and provide closure, reexamining the disappearance and murder of over 25 African American children and young adults.",
+            "imageUrl" : "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/c87d032f-eef9-4503-b3fd-ae2e01547101/9dbbaaec-9950-4aa4-9958-ae2e0154710f/image.jpg?t=1643661572&size=Large",
+            "language" : "en-US",
+            "owner" : "iHeartPodcasts & Tenderfoot TV"
+         },
+         "subtitle" : "Atlanta Monster",
+         "summary" : "From the producers of Up and Vanished, Tenderfoot TV and HowStuffWorks present, 'Atlanta Monster.' This true crime podcast tells the story of one of the cityâs darkest secrets, The Atlanta Child Murders. Nearly 40 years after these horrific crimes, many questions still remain. Host Payne Lindsey aims to find truth and provide closure, reexamining the disappearance and murder of over 25 African American children and young adults.",
+         "title" : "Atlanta Monster"
+      },
+      {
+         "seriesId" : "GA0000N000004FP",
+         "sourceFeed" : {
+            "author" : "Wondery",
+            "categories" : [
+               "True Crime",
+               "News",
+               "Society & Culture"
+            ],
+            "contentType" : "Serial",
+            "description" : "<p>Over My Dead Body is an anthology series about people who are pushed beyond their limits and do unspeakable things.</p><p>Listen to Over My Dead Body: Fox Lake exclusively by subscribing to Wondery+. Start your free trial at wonderyplus.com</p><p>Season 3: Fox Lake - A small town cop is gunned down in a swamp in the summer of 2015. He quickly became a martyr in the national media, until a dogged investigator uncovered the officer's bizarre and dark past. When the truth comes out, the townspeople must reconcile betrayal, corruption and the secrets of an American hero.</p><p>Season 2: Joe vs. Carole - Joe Exotic is a man who devoted his life to raising and breeding exotic animals, but throughout his career, he's made a lot of enemies. Most notably Carole Baskin. The feud between them gets messy, vicious, and outrageous -- until both of them are pushed far beyond their limits. To listen to Over My Dead Body Season 2: 'Joe vs. Carole' listen on Amazon Music or subscribe to Wondery+. Watch the television series based on the podcast 'Joe vs. Carole' premiering on Peacock on March 3rd.&nbsp;<a href=\"http://smarturl.it/Joe_vs_Carole\" rel=\"noopener noreferrer\" target=\"_blank\">smarturl.it/Joe_vs_Carole</a></p><p>Season 1: Tally - When this \"perfect\" couple's relationship falls apart, it leads to a bad breakup, a worse divorce, and a murder case involving a menagerie of high-priced lawyers and unexpected co-conspirators.</p><p><br></p>",
+            "imageUrl" : "https://content.production.cdn.art19.com/images/59/93/d1/5a/5993d15a-b461-4418-97e6-96736913b9f0/7d8b34b1cb35f30e763a1d2c0e13d5b72f4371909db26db731e84157d0ae289ec5bc3d872585c2db263cd9aa8befb4398498ddb160e80a950196385280dd72d0.jpeg",
+            "language" : "en",
+            "owner" : "Wondery"
+         },
+         "subtitle" : null,
+         "summary" : "<p>Over My Dead Body is an anthology series about people who are pushed beyond their limits and do unspeakable things.</p><p>Listen to Over My Dead Body: Fox Lake exclusively by subscribing to Wondery+. Start your free trial at wonderyplus.com</p><p>Season 3: Fox Lake - A small town cop is gunned down in a swamp in the summer of 2015. He quickly became a martyr in the national media, until a dogged investigator uncovered the officer's bizarre and dark past. When the truth comes out, the townspeople must reconcile betrayal, corruption and the secrets of an American hero.</p><p>Season 2: Joe vs. Carole - Joe Exotic is a man who devoted his life to raising and breeding exotic animals, but throughout his career, he's made a lot of enemies. Most notably Carole Baskin. The feud between them gets messy, vicious, and outrageous -- until both of them are pushed far beyond their limits. To listen to Over My Dead Body Season 2: 'Joe vs. Carole' listen on Amazon Music or subscribe to Wondery+. Watch the television series based on the podcast 'Joe vs. Carole' premiering on Peacock on March 3rd.&nbsp;<a href=\"http://smarturl.it/Joe_vs_Carole\" rel=\"noopener noreferrer\" target=\"_blank\">smarturl.it/Joe_vs_Carole</a></p><p>Season 1: Tally - When this \"perfect\" couple's relationship falls apart, it leads to a bad breakup, a worse divorce, and a murder case involving a menagerie of high-priced lawyers and unexpected co-conspirators.</p><p><br></p>",
+         "title" : "Over My Dead Body"
+      },
+      {
+         "seriesId" : "GA0000N000004FV",
+         "sourceFeed" : {
+            "author" : "Casefile Presents",
+            "categories" : [
+               "True Crime",
+               "History",
+               "Society & Culture"
+            ],
+            "contentType" : "Episodic",
+            "description" : "Fact is scarier than fiction. Subscribe to Casefile Premium to receive ad-free episodes released one week early, along with access to bonus Q&Aâs, our exclusive show âBehind the Filesâ, and more.",
+            "imageUrl" : "https://images.theabcdn.com/i/36767849.jpg",
+            "language" : "en",
+            "owner" : null
+         },
+         "subtitle" : null,
+         "summary" : "Fact is scarier than fiction. Subscribe to Casefile Premium to receive ad-free episodes released one week early, along with access to bonus Q&Aâs, our exclusive show âBehind the Filesâ, and more.",
+         "title" : "Casefile True Crime"
+      },
+      {
+         "seriesId" : "GA0000N000004G4",
+         "sourceFeed" : {
+            "author" : "Slate Podcasts",
+            "categories" : [
+               "History",
+               "Society & Culture",
+               "News"
+            ],
+            "contentType" : "Serial",
+            "description" : "In the early 1970s, the future of abortion in America was far from settled. Roe v. Wade would change everything, though few knew it at the time. For the seventh season of Slateâs Slow Burn, host Susan Matthews explores the path to Roeâa time when more Republicans than Democrats supported abortion rights. Youâll hear the forgotten story of the first woman ever to be convicted of manslaughter for having an abortion, the unlikely Catholic power couple who helped ignite the pro-life movement, and a rookie Supreme Court justice who got assigned the opinion of a lifetime.",
+            "imageUrl" : "https://megaphone.imgix.net/podcasts/86fe6492-bb2a-11e7-873d-cf56b25e8a62/image/3000x3000_PodcastArt_SB7.jpg?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+            "language" : "en",
+            "owner" : null
+         },
+         "subtitle" : "History in real time",
+         "summary" : "In the early 1970s, the future of abortion in America was far from settled. Roe v. Wade would change everything, though few knew it at the time. For the seventh season of Slateâs Slow Burn, host Susan Matthews explores the path to Roeâa time when more Republicans than Democrats supported abortion rights. Youâll hear the forgotten story of the first woman ever to be convicted of manslaughter for having an abortion, the unlikely Catholic power couple who helped ignite the pro-life movement, and a rookie Supreme Court justice who got assigned the opinion of a lifetime.",
+         "title" : "Slow Burn"
+      },
+      {
+         "seriesId" : "GA0000N000004G7",
+         "sourceFeed" : {
+            "author" : "Exactly Right",
+            "categories" : [
+               "True Crime",
+               "Society & Culture"
+            ],
+            "contentType" : "Episodic",
+            "description" : "Retired Cold Case Investigator Paul Holes and Investigative Journalist Billy Jensen dig deep into unsolved murders, unidentified remains and missing persons cases. Each week listeners ride shotgun as Holes and Jensen attempt to solve the crime using a variety of methods, from old-fashioned detective work to advanced technologies including familial DNA searches, social media geotargeting, and maybe most importantâthe skills of their listeners who send in tips and theories, becoming active members of The Murder Squad.",
+            "imageUrl" : "https://content.production.cdn.art19.com/images/9d/cc/0f/67/9dcc0f67-d12e-4f83-b7fe-04a84651cb00/1fa082cbeac5be52b1ed217a4dfa02c78d98c4272458df92bace605a7706f88ee5c831480f6c5b2e73b4cdf036f93b82cd306c200969b7c1c8003e27f69e1322.jpeg",
+            "language" : "en",
+            "owner" : "Exactly Right"
+         },
+         "subtitle" : null,
+         "summary" : "Retired Cold Case Investigator Paul Holes and Investigative Journalist Billy Jensen dig deep into unsolved murders, unidentified remains and missing persons cases. Each week listeners ride shotgun as Holes and Jensen attempt to solve the crime using a variety of methods, from old-fashioned detective work to advanced technologies including familial DNA searches, social media geotargeting, and maybe most importantâthe skills of their listeners who send in tips and theories, becoming active members of The Murder Squad.",
+         "title" : "Jensen and Holes: The Murder Squad"
+      }
+   ],
+   "meta" : {
+      "limit" : 30,
+      "offset" : 0,
+      "total" : 9825
+   }
+}

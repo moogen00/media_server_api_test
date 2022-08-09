@@ -1,0 +1,36 @@
+{
+   "childCount" : 3,
+   "data" : [
+      {
+         "parentThemeId" : "TM001",
+         "plThemeId" : "PL001",
+         "plThemeName" : "Refreshing start"
+      },
+      {
+         "parentThemeId" : "TM001",
+         "plThemeId" : "PL002",
+         "plThemeName" : "Fatigue free"
+      },
+      {
+         "parentThemeId" : "TM001",
+         "plThemeId" : "PL003",
+         "plThemeName" : "Morning coffee"
+      }
+   ],
+   "podData" : [
+      {
+         "podcastCategoryId" : "90272",
+         "podcastCategoryName" : "News"
+      },
+      {
+         "podcastCategoryId" : "90265",
+         "podcastCategoryName" : "Comedy"
+      },
+      {
+         "podcastCategoryId" : "90275",
+         "podcastCategoryName" : "Society & Culture"
+      }
+   ],
+   "themeId" : "TM001",
+   "themeName" : "Fresh start"
+}

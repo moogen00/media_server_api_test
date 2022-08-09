@@ -1,0 +1,920 @@
+3.10 Aod Episodes Endpoint do_aod_episode ===========================================
+{
+   "data" : {
+      "data" : [
+         {
+            "audioEnclosure" : {
+               "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chtbl.com/track/3417G2/pdst.fm/e/traffic.omny.fm/d/clips/885ace83-027a-47ad-ad67-aca7002f1df8/7bdc2f7e-cc52-4dd7-b327-aca8005d16cb/05385e9a-0bc2-4545-85d4-aca80064abcc/audio.mp3?utm_source=Podcast&in_playlist=4a6219e8-f1d3-4cf7-bd93-aca8005d16e7",
+               "mimeType" : "audio/mpeg",
+               "sizeBytes" : 86960693
+            },
+            "availabilities" : [
+               {
+                  "license" : "Open",
+                  "name" : "All"
+               }
+            ],
+            "categories" : [
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90265",
+                     "display" : "Comedy",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90315",
+                     "display" : "Comedy Couples",
+                     "level" : 2
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90265",
+                     "display" : "Comedy",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90306",
+                     "display" : "Comedy Interviews",
+                     "level" : 2
+                  }
+               ]
+            ],
+            "credits" : [
+               {
+                  "name" : "Bobby Lee",
+                  "personID" : "232744",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               },
+               {
+                  "name" : "Harland Williams",
+                  "personID" : "79674",
+                  "role" : {
+                     "display" : "Guest"
+                  }
+               }
+            ],
+            "description" : "Harland is Larry. Bobo is Kangaroo Hands. We talk crop circles, Elvis lips, inchworms, and a Subway omelette.Â  \r\nBonus content on Mondays: \r\nhttps://www.patreon.com/TigerBelly",
+            "durationSeconds" : 5431,
+            "editorialStatus" : "enhanced",
+            "episodeID" : "GA0000P00003TDr",
+            "episodeNumber" : null,
+            "language" : "en",
+            "lastUpdateDateTime" : "2021-08-04T13:05:26Z",
+            "objectType" : "episode",
+            "publishDateTime" : "2018-10-03T09:47:10Z",
+            "seasonNumber" : null,
+            "seriesReference" : {
+               "href" : "/series?seriesIDs=GA0000N000000Rt",
+               "seriesID" : "GA0000N000000Rt",
+               "title" : "TigerBelly"
+            },
+            "sourceFeed" : {
+               "author" : null,
+               "categories" : null,
+               "contentType" : null,
+               "copyright" : null,
+               "description" : "Harland is Larry. Bobo is Kangaroo Hands. We talk crop circles, Elvis lips, inch worms, and a Subway omelette.Â \n\nBonus content on Mondays:\n\nhttps://www.patreon.com/TigerBelly\n\nSponsor Links:\n\nhttps://www.brooklinen.comÂ Promo Code: TIGERBELLYÂ \n\nhttps://www.ridgewallet.comÂ Promo Code: TIGERBELLY\n\nhttps://www.forhims.com/bellysc\n\nSee omnystudio.com/listener for privacy information.",
+               "explicitLanguage" : "true",
+               "feedUrl" : null,
+               "generator" : null,
+               "imageUrl" : "https://www.omnycontent.com/d/clips/885ace83-027a-47ad-ad67-aca7002f1df8/7bdc2f7e-cc52-4dd7-b327-aca8005d16cb/05385e9a-0bc2-4545-85d4-aca80064abcc/image.jpg?t=1609913198&size=Large",
+               "keywords" : null,
+               "language" : null,
+               "owner" : null,
+               "websiteUrl" : "https://omny.fm/shows/tigerbelly/episode-162-harland-williams-forgives-you"
+            },
+            "subtitle" : "Harland is Larry. Bobo is Kangaroo Hands. We talk crop circles, Elvis lips, inch worms, and a Subway omelette.Â  Bonus content on Mondays: Sponsor Links: Â Promo Code: TIGERBELLYÂ  Â Promo Code: TIGERBELLY",
+            "summary" : "Harland is Larry. Bobo is Kangaroo Hands. We talk crop circles, Elvis lips, inch worms, and a Subway omelette.Â  Bonus content on Mondays: Sponsor Links: Â Promo Code: TIGERBELLYÂ  Â Promo Code: TIGERBELLY",
+            "title" : "Episode 162: Harland Williams Forgives You"
+         },
+         {
+            "audioEnclosure" : {
+               "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chtbl.com/track/3417G2/pdst.fm/e/traffic.omny.fm/d/clips/885ace83-027a-47ad-ad67-aca7002f1df8/7bdc2f7e-cc52-4dd7-b327-aca8005d16cb/6a5e8282-77be-44af-ae1d-aca8006649b1/audio.mp3?utm_source=Podcast&in_playlist=4a6219e8-f1d3-4cf7-bd93-aca8005d16e7",
+               "mimeType" : "audio/mpeg",
+               "sizeBytes" : 99448064
+            },
+            "availabilities" : [
+               {
+                  "license" : "Open",
+                  "name" : "All"
+               }
+            ],
+            "categories" : [
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90265",
+                     "display" : "Comedy",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90315",
+                     "display" : "Comedy Couples",
+                     "level" : 2
+                  }
+               ]
+            ],
+            "credits" : [
+               {
+                  "name" : "Bobby Lee",
+                  "personID" : "232744",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               },
+               {
+                  "name" : "Khalyla Kuhn",
+                  "personID" : "1316439",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               }
+            ],
+            "description" : "\r\nBobo bikes. Bert runs. Koloko swims. We talk Korean Math, human prototypes, tongue-less Floridians, and stalactite tears. ",
+            "durationSeconds" : 6212,
+            "editorialStatus" : "enhanced",
+            "episodeID" : "GA0000P00003TD4",
+            "episodeNumber" : null,
+            "language" : "en",
+            "lastUpdateDateTime" : "2021-08-04T13:05:25Z",
+            "objectType" : "episode",
+            "publishDateTime" : "2018-04-11T07:30:00Z",
+            "seasonNumber" : null,
+            "seriesReference" : {
+               "href" : "/series?seriesIDs=GA0000N000000Rt",
+               "seriesID" : "GA0000N000000Rt",
+               "title" : "TigerBelly"
+            },
+            "sourceFeed" : {
+               "author" : null,
+               "categories" : null,
+               "contentType" : null,
+               "copyright" : null,
+               "description" : "Bobo bikes. Bert runs. Koloko swims. We talk Korean Math, human prototypes, tongue-less Floridians, and stalactite tears.\n\n\n\nSee omnystudio.com/listener for privacy information.",
+               "explicitLanguage" : "false",
+               "feedUrl" : null,
+               "generator" : null,
+               "imageUrl" : "https://www.omnycontent.com/d/clips/885ace83-027a-47ad-ad67-aca7002f1df8/7bdc2f7e-cc52-4dd7-b327-aca8005d16cb/6a5e8282-77be-44af-ae1d-aca8006649b1/image.jpg?t=1609913557&size=Large",
+               "keywords" : null,
+               "language" : null,
+               "owner" : null,
+               "websiteUrl" : "https://omny.fm/shows/tigerbelly/episode-137-bert-kreischer-the-hunt-for-ice"
+            },
+            "subtitle" : "Bobo bikes. Bert runs. Koloko swims. We talk Korean Math, human prototypes, tongue-less Floridians, and stalactite tears.",
+            "summary" : "Bobo bikes. Bert runs. Koloko swims. We talk Korean Math, human prototypes, tongue-less Floridians, and stalactite tears.",
+            "title" : "Episode 137: Bert Kreischer & The Hunt For Ice"
+         },
+         {
+            "audioEnclosure" : {
+               "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chtbl.com/track/3417G2/pdst.fm/e/traffic.omny.fm/d/clips/885ace83-027a-47ad-ad67-aca7002f1df8/7bdc2f7e-cc52-4dd7-b327-aca8005d16cb/9e2854bf-67a5-41c0-b1d1-aca8006c3086/audio.mp3?utm_source=Podcast&in_playlist=4a6219e8-f1d3-4cf7-bd93-aca8005d16e7",
+               "mimeType" : "audio/mpeg",
+               "sizeBytes" : 67156526
+            },
+            "availabilities" : [
+               {
+                  "license" : "Open",
+                  "name" : "All"
+               }
+            ],
+            "categories" : [
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90265",
+                     "display" : "Comedy",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90315",
+                     "display" : "Comedy Couples",
+                     "level" : 2
+                  }
+               ]
+            ],
+            "credits" : [
+               {
+                  "name" : "Bobby Lee",
+                  "personID" : "232744",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               },
+               {
+                  "name" : "Khalyla Kuhn",
+                  "personID" : "1316439",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               },
+               {
+                  "name" : "Gilbert Galon",
+                  "personID" : "929203",
+                  "role" : {
+                     "display" : "Co-Host"
+                  }
+               }
+            ],
+            "description" : "\r\nBobo says a prayer for the babies. \r\nKhalyla keeps a secret box in her heart. \r\nCharlie is the good German. \r\nWe talk coital tears, mercury poisoning, and other despicable things. \r\nÂ  \r\nRecorded May 24, 2016 \r\nMusic by Bobby Lee \r\nInstagram: @tigerbelly \r\nTwitter: @thetigerbelly \r\nYouTube.com/tigerbelly \r\nFacebook: thetigerbelly \r\nwww.thetigerbelly.com",
+            "durationSeconds" : 4193,
+            "editorialStatus" : "enhanced",
+            "episodeID" : "GA0000P00003T8t",
+            "episodeNumber" : null,
+            "language" : "en",
+            "lastUpdateDateTime" : "2021-08-04T13:05:20Z",
+            "objectType" : "episode",
+            "publishDateTime" : "2016-05-25T09:00:00Z",
+            "seasonNumber" : null,
+            "seriesReference" : {
+               "href" : "/series?seriesIDs=GA0000N000000Rt",
+               "seriesID" : "GA0000N000000Rt",
+               "title" : "TigerBelly"
+            },
+            "sourceFeed" : {
+               "author" : null,
+               "categories" : null,
+               "contentType" : null,
+               "copyright" : null,
+               "description" : "Bobo says a prayer for the babies.\n\nKhalyla keeps a secret box in her heart.\n\nCharlie is the good German.\n\nWe talk coital tears, mercury poisoning, and other despicable things.\n\n\n\nRecorded May 24, 2016\n\nMusic by Bobby Lee\n\nInstagram: @tigerbelly\n\nTwitter: @thetigerbelly\n\nYouTube.com/tigerbelly\n\nFacebook: thetigerbelly\n\nwww.thetigerbelly.com\n\nSee omnystudio.com/listener for privacy information.",
+               "explicitLanguage" : "true",
+               "feedUrl" : null,
+               "generator" : null,
+               "imageUrl" : "https://www.omnycontent.com/d/clips/885ace83-027a-47ad-ad67-aca7002f1df8/7bdc2f7e-cc52-4dd7-b327-aca8005d16cb/9e2854bf-67a5-41c0-b1d1-aca8006c3086/image.jpg?t=1609914839&size=Large",
+               "keywords" : null,
+               "language" : null,
+               "owner" : null,
+               "websiteUrl" : "https://omny.fm/shows/tigerbelly/episode-42-sunshine-on-my-shoulder"
+            },
+            "subtitle" : "Bobo says a prayer for the babies. Khalyla keeps a secret box in her heart. Charlie is the good German. We talk coital tears, mercury poisoning, and other despicable things. Â  Recorded May 24, 2016 Music by Bobby Lee Instagram: @tigerbelly...",
+            "summary" : "Bobo says a prayer for the babies. Khalyla keeps a secret box in her heart. Charlie is the good German. We talk coital tears, mercury poisoning, and other despicable things. Â  Recorded May 24, 2016 Music by Bobby Lee Instagram: @tigerbelly...",
+            "title" : "Episode 42: Sunshine on my Shoulder"
+         },
+         {
+            "audioEnclosure" : {
+               "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chtbl.com/track/3417G2/pdst.fm/e/traffic.omny.fm/d/clips/885ace83-027a-47ad-ad67-aca7002f1df8/7bdc2f7e-cc52-4dd7-b327-aca8005d16cb/63bce904-75a3-4f0b-83ec-aca8006dc858/audio.mp3?utm_source=Podcast&in_playlist=4a6219e8-f1d3-4cf7-bd93-aca8005d16e7",
+               "mimeType" : "audio/mpeg",
+               "sizeBytes" : 65185005
+            },
+            "availabilities" : [
+               {
+                  "license" : "Open",
+                  "name" : "All"
+               }
+            ],
+            "categories" : [
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90265",
+                     "display" : "Comedy",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90315",
+                     "display" : "Comedy Couples",
+                     "level" : 2
+                  }
+               ]
+            ],
+            "credits" : [
+               {
+                  "name" : "Bobby Lee",
+                  "personID" : "232744",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               },
+               {
+                  "name" : "Khalyla Kuhn",
+                  "personID" : "1316439",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               },
+               {
+                  "name" : "Gilbert Galon",
+                  "personID" : "929203",
+                  "role" : {
+                     "display" : "Co-Host"
+                  }
+               }
+            ],
+            "description" : "\r\nWe love you, here's a Bonus Belly.\r\n\r\nGilbo Baggins receives a questionable text from Khaly.\r\n\r\nSomebody among us still eats boogers.\r\n\r\nKhaly says sorry from the bottom of her troubled heart.\r\n\r\nBlacksack says hello.\r\n\r\nÂ \r\n\r\nRecorded October 14, 2015\r\n\r\nMusic by Bobby Lee\r\n\r\nÂ \r\n\r\nInstagram: @tigerbelly\r\n\r\nTwitter: @thetigerbelly",
+            "durationSeconds" : 4070,
+            "editorialStatus" : "enhanced",
+            "episodeID" : "GA0000P00003T7m",
+            "episodeNumber" : null,
+            "language" : "en",
+            "lastUpdateDateTime" : "2021-08-04T13:05:19Z",
+            "objectType" : "episode",
+            "publishDateTime" : "2015-10-16T04:36:00Z",
+            "seasonNumber" : null,
+            "seriesReference" : {
+               "href" : "/series?seriesIDs=GA0000N000000Rt",
+               "seriesID" : "GA0000N000000Rt",
+               "title" : "TigerBelly"
+            },
+            "sourceFeed" : {
+               "author" : null,
+               "categories" : null,
+               "contentType" : null,
+               "copyright" : null,
+               "description" : "We love you, here's a Bonus Belly.\n\nGilbo Baggins receives a questionable text from Khaly.\n\nSomebody among us still eats boogers.\n\nKhaly says sorry from the bottom of her troubled heart.\n\nBlacksack says hello.\n\n\n\nRecorded October 14, 2015\n\nMusic by Bobby Lee\n\n\n\nInstagram: @tigerbelly\n\nTwitter: @thetigerbelly\n\nSee omnystudio.com/listener for privacy information.",
+               "explicitLanguage" : "true",
+               "feedUrl" : null,
+               "generator" : null,
+               "imageUrl" : "https://www.omnycontent.com/d/clips/885ace83-027a-47ad-ad67-aca7002f1df8/7bdc2f7e-cc52-4dd7-b327-aca8005d16cb/63bce904-75a3-4f0b-83ec-aca8006dc858/image.jpg?t=1609915188&size=Large",
+               "keywords" : null,
+               "language" : null,
+               "owner" : null,
+               "websiteUrl" : "https://omny.fm/shows/tigerbelly/episode-8-the-corruptibles"
+            },
+            "subtitle" : "We love you, here's a Bonus Belly.\r\nGilbo Baggins receives a questionable text from Khaly.\r\nSomebody among us still eats boogers.\r\nKhaly says sorry from the bottom of her troubled heart.\r\nBlacksack says hello.\r\nÂ \r\nRecorded October 14, 2015\r\nMusic...",
+            "summary" : "We love you, here's a Bonus Belly.\nGilbo Baggins receives a questionable text from Khaly.\nSomebody among us still eats boogers.\nKhaly says sorry from the bottom of her troubled heart.\nBlacksack says hello.\nÂ \nRecorded October 14, 2015\nMusic...",
+            "title" : "Episode 8: The Corruptibles"
+         },
+         {
+            "audioEnclosure" : {
+               "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chtbl.com/track/3417G2/pdst.fm/e/traffic.omny.fm/d/clips/885ace83-027a-47ad-ad67-aca7002f1df8/7bdc2f7e-cc52-4dd7-b327-aca8005d16cb/74e4b6cb-6158-4a64-a868-aca800656c6d/audio.mp3?utm_source=Podcast&in_playlist=4a6219e8-f1d3-4cf7-bd93-aca8005d16e7",
+               "mimeType" : "audio/mpeg",
+               "sizeBytes" : 53149041
+            },
+            "availabilities" : [
+               {
+                  "license" : "Open",
+                  "name" : "All"
+               }
+            ],
+            "categories" : [
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90265",
+                     "display" : "Comedy",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90315",
+                     "display" : "Comedy Couples",
+                     "level" : 2
+                  }
+               ]
+            ],
+            "credits" : [
+               {
+                  "name" : "Bobby Lee",
+                  "personID" : "232744",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               },
+               {
+                  "name" : "Khalyla Kuhn",
+                  "personID" : "1316439",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               }
+            ],
+            "description" : "Bobo is a cowboy. Khaloko feeds the fishes. We talk the dangers of Listerine, a goofy gelding, an energy vortex, and the isle of manifestation.",
+            "durationSeconds" : 3318,
+            "editorialStatus" : "enhanced",
+            "episodeID" : "GA0000P00003TDN",
+            "episodeNumber" : null,
+            "language" : "en",
+            "lastUpdateDateTime" : "2021-08-04T13:05:26Z",
+            "objectType" : "episode",
+            "publishDateTime" : "2018-07-18T10:36:42Z",
+            "seasonNumber" : null,
+            "seriesReference" : {
+               "href" : "/series?seriesIDs=GA0000N000000Rt",
+               "seriesID" : "GA0000N000000Rt",
+               "title" : "TigerBelly"
+            },
+            "sourceFeed" : {
+               "author" : null,
+               "categories" : null,
+               "contentType" : null,
+               "copyright" : null,
+               "description" : "Bobo is a cowboy. Khaloko feeds the fishes. We talk the dangers of listerine, a goofy gelding, an energy vortex, and the isle of manifestation.\n\nSponsor Link:Â https://www.leesa.com/BELLY\n\nSee omnystudio.com/listener for privacy information.",
+               "explicitLanguage" : "false",
+               "feedUrl" : null,
+               "generator" : null,
+               "imageUrl" : "https://www.omnycontent.com/d/clips/885ace83-027a-47ad-ad67-aca7002f1df8/7bdc2f7e-cc52-4dd7-b327-aca8005d16cb/74e4b6cb-6158-4a64-a868-aca800656c6d/image.jpg?t=1609913360&size=Large",
+               "keywords" : null,
+               "language" : null,
+               "owner" : null,
+               "websiteUrl" : "https://omny.fm/shows/tigerbelly/episode-151-a-horse-named-sizzler"
+            },
+            "subtitle" : "Bobo is a cowboy. Khaloko feeds the fishes. We talk the dangers of listerine, a goofy gelding, an energy vortex, and the isle of manifestation. Sponsor Link:",
+            "summary" : "Bobo is a cowboy. Khaloko feeds the fishes. We talk the dangers of listerine, a goofy gelding, an energy vortex, and the isle of manifestation. Sponsor Link:",
+            "title" : "Episode 151: A Horse Named Sizzler"
+         },
+         {
+            "audioEnclosure" : {
+               "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chtbl.com/track/3417G2/pdst.fm/e/traffic.omny.fm/d/clips/885ace83-027a-47ad-ad67-aca7002f1df8/7bdc2f7e-cc52-4dd7-b327-aca8005d16cb/a9b1d1f4-58c1-4d79-9ef9-aca800655c31/audio.mp3?utm_source=Podcast&in_playlist=4a6219e8-f1d3-4cf7-bd93-aca8005d16e7",
+               "mimeType" : "audio/mpeg",
+               "sizeBytes" : 84184610
+            },
+            "availabilities" : [
+               {
+                  "license" : "Open",
+                  "name" : "All"
+               }
+            ],
+            "categories" : [
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90265",
+                     "display" : "Comedy",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90315",
+                     "display" : "Comedy Couples",
+                     "level" : 2
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90265",
+                     "display" : "Comedy",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90306",
+                     "display" : "Comedy Interviews",
+                     "level" : 2
+                  }
+               ]
+            ],
+            "credits" : [
+               {
+                  "name" : "Bobby Lee",
+                  "personID" : "232744",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               },
+               {
+                  "name" : "Mike Boudet ",
+                  "personID" : "1317280",
+                  "role" : {
+                     "display" : "Guest"
+                  }
+               }
+            ],
+            "description" : "Bobo is the Eyebutt Killer. Mike shares the gruesome. We talk an AIDS bomb, premium love, rage blackouts, and talking to trees.",
+            "durationSeconds" : 5258,
+            "editorialStatus" : "enhanced",
+            "episodeID" : "GA0000P00003TDP",
+            "episodeNumber" : null,
+            "language" : "en",
+            "lastUpdateDateTime" : "2021-08-04T13:05:26Z",
+            "objectType" : "episode",
+            "publishDateTime" : "2018-07-25T11:30:00Z",
+            "seasonNumber" : null,
+            "seriesReference" : {
+               "href" : "/series?seriesIDs=GA0000N000000Rt",
+               "seriesID" : "GA0000N000000Rt",
+               "title" : "TigerBelly"
+            },
+            "sourceFeed" : {
+               "author" : null,
+               "categories" : null,
+               "contentType" : null,
+               "copyright" : null,
+               "description" : "Bobo is the Eyebutt Killer. Mike shares the gruesome. We talk an AIDS bomb, premium love, rage blackouts, and talking to trees.\n\nSponsor Links:\n\nhttps://www.ridgewallet.com/tigerbelly\n\nhttps://www.leesa.com/belly\n\nhttp://www.blueapron.com/belly\n\n\n\nSee omnystudio.com/listener for privacy information.",
+               "explicitLanguage" : "true",
+               "feedUrl" : null,
+               "generator" : null,
+               "imageUrl" : "https://www.omnycontent.com/d/clips/885ace83-027a-47ad-ad67-aca7002f1df8/7bdc2f7e-cc52-4dd7-b327-aca8005d16cb/a9b1d1f4-58c1-4d79-9ef9-aca800655c31/image.jpg?t=1609913350&size=Large",
+               "keywords" : null,
+               "language" : null,
+               "owner" : null,
+               "websiteUrl" : "https://omny.fm/shows/tigerbelly/episode-152-mike-boudet-from-sword-scale"
+            },
+            "subtitle" : "Bobo is the Eyebutt Killer. Mike shares the gruesome. We talk an AIDS bomb, premium love, rage blackouts, and talking to trees. Sponsor Links:",
+            "summary" : "Bobo is the Eyebutt Killer. Mike shares the gruesome. We talk an AIDS bomb, premium love, rage blackouts, and talking to trees. Sponsor Links:",
+            "title" : "Episode 152: Mike Boudet From Sword & Scale"
+         },
+         {
+            "audioEnclosure" : {
+               "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chtbl.com/track/3417G2/pdst.fm/e/traffic.omny.fm/d/clips/885ace83-027a-47ad-ad67-aca7002f1df8/7bdc2f7e-cc52-4dd7-b327-aca8005d16cb/037e0eaa-aa8a-45ab-8e0c-aca800645063/audio.mp3?utm_source=Podcast&in_playlist=4a6219e8-f1d3-4cf7-bd93-aca8005d16e7",
+               "mimeType" : "audio/mpeg",
+               "sizeBytes" : 91974115
+            },
+            "availabilities" : [
+               {
+                  "license" : "Open",
+                  "name" : "All"
+               }
+            ],
+            "categories" : [
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90265",
+                     "display" : "Comedy",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90315",
+                     "display" : "Comedy Couples",
+                     "level" : 2
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90265",
+                     "display" : "Comedy",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90306",
+                     "display" : "Comedy Interviews",
+                     "level" : 2
+                  }
+               ]
+            ],
+            "credits" : [
+               {
+                  "name" : "Bobby Lee",
+                  "personID" : "232744",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               },
+               {
+                  "name" : "Khalyla Kuhn",
+                  "personID" : "1316439",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               },
+               {
+                  "name" : "Fahim Anwar",
+                  "personID" : "591423",
+                  "role" : {
+                     "display" : "Guest"
+                  }
+               }
+            ],
+            "description" : "Fahim does legos. Bobo is Korean Stern. We talk pet lizards, core competencies, a shroom trip, and a tamale festival.Â  \r\nBonus content every Monday: \r\nhttps://www.patreon.com/TigerBelly",
+            "durationSeconds" : 5744,
+            "editorialStatus" : "enhanced",
+            "episodeID" : "GA0000P00003TF3",
+            "episodeNumber" : null,
+            "language" : "en",
+            "lastUpdateDateTime" : "2021-08-04T13:05:27Z",
+            "objectType" : "episode",
+            "publishDateTime" : "2018-11-07T10:22:55Z",
+            "seasonNumber" : null,
+            "seriesReference" : {
+               "href" : "/series?seriesIDs=GA0000N000000Rt",
+               "seriesID" : "GA0000N000000Rt",
+               "title" : "TigerBelly"
+            },
+            "sourceFeed" : {
+               "author" : null,
+               "categories" : null,
+               "contentType" : null,
+               "copyright" : null,
+               "description" : "Fahim does legos. Bobo is Korean Stern. We talk pet lizards, core competencies, a shroom trip, and a tamale festival.Â \n\nBonus content every Monday:\n\nhttps://www.patreon.com/TigerBelly\n\nSponsor Links:\n\nhttps://www.ridgewallet.comÂ Promo Code: TIGERBELLY\n\nhttp://tiger.robinhood.com\n\nhttps://www.23andme.com/tigerbelly\n\nSee omnystudio.com/listener for privacy information.",
+               "explicitLanguage" : "true",
+               "feedUrl" : null,
+               "generator" : null,
+               "imageUrl" : "https://www.omnycontent.com/d/clips/885ace83-027a-47ad-ad67-aca7002f1df8/7bdc2f7e-cc52-4dd7-b327-aca8005d16cb/037e0eaa-aa8a-45ab-8e0c-aca800645063/image.jpg?t=1609913127&size=Large",
+               "keywords" : null,
+               "language" : null,
+               "owner" : null,
+               "websiteUrl" : "https://omny.fm/shows/tigerbelly/episode-167-fahim-anwar-the-loyal-lizard"
+            },
+            "subtitle" : "Fahim does legos. Bobo is Korean Stern. We talk pet lizards, core competencies, a shroom trip, and a tamale festival.Â  Bonus content every Monday: Sponsor Links: Â Promo Code: TIGERBELLY",
+            "summary" : "Fahim does legos. Bobo is Korean Stern. We talk pet lizards, core competencies, a shroom trip, and a tamale festival.Â  Bonus content every Monday: Sponsor Links: Â Promo Code: TIGERBELLY",
+            "title" : "Episode 167: Fahim Anwar & The Loyal Lizard"
+         },
+         {
+            "audioEnclosure" : {
+               "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chtbl.com/track/3417G2/pdst.fm/e/traffic.omny.fm/d/clips/885ace83-027a-47ad-ad67-aca7002f1df8/7bdc2f7e-cc52-4dd7-b327-aca8005d16cb/98ab05ec-c21e-4bd9-8533-aca8006b946e/audio.mp3?utm_source=Podcast&in_playlist=4a6219e8-f1d3-4cf7-bd93-aca8005d16e7",
+               "mimeType" : "audio/mpeg",
+               "sizeBytes" : 70470109
+            },
+            "availabilities" : [
+               {
+                  "license" : "Open",
+                  "name" : "All"
+               }
+            ],
+            "categories" : [
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90265",
+                     "display" : "Comedy",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90306",
+                     "display" : "Comedy Interviews",
+                     "level" : 2
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90265",
+                     "display" : "Comedy",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90315",
+                     "display" : "Comedy Couples",
+                     "level" : 2
+                  }
+               ]
+            ],
+            "credits" : [
+               {
+                  "name" : "Bobby Lee",
+                  "personID" : "232744",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               },
+               {
+                  "name" : "Khalyla Kuhn",
+                  "personID" : "1316439",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               },
+               {
+                  "name" : "Gilbert Galon",
+                  "personID" : "929203",
+                  "role" : {
+                     "display" : "Co-Host"
+                  }
+               },
+               {
+                  "name" : "Jade Catta-Preta",
+                  "personID" : "642199",
+                  "role" : {
+                     "display" : "Guest"
+                  }
+               }
+            ],
+            "description" : "\r\nJade Catta-Preta is our princess for the evening. \r\nBobby is the butler. \r\nKhalyla is the orchestrator. \r\nGilbert is the gardener. \r\nWe talk foot AIDS, comedians in ballgowns, and Mongo The Destroyer. \r\nÂ  \r\nRecorded August 15, 2016 \r\nMusic by Bobby Lee \r\nInstagram: @tigerbelly \r\nTwitter: @thetigerbelly \r\nYouTube.com/tigerbelly \r\nFacebook: thetigerbelly \r\nwww.thetigerbelly.com",
+            "durationSeconds" : 4400,
+            "editorialStatus" : "enhanced",
+            "episodeID" : "GA0000P00003T9C",
+            "episodeNumber" : null,
+            "language" : "en",
+            "lastUpdateDateTime" : "2021-08-04T13:05:21Z",
+            "objectType" : "episode",
+            "publishDateTime" : "2016-08-17T06:30:00Z",
+            "seasonNumber" : null,
+            "seriesReference" : {
+               "href" : "/series?seriesIDs=GA0000N000000Rt",
+               "seriesID" : "GA0000N000000Rt",
+               "title" : "TigerBelly"
+            },
+            "sourceFeed" : {
+               "author" : null,
+               "categories" : null,
+               "contentType" : null,
+               "copyright" : null,
+               "description" : "Jade Catta-Preta is our princess for the evening.\n\nBobby is the butler.\n\nKhalyla is the orchestrator.\n\nGilbert is the gardener.\n\nWe talk foot AIDS, comedians in ballgowns, and Mongo The Destroyer.\n\n\n\nRecorded August 15, 2016\n\nMusic by Bobby Lee\n\nInstagram: @tigerbelly\n\nTwitter: @thetigerbelly\n\nYouTube.com/tigerbelly\n\nFacebook: thetigerbelly\n\nwww.thetigerbelly.com\n\nSee omnystudio.com/listener for privacy information.",
+               "explicitLanguage" : "true",
+               "feedUrl" : null,
+               "generator" : null,
+               "imageUrl" : "https://www.omnycontent.com/d/clips/885ace83-027a-47ad-ad67-aca7002f1df8/7bdc2f7e-cc52-4dd7-b327-aca8005d16cb/98ab05ec-c21e-4bd9-8533-aca8006b946e/image.jpg?t=1609914706&size=Large",
+               "keywords" : null,
+               "language" : null,
+               "owner" : null,
+               "websiteUrl" : "https://omny.fm/shows/tigerbelly/episode-54-jade-and-the-indian-giver"
+            },
+            "subtitle" : "Jade Catta-Preta is our princess for the evening. Bobby is the butler. Khalyla is the orchestrator. Gilbert is the gardener. We talk foot AIDS, comedians in ballgowns, and Mongo The Destroyer. Â  Recorded August 15, 2016 Music by Bobby Lee...",
+            "summary" : "Jade Catta-Preta is our princess for the evening. Bobby is the butler. Khalyla is the orchestrator. Gilbert is the gardener. We talk foot AIDS, comedians in ballgowns, and Mongo The Destroyer. Â  Recorded August 15, 2016 Music by Bobby Lee...",
+            "title" : "Episode 54: Jade and the Indian Giver"
+         },
+         {
+            "audioEnclosure" : {
+               "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chtbl.com/track/3417G2/pdst.fm/e/traffic.omny.fm/d/clips/885ace83-027a-47ad-ad67-aca7002f1df8/7bdc2f7e-cc52-4dd7-b327-aca8005d16cb/fe0780b7-d4ae-4726-b206-aca800660934/audio.mp3?utm_source=Podcast&in_playlist=4a6219e8-f1d3-4cf7-bd93-aca8005d16e7",
+               "mimeType" : "audio/mpeg",
+               "sizeBytes" : 95897075
+            },
+            "availabilities" : [
+               {
+                  "license" : "Open",
+                  "name" : "All"
+               }
+            ],
+            "categories" : [
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90265",
+                     "display" : "Comedy",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90315",
+                     "display" : "Comedy Couples",
+                     "level" : 2
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90265",
+                     "display" : "Comedy",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90306",
+                     "display" : "Comedy Interviews",
+                     "level" : 2
+                  }
+               ],
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90280",
+                     "display" : "TV & Film",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90513",
+                     "display" : "Entertainment Talk",
+                     "level" : 2
+                  }
+               ]
+            ],
+            "credits" : [
+               {
+                  "name" : "Bobby Lee",
+                  "personID" : "232744",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               },
+               {
+                  "name" : "Khalyla Kuhn",
+                  "personID" : "1316439",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               },
+               {
+                  "name" : "Gilbert Galon",
+                  "personID" : "929203",
+                  "role" : {
+                     "display" : "Co-Host"
+                  }
+               }
+            ],
+            "description" : "\r\nBobo phone home. Khaloko is a debunking debby. We talk Mandela effects, a dance bootcamp, and the Guiness Book of World Records Gone Wild.",
+            "durationSeconds" : 5990,
+            "editorialStatus" : "enhanced",
+            "episodeID" : "GA0000P00003TD8",
+            "episodeNumber" : null,
+            "language" : "en",
+            "lastUpdateDateTime" : "2021-08-04T13:05:25Z",
+            "objectType" : "episode",
+            "publishDateTime" : "2018-05-09T08:30:00Z",
+            "seasonNumber" : null,
+            "seriesReference" : {
+               "href" : "/series?seriesIDs=GA0000N000000Rt",
+               "seriesID" : "GA0000N000000Rt",
+               "title" : "TigerBelly"
+            },
+            "sourceFeed" : {
+               "author" : null,
+               "categories" : null,
+               "contentType" : null,
+               "copyright" : null,
+               "description" : "Bobo phone home. Khaloko is a debunking debby. We talk Mandela effects, a dance bootcamp, and the Guiness Book of World Records GONE WILLLDD.\n\nhttps://www.brooklinen.comÂ Promo Code: TIGERBELLY\n\nSee omnystudio.com/listener for privacy information.",
+               "explicitLanguage" : "true",
+               "feedUrl" : null,
+               "generator" : null,
+               "imageUrl" : "https://www.omnycontent.com/d/clips/885ace83-027a-47ad-ad67-aca7002f1df8/7bdc2f7e-cc52-4dd7-b327-aca8005d16cb/fe0780b7-d4ae-4726-b206-aca800660934/image.jpg?t=1609913501&size=Large",
+               "keywords" : null,
+               "language" : null,
+               "owner" : null,
+               "websiteUrl" : "https://omny.fm/shows/tigerbelly/episode-141-jamie-kennedy-the-shift"
+            },
+            "subtitle" : "Bobo phone home. Khaloko is a debunking debby. We talk Mandela effects, a dance bootcamp, and the Guiness Book of World Records GONE WILLLDD. Â Promo Code: TIGERBELLY",
+            "summary" : "Bobo phone home. Khaloko is a debunking debby. We talk Mandela effects, a dance bootcamp, and the Guiness Book of World Records GONE WILLLDD. Â Promo Code: TIGERBELLY",
+            "title" : "Episode 141: Jamie Kennedy & The Shift"
+         },
+         {
+            "audioEnclosure" : {
+               "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chtbl.com/track/3417G2/pdst.fm/e/traffic.omny.fm/d/clips/885ace83-027a-47ad-ad67-aca7002f1df8/7bdc2f7e-cc52-4dd7-b327-aca8005d16cb/d04e64af-f96d-4755-8c3a-aca8006bcd92/audio.mp3?utm_source=Podcast&in_playlist=4a6219e8-f1d3-4cf7-bd93-aca8005d16e7",
+               "mimeType" : "audio/mpeg",
+               "sizeBytes" : 66022606
+            },
+            "availabilities" : [
+               {
+                  "license" : "Open",
+                  "name" : "All"
+               }
+            ],
+            "categories" : [
+               [
+                  {
+                     "children" : null,
+                     "descriptorID" : "90265",
+                     "display" : "Comedy",
+                     "level" : 1
+                  },
+                  {
+                     "children" : null,
+                     "descriptorID" : "90315",
+                     "display" : "Comedy Couples",
+                     "level" : 2
+                  }
+               ]
+            ],
+            "credits" : [
+               {
+                  "name" : "Bobby Lee",
+                  "personID" : "232744",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               },
+               {
+                  "name" : "Khalyla Kuhn",
+                  "personID" : "1316439",
+                  "role" : {
+                     "display" : "Host"
+                  }
+               }
+            ],
+            "description" : "\r\nWe present to you our 50th with a side of brotherly love. Thank you for sticking around. \r\nÂ  \r\nRecorded July 18, 2016 \r\nMusic by Bobby Lee \r\nInstagram: @tigerbelly \r\nTwitter: @thetigerbelly \r\nYouTube.com/tigerbelly \r\nFacebook: thetigerbelly \r\nwww.thetigerbelly.com",
+            "durationSeconds" : 4122,
+            "editorialStatus" : "enhanced",
+            "episodeID" : "GA0000P00003T97",
+            "episodeNumber" : null,
+            "language" : "en",
+            "lastUpdateDateTime" : "2021-08-04T13:05:21Z",
+            "objectType" : "episode",
+            "publishDateTime" : "2016-07-20T06:30:00Z",
+            "seasonNumber" : null,
+            "seriesReference" : {
+               "href" : "/series?seriesIDs=GA0000N000000Rt",
+               "seriesID" : "GA0000N000000Rt",
+               "title" : "TigerBelly"
+            },
+            "sourceFeed" : {
+               "author" : null,
+               "categories" : null,
+               "contentType" : null,
+               "copyright" : null,
+               "description" : "We present to you our 50th with a side of brotherly love. Thank you for sticking around.\n\n\n\nRecorded July 18, 2016\n\nMusic by Bobby Lee\n\nInstagram: @tigerbelly\n\nTwitter: @thetigerbelly\n\nYouTube.com/tigerbelly\n\nFacebook: thetigerbelly\n\nwww.thetigerbelly.com\n\nSee omnystudio.com/listener for privacy information.",
+               "explicitLanguage" : "true",
+               "feedUrl" : null,
+               "generator" : null,
+               "imageUrl" : "https://www.omnycontent.com/d/clips/885ace83-027a-47ad-ad67-aca7002f1df8/7bdc2f7e-cc52-4dd7-b327-aca8005d16cb/d04e64af-f96d-4755-8c3a-aca8006bcd92/image.jpg?t=1609914756&size=Large",
+               "keywords" : null,
+               "language" : null,
+               "owner" : null,
+               "websiteUrl" : "https://omny.fm/shows/tigerbelly/episode-50-steeb-and-the-little-birdy"
+            },
+            "subtitle" : "We present to you our 50th with a side of brotherly love. Thank you for sticking around. Â  Recorded July 18, 2016 Music by Bobby Lee Instagram: @tigerbelly Twitter: @thetigerbelly YouTube.com/tigerbelly Facebook: thetigerbelly www.thetigerbelly.com",
+            "summary" : "We present to you our 50th with a side of brotherly love. Thank you for sticking around. Â  Recorded July 18, 2016 Music by Bobby Lee Instagram: @tigerbelly Twitter: @thetigerbelly YouTube.com/tigerbelly Facebook: thetigerbelly www.thetigerbelly.com",
+            "title" : "Episode 50: Steeb and the Little Birdy"
+         }
+      ],
+      "meta" : {
+         "count" : 10,
+         "offset" : 0,
+         "total" : 367
+      }
+   },
+   "error" : null,
+   "success" : true
+}

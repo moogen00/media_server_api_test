@@ -1,0 +1,170 @@
+3.6 Aod Playback Endpoint do_playback_aod_offset0_limit10 ===========================================
+{
+   "data" : [
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/6cfc2708-0962-4c49-83d6-003b4c8f9c9b/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=6cfc2708-0962-4c49-83d6-003b4c8f9c9b&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 29163187
+         },
+         "description" : "Three decades ago, the highest honor at the Academy Awards was given to a movie about a white passenger learning to love her black chauffeur. Sunday night, the same award was given to a film about a white chauffeur learning to love his black passenger. We look at Hollywoodâs obsession with fantasies of racial reconciliation. Guest: Wesley Morris, a critic at large for The New York Times and a host of the podcast âStill Processing.â For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1804,
+         "episodeID" : "GA0000P0000FGmD",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/6cfc2708-0962-4c49-83d6-003b4c8f9c9b/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "Three decades ago, the highest honor at the Academy Awards was given to a movie about a white passenger learning to love her black chauffeur. Sunday night, the same award was given to a film about a white chauffeur learning to love his black passenger. We look at Hollywoodâs obsession with fantasies of racial reconciliation. Guest: Wesley Morris, a critic at large for The New York Times and a host of the podcast âStill Processing.â For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "Three decades ago, the highest honor at the Academy Awards was given to a movie about a white passenger learning to love her black chauffeur. Sunday night, the same award was given to a film about a white chauffeur learning to love his black passenger. We look at Hollywoodâs obsession with fantasies of racial reconciliation. Guest: Wesley Morris, a critic at large for The New York Times and a host of the podcast âStill Processing.â For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "What Hollywood Keeps Getting Wrong About Race"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/9b8b64b4-20c7-4074-9827-b8144983275e/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=9b8b64b4-20c7-4074-9827-b8144983275e&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 19924595
+         },
+         "description" : "America and the Middle East in the Trump administration: deep, personal ties and an emerging plan for peace. Guests: Jodi Kantor, a reporter for The New York Times; Amanda Taub and Max Fisher, who write The Timesâ Interpreter column. For more information on todayâs episode, visit http://nyti.ms/2kFDqvC.",
+         "durationSeconds" : 1226,
+         "episodeID" : "GA0000P0000FGDb",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/9b8b64b4-20c7-4074-9827-b8144983275e/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "America and the Middle East in the Trump administration: deep, personal ties and an emerging plan for peace. Guests: Jodi Kantor, a reporter for The New York Times; Amanda Taub and Max Fisher, who write The Timesâ Interpreter column. For more information on todayâs episode, visit http://nyti.ms/2kFDqvC.",
+         "summary" : "America and the Middle East in the Trump administration: deep, personal ties and an emerging plan for peace. Guests: Jodi Kantor, a reporter for The New York Times; Amanda Taub and Max Fisher, who write The Timesâ Interpreter column. For more information on todayâs episode, visit http://nyti.ms/2kFDqvC.",
+         "title" : "Tuesday, Feb. 14, 2017"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/72077ad5-5684-4206-8f87-2445e6c5bb31/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=72077ad5-5684-4206-8f87-2445e6c5bb31&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 21458096
+         },
+         "description" : "A Russian news organization with ties to the 2016 election interference operation started a website called USAReally. Its stated purpose was for Americans to get uncensored news about their own country â from Russia. We spoke to the man behind it. Guest Host: Kevin Roose, who writes about technology for The New York Times, talks to Alexander Malkevich, the founder of USAReally, and David E. Sanger, a national security correspondent for The Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1322,
+         "episodeID" : "GA0000P0000FGZt",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/72077ad5-5684-4206-8f87-2445e6c5bb31/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "A Russian news organization with ties to the 2016 election interference operation started a website called USAReally. Its stated purpose was for Americans to get uncensored news about their own country â from Russia. We spoke to the man behind it. Guest Host: Kevin Roose, who writes about technology for The New York Times, talks to Alexander Malkevich, the founder of USAReally, and David E. Sanger, a national security correspondent for The Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "A Russian news organization with ties to the 2016 election interference operation started a website called USAReally. Its stated purpose was for Americans to get uncensored news about their own country â from Russia. We spoke to the man behind it. Guest Host: Kevin Roose, who writes about technology for The New York Times, talks to Alexander Malkevich, the founder of USAReally, and David E. Sanger, a national security correspondent for The Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "âI Am Not an Internet Trollâ"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/e3f25915-ffd3-4449-ada4-a7745f978c6c/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=e3f25915-ffd3-4449-ada4-a7745f978c6c&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 40065672
+         },
+         "description" : "As the Baltimore Police Department tried to repair its public image, a corruption trial exposed the startling depths of misconduct and delivered a fresh blow to the communityâs trust. An elite group of officers â part of a task force created during the peak of zero-tolerance policing â had been stealing from residents for years. For more information on todayâs episode, visit nytimes.com/thedaily. This episode includes disturbing language and scenes of graphic violence.",
+         "durationSeconds" : 2485,
+         "episodeID" : "GA0000P0000FGVN",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/e3f25915-ffd3-4449-ada4-a7745f978c6c/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "As the Baltimore Police Department tried to repair its public image, a corruption trial exposed the startling depths of misconduct and delivered a fresh blow to the communityâs trust. An elite group of officers â part of a task force created during the peak of zero-tolerance policing â had been stealing from residents for years. For more information on todayâs episode, visit nytimes.com/thedaily.\n\nThis episode includes disturbing language and scenes of graphic violence.",
+         "summary" : "As the Baltimore Police Department tried to repair its public image, a corruption trial exposed the startling depths of misconduct and delivered a fresh blow to the communityâs trust. An elite group of officers â part of a task force created during the peak of zero-tolerance policing â had been stealing from residents for years. For more information on todayâs episode, visit nytimes.com/thedaily.\n\nThis episode includes disturbing language and scenes of graphic violence.",
+         "title" : "âCharm City,â Part 4: The Police Scandal That Shook Baltimore"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/04ff4db1-1a01-49bc-a3b7-b15c5c23a1fc/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=04ff4db1-1a01-49bc-a3b7-b15c5c23a1fc&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 20952354
+         },
+         "description" : "If they hold an undocumented criminal too long, theyâre violating the Constitution. If they donât, theyâre crossing the White House. The impossible bind of sheriffs navigating Trumpâs immigration crackdown. Guest: Caitlin Dickerson, who covers immigration for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily. You can support \"The Daily\" by subscribing to The Times. We're offering listeners one month free, then 50% off for a year. Go to nytimes.com/thedailyoffer for more information.",
+         "durationSeconds" : 1290,
+         "episodeID" : "GA0000P0000FGMR",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/04ff4db1-1a01-49bc-a3b7-b15c5c23a1fc/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "If they hold an undocumented criminal too long, theyâre violating the Constitution. If they donât, theyâre crossing the White House. The impossible bind of sheriffs navigating Trumpâs immigration crackdown. Guest: Caitlin Dickerson, who covers immigration for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily. You can support \"The Daily\" by subscribing to The Times. We're offering listeners one month free, then 50% off for a year. Go to nytimes.com/thedailyoffer for more information.",
+         "summary" : "If they hold an undocumented criminal too long, theyâre violating the Constitution. If they donât, theyâre crossing the White House. The impossible bind of sheriffs navigating Trumpâs immigration crackdown. Guest: Caitlin Dickerson, who covers immigration for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily. You can support \"The Daily\" by subscribing to The Times. We're offering listeners one month free, then 50% off for a year. Go to nytimes.com/thedailyoffer for more information.",
+         "title" : "Monday, Sept.18, 2017"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/0fba675d-f69a-4b3a-bca1-02dda7c1900f/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=0fba675d-f69a-4b3a-bca1-02dda7c1900f&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 25248148
+         },
+         "description" : "As large groups of Central American migrants approach the U.S. border, the Trump administration is making it more difficult for them to apply for asylum. Is the president undermining the original concept of asylum, or is he restoring it? Guest: Caitlin Dickerson, who covers immigration for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1559,
+         "episodeID" : "GA0000P0000FGbH",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/0fba675d-f69a-4b3a-bca1-02dda7c1900f/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "As large groups of Central American migrants approach the U.S. border, the Trump administration is making it more difficult for them to apply for asylum. Is the president undermining the original concept of asylum, or is he restoring it?Â  Guest: Caitlin Dickerson, who covers immigration for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "As large groups of Central American migrants approach the U.S. border, the Trump administration is making it more difficult for them to apply for asylum. Is the president undermining the original concept of asylum, or is he restoring it?Â  Guest: Caitlin Dickerson, who covers immigration for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "The U.S. as a Place of Refuge"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/81873a2a-4d7f-47be-8110-862be2bf5554/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=81873a2a-4d7f-47be-8110-862be2bf5554&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 16494404
+         },
+         "description" : "How noncompete clauses â once limited to senior executives â are gaining power over American workers. Plus: The president returns to Washington with family business to attend to. Guests: Conor Dougherty, who covers economics for The Times; Peter Baker, chief White House correspondent. For more information on todayâs episode, visit http://nyti.ms/2sp8Wlf.",
+         "durationSeconds" : 1012,
+         "episodeID" : "GA0000P0000FGH7",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/81873a2a-4d7f-47be-8110-862be2bf5554/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "How noncompete clauses â once limited to senior executives â are gaining power over American workers. Plus: The president returns to Washington with family business to attend to. Guests: Conor Dougherty, who covers economics for The Times; Peter Baker, chief White House correspondent. For more information on todayâs episode, visit http://nyti.ms/2sp8Wlf.",
+         "summary" : "How noncompete clauses â once limited to senior executives â are gaining power over American workers. Plus: The president returns to Washington with family business to attend to. Guests: Conor Dougherty, who covers economics for The Times; Peter Baker, chief White House correspondent. For more information on todayâs episode, visit http://nyti.ms/2sp8Wlf.",
+         "title" : "Wednesday, May 31, 2017"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/5562bfc9-9f0e-438e-af25-ab87bf0e4fac/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=5562bfc9-9f0e-438e-af25-ab87bf0e4fac&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 18941555
+         },
+         "description" : "A new tell-all book about the first year of the Trump administration has the White House in a fury. Its key source is Stephen K. Bannon, President Trumpâs former chief strategist, who disparages the president and his children. Mr. Trump responded: âSteve Bannon has nothing to do with me or my presidency. When he was fired, he not only lost his job, he lost his mind.â Guests: Peter Baker, chief White House correspondent; Maggie Haberman, White House correspondent. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1165,
+         "episodeID" : "GA0000P0000FGR0",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/5562bfc9-9f0e-438e-af25-ab87bf0e4fac/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "A new tell-all book about the first year of the Trump administration has the White House in a fury. Its key source is Stephen K. Bannon, President Trumpâs former chief strategist, who disparages the president and his children. Mr. Trump responded: âSteve Bannon has nothing to do with me or my presidency. When he was fired, he not only lost his job, he lost his mind.â\n\nGuests: Peter Baker, chief White House correspondent; Maggie Haberman, White House correspondent. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "A new tell-all book about the first year of the Trump administration has the White House in a fury. Its key source is Stephen K. Bannon, President Trumpâs former chief strategist, who disparages the president and his children. Mr. Trump responded: âSteve Bannon has nothing to do with me or my presidency. When he was fired, he not only lost his job, he lost his mind.â\n\nGuests: Peter Baker, chief White House correspondent; Maggie Haberman, White House correspondent. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Thursday, Jan. 4, 2018"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/d81e1caa-b784-4069-b92a-080748adf0d1/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=d81e1caa-b784-4069-b92a-080748adf0d1&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 23321363
+         },
+         "description" : "The special counselâs team sent its report to the attorney general, William P. Barr, who sent a summary of that report to Congress. But some members of the special counselâs team have told associates that their findings are more troubling for President Trump than Mr. Barr indicated. Guests: Nicholas Fandos, who covers Congress for The New York Times, and Michael S. Schmidt, who has been covering the special counsel investigation. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1438,
+         "episodeID" : "GA0000P0000FGr8",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/d81e1caa-b784-4069-b92a-080748adf0d1/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "The special counselâs team sent its report to the attorney general, William P. Barr, who sent a summary of that report to Congress. But some members of the special counselâs team have told associates that their findings are more troubling for President Trump than Mr. Barr indicated. Guests: Nicholas Fandos, who covers Congress for The New York Times, and Michael S. Schmidt, who has been covering the special counsel investigation. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "The special counselâs team sent its report to the attorney general, William P. Barr, who sent a summary of that report to Congress. But some members of the special counselâs team have told associates that their findings are more troubling for President Trump than Mr. Barr indicated. Guests: Nicholas Fandos, who covers Congress for The New York Times, and Michael S. Schmidt, who has been covering the special counsel investigation. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "New Insights Into the Mueller Report"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/f0e96ff0-de50-436f-aba8-42ade383bcb4/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=f0e96ff0-de50-436f-aba8-42ade383bcb4&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 20735440
+         },
+         "description" : "Since joining President Trumpâs legal team, Rudolph W. Giuliani has repeatedly made attention-grabbing TV appearances in which he has antagonized Robert S. Mueller III, the special counsel overseeing the Russia investigation. The strategy is reminiscent of one that Mr. Giuliani has used before â 30 years ago, as a prosecutor in New York City taking on the Mafia. Guest: Michael Winerip, who covered Mr. Giulianiâs rise as a Manhattan prosecutor in the 1980s for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1277,
+         "episodeID" : "GA0000P0000FGTW",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/f0e96ff0-de50-436f-aba8-42ade383bcb4/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "Since joining President Trumpâs legal team, Rudolph W. Giuliani has repeatedly made attention-grabbing TV appearances in which he has antagonized Robert S. Mueller III, the special counsel overseeing the Russia investigation. The strategy is reminiscent of one that Mr. Giuliani has used before â 30 years ago, as a prosecutor in New York City taking on the Mafia. Guest: Michael Winerip, who covered Mr. Giulianiâs rise as a Manhattan prosecutor in the 1980s for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "Since joining President Trumpâs legal team, Rudolph W. Giuliani has repeatedly made attention-grabbing TV appearances in which he has antagonized Robert S. Mueller III, the special counsel overseeing the Russia investigation. The strategy is reminiscent of one that Mr. Giuliani has used before â 30 years ago, as a prosecutor in New York City taking on the Mafia. Guest: Michael Winerip, who covered Mr. Giulianiâs rise as a Manhattan prosecutor in the 1980s for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "The Return of Rudy Giuliani"
+      }
+   ],
+   "meta" : {
+      "limit" : 10,
+      "offset" : 0,
+      "total" : 1535
+   }
+}

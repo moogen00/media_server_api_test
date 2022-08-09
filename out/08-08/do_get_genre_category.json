@@ -1,0 +1,103 @@
+3.15 Genre Category Endpoint do_get_genre_category ===========================================
+[
+   {
+      "genreId" : "25961",
+      "genreName" : "Alternative"
+   },
+   {
+      "genreId" : "36060",
+      "genreName" : "Blues"
+   },
+   {
+      "genreId" : "25980",
+      "genreName" : "Children's"
+   },
+   {
+      "genreId" : "36061",
+      "genreName" : "Classical"
+   },
+   {
+      "genreId" : "36064",
+      "genreName" : "Comedy, Spoken & Other"
+   },
+   {
+      "genreId" : "36059",
+      "genreName" : "Country & Western"
+   },
+   {
+      "genreId" : "36054",
+      "genreName" : "Dance & House"
+   },
+   {
+      "genreId" : "36055",
+      "genreName" : "Electronica"
+   },
+   {
+      "genreId" : "25971",
+      "genreName" : "Folk"
+   },
+   {
+      "genreId" : "25976",
+      "genreName" : "Gospel & Christian"
+   },
+   {
+      "genreId" : "36052",
+      "genreName" : "Indie"
+   },
+   {
+      "genreId" : "25974",
+      "genreName" : "Jazz"
+   },
+   {
+      "genreId" : "25982",
+      "genreName" : "Latin"
+   },
+   {
+      "genreId" : "36053",
+      "genreName" : "Metal"
+   },
+   {
+      "genreId" : "36062",
+      "genreName" : "New Age"
+   },
+   {
+      "genreId" : "25965",
+      "genreName" : "Oldies"
+   },
+   {
+      "genreId" : "36056",
+      "genreName" : "Pop"
+   },
+   {
+      "genreId" : "36051",
+      "genreName" : "Punk"
+   },
+   {
+      "genreId" : "36058",
+      "genreName" : "Rap/Hip-Hop"
+   },
+   {
+      "genreId" : "36065",
+      "genreName" : "Reggae"
+   },
+   {
+      "genreId" : "25964",
+      "genreName" : "Rock"
+   },
+   {
+      "genreId" : "36057",
+      "genreName" : "Soul/R&B"
+   },
+   {
+      "genreId" : "36063",
+      "genreName" : "Soundtrack"
+   },
+   {
+      "genreId" : "25978",
+      "genreName" : "Traditional Pop"
+   },
+   {
+      "genreId" : "25984",
+      "genreName" : "World"
+   }
+]

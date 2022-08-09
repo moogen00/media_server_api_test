@@ -1,0 +1,271 @@
+search do_smartplaylist_search_id_album_artist ===========================================
+{
+   "item" : [
+      {
+         "album" : {
+            "albumId" : "GNEV173YF1RNHWW",
+            "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/FCDF/98CB/740B/686D_large_front.jpg",
+            "albumName" : "Rainy Day",
+            "trackCount" : "1"
+         },
+         "artist" : {
+            "artistId" : "GN12EW2MCSHPP2R",
+            "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/AFFC/736D/EFF2/51EF_xlarge_front.jpg",
+            "artistName" : "ICE NINE KILLS"
+         },
+         "releaseYear" : 2021
+      },
+      {
+         "album" : {
+            "albumId" : "GN1TTS5R4R1FW6K",
+            "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/424B/6534/12B8/4255_xlarge_front.jpg",
+            "albumName" : "Assault & Batteries",
+            "trackCount" : "1"
+         },
+         "artist" : {
+            "artistId" : "GN12EW2MCSHPP2R",
+            "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/AFFC/736D/EFF2/51EF_xlarge_front.jpg",
+            "artistName" : "ICE NINE KILLS"
+         },
+         "releaseYear" : 2021
+      },
+      {
+         "album" : {
+            "albumId" : "GN5YGTGS11D8BB1",
+            "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/58BC/A7D8/C177/E8E3_xlarge_front.jpg",
+            "albumName" : "Can't Help Falling In Love",
+            "trackCount" : "1"
+         },
+         "artist" : {
+            "artistId" : "GN12EW2MCSHPP2R",
+            "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/AFFC/736D/EFF2/51EF_xlarge_front.jpg",
+            "artistName" : "ICE NINE KILLS"
+         },
+         "releaseYear" : 2021
+      },
+      {
+         "album" : {
+            "albumId" : "GN0C74GVQCBZ105",
+            "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/0644/FFA6/A969/B4A9_xlarge_front.jpg",
+            "albumName" : "Jason's Mom",
+            "trackCount" : "1"
+         },
+         "artist" : {
+            "artistId" : "GN12EW2MCSHPP2R",
+            "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/AFFC/736D/EFF2/51EF_xlarge_front.jpg",
+            "artistName" : "ICE NINE KILLS"
+         },
+         "releaseYear" : 2020
+      },
+      {
+         "album" : {
+            "albumId" : "GNBMQS470NPJRX4",
+            "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/FA18/35EA/54A3/F25B_xlarge_front.jpg",
+            "albumName" : "I Heard They KILL Live",
+            "trackCount" : "19"
+         },
+         "artist" : {
+            "artistId" : "GN12EW2MCSHPP2R",
+            "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/AFFC/736D/EFF2/51EF_xlarge_front.jpg",
+            "artistName" : "ICE NINE KILLS"
+         },
+         "releaseYear" : 2020
+      },
+      {
+         "album" : {
+            "albumId" : "GNE8Z8WDG5DZ7CX",
+            "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/50B5/0DF1/4539/41D4_xlarge_front.jpg",
+            "albumName" : "The Silver Scream (FINAL CUT)",
+            "trackCount" : "4"
+         },
+         "artist" : {
+            "artistId" : "GN12EW2MCSHPP2R",
+            "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/AFFC/736D/EFF2/51EF_xlarge_front.jpg",
+            "artistName" : "ICE NINE KILLS"
+         },
+         "releaseYear" : 2019
+      },
+      {
+         "album" : {
+            "albumId" : "GN04SQAVC2GJ8D3",
+            "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/3675/DB82/6023/BBF0_xlarge_front.jpg",
+            "albumName" : "The American Nightmare",
+            "trackCount" : "1"
+         },
+         "artist" : {
+            "artistId" : "GN12EW2MCSHPP2R",
+            "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/AFFC/736D/EFF2/51EF_xlarge_front.jpg",
+            "artistName" : "ICE NINE KILLS"
+         },
+         "releaseYear" : 2018
+      },
+      {
+         "album" : {
+            "albumId" : "GNEY8VAVZGBXXGF",
+            "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/F0B8/81DD/24D1/C106_xlarge_front.jpg",
+            "albumName" : "Thank God It's Friday",
+            "trackCount" : "1"
+         },
+         "artist" : {
+            "artistId" : "GN12EW2MCSHPP2R",
+            "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/AFFC/736D/EFF2/51EF_xlarge_front.jpg",
+            "artistName" : "ICE NINE KILLS"
+         },
+         "releaseYear" : 2018
+      },
+      {
+         "album" : {
+            "albumId" : "GN2NBD1MV953H0G",
+            "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/09E0/511D/FEE4/4C2E_xlarge_front.jpg",
+            "albumName" : "The Silver Scream",
+            "trackCount" : "5"
+         },
+         "artist" : {
+            "artistId" : "GN12EW2MCSHPP2R",
+            "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/AFFC/736D/EFF2/51EF_xlarge_front.jpg",
+            "artistName" : "ICE NINE KILLS"
+         },
+         "releaseYear" : 2018
+      },
+      {
+         "album" : {
+            "albumId" : "GNBET0W3XKTNWVB",
+            "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/18EA/B3C3/B52C/9EAA_xlarge_front.jpg",
+            "albumName" : "Punk Goes Pop, Vol. 7",
+            "trackCount" : "1"
+         },
+         "artist" : {
+            "artistId" : "GN12EW2MCSHPP2R",
+            "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/AFFC/736D/EFF2/51EF_xlarge_front.jpg",
+            "artistName" : "ICE NINE KILLS"
+         },
+         "releaseYear" : 2017
+      },
+      {
+         "album" : {
+            "albumId" : "GN1NZ01YJGRG2DX",
+            "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/5501/E0EC/BC26/167A_xlarge_front.jpg",
+            "albumName" : "Bloodbath & Beyond",
+            "trackCount" : "1"
+         },
+         "artist" : {
+            "artistId" : "GN12EW2MCSHPP2R",
+            "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/AFFC/736D/EFF2/51EF_xlarge_front.jpg",
+            "artistName" : "ICE NINE KILLS"
+         },
+         "releaseYear" : 2015
+      },
+      {
+         "album" : {
+            "albumId" : "GN2EQYVG3PGHMBV",
+            "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/A3BA/CB34/6F2B/4CA0_xlarge_front.jpg",
+            "albumName" : "Every Trick in the Book",
+            "trackCount" : "9"
+         },
+         "artist" : {
+            "artistId" : "GN12EW2MCSHPP2R",
+            "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/AFFC/736D/EFF2/51EF_xlarge_front.jpg",
+            "artistName" : "ICE NINE KILLS"
+         },
+         "releaseYear" : 2015
+      },
+      {
+         "album" : {
+            "albumId" : "GN0YCMAMXT9020M",
+            "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/AC09/5CE9/D5DA/9680_xlarge_front.jpg",
+            "albumName" : "The Predator Becomes The Prey",
+            "trackCount" : "8"
+         },
+         "artist" : {
+            "artistId" : "GN12EW2MCSHPP2R",
+            "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/AFFC/736D/EFF2/51EF_xlarge_front.jpg",
+            "artistName" : "ICE NINE KILLS"
+         },
+         "releaseYear" : 2014
+      },
+      {
+         "album" : {
+            "albumId" : "GN03MVNSA8618Z9",
+            "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/D2FC/C814/3A92/7B1E_xlarge_front.jpg",
+            "albumName" : "The Predator",
+            "trackCount" : "4"
+         },
+         "artist" : {
+            "artistId" : "GN12EW2MCSHPP2R",
+            "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/AFFC/736D/EFF2/51EF_xlarge_front.jpg",
+            "artistName" : "ICE NINE KILLS"
+         },
+         "releaseYear" : 2013
+      },
+      {
+         "album" : {
+            "albumId" : "GNC654MG3CJ2M7W",
+            "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/211B/46EE/9AEB/B7F7_xlarge_front.jpg",
+            "albumName" : "Take Action Compilation Volume 11",
+            "trackCount" : "1"
+         },
+         "artist" : {
+            "artistId" : "GN12EW2MCSHPP2R",
+            "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/AFFC/736D/EFF2/51EF_xlarge_front.jpg",
+            "artistName" : "ICE NINE KILLS"
+         },
+         "releaseYear" : 2013
+      },
+      {
+         "album" : {
+            "albumId" : "GN4PEKQR8P3PH3K",
+            "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/61E4/A036/4875/C271_xlarge_front.jpg",
+            "albumName" : "Safe Is Just a Shadow",
+            "trackCount" : "10"
+         },
+         "artist" : {
+            "artistId" : "GN12EW2MCSHPP2R",
+            "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/AFFC/736D/EFF2/51EF_xlarge_front.jpg",
+            "artistName" : "ICE NINE KILLS"
+         },
+         "releaseYear" : 2010
+      },
+      {
+         "album" : {
+            "albumId" : "GN0X6KEGY28JWCW",
+            "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/A571/6AED/49BB/D0F8_xlarge_front.jpg",
+            "albumName" : "2 Song Acoustic",
+            "trackCount" : "2"
+         },
+         "artist" : {
+            "artistId" : "GN12EW2MCSHPP2R",
+            "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/AFFC/736D/EFF2/51EF_xlarge_front.jpg",
+            "artistName" : "ICE NINE KILLS"
+         },
+         "releaseYear" : 2010
+      },
+      {
+         "album" : {
+            "albumId" : "GN1CFC50VERQW5R",
+            "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/64DC/8878/32FB/9CDC_medium_front.jpg",
+            "albumName" : "The Burning",
+            "trackCount" : "7"
+         },
+         "artist" : {
+            "artistId" : "GN12EW2MCSHPP2R",
+            "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/AFFC/736D/EFF2/51EF_xlarge_front.jpg",
+            "artistName" : "ICE NINE KILLS"
+         },
+         "releaseYear" : 2007
+      },
+      {
+         "album" : {
+            "albumId" : "GN81BY3812RXWYN",
+            "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/AFFC/736D/EFF2/51EF_xlarge_front.jpg",
+            "albumName" : "Last Chance to Make Amends",
+            "trackCount" : "10"
+         },
+         "artist" : {
+            "artistId" : "GN12EW2MCSHPP2R",
+            "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/AFFC/736D/EFF2/51EF_xlarge_front.jpg",
+            "artistName" : "ICE NINE KILLS"
+         },
+         "releaseYear" : 2006
+      }
+   ]
+}

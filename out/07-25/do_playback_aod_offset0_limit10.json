@@ -1,0 +1,170 @@
+3.6 Aod Playback Endpoint do_playback_aod_offset0_limit10 ===========================================
+{
+   "data" : [
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/6f127080-5c1a-49f0-bde4-de7c97737390/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=6f127080-5c1a-49f0-bde4-de7c97737390&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 19857722
+         },
+         "description" : "Rukmini Callimachi takes us into Iraq to see if a major victory over the Islamic State is really at hand in the streets of Mosul. Guests: Ms. Callimachi, a New York Times correspondent covering terrorism; Nathaniel Popper, a Times reporter covering finance and technology. For more information on todayâs episode, visit http://nyti.ms/2lvdohI.",
+         "durationSeconds" : 1222,
+         "episodeID" : "GA0000P0000FGF1",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/6f127080-5c1a-49f0-bde4-de7c97737390/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "Rukmini Callimachi takes us into Iraq to see if a major victory over the Islamic State is really at hand in the streets of Mosul. Guests: Ms. Callimachi, a New York Times correspondent covering terrorism; Nathaniel Popper, a Times reporter covering finance and technology. For more information on todayâs episode, visit http://nyti.ms/2lvdohI.",
+         "summary" : "Rukmini Callimachi takes us into Iraq to see if a major victory over the Islamic State is really at hand in the streets of Mosul. Guests: Ms. Callimachi, a New York Times correspondent covering terrorism; Nathaniel Popper, a Times reporter covering finance and technology. For more information on todayâs episode, visit http://nyti.ms/2lvdohI.",
+         "title" : "Thursday, Feb. 23, 2017"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/53c243f5-57f6-4542-a09f-2026ba9db67d/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=53c243f5-57f6-4542-a09f-2026ba9db67d&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 20967401
+         },
+         "description" : "Two closely watched trials are heading toward a verdict. We discuss the complexities of both cases. Guests: Katharine Q. Seelye, who has been covering a manslaughter case in Taunton, Mass., involving texts between two teenagers; Lili Bernard, one of Bill Cosbyâs accusers who has been attending his now-deadlocked trial in Norristown, Pa. For more information on todayâs episode, visit http://nyti.ms/2rFwYIE. For two weeks, weâre offering listeners a free trial of a New York Times digital subscription. Visit nytimes.com/dailytrial to sign up.",
+         "durationSeconds" : 1291,
+         "episodeID" : "GA0000P0000FGHP",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/53c243f5-57f6-4542-a09f-2026ba9db67d/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "Two closely watched trials are heading toward a verdict. We discuss the complexities of both cases. Guests: Katharine Q. Seelye, who has been covering a manslaughter case in Taunton, Mass., involving texts between two teenagers; Lili Bernard, one of Bill Cosbyâs accusers who has been attending his now-deadlocked trial in Norristown, Pa. For more information on todayâs episode, visit http://nyti.ms/2rFwYIE. For two weeks, weâre offering listeners a free trial of a New York Times digital subscription. Visit nytimes.com/dailytrial to sign up.",
+         "summary" : "Two closely watched trials are heading toward a verdict. We discuss the complexities of both cases. Guests: Katharine Q. Seelye, who has been covering a manslaughter case in Taunton, Mass., involving texts between two teenagers; Lili Bernard, one of Bill Cosbyâs accusers who has been attending his now-deadlocked trial in Norristown, Pa. For more information on todayâs episode, visit http://nyti.ms/2rFwYIE. For two weeks, weâre offering listeners a free trial of a New York Times digital subscription. Visit nytimes.com/dailytrial to sign up.",
+         "title" : "Friday, June 16, 2017"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/6dd15b1a-12bc-464c-aedd-ab744f213acc/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=6dd15b1a-12bc-464c-aedd-ab744f213acc&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 23251594
+         },
+         "description" : "As the special counsel finishes his investigation, he can pursue three different paths â each with a profoundly different effect on how Congress will proceed. Recent history makes one of those paths especially treacherous. Guest: Michael S. Schmidt, who has been covering the special counsel investigation for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1435,
+         "episodeID" : "GA0000P0000FGmS",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/6dd15b1a-12bc-464c-aedd-ab744f213acc/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "As the special counsel finishes his investigation, he can pursue three different paths â each with a profoundly different effect on how Congress will proceed. Recent history makes one of those paths especially treacherous. Guest: Michael S. Schmidt, who has been covering the special counsel investigation for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "As the special counsel finishes his investigation, he can pursue three different paths â each with a profoundly different effect on how Congress will proceed. Recent history makes one of those paths especially treacherous. Guest: Michael S. Schmidt, who has been covering the special counsel investigation for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Part 2: What to Expect When Youâre Expecting (the Mueller Report)"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/a28e9ebf-1967-474f-a94a-989929ef08d7/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=a28e9ebf-1967-474f-a94a-989929ef08d7&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 18898503
+         },
+         "description" : "We go back to 2008, when the Republican candidate for president campaigned on a plan to fight global warming. How, in just nine years, did the G.O.P. go from combating climate change to arguing it doesnât exist? And several mayors and governors have come forward in recent days to say that their cities and states would meet the Paris commitment, with or without Washington. We talk with one of them. Guests: Carol Davenport, who covers the environment; Jerry Brown, the governor of California. For more information on todayâs episode, visit nytimes.com/thedaily. For the next two weeks, weâre offering listeners a free trial of a New York Times digital subscription. Visit nytimes.com/dailytrial to sign up.",
+         "durationSeconds" : 1162,
+         "episodeID" : "GA0000P0000FGHC",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/a28e9ebf-1967-474f-a94a-989929ef08d7/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "We go back to 2008, when the Republican candidate for president campaigned on a plan to fight global warming. How, in just nine years, did the G.O.P. go from combating climate change to arguing it doesnât exist? And several mayors and governors have come forward in recent days to say that their cities and states would meet the Paris commitment, with or without Washington. We talk with one of them. Guests: Carol Davenport, who covers the environment; Jerry Brown, the governor of California. For more information on todayâs episode, visit nytimes.com/thedaily. For the next two weeks, weâre offering listeners a free trial of a New York Times digital subscription. Visit nytimes.com/dailytrial to sign up.",
+         "summary" : "We go back to 2008, when the Republican candidate for president campaigned on a plan to fight global warming. How, in just nine years, did the G.O.P. go from combating climate change to arguing it doesnât exist? And several mayors and governors have come forward in recent days to say that their cities and states would meet the Paris commitment, with or without Washington. We talk with one of them. Guests: Carol Davenport, who covers the environment; Jerry Brown, the governor of California. For more information on todayâs episode, visit nytimes.com/thedaily. For the next two weeks, weâre offering listeners a free trial of a New York Times digital subscription. Visit nytimes.com/dailytrial to sign up.",
+         "title" : "Tuesday, June 6, 2017"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/076093ea-68fc-4c9a-b1b3-3368008ff108/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=076093ea-68fc-4c9a-b1b3-3368008ff108&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 20302435
+         },
+         "description" : "After a brutal 30-year reign, President Omar Hassan al-Bashir of Sudan has been deposed by his own generals. The story of one of those generals and his son could signal what comes next for the country. Guest: Declan Walsh, the Cairo bureau chief for The New York Times, spoke with Lt. Gen. Salah Abdelkhalig and Abdelkhalig Salah in Khartoum, Sudan. For more information on todayâs episode, visit nytimes.com/thedaily. Background reading: When Sudanâs Air Force chief stepped out to address a crowd calling for the ouster of the president, the chiefâs own son was among the protesters â a family split that mirrors broader tensions between the military and civilians.Mr. al-Bashir, who is under indictment by the International Criminal Court for genocide, war crimes and crimes against humanity, was unseated amid sweeping demonstrations that began in December over the price of bread.",
+         "durationSeconds" : 1250,
+         "episodeID" : "GA0000P0000FGrb",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/076093ea-68fc-4c9a-b1b3-3368008ff108/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "After a brutal 30-year reign, President Omar Hassan al-Bashir of Sudan has been deposed by his own generals. The story of one of those generals and his son could signal what comes next for the country. Guest: Declan Walsh, the Cairo bureau chief for The New York Times, spoke with Lt. Gen. Salah Abdelkhalig and Abdelkhalig Salah in Khartoum, Sudan. For more information on todayâs episode, visit nytimes.com/thedaily. \n\nBackground reading: When Sudanâs Air Force chief stepped out to address a crowd calling for the ouster of the president, the chiefâs own son was among the protesters â a family split that mirrors broader tensions between the military and civilians.Mr. al-Bashir, who is under indictment by the International Criminal Court for genocide, war crimes and crimes against humanity, was unseated amid sweeping demonstrations that began in December over the price of bread.",
+         "summary" : "After a brutal 30-year reign, President Omar Hassan al-Bashir of Sudan has been deposed by his own generals. The story of one of those generals and his son could signal what comes next for the country. Guest: Declan Walsh, the Cairo bureau chief for The New York Times, spoke with Lt. Gen. Salah Abdelkhalig and Abdelkhalig Salah in Khartoum, Sudan. For more information on todayâs episode, visit nytimes.com/thedaily. \n\nBackground reading: When Sudanâs Air Force chief stepped out to address a crowd calling for the ouster of the president, the chiefâs own son was among the protesters â a family split that mirrors broader tensions between the military and civilians.Mr. al-Bashir, who is under indictment by the International Criminal Court for genocide, war crimes and crimes against humanity, was unseated amid sweeping demonstrations that began in December over the price of bread.",
+         "title" : "A Dictatorâs Fall in Sudan"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/e3f25915-ffd3-4449-ada4-a7745f978c6c/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=e3f25915-ffd3-4449-ada4-a7745f978c6c&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 40065672
+         },
+         "description" : "As the Baltimore Police Department tried to repair its public image, a corruption trial exposed the startling depths of misconduct and delivered a fresh blow to the communityâs trust. An elite group of officers â part of a task force created during the peak of zero-tolerance policing â had been stealing from residents for years. For more information on todayâs episode, visit nytimes.com/thedaily. This episode includes disturbing language and scenes of graphic violence.",
+         "durationSeconds" : 2485,
+         "episodeID" : "GA0000P0000FGVN",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/e3f25915-ffd3-4449-ada4-a7745f978c6c/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "As the Baltimore Police Department tried to repair its public image, a corruption trial exposed the startling depths of misconduct and delivered a fresh blow to the communityâs trust. An elite group of officers â part of a task force created during the peak of zero-tolerance policing â had been stealing from residents for years. For more information on todayâs episode, visit nytimes.com/thedaily.\n\nThis episode includes disturbing language and scenes of graphic violence.",
+         "summary" : "As the Baltimore Police Department tried to repair its public image, a corruption trial exposed the startling depths of misconduct and delivered a fresh blow to the communityâs trust. An elite group of officers â part of a task force created during the peak of zero-tolerance policing â had been stealing from residents for years. For more information on todayâs episode, visit nytimes.com/thedaily.\n\nThis episode includes disturbing language and scenes of graphic violence.",
+         "title" : "âCharm City,â Part 4: The Police Scandal That Shook Baltimore"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/28d19c72-bb1f-4938-baca-3d1dea744d17/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=28d19c72-bb1f-4938-baca-3d1dea744d17&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 18913133
+         },
+         "description" : "Hurricane Irma roared into Florida, where, in the wake of Hurricane Harvey, an apocalyptic forecast forced one of the largest evacuations in American history. Guests: Jean Eisen, a 93-year-old in Miami who refused to evacuate; Antonella Giannantonio, a 51-year-old Miami resident who drove north on Wednesday and stopped in Tampa, where she is now in the path of the storm; Jess Bidgood, a Times reporter in Tampa. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1163,
+         "episodeID" : "GA0000P0000FGMH",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/28d19c72-bb1f-4938-baca-3d1dea744d17/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "Hurricane Irma roared into Florida, where, in the wake of Hurricane Harvey, an apocalyptic forecast forced one of the largest evacuations in American history. Guests: Jean Eisen, a 93-year-old in Miami who refused to evacuate;Â Antonella Giannantonio, a 51-year-old Miami resident who drove north on Wednesday and stopped in Tampa, where she is now in the path of the storm; Jess Bidgood, a Times reporter in Tampa. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "Hurricane Irma roared into Florida, where, in the wake of Hurricane Harvey, an apocalyptic forecast forced one of the largest evacuations in American history. Guests: Jean Eisen, a 93-year-old in Miami who refused to evacuate;Â Antonella Giannantonio, a 51-year-old Miami resident who drove north on Wednesday and stopped in Tampa, where she is now in the path of the storm; Jess Bidgood, a Times reporter in Tampa. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Monday, Sept. 11, 2017"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/58edab8a-0221-4045-956d-68388dbe0188/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=58edab8a-0221-4045-956d-68388dbe0188&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 20189998
+         },
+         "description" : "For months, the federal investigation into possible links between the Trump campaign and Russia focused on Washington. Now, the inquiry has led back to New York, the presidentâs hometown, and to one man: Michael D. Cohen. Guest: Jim Rutenberg, who has been reporting on Mr. Cohen, President Trumpâs longtime personal lawyer, for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1243,
+         "episodeID" : "GA0000P0000FGT8",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/58edab8a-0221-4045-956d-68388dbe0188/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "For months, the federal investigation into possible links between the Trump campaign and Russia focused on Washington. Now, the inquiry has led back to New York, the presidentâs hometown, and to one man: Michael D. Cohen. Guest: Jim Rutenberg, who has been reporting on Mr. Cohen, President Trumpâs longtime personal lawyer, for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "For months, the federal investigation into possible links between the Trump campaign and Russia focused on Washington. Now, the inquiry has led back to New York, the presidentâs hometown, and to one man: Michael D. Cohen. Guest: Jim Rutenberg, who has been reporting on Mr. Cohen, President Trumpâs longtime personal lawyer, for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Tuesday, Apr. 17, 2018"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/3f2d70dd-b754-4702-89bd-b67e11a1784b/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=3f2d70dd-b754-4702-89bd-b67e11a1784b&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 27690699
+         },
+         "description" : "Last week, a long-awaited report showed that the worst consequences of global warming would occur even sooner than previously thought. Hereâs the story behind the findings. Guests: Coral Davenport, who covers energy and the environment for The New York Times, and William D. Nordhaus, who was awarded a Nobel this year for his work on the economics of climate change. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1712,
+         "episodeID" : "GA0000P0000FGZT",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/3f2d70dd-b754-4702-89bd-b67e11a1784b/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "Last week, a long-awaited report showed that the worst consequences of global warming would occur even sooner than previously thought. Hereâs the story behind the findings. Guests: Coral Davenport, who covers energy and the environment for The New York Times, and William D. Nordhaus, who was awarded a Nobel this year for his work on the economics of climate change. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "Last week, a long-awaited report showed that the worst consequences of global warming would occur even sooner than previously thought. Hereâs the story behind the findings. Guests: Coral Davenport, who covers energy and the environment for The New York Times, and William D. Nordhaus, who was awarded a Nobel this year for his work on the economics of climate change. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "A New Climate Tipping Point"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/b2db8ac0-2059-4722-9c72-64c73a95a8a7/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=b2db8ac0-2059-4722-9c72-64c73a95a8a7&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 22484175
+         },
+         "description" : "What weâve learned about President Trumpâs Oval Office meeting with top Russian officials the day after he fired James Comey, the F.B.I. director investigating his campaignâs ties to Russia. Plus: how efforts by the U.S. government to protect against a cyberattack may have enabled one. Guests: Matthew Rosenberg, who covers intelligence and national security; David E. Sanger, the chief Washington correspondent for The Times. For more information on todayâs episode, visit http://nyti.ms/2pVBUrl.",
+         "durationSeconds" : 1386,
+         "episodeID" : "GA0000P0000FGGh",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/b2db8ac0-2059-4722-9c72-64c73a95a8a7/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "What weâve learned about President Trumpâs Oval Office meeting with top Russian officials the day after he fired James Comey, the F.B.I. director investigating his campaignâs ties to Russia. Plus: how efforts by the U.S. government to protect against a cyberattack may have enabled one. Guests: Matthew Rosenberg, who covers intelligence and national security; David E. Sanger, the chief Washington correspondent for The Times. For more information on todayâs episode, visit http://nyti.ms/2pVBUrl.",
+         "summary" : "What weâve learned about President Trumpâs Oval Office meeting with top Russian officials the day after he fired James Comey, the F.B.I. director investigating his campaignâs ties to Russia. Plus: how efforts by the U.S. government to protect against a cyberattack may have enabled one. Guests: Matthew Rosenberg, who covers intelligence and national security; David E. Sanger, the chief Washington correspondent for The Times. For more information on todayâs episode, visit http://nyti.ms/2pVBUrl.",
+         "title" : "Tuesday, May 16, 2017"
+      }
+   ],
+   "meta" : {
+      "limit" : 10,
+      "offset" : 0,
+      "total" : 1581
+   }
+}

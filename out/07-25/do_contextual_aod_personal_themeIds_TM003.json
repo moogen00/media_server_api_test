@@ -1,0 +1,43 @@
+contextual_aod_personal do_contextual_aod_personal_themeIds ===========================================
+{
+   "personalAodData" : [
+      {
+         "categoryName" : "Comedy",
+         "image" : "https://content.production.cdn.art19.com/images/d1/7c/55/42/d17c5542-9279-439f-a74b-51a35509b3b3/9e5dedf1df328ad9e6afad027be451d8a6004ace9a608a56ef5dff947e3c1da029eae177362aa133272af86fded608e7f62b10755ab476c341bdf1a988e49408.jpeg",
+         "seriesID" : "GA0000N000000RZ",
+         "title" : "Hello From the Magic Tavern"
+      },
+      {
+         "categoryName" : "Comedy",
+         "image" : "http://ichef.bbci.co.uk/images/ic/3000x3000/p0bvq07r.jpg",
+         "seriesID" : "GA0000N0000HZ26",
+         "title" : "Elis James and John Robins"
+      },
+      {
+         "categoryName" : "Comedy",
+         "image" : "https://megaphone.imgix.net/podcasts/c9c2e2a0-ddfa-11e8-b9a8-83795f67e241/image/image.jpg?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+         "seriesID" : "GA0000N000000Rb",
+         "title" : "Harmontown"
+      }
+   ],
+   "recommendedAodData" : [
+      {
+         "categoryName" : "True Crime",
+         "image" : "https://image.simplecastcdn.com/images/df52a40e-5ae2-48a5-b958-4e05f940978e/e66013c2-4ec7-4c6c-8aec-edbb398f78e2/3000x3000/d28a5486b9008b3d98bf22fb9dd8a0f8ac500e0464d142b2cca2ec7a910e3f7629c96d1cbcca4d5803161dd22cb2e0b1836bb0cddbc7562e8db5e476ab537f7e.jpeg?aid=rss_feed",
+         "seriesID" : "GA0000N0000N0ZW",
+         "title" : "The Thing About Pam"
+      },
+      {
+         "categoryName" : "Comedy",
+         "image" : "https://images.theabcdn.com/i/32766736.jpg",
+         "seriesID" : "GA0000N000000R7",
+         "title" : "Duncan Trussell Family Hour"
+      },
+      {
+         "categoryName" : "Comedy",
+         "image" : "https://i1.sndcdn.com/avatars-000640749609-23bmyn-original.jpg",
+         "seriesID" : "GA0000N000000Pm",
+         "title" : "Bodega Boys"
+      }
+   ]
+}

@@ -1,0 +1,36 @@
+{
+   "childCount" : 3,
+   "data" : [
+      {
+         "parentThemeId" : "TM006",
+         "plThemeId" : "PL016",
+         "plThemeName" : "Rainy Day Driving"
+      },
+      {
+         "parentThemeId" : "TM006",
+         "plThemeId" : "PL019",
+         "plThemeName" : "Cloudy"
+      },
+      {
+         "parentThemeId" : "TM006",
+         "plThemeId" : "PL020",
+         "plThemeName" : "Misty"
+      }
+   ],
+   "podData" : [
+      {
+         "podcastCategoryId" : "90275",
+         "podcastCategoryName" : "Culture"
+      },
+      {
+         "podcastCategoryId" : "90271",
+         "podcastCategoryName" : "Music"
+      },
+      {
+         "podcastCategoryId" : "90275",
+         "podcastCategoryName" : "Society & Culture"
+      }
+   ],
+   "themeId" : "TM006",
+   "themeName" : "Rainy Day"
+}

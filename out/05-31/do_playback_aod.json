@@ -1,0 +1,490 @@
+3.6 Aod Playback Endpoint do_playback_aod ===========================================
+{
+   "data" : [
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/12c4aeff-850d-4a0e-8b07-c4b990e6367c/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=12c4aeff-850d-4a0e-8b07-c4b990e6367c&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 19919996
+         },
+         "description" : "In 2012, a woman asked if the city of Charlottesville, Va., should consider removing a statue of a Confederate general from a local park. That question set off a chain of events that led to the deadly violence on Saturday. Also, President Trump, after two days of equivocal remarks about the violence in Charlottesville, made a new statement on Monday: âRacism is evil.â Guests: Kristin Szakos, a city councillor in Charlottesville, Va.; Glenn Thrush, a White House correspondent for The Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1226,
+         "episodeID" : "GA0000P0000FGJh",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/12c4aeff-850d-4a0e-8b07-c4b990e6367c/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "In 2012, a woman asked if the city of Charlottesville, Va., should consider removing a statue of a Confederate general from a local park. That question set off a chain of events that led to the deadly violence on Saturday. Also, President Trump, after two days of equivocal remarks about the violence in Charlottesville, made a new statement on Monday: âRacism is evil.â Guests: Kristin Szakos, a city councillor in Charlottesville, Va.; Glenn Thrush, a White House correspondent for The Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "In 2012, a woman asked if the city of Charlottesville, Va., should consider removing a statue of a Confederate general from a local park. That question set off a chain of events that led to the deadly violence on Saturday. Also, President Trump, after two days of equivocal remarks about the violence in Charlottesville, made a new statement on Monday: âRacism is evil.â Guests: Kristin Szakos, a city councillor in Charlottesville, Va.; Glenn Thrush, a White House correspondent for The Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Tuesday, Aug. 15, 2017"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/c22cd864-0630-4b83-8fb7-90f4a5c5812b/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=c22cd864-0630-4b83-8fb7-90f4a5c5812b&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 22197472
+         },
+         "description" : "The Central Intelligence Agency is waging an unusual campaign to make Gina Haspel its next leader, despite her polarizing past. Why do officers see her most controversial quality as her greatest asset? Guests: Adam Goldman, a reporter who covers the intelligence community for The Times; John Bennett, a former chief of the C.I.A.âs clandestine service who retired in 2013. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1368,
+         "episodeID" : "GA0000P0000FGTX",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/c22cd864-0630-4b83-8fb7-90f4a5c5812b/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "The Central Intelligence Agency is waging an unusual campaign to make Gina Haspel its next leader, despite her polarizing past. Why do officers see her most controversial quality as her greatest asset? Guests: Adam Goldman, a reporter who covers the intelligence community for The Times; John Bennett, a former chief of the C.I.A.âs clandestine service who retired in 2013. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "The Central Intelligence Agency is waging an unusual campaign to make Gina Haspel its next leader, despite her polarizing past. Why do officers see her most controversial quality as her greatest asset? Guests: Adam Goldman, a reporter who covers the intelligence community for The Times; John Bennett, a former chief of the C.I.A.âs clandestine service who retired in 2013. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Gina Haspel and the Shadow of Torture"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/81873a2a-4d7f-47be-8110-862be2bf5554/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=81873a2a-4d7f-47be-8110-862be2bf5554&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 16494404
+         },
+         "description" : "How noncompete clauses â once limited to senior executives â are gaining power over American workers. Plus: The president returns to Washington with family business to attend to. Guests: Conor Dougherty, who covers economics for The Times; Peter Baker, chief White House correspondent. For more information on todayâs episode, visit http://nyti.ms/2sp8Wlf.",
+         "durationSeconds" : 1012,
+         "episodeID" : "GA0000P0000FGH7",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/81873a2a-4d7f-47be-8110-862be2bf5554/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "How noncompete clauses â once limited to senior executives â are gaining power over American workers. Plus: The president returns to Washington with family business to attend to. Guests: Conor Dougherty, who covers economics for The Times; Peter Baker, chief White House correspondent. For more information on todayâs episode, visit http://nyti.ms/2sp8Wlf.",
+         "summary" : "How noncompete clauses â once limited to senior executives â are gaining power over American workers. Plus: The president returns to Washington with family business to attend to. Guests: Conor Dougherty, who covers economics for The Times; Peter Baker, chief White House correspondent. For more information on todayâs episode, visit http://nyti.ms/2sp8Wlf.",
+         "title" : "Wednesday, May 31, 2017"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/96a85a99-28ff-4624-b6b1-183c9e09173a/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=96a85a99-28ff-4624-b6b1-183c9e09173a&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 26064857
+         },
+         "description" : "The family that built its fortune on the opioid painkiller OxyContin has never been held legally accountable for the epidemic that the drug helped unleash. Hereâs why that could change. Guest: Barry Meier, the author of âPain Killer: An Empire of Deceit and the Origin of Americaâs Opioid Epidemic,â who has reported on the opioid crisis for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1610,
+         "episodeID" : "GA0000P0000FGmX",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/96a85a99-28ff-4624-b6b1-183c9e09173a/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "The family that built its fortune on the opioid painkiller OxyContin has never been held legally accountable for the epidemic that the drug helped unleash. Hereâs why that could change. Guest: Barry Meier, the author of âPain Killer: An Empire of Deceit and the Origin of Americaâs Opioid Epidemic,â who has reported on the opioid crisis for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "The family that built its fortune on the opioid painkiller OxyContin has never been held legally accountable for the epidemic that the drug helped unleash. Hereâs why that could change. Guest: Barry Meier, the author of âPain Killer: An Empire of Deceit and the Origin of Americaâs Opioid Epidemic,â who has reported on the opioid crisis for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "The Family That Profited From the Opioid Crisis"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/f63b1cad-d5a3-4a9f-ab95-33c3100ed599/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=f63b1cad-d5a3-4a9f-ab95-33c3100ed599&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 29388028
+         },
+         "description" : "Every mass shooting in the United States is inevitably followed by a call for gun control, but major legislation never passes. We look at how the National Rifle Association became a powerful lobbying group. Also, a gun store owner talks about putting military-style weapons into the hands of civilians. Guests: Robert Draper, a writer at large for The New York Times Magazine; John Markell, the owner of a gun store in Roanoke, Va. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1818,
+         "episodeID" : "GA0000P0000FGN0",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/f63b1cad-d5a3-4a9f-ab95-33c3100ed599/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "Every mass shooting in the United States is inevitably followed by a call for gun control, but major legislation never passes. We look at how the National Rifle Association became a powerful lobbying group. Also, a gun store owner talks about putting military-style weapons into the hands of civilians. Guests: Robert Draper, a writer at large for The New York Times Magazine; John Markell, the owner of a gun store in Roanoke, Va. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "Every mass shooting in the United States is inevitably followed by a call for gun control, but major legislation never passes. We look at how the National Rifle Association became a powerful lobbying group. Also, a gun store owner talks about putting military-style weapons into the hands of civilians. Guests: Robert Draper, a writer at large for The New York Times Magazine; John Markell, the owner of a gun store in Roanoke, Va. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Wednesday, Oct. 4, 2017"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/a8f3374e-02a2-4180-b0e7-08909b99a4db/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=a8f3374e-02a2-4180-b0e7-08909b99a4db&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 17209533
+         },
+         "description" : "The United States recently noticed something unusual in North Koreaâs weapons program: Its missiles started to work. Why? We discuss a surprising discovery. Guest: William J. Broad, who has reported on missile defense for decades. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1056,
+         "episodeID" : "GA0000P0000FGM4",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/a8f3374e-02a2-4180-b0e7-08909b99a4db/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "The United States recently noticed something unusual in North Koreaâs weapons program: Its missiles started to work. Why? We discuss a surprising discovery. Guest: William J. Broad, who has reported on missile defense for decades. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "The United States recently noticed something unusual in North Koreaâs weapons program: Its missiles started to work. Why? We discuss a surprising discovery. Guest: William J. Broad, who has reported on missile defense for decades. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Thursday, Aug. 24, 2017"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/169c7934-3b98-498d-aa6c-0210e30bd4e8/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=169c7934-3b98-498d-aa6c-0210e30bd4e8&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 25082636
+         },
+         "description" : "Prosecutors, seeking to hold someone accountable for the opioid epidemic, have been targeting doctors, dealers and users themselves. But those who made billions of dollars from sales of OxyContin, a painkiller at the center of the crisis, have gone largely unpunished. Guest: Barry Meier, the author of âPain Killer: An Empire of Deceit and the Origin of Americaâs Opioid Epidemic,â who has reported on Purdue Pharma and the opioid crisis for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1549,
+         "episodeID" : "GA0000P0000FGWB",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/169c7934-3b98-498d-aa6c-0210e30bd4e8/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "Prosecutors, seeking to hold someone accountable for the opioid epidemic, have been targeting doctors, dealers and users themselves. But those who made billions of dollars from sales of OxyContin, a painkiller at the center of the crisis, have gone largely unpunished. Guest: Barry Meier, the author of âPain Killer: An Empire of Deceit and the Origin of Americaâs Opioid Epidemic,â who has reported on Purdue Pharma and the opioid crisis for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "Prosecutors, seeking to hold someone accountable for the opioid epidemic, have been targeting doctors, dealers and users themselves. But those who made billions of dollars from sales of OxyContin, a painkiller at the center of the crisis, have gone largely unpunished. Guest: Barry Meier, the author of âPain Killer: An Empire of Deceit and the Origin of Americaâs Opioid Epidemic,â who has reported on Purdue Pharma and the opioid crisis for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "How the Opioid Crisis Started"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/e2b3432e-7015-46ea-ade9-cf0306f52236/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=e2b3432e-7015-46ea-ade9-cf0306f52236&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 32788557
+         },
+         "description" : "The Supreme Court ruled with little controversy in 1973 that women had a constitutional right to abortion. How did the decision give way to the deep and enduring political rifts we face today? Guest: Sabrina Tavernise, a New York Times correspondent who reported on the story of Roe v. Wade for âThe Daily.â For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 2030,
+         "episodeID" : "GA0000P0000FGWV",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/e2b3432e-7015-46ea-ade9-cf0306f52236/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "The Supreme Court ruled with little controversy in 1973 that women had a constitutional right to abortion. How did the decision give way to the deep and enduring political rifts we face today? Guest: Sabrina Tavernise, a New York Times correspondent who reported on the story of Roe v. Wade for âThe Daily.â For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "The Supreme Court ruled with little controversy in 1973 that women had a constitutional right to abortion. How did the decision give way to the deep and enduring political rifts we face today? Guest: Sabrina Tavernise, a New York Times correspondent who reported on the story of Roe v. Wade for âThe Daily.â For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Roe v. Wade, Part 2: The Culture Wars"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/fea9ad85-286d-4a0b-84ad-92bd59aef269/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=fea9ad85-286d-4a0b-84ad-92bd59aef269&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 25953656
+         },
+         "description" : "For decades, Americans have believed that the best way to end racial inequality is to end class inequality. But a landmark 30-year study is debunking that logic. Guests: Emily Badger, who writes about cities and urban policy for The Upshot; William O. Jawando, who worked in the Obama administration on My Brotherâs Keeper, a mentoring initiative for black boys. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1603,
+         "episodeID" : "GA0000P0000FGSV",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/fea9ad85-286d-4a0b-84ad-92bd59aef269/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "For decades, Americans have believed that the best way to end racial inequality is to end class inequality. But a landmark 30-year study is debunking that logic. Guests: Emily Badger, who writes about cities and urban policy for The Upshot; William O. Jawando, who worked in the Obama administration on My Brotherâs Keeper, a mentoring initiative for black boys. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "For decades, Americans have believed that the best way to end racial inequality is to end class inequality. But a landmark 30-year study is debunking that logic. Guests: Emily Badger, who writes about cities and urban policy for The Upshot; William O. Jawando, who worked in the Obama administration on My Brotherâs Keeper, a mentoring initiative for black boys. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Friday, March 23, 2018"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/c3a53560-30ec-4753-97b0-6bfcfb9779da/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=c3a53560-30ec-4753-97b0-6bfcfb9779da&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 24986082
+         },
+         "description" : "George Papadopoulos drew worldwide attention when he was identified as the low-ranking foreign policy adviser to the Trump campaign who got in over his head with Russia and inadvertently set off the Mueller investigation. But another foreign policy adviser, Carter Page, also drew the attention of the F.B.I.: Why did his story end so differently? Guest: Jason Zengerle, a contributing writer for The New York Times Magazine. For more information on todayâs episode, visit nytimes.com/thedaily. To take our audience survey, visit nytimes.com/podcasts and look for the \"take our listener survey\" button.",
+         "durationSeconds" : 1542,
+         "episodeID" : "GA0000P0000FGR4",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/c3a53560-30ec-4753-97b0-6bfcfb9779da/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "George Papadopoulos drew worldwide attention when he was identified as the low-ranking foreign policy adviser to the Trump campaign who got in over his head with Russia and inadvertently set off the Mueller investigation. But another foreign policy adviser, Carter Page, also drew the attention of the F.B.I.: Why did his story end so differently? Guest: Jason Zengerle, a contributing writer for The New York Times Magazine. For more information on todayâs episode, visit nytimes.com/thedaily.\n\nTo take our audience survey, visit nytimes.com/podcasts and look for the \"take our listener survey\" button.",
+         "summary" : "George Papadopoulos drew worldwide attention when he was identified as the low-ranking foreign policy adviser to the Trump campaign who got in over his head with Russia and inadvertently set off the Mueller investigation. But another foreign policy adviser, Carter Page, also drew the attention of the F.B.I.: Why did his story end so differently? Guest: Jason Zengerle, a contributing writer for The New York Times Magazine. For more information on todayâs episode, visit nytimes.com/thedaily.\n\nTo take our audience survey, visit nytimes.com/podcasts and look for the \"take our listener survey\" button.",
+         "title" : "Wednesday, Jan. 10, 2018"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/1e5e0208-ff18-4052-b25b-53fdfebea5cb/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=1e5e0208-ff18-4052-b25b-53fdfebea5cb&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 25015754
+         },
+         "description" : "At the opening ceremony of the Winter Olympics, 169 plainly dressed athletes marched out in drab gray coats and bluejeans, competing not for a country but as âOlympic athletes from Russia.â What did Russia do at the last Winter Games to earn them that punishment? Guest: Rebecca R. Ruiz, an investigative reporter at The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1544,
+         "episodeID" : "GA0000P0000FGRZ",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/1e5e0208-ff18-4052-b25b-53fdfebea5cb/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "At the opening ceremony of the Winter Olympics, 169 plainly dressed athletes marched out in drab gray coats and bluejeans, competing not for a country but as âOlympic athletes from Russia.â What did Russia do at the last Winter Games to earn them that punishment? Guest: Rebecca R. Ruiz, an investigative reporter at The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "At the opening ceremony of the Winter Olympics, 169 plainly dressed athletes marched out in drab gray coats and bluejeans, competing not for a country but as âOlympic athletes from Russia.â What did Russia do at the last Winter Games to earn them that punishment? Guest: Rebecca R. Ruiz, an investigative reporter at The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Monday, Feb. 12, 2018"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/ed675ad7-fc2f-4c48-8f07-626c321fd4a3/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=ed675ad7-fc2f-4c48-8f07-626c321fd4a3&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 23925731
+         },
+         "description" : "Nearly 30 million Latinos in the United States are eligible to vote, representing almost 13 percent of the American electorate. Why is so little attention being paid to them in the midterm elections? Guest: Jose A. Del Real, a national correspondent for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1476,
+         "episodeID" : "GA0000P0000FGZb",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/ed675ad7-fc2f-4c48-8f07-626c321fd4a3/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "Nearly 30 million Latinos in the United States are eligible to vote, representing almost 13 percent of the American electorate. Why is so little attention being paid to them in the midterm elections? Guest: Jose A. Del Real, a national correspondent for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "Nearly 30 million Latinos in the United States are eligible to vote, representing almost 13 percent of the American electorate. Why is so little attention being paid to them in the midterm elections? Guest: Jose A. Del Real, a national correspondent for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "The Voters Both Parties Are Ignoring"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/4acd6730-971f-4a78-9e28-22d6eafaa02c/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=4acd6730-971f-4a78-9e28-22d6eafaa02c&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 28044704
+         },
+         "description" : "With Venezuela in crisis, its most vocal opposition leader, Leopoldo LÃ³pez, is under house arrest, unable to act. What happens if he does? Guest: Wil S. Hylton, a contributing writer for the New York Times Magazine. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1734,
+         "episodeID" : "GA0000P0000FGSG",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/4acd6730-971f-4a78-9e28-22d6eafaa02c/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "With Venezuela in crisis, its most vocal opposition leader, Leopoldo LÃ³pez, is under house arrest, unable to act. What happens if he does? Guest: Wil S. Hylton, a contributing writer for the New York Times Magazine. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "With Venezuela in crisis, its most vocal opposition leader, Leopoldo LÃ³pez, is under house arrest, unable to act. What happens if he does? Guest: Wil S. Hylton, a contributing writer for the New York Times Magazine. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Monday, Mar. 12, 2018"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/648cb2be-1459-44f9-a809-699eaa7feffa/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=648cb2be-1459-44f9-a809-699eaa7feffa&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 25996298
+         },
+         "description" : "On a combative opening day of the NATO summit in Brussels, President Trump called other member countries âdelinquentâ on military spending and attacked Germany as a âcaptiveâ of Russia. We examine where his frustration is coming from. Guest: David E. Sanger, a national security correspondent for The New York Times and the author of âThe Perfect Weapon: War, Sabotage, and Fear in the Cyber Age.â For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1606,
+         "episodeID" : "GA0000P0000FGWH",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/648cb2be-1459-44f9-a809-699eaa7feffa/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "On a combative opening day of the NATO summit in Brussels, President Trump called other member countries âdelinquentâ on military spending and attacked Germany as a âcaptiveâ of Russia. We examine where his frustration is coming from. Guest: David E. Sanger, a national security correspondent for The New York Times and the author of âThe Perfect Weapon: War, Sabotage, and Fear in the Cyber Age.â For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "On a combative opening day of the NATO summit in Brussels, President Trump called other member countries âdelinquentâ on military spending and attacked Germany as a âcaptiveâ of Russia. We examine where his frustration is coming from. Guest: David E. Sanger, a national security correspondent for The New York Times and the author of âThe Perfect Weapon: War, Sabotage, and Fear in the Cyber Age.â For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "The (Misunderstood) Story of NATO"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/58f59d5f-31d6-425a-9f38-73c0798c0af2/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=58f59d5f-31d6-425a-9f38-73c0798c0af2&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 20893424
+         },
+         "description" : "It started with a report on Fox News, and ended with calls for United States troops at the border with Mexico. We look at how President Trumpâs approach to immigration transformed over just 72 hours. Guest: Julie Hirschfeld Davis, who covers the White House for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1287,
+         "episodeID" : "GA0000P0000FGSt",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/58f59d5f-31d6-425a-9f38-73c0798c0af2/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "It started with a report on Fox News, and ended with calls for United States troops at the border with Mexico. We look at how President Trumpâs approach to immigration transformed over just 72 hours. Guest: Julie Hirschfeld Davis, who covers the White House for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "It started with a report on Fox News, and ended with calls for United States troops at the border with Mexico. We look at how President Trumpâs approach to immigration transformed over just 72 hours. Guest: Julie Hirschfeld Davis, who covers the White House for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Wednesday, Apr. 4, 2018"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/a430855a-5b06-4453-954a-ef7452f53b3a/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=a430855a-5b06-4453-954a-ef7452f53b3a&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 34141064
+         },
+         "description" : "Senator John McCain was proud of his reputation as a maverick in American politics. Through pivotal moments in his life â as a prisoner of war, a young congressman, a presidential candidate, and, ultimately, an elder statesman â that reputation was both validated and challenged. Guests: Elisabeth Bumiller, the Washington bureau chief for The New York Times; Carl Hulse, The Timesâs chief Washington correspondent; Mark Landler, who covers the White House for The Times; and Scott Shane, who writes about national security for The Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 2115,
+         "episodeID" : "GA0000P0000FGXJ",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/a430855a-5b06-4453-954a-ef7452f53b3a/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "Senator John McCain was proud of his reputation as a maverick in American politics. Through pivotal moments in his life â as a prisoner of war, a young congressman, a presidential candidate, and, ultimately, an elder statesman â that reputation was both validated and challenged. Guests: Elisabeth Bumiller, the Washington bureau chief for The New York Times; Carl Hulse, The Timesâs chief Washington correspondent; Mark Landler, who covers the White House for The Times; and Scott Shane, who writes about national security for The Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "Senator John McCain was proud of his reputation as a maverick in American politics. Through pivotal moments in his life â as a prisoner of war, a young congressman, a presidential candidate, and, ultimately, an elder statesman â that reputation was both validated and challenged. Guests: Elisabeth Bumiller, the Washington bureau chief for The New York Times; Carl Hulse, The Timesâs chief Washington correspondent; Mark Landler, who covers the White House for The Times; and Scott Shane, who writes about national security for The Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "The Paradoxes of John McCain"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/aa49e212-f979-4316-9e20-a14763b9307a/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=aa49e212-f979-4316-9e20-a14763b9307a&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 25110248
+         },
+         "description" : "From the moment he was confirmed, Chief Justice John G. Roberts Jr. has been a reliable conservative on the Supreme Court. So why did he just side with the courtâs more liberal members to preserve abortion rights in Louisiana? Guest: Adam Liptak, who covers the Supreme Court for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1550,
+         "episodeID" : "GA0000P0000FGm3",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/aa49e212-f979-4316-9e20-a14763b9307a/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "From the moment he was confirmed, Chief Justice John G. Roberts Jr. has been a reliable conservative on the Supreme Court. So why did he just side with the courtâs more liberal members to preserve abortion rights in Louisiana? Guest: Adam Liptak, who covers the Supreme Court for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "From the moment he was confirmed, Chief Justice John G. Roberts Jr. has been a reliable conservative on the Supreme Court. So why did he just side with the courtâs more liberal members to preserve abortion rights in Louisiana? Guest: Adam Liptak, who covers the Supreme Court for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Why Chief Justice Roberts Just Protected Abortion Rights"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/43b80594-8556-4361-a3fe-eb8bb7f8f449/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=43b80594-8556-4361-a3fe-eb8bb7f8f449&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 33767415
+         },
+         "description" : "Since President Trump ended the practice of separating migrant children from their parents, very few families have been reunited. Those that have are becoming national symbols. Guest: Annie Correal, a New York Times reporter who accompanied Yeni GonzÃ¡lez, a migrant from Guatemala, on part of her journey to join her three children after more than five weeks apart. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 2091,
+         "episodeID" : "GA0000P0000FGWC",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/43b80594-8556-4361-a3fe-eb8bb7f8f449/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "Since President Trump ended the practice of separating migrant children from their parents, very few families have been reunited. Those that have are becoming national symbols. Guest: Annie Correal, a New York Times reporter who accompanied Yeni GonzÃ¡lez, a migrant from Guatemala, on part of her journey to join her three children after more than five weeks apart. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "Since President Trump ended the practice of separating migrant children from their parents, very few families have been reunited. Those that have are becoming national symbols. Guest: Annie Correal, a New York Times reporter who accompanied Yeni GonzÃ¡lez, a migrant from Guatemala, on part of her journey to join her three children after more than five weeks apart. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "One Familyâs Reunification Story"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/45dc1266-f6fa-429c-be30-23dfcbaf817e/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=45dc1266-f6fa-429c-be30-23dfcbaf817e&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 25665695
+         },
+         "description" : "The killing of Jamal Khashoggi has renewed criticism of Saudi Arabia more broadly, including the kingdomâs role in the war in Yemen. Itâs a war that has created what has been called the worst humanitarian crisis in the world â and one that the United States has backed from the beginning. Guest: Robert F. Worth, a contributing writer for The New York Times Magazine. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1585,
+         "episodeID" : "GA0000P0000FGbD",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/45dc1266-f6fa-429c-be30-23dfcbaf817e/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "The killing of Jamal Khashoggi has renewed criticism of Saudi Arabia more broadly, including the kingdomâs role in the war in Yemen. Itâs a war that has created what has been called the worst humanitarian crisis in the world â and one that the United States has backed from the beginning. Guest: Robert F. Worth, a contributing writer for The New York Times Magazine. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "The killing of Jamal Khashoggi has renewed criticism of Saudi Arabia more broadly, including the kingdomâs role in the war in Yemen. Itâs a war that has created what has been called the worst humanitarian crisis in the world â and one that the United States has backed from the beginning. Guest: Robert F. Worth, a contributing writer for The New York Times Magazine. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Why U.S. Bombs Are Falling in Yemen"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/50bf8d6c-f74e-412b-b963-e92a5f7a2c5d/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=50bf8d6c-f74e-412b-b963-e92a5f7a2c5d&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 19405906
+         },
+         "description" : "President Trump has demanded to know why the United States should welcome immigrants from âshithole countries.â His words have alarmed lawmakers and threatened an immigration deal. But they have also raised a question about a certain American ideal: Who should be let in? Guest: Julie Hirschfeld Davis, who covers the White House for The Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1194,
+         "episodeID" : "GA0000P0000FGR6",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/50bf8d6c-f74e-412b-b963-e92a5f7a2c5d/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "President Trump has demanded to know why the United States should welcome immigrants from âshithole countries.â His words have alarmed lawmakers and threatened an immigration deal. But they have also raised a question about a certain American ideal: Who should be let in? Guest: Julie Hirschfeld Davis, who covers the White House for The Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "President Trump has demanded to know why the United States should welcome immigrants from âshithole countries.â His words have alarmed lawmakers and threatened an immigration deal. But they have also raised a question about a certain American ideal: Who should be let in? Guest: Julie Hirschfeld Davis, who covers the White House for The Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Friday, Jan. 12, 2018"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/f0e96ff0-de50-436f-aba8-42ade383bcb4/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=f0e96ff0-de50-436f-aba8-42ade383bcb4&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 20735440
+         },
+         "description" : "Since joining President Trumpâs legal team, Rudolph W. Giuliani has repeatedly made attention-grabbing TV appearances in which he has antagonized Robert S. Mueller III, the special counsel overseeing the Russia investigation. The strategy is reminiscent of one that Mr. Giuliani has used before â 30 years ago, as a prosecutor in New York City taking on the Mafia. Guest: Michael Winerip, who covered Mr. Giulianiâs rise as a Manhattan prosecutor in the 1980s for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1277,
+         "episodeID" : "GA0000P0000FGTW",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/f0e96ff0-de50-436f-aba8-42ade383bcb4/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "Since joining President Trumpâs legal team, Rudolph W. Giuliani has repeatedly made attention-grabbing TV appearances in which he has antagonized Robert S. Mueller III, the special counsel overseeing the Russia investigation. The strategy is reminiscent of one that Mr. Giuliani has used before â 30 years ago, as a prosecutor in New York City taking on the Mafia. Guest: Michael Winerip, who covered Mr. Giulianiâs rise as a Manhattan prosecutor in the 1980s for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "Since joining President Trumpâs legal team, Rudolph W. Giuliani has repeatedly made attention-grabbing TV appearances in which he has antagonized Robert S. Mueller III, the special counsel overseeing the Russia investigation. The strategy is reminiscent of one that Mr. Giuliani has used before â 30 years ago, as a prosecutor in New York City taking on the Mafia. Guest: Michael Winerip, who covered Mr. Giulianiâs rise as a Manhattan prosecutor in the 1980s for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "The Return of Rudy Giuliani"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/d81e1caa-b784-4069-b92a-080748adf0d1/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=d81e1caa-b784-4069-b92a-080748adf0d1&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 23321363
+         },
+         "description" : "The special counselâs team sent its report to the attorney general, William P. Barr, who sent a summary of that report to Congress. But some members of the special counselâs team have told associates that their findings are more troubling for President Trump than Mr. Barr indicated. Guests: Nicholas Fandos, who covers Congress for The New York Times, and Michael S. Schmidt, who has been covering the special counsel investigation. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1438,
+         "episodeID" : "GA0000P0000FGr8",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/d81e1caa-b784-4069-b92a-080748adf0d1/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "The special counselâs team sent its report to the attorney general, William P. Barr, who sent a summary of that report to Congress. But some members of the special counselâs team have told associates that their findings are more troubling for President Trump than Mr. Barr indicated. Guests: Nicholas Fandos, who covers Congress for The New York Times, and Michael S. Schmidt, who has been covering the special counsel investigation. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "The special counselâs team sent its report to the attorney general, William P. Barr, who sent a summary of that report to Congress. But some members of the special counselâs team have told associates that their findings are more troubling for President Trump than Mr. Barr indicated. Guests: Nicholas Fandos, who covers Congress for The New York Times, and Michael S. Schmidt, who has been covering the special counsel investigation. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "New Insights Into the Mueller Report"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/e3f25915-ffd3-4449-ada4-a7745f978c6c/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=e3f25915-ffd3-4449-ada4-a7745f978c6c&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 40065672
+         },
+         "description" : "As the Baltimore Police Department tried to repair its public image, a corruption trial exposed the startling depths of misconduct and delivered a fresh blow to the communityâs trust. An elite group of officers â part of a task force created during the peak of zero-tolerance policing â had been stealing from residents for years. For more information on todayâs episode, visit nytimes.com/thedaily. This episode includes disturbing language and scenes of graphic violence.",
+         "durationSeconds" : 2485,
+         "episodeID" : "GA0000P0000FGVN",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/e3f25915-ffd3-4449-ada4-a7745f978c6c/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "As the Baltimore Police Department tried to repair its public image, a corruption trial exposed the startling depths of misconduct and delivered a fresh blow to the communityâs trust. An elite group of officers â part of a task force created during the peak of zero-tolerance policing â had been stealing from residents for years. For more information on todayâs episode, visit nytimes.com/thedaily.\n\nThis episode includes disturbing language and scenes of graphic violence.",
+         "summary" : "As the Baltimore Police Department tried to repair its public image, a corruption trial exposed the startling depths of misconduct and delivered a fresh blow to the communityâs trust. An elite group of officers â part of a task force created during the peak of zero-tolerance policing â had been stealing from residents for years. For more information on todayâs episode, visit nytimes.com/thedaily.\n\nThis episode includes disturbing language and scenes of graphic violence.",
+         "title" : "âCharm City,â Part 4: The Police Scandal That Shook Baltimore"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/72077ad5-5684-4206-8f87-2445e6c5bb31/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=72077ad5-5684-4206-8f87-2445e6c5bb31&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 21458096
+         },
+         "description" : "A Russian news organization with ties to the 2016 election interference operation started a website called USAReally. Its stated purpose was for Americans to get uncensored news about their own country â from Russia. We spoke to the man behind it. Guest Host: Kevin Roose, who writes about technology for The New York Times, talks to Alexander Malkevich, the founder of USAReally, and David E. Sanger, a national security correspondent for The Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1322,
+         "episodeID" : "GA0000P0000FGZt",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/72077ad5-5684-4206-8f87-2445e6c5bb31/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "A Russian news organization with ties to the 2016 election interference operation started a website called USAReally. Its stated purpose was for Americans to get uncensored news about their own country â from Russia. We spoke to the man behind it. Guest Host: Kevin Roose, who writes about technology for The New York Times, talks to Alexander Malkevich, the founder of USAReally, and David E. Sanger, a national security correspondent for The Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "A Russian news organization with ties to the 2016 election interference operation started a website called USAReally. Its stated purpose was for Americans to get uncensored news about their own country â from Russia. We spoke to the man behind it. Guest Host: Kevin Roose, who writes about technology for The New York Times, talks to Alexander Malkevich, the founder of USAReally, and David E. Sanger, a national security correspondent for The Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "âI Am Not an Internet Trollâ"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/6cfc2708-0962-4c49-83d6-003b4c8f9c9b/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=6cfc2708-0962-4c49-83d6-003b4c8f9c9b&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 29163187
+         },
+         "description" : "Three decades ago, the highest honor at the Academy Awards was given to a movie about a white passenger learning to love her black chauffeur. Sunday night, the same award was given to a film about a white chauffeur learning to love his black passenger. We look at Hollywoodâs obsession with fantasies of racial reconciliation. Guest: Wesley Morris, a critic at large for The New York Times and a host of the podcast âStill Processing.â For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1804,
+         "episodeID" : "GA0000P0000FGmD",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/6cfc2708-0962-4c49-83d6-003b4c8f9c9b/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "Three decades ago, the highest honor at the Academy Awards was given to a movie about a white passenger learning to love her black chauffeur. Sunday night, the same award was given to a film about a white chauffeur learning to love his black passenger. We look at Hollywoodâs obsession with fantasies of racial reconciliation. Guest: Wesley Morris, a critic at large for The New York Times and a host of the podcast âStill Processing.â For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "Three decades ago, the highest honor at the Academy Awards was given to a movie about a white passenger learning to love her black chauffeur. Sunday night, the same award was given to a film about a white chauffeur learning to love his black passenger. We look at Hollywoodâs obsession with fantasies of racial reconciliation. Guest: Wesley Morris, a critic at large for The New York Times and a host of the podcast âStill Processing.â For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "What Hollywood Keeps Getting Wrong About Race"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/9b8b64b4-20c7-4074-9827-b8144983275e/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=9b8b64b4-20c7-4074-9827-b8144983275e&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 19924595
+         },
+         "description" : "America and the Middle East in the Trump administration: deep, personal ties and an emerging plan for peace. Guests: Jodi Kantor, a reporter for The New York Times; Amanda Taub and Max Fisher, who write The Timesâ Interpreter column. For more information on todayâs episode, visit http://nyti.ms/2kFDqvC.",
+         "durationSeconds" : 1226,
+         "episodeID" : "GA0000P0000FGDb",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/9b8b64b4-20c7-4074-9827-b8144983275e/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "America and the Middle East in the Trump administration: deep, personal ties and an emerging plan for peace. Guests: Jodi Kantor, a reporter for The New York Times; Amanda Taub and Max Fisher, who write The Timesâ Interpreter column. For more information on todayâs episode, visit http://nyti.ms/2kFDqvC.",
+         "summary" : "America and the Middle East in the Trump administration: deep, personal ties and an emerging plan for peace. Guests: Jodi Kantor, a reporter for The New York Times; Amanda Taub and Max Fisher, who write The Timesâ Interpreter column. For more information on todayâs episode, visit http://nyti.ms/2kFDqvC.",
+         "title" : "Tuesday, Feb. 14, 2017"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/075475b6-ca72-4121-bf2f-a6039aab3ff4/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=075475b6-ca72-4121-bf2f-a6039aab3ff4&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 21368243
+         },
+         "description" : "President Trump says the nuclear threat from North Korea is over. But new satellite images of hidden missile bases suggest that the situation has only worsened since his meeting with Kim Jong-un, the North Korean leader. Guest: David E. Sanger, a national security correspondent for The New York Times and the author of âThe Perfect Weapon: War, Sabotage, and Fear in the Cyber Age.â For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1316,
+         "episodeID" : "GA0000P0000FGb7",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/075475b6-ca72-4121-bf2f-a6039aab3ff4/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "President Trump says the nuclear threat from North Korea is over. But new satellite images of hidden missile bases suggest that the situation has only worsened since his meeting with Kim Jong-un, the North Korean leader. Guest: David E. Sanger, a national security correspondent for The New York Times and the author of âThe Perfect Weapon: War, Sabotage, and Fear in the Cyber Age.â For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "President Trump says the nuclear threat from North Korea is over. But new satellite images of hidden missile bases suggest that the situation has only worsened since his meeting with Kim Jong-un, the North Korean leader. Guest: David E. Sanger, a national security correspondent for The New York Times and the author of âThe Perfect Weapon: War, Sabotage, and Fear in the Cyber Age.â For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Diplomacy and Deception From North Korea"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/771acead-d996-41f0-99c5-f527246bdaec/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=771acead-d996-41f0-99c5-f527246bdaec&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 21758602
+         },
+         "description" : "The climate change battle through one coal miner's eyes. And why Scott Pruitt, President Trump's E.P.A. chief, confounds both sides. Guests: Coral Davenport, who covers energy and the environment for The New York Times; Mark Gray, who spent 38 years working in the coal mines of Kentucky. For more information on todayâs episode, visit http://nyti.ms/2nPhB1g.",
+         "durationSeconds" : 1341,
+         "episodeID" : "GA0000P0000FGFZ",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/771acead-d996-41f0-99c5-f527246bdaec/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "The climate change battle through one coal miner's eyes. And why Scott Pruitt, President Trump's E.P.A. chief, confounds both sides. Guests: Coral Davenport, who covers energy and the environment for The New York Times; Mark Gray, who spent 38 years working in the coal mines of Kentucky. For more information on todayâs episode, visit http://nyti.ms/2nPhB1g.",
+         "summary" : "The climate change battle through one coal miner's eyes. And why Scott Pruitt, President Trump's E.P.A. chief, confounds both sides. Guests: Coral Davenport, who covers energy and the environment for The New York Times; Mark Gray, who spent 38 years working in the coal mines of Kentucky. For more information on todayâs episode, visit http://nyti.ms/2nPhB1g.",
+         "title" : "Thursday, March 30, 2017"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/61c882b4-f3a3-4395-9baf-4ac1d684f372/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=61c882b4-f3a3-4395-9baf-4ac1d684f372&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 44332197
+         },
+         "description" : "Relations between the police and the community in Baltimore werenât always so troubled. But as job loss and drugs tore through the city, the policing idea of so-called zero tolerance, transplanted from New York City, created a generation of young men with criminal records. For more information on todayâs episode, visit nytimes.com/thedaily. This episode includes disturbing language and scenes of graphic violence.",
+         "durationSeconds" : 2752,
+         "episodeID" : "GA0000P0000FGVJ",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/61c882b4-f3a3-4395-9baf-4ac1d684f372/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "Relations between the police and the community in Baltimore werenât always so troubled. But as job loss and drugs tore through the city, the policing idea of so-called zero tolerance, transplanted from New York City, created a generation of young men with criminal records. For more information on todayâs episode, visit nytimes.com/thedaily.\n\nThis episode includes disturbing language and scenes of graphic violence.",
+         "summary" : "Relations between the police and the community in Baltimore werenât always so troubled. But as job loss and drugs tore through the city, the policing idea of so-called zero tolerance, transplanted from New York City, created a generation of young men with criminal records. For more information on todayâs episode, visit nytimes.com/thedaily.\n\nThis episode includes disturbing language and scenes of graphic violence.",
+         "title" : "âCharm City,â Part 2: The Legacy of Zero-Tolerance Policing"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/d109c3af-53ce-42de-9d56-006b4aaf0fd3/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=d109c3af-53ce-42de-9d56-006b4aaf0fd3&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 21824635
+         },
+         "description" : "In 2013, Abigail Fisher sued the University of Texas, saying she had been discriminated against for being white. Now, some students are suing Harvard, saying they were discriminated against for being Asian-American. Both lawsuits can be traced to the same man. But this time, the White House is taking up his cause. Guests: Michael Wang, one of dozens of Asian-American students who have filed a complaint against Harvard; Anemona Hartocollis, who is reporting on the lawsuit; Edward Blum, the man behind the action; Nikole Hannah-Jones, who writes about race and education for The New York Times Magazine. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1345,
+         "episodeID" : "GA0000P0000FGJS",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/d109c3af-53ce-42de-9d56-006b4aaf0fd3/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "In 2013, Abigail Fisher sued the University of Texas, saying she had been discriminated against for being white. Now, some students are suing Harvard, saying they were discriminated against for being Asian-American. Both lawsuits can be traced to the same man. But this time, the White House is taking up his cause. Guests: Michael Wang, one of dozens of Asian-American students who have filed a complaint against Harvard; Anemona Hartocollis, who is reporting on the lawsuit; Edward Blum, the man behind the action; Nikole Hannah-Jones, who writes about race and education for The New York Times Magazine. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "In 2013, Abigail Fisher sued the University of Texas, saying she had been discriminated against for being white. Now, some students are suing Harvard, saying they were discriminated against for being Asian-American. Both lawsuits can be traced to the same man. But this time, the White House is taking up his cause. Guests: Michael Wang, one of dozens of Asian-American students who have filed a complaint against Harvard; Anemona Hartocollis, who is reporting on the lawsuit; Edward Blum, the man behind the action; Nikole Hannah-Jones, who writes about race and education for The New York Times Magazine. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Friday, Aug. 4, 2017"
+      }
+   ],
+   "meta" : {
+      "limit" : 30,
+      "offset" : 0,
+      "total" : 1535
+   }
+}

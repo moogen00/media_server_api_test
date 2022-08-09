@@ -1,0 +1,153 @@
+3.23 Image Search Endpoint recordingImage do_location_recordingImage ===========================================
+[
+   {
+      "artistName" : "Eric Clapton",
+      "location" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/0B7F/5D35/3DED/3D25_xlarge_front.jpg",
+      "name" : "Anything For Your Love"
+   },
+   {
+      "artistName" : "Eric Clapton",
+      "location" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/0B7F/5D35/3DED/3D25_xlarge_front.jpg",
+      "name" : "Bad Love"
+   },
+   {
+      "artistName" : "Eric Clapton",
+      "location" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/0B7F/5D35/3DED/3D25_xlarge_front.jpg",
+      "name" : "Before You Accuse Me"
+   },
+   {
+      "artistName" : "Simone",
+      "location" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/B9BE/FD4E/6985/78E9_xlarge_front.jpg",
+      "name" : "Beija, Me Beija, Me Beija"
+   },
+   {
+      "artistName" : "Eric Clapton",
+      "location" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/0B7F/5D35/3DED/3D25_xlarge_front.jpg",
+      "name" : "Breaking Point"
+   },
+   {
+      "artistName" : "Simone",
+      "location" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/B9BE/FD4E/6985/78E9_xlarge_front.jpg",
+      "name" : "CafÃ© Com Leite"
+   },
+   {
+      "artistName" : "Simone",
+      "location" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/B9BE/FD4E/6985/78E9_xlarge_front.jpg",
+      "name" : "Canta, Canta, Minha Gente"
+   },
+   {
+      "artistName" : "Ronnie Wood & Bo Diddley",
+      "location" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/3744/0FE0/69F9/E1FF_small_front.jpg",
+      "name" : "Crackin' Up [Live]"
+   },
+   {
+      "artistName" : "Simone",
+      "location" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/B9BE/FD4E/6985/78E9_xlarge_front.jpg",
+      "name" : "Disritmia"
+   },
+   {
+      "artistName" : "Simone",
+      "location" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/B9BE/FD4E/6985/78E9_xlarge_front.jpg",
+      "name" : "Ex-Amor"
+   },
+   {
+      "artistName" : "Eric Clapton",
+      "location" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/0B7F/5D35/3DED/3D25_xlarge_front.jpg",
+      "name" : "Hard Times"
+   },
+   {
+      "artistName" : "Ronnie Wood & Bo Diddley",
+      "location" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/3744/0FE0/69F9/E1FF_small_front.jpg",
+      "name" : "Hey Bo Diddley [Live]"
+   },
+   {
+      "artistName" : "Eric Clapton",
+      "location" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/0B7F/5D35/3DED/3D25_xlarge_front.jpg",
+      "name" : "Hound Dog"
+   },
+   {
+      "artistName" : "Ronnie Wood & Bo Diddley",
+      "location" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/3744/0FE0/69F9/E1FF_small_front.jpg",
+      "name" : "I'm A Man [Live]"
+   },
+   {
+      "artistName" : "Simone",
+      "location" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/B9BE/FD4E/6985/78E9_xlarge_front.jpg",
+      "name" : "IaiÃ¡ Do Cais Dourado"
+   },
+   {
+      "artistName" : "Eric Clapton",
+      "location" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/0B7F/5D35/3DED/3D25_xlarge_front.jpg",
+      "name" : "Lead Me On"
+   },
+   {
+      "artistName" : "Simone",
+      "location" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/B9BE/FD4E/6985/78E9_xlarge_front.jpg",
+      "name" : "Madalena Do Jucu"
+   },
+   {
+      "artistName" : "Simone",
+      "location" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/B9BE/FD4E/6985/78E9_xlarge_front.jpg",
+      "name" : "MarÃ© Mansa (Mar Calmado)"
+   },
+   {
+      "artistName" : "Simone",
+      "location" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/B9BE/FD4E/6985/78E9_xlarge_front.jpg",
+      "name" : "Meu LaiÃ¡-RaiÃ¡"
+   },
+   {
+      "artistName" : "Eric Clapton",
+      "location" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/0B7F/5D35/3DED/3D25_xlarge_front.jpg",
+      "name" : "No Alibis"
+   },
+   {
+      "artistName" : "Eric Clapton",
+      "location" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/0B7F/5D35/3DED/3D25_xlarge_front.jpg",
+      "name" : "Old Love"
+   },
+   {
+      "artistName" : "Ronnie Wood & Bo Diddley",
+      "location" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/3744/0FE0/69F9/E1FF_small_front.jpg",
+      "name" : "Ooh La La [Live]"
+   },
+   {
+      "artistName" : "Ronnie Wood & Bo Diddley",
+      "location" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/3744/0FE0/69F9/E1FF_small_front.jpg",
+      "name" : "Plynth (Water Down The Drain) [Live]"
+   },
+   {
+      "artistName" : "Eric Clapton",
+      "location" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/0B7F/5D35/3DED/3D25_xlarge_front.jpg",
+      "name" : "Pretending"
+   },
+   {
+      "artistName" : "Simone",
+      "location" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/B9BE/FD4E/6985/78E9_xlarge_front.jpg",
+      "name" : "Quem Ã Do Mar NÃ£o Enjoa"
+   },
+   {
+      "artistName" : "Ronnie Wood & Bo Diddley",
+      "location" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/3744/0FE0/69F9/E1FF_small_front.jpg",
+      "name" : "Road Runner [Live]"
+   },
+   {
+      "artistName" : "Eric Clapton",
+      "location" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/0B7F/5D35/3DED/3D25_xlarge_front.jpg",
+      "name" : "Run So Far"
+   },
+   {
+      "artistName" : "Eric Clapton",
+      "location" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/0B7F/5D35/3DED/3D25_xlarge_front.jpg",
+      "name" : "Running On Faith"
+   },
+   {
+      "artistName" : "Simone",
+      "location" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/B9BE/FD4E/6985/78E9_xlarge_front.jpg",
+      "name" : "Samba Da Cabrocha Bamba"
+   },
+   {
+      "artistName" : "Simone",
+      "location" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/B9BE/FD4E/6985/78E9_xlarge_front.jpg",
+      "name" : "Se Eu Soubesse Que Tu Vinhas"
+   }
+]

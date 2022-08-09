@@ -1,0 +1,664 @@
+3.21 Aod Series Search Endpoint person do_aod_series_person ===========================================
+{
+   "data" : [
+      {
+         "availabilities" : [
+            {
+               "license" : "Open",
+               "name" : "All"
+            }
+         ],
+         "avgEpisodeDurationSeconds" : 2895,
+         "categories" : [
+            [
+               {
+                  "descriptorID" : "90265",
+                  "display" : "Comedy",
+                  "level" : 1
+               },
+               {
+                  "descriptorID" : "90306",
+                  "display" : "Comedy Interviews",
+                  "level" : 2
+               }
+            ],
+            [
+               {
+                  "descriptorID" : "90280",
+                  "display" : "TV & Film",
+                  "level" : 1
+               },
+               {
+                  "descriptorID" : "90514",
+                  "display" : "TV & Film Commentary & Analysis",
+                  "level" : 2
+               },
+               {
+                  "descriptorID" : "90914",
+                  "display" : "TV & Film Interviews",
+                  "level" : 3
+               }
+            ],
+            [
+               {
+                  "descriptorID" : "90275",
+                  "display" : "Society & Culture",
+                  "level" : 1
+               },
+               {
+                  "descriptorID" : "90445",
+                  "display" : "Culture Interviews",
+                  "level" : 2
+               }
+            ]
+         ],
+         "country" : "US",
+         "credits" : [
+            {
+               "name" : "Conan O'Brien",
+               "personID" : "69751",
+               "role" : {
+                  "display" : "Host"
+               }
+            },
+            {
+               "name" : "Matt Gourley",
+               "personID" : "906324",
+               "role" : {
+                  "display" : "Co-Host"
+               }
+            },
+            {
+               "name" : "Sona Movsesian\t",
+               "personID" : "1280951",
+               "role" : {
+                  "display" : "Co-Host"
+               }
+            }
+         ],
+         "description" : "After 25 years at the Late Night desk, Conan realized that the only people at his holiday party are the men and women who work for him. Over the years and despite thousands of interviews, Conan has never made a real and lasting friendship with any of his celebrity guests. So, he started a podcast to do just that.Deeper, unboundedly playful, and free from FCC regulations, Conan OâBrien Needs a Friend is a weekly opportunity for Conan to hang out with the people he enjoys most and perhaps find some real friendship along the way.",
+         "editorialStatus" : "enhanced",
+         "language" : "en",
+         "lastPublishDateTime" : "2022-07-21T04:00:00Z",
+         "lastUpdateDateTime" : "2022-07-21T07:02:15Z",
+         "numEpisodes" : 281,
+         "objectType" : "series",
+         "popularity" : {
+            "au" : 0.8,
+            "ca" : 0.9,
+            "de" : 0.7,
+            "es" : 0.5,
+            "fr" : 0.5,
+            "global" : 0.9,
+            "mx" : 0.5,
+            "uk" : 0.7,
+            "us" : 0.9
+         },
+         "recommendedPodcastSeries" : [
+            "GA0000N0000HH74",
+            "GA0000N000000P7",
+            "GA0000N000067S8"
+         ],
+         "seriesID" : "GA0000N000000PZ",
+         "seriesRootID" : "GA000180001NRb8",
+         "sourceFeed" : {
+            "author" : "Team Coco & Earwolf",
+            "categories" : [
+               "Comedy"
+            ],
+            "contentType" : "Episodic",
+            "copyright" : "2021 Team Coco & Earwolf",
+            "description" : "After 25 years at the Late Night desk, Conan realized that the only people at his holiday party are the men and women who work for him. Over the years and despite thousands of interviews, Conan has never made a real and lasting friendship with any of his celebrity guests. So, he started a podcast to do just that.Deeper, unboundedly playful, and free from FCC regulations, Conan OâBrien Needs a Friend is a weekly opportunity for Conan to hang out with the people he enjoys most and perhaps find some real friendship along the way.",
+            "explicitLanguage" : true,
+            "feedUrl" : "https://feeds.simplecast.com/dHoohVNH",
+            "generator" : "https://simplecast.com",
+            "imageUrl" : "https://image.simplecastcdn.com/images/5b7d8c77-15ba-4eff-a999-2e725db21db5/2ca29cb6-c010-4780-a9ba-7e5e1729f565/3000x3000/conaf-cover.jpg?aid=rss_feed",
+            "keywords" : [],
+            "language" : "en-US",
+            "owner" : "Team Coco & Earwolf",
+            "websiteUrl" : "https://www.earwolf.com/show/conan-obrien/"
+         },
+         "subtitle" : null,
+         "summary" : "After 25 years at the Late Night desk, Conan realized that the only people at his holiday party are the men and women who work for him. Over the years and despite thousands of interviews, Conan has never made a real and lasting friendship with any of his celebrity guests. So, he started a podcast to do just that.Deeper, unboundedly playful, and free from FCC regulations, Conan OâBrien Needs a Friend is a weekly opportunity for Conan to hang out with the people he enjoys most and perhaps find some real friendship along the way.",
+         "title" : "Conan OâBrien Needs a Friend"
+      },
+      {
+         "availabilities" : [
+            {
+               "license" : "Open",
+               "name" : "All"
+            }
+         ],
+         "avgEpisodeDurationSeconds" : 3226,
+         "categories" : [
+            [
+               {
+                  "descriptorID" : "90280",
+                  "display" : "TV & Film",
+                  "level" : 1
+               },
+               {
+                  "descriptorID" : "90518",
+                  "display" : "TV",
+                  "level" : 2
+               },
+               {
+                  "descriptorID" : "91116",
+                  "display" : "Specific TV Shows",
+                  "level" : 3
+               }
+            ],
+            [
+               {
+                  "descriptorID" : "90280",
+                  "display" : "TV & Film",
+                  "level" : 1
+               },
+               {
+                  "descriptorID" : "90514",
+                  "display" : "TV & Film Commentary & Analysis",
+                  "level" : 2
+               }
+            ]
+         ],
+         "country" : "US",
+         "credits" : [
+            {
+               "name" : "Arthur Conan Doyle",
+               "personID" : "289841",
+               "role" : {
+                  "display" : "Subject"
+               }
+            }
+         ],
+         "description" : "The Sherlock After Show recaps, reviews and discusses episodes of PBS' Sherlock.\r\n\r\nShow Summary: In this contemporary version of Sir Arthur Conan Doyle's detective stories, Dr. John Watson is a war vet just home from Afghanistan. He meets the brilliant but eccentric Holmes when the latter, who serves as a consultant to Scotland Yard, advertises for a flatmate. Almost as soon as Watson moves into the Baker Street flat, they are embroiled in mysteries, and Sherlock's nemesis, Moriarty, appears to have a hand in the crimes.",
+         "editorialStatus" : "enhanced",
+         "language" : "en",
+         "lastPublishDateTime" : "2017-01-25T01:00:12Z",
+         "lastUpdateDateTime" : "2021-09-08T01:20:08Z",
+         "numEpisodes" : 12,
+         "objectType" : "series",
+         "popularity" : {
+            "au" : 0.1,
+            "ca" : 0.2,
+            "de" : 0.2,
+            "es" : 0.1,
+            "fr" : 0.1,
+            "global" : 0.4,
+            "mx" : 0.1,
+            "uk" : 0.2,
+            "us" : 0.4
+         },
+         "recommendedPodcastSeries" : [],
+         "seriesID" : "GA0000N00003J3B",
+         "seriesRootID" : "GA000180000G813",
+         "sourceFeed" : {
+            "author" : "AfterBuzz TV",
+            "categories" : [
+               "TV & Film"
+            ],
+            "contentType" : "Episodic",
+            "copyright" : "AfterBuzz TV",
+            "description" : "The Sherlock After Show recaps, reviews and discusses episodes of PBS' Sherlock.\n\nShow Summary: In this contemporary version of Sir Arthur Conan Doyle's detective stories, Dr. John Watson is a war vet just home from Afghanistan. He meets the brilliant but eccentric Holmes when the latter, who serves as a consultant to Scotland Yard, advertises for a flatmate. Almost as soon as Watson moves into the Baker Street flat, they are embroiled in mysteries, and Sherlock's nemesis, Moriarty, appears to have a hand in the crimes.",
+            "explicitLanguage" : false,
+            "feedUrl" : "https://feeds.megaphone.fm/BUZZ4428591103",
+            "generator" : null,
+            "imageUrl" : "https://megaphone.imgix.net/podcasts/47806c2e-e89a-11eb-80f5-535d3e803a31/image/1050689-1537887582528-194a1949a401c.jpg?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+            "keywords" : [],
+            "language" : "en-US",
+            "owner" : "AfterBuzz TV",
+            "websiteUrl" : "http://www.afterbuzztv.com/sherlock-after-show"
+         },
+         "subtitle" : null,
+         "summary" : "The Sherlock After Show recaps, reviews and discusses episodes of PBS' Sherlock.\n\nShow Summary: In this contemporary version of Sir Arthur Conan Doyle's detective stories, Dr. John Watson is a war vet just home from Afghanistan. He meets the brilliant but eccentric Holmes when the latter, who serves as a consultant to Scotland Yard, advertises for a flatmate. Almost as soon as Watson moves into the Baker Street flat, they are embroiled in mysteries, and Sherlock's nemesis, Moriarty, appears to have a hand in the crimes.",
+         "title" : "Sherlock Reviews and After Show - AfterBuzz TV"
+      },
+      {
+         "availabilities" : [
+            {
+               "license" : "Open",
+               "name" : "All"
+            }
+         ],
+         "avgEpisodeDurationSeconds" : 3153,
+         "categories" : [
+            [
+               {
+                  "descriptorID" : "90280",
+                  "display" : "TV & Film",
+                  "level" : 1
+               },
+               {
+                  "descriptorID" : "90518",
+                  "display" : "TV",
+                  "level" : 2
+               }
+            ],
+            [
+               {
+                  "descriptorID" : "90280",
+                  "display" : "TV & Film",
+                  "level" : 1
+               },
+               {
+                  "descriptorID" : "90518",
+                  "display" : "TV",
+                  "level" : 2
+               },
+               {
+                  "descriptorID" : "91116",
+                  "display" : "Specific TV Shows",
+                  "level" : 3
+               }
+            ],
+            [
+               {
+                  "descriptorID" : "90280",
+                  "display" : "TV & Film",
+                  "level" : 1
+               },
+               {
+                  "descriptorID" : "90514",
+                  "display" : "TV & Film Commentary & Analysis",
+                  "level" : 2
+               }
+            ]
+         ],
+         "country" : "US",
+         "credits" : [
+            {
+               "name" : "Conan O'Brien",
+               "personID" : "69751",
+               "role" : {
+                  "display" : "Host"
+               }
+            },
+            {
+               "name" : "Andy Richter",
+               "personID" : "172148",
+               "role" : {
+                  "display" : "Host"
+               }
+            }
+         ],
+         "description" : "Give your eyes a rest and consume Conan in audio-form! The Conan Podcast features weekly highlights from monologues, comedy sketches, celebrity interviews, and stand-up sets. Plus: Podcast-exclusives featuring Conan, Andy and more of your favorite Conan staffers.",
+         "editorialStatus" : "enhanced",
+         "language" : "en",
+         "lastPublishDateTime" : "2022-07-22T04:00:00Z",
+         "lastUpdateDateTime" : "2022-07-22T04:54:56Z",
+         "numEpisodes" : 114,
+         "objectType" : "series",
+         "popularity" : {
+            "au" : 0.3,
+            "ca" : 0.4,
+            "de" : 0.2,
+            "es" : 0.1,
+            "fr" : 0.1,
+            "global" : 0.5,
+            "mx" : 0.1,
+            "uk" : 0.3,
+            "us" : 0.5
+         },
+         "recommendedPodcastSeries" : [],
+         "seriesID" : "GA0000N0000HCT3",
+         "seriesRootID" : "GA000180001HM5M",
+         "sourceFeed" : {
+            "author" : "Turner Podcast Network",
+            "categories" : [
+               "Comedy"
+            ],
+            "contentType" : "Episodic",
+            "copyright" : "2021 Turner Podcast Network",
+            "description" : "Give your eyes a rest and consume CONAN in audio-form! The CONAN Podcast features weekly highlights from monologues, comedy sketches, celebrity interviews, and stand-up sets. PLUS: Podcast-exclusives featuring Conan, Andy and more of your favorite CONAN staffers.",
+            "explicitLanguage" : false,
+            "feedUrl" : "https://www.omnycontent.com/d/playlist/d83f52e4-2455-47f4-982e-ab790120b954/801280ce-86d6-4d42-b59f-ab85011b3ce4/e4a84c61-e0d2-4eb8-adba-ab85011b3ced/podcast.rss",
+            "generator" : null,
+            "imageUrl" : "https://www.omnycontent.com/d/playlist/d83f52e4-2455-47f4-982e-ab790120b954/801280ce-86d6-4d42-b59f-ab85011b3ce4/e4a84c61-e0d2-4eb8-adba-ab85011b3ced/image.jpg?t=1584810676&size=Large",
+            "keywords" : [],
+            "language" : "en-US",
+            "owner" : "Turner Podcast Network",
+            "websiteUrl" : "http://knit.audio/"
+         },
+         "subtitle" : null,
+         "summary" : "Give your eyes a rest and consume CONAN in audio-form! The CONAN Podcast features weekly highlights from monologues, comedy sketches, celebrity interviews, and stand-up sets. PLUS: Podcast-exclusives featuring Conan, Andy and more of your favorite CONAN staffers.",
+         "title" : "The Conan Podcast"
+      },
+      {
+         "availabilities" : [
+            {
+               "license" : "Open",
+               "name" : "All"
+            }
+         ],
+         "avgEpisodeDurationSeconds" : 3153,
+         "categories" : [
+            [
+               {
+                  "descriptorID" : "90280",
+                  "display" : "TV & Film",
+                  "level" : 1
+               },
+               {
+                  "descriptorID" : "90518",
+                  "display" : "TV",
+                  "level" : 2
+               }
+            ],
+            [
+               {
+                  "descriptorID" : "90280",
+                  "display" : "TV & Film",
+                  "level" : 1
+               },
+               {
+                  "descriptorID" : "90513",
+                  "display" : "Entertainment Talk",
+                  "level" : 2
+               }
+            ],
+            [
+               {
+                  "descriptorID" : "90265",
+                  "display" : "Comedy",
+                  "level" : 1
+               }
+            ]
+         ],
+         "country" : "US",
+         "credits" : [
+            {
+               "name" : "Mike Sweeney",
+               "personID" : "1310187",
+               "role" : {
+                  "display" : "Host"
+               }
+            },
+            {
+               "name" : "Jessie Gaskell",
+               "personID" : "1310185",
+               "role" : {
+                  "display" : "Host"
+               }
+            },
+            {
+               "name" : "Andy Richter",
+               "personID" : "172148",
+               "role" : {
+                  "display" : "Subject"
+               }
+            },
+            {
+               "name" : "Conan O'Brien",
+               "personID" : "69751",
+               "role" : {
+                  "display" : "Subject"
+               }
+            }
+         ],
+         "description" : "Conan writers Mike Sweeney and Jessie Gaskell, take you behind the pompadour with exclusive and extended versions of their favorite interviews and stand-up from the week in late night, as well as the stories behind them. \r\nDiscover the origins of characters like Crooner Ghost Artie Kendall, and meet people-who-should-be-characters like Jordan Schlansky. Plus find out why the second floor at Team Coco gets all the best snacks and whoâs leaving dirty dishes in Andy Richterâs sink.\r\nEach week Mike and Jessie share the best and spill the dirt on everything Conan, because theyâre pretty sure their boss isnât going to listen anyway.",
+         "editorialStatus" : "enhanced",
+         "language" : "en",
+         "lastPublishDateTime" : "2022-07-22T04:00:00Z",
+         "lastUpdateDateTime" : "2022-07-24T05:00:44Z",
+         "numEpisodes" : 114,
+         "objectType" : "series",
+         "popularity" : {
+            "au" : 0.4,
+            "ca" : 0.5,
+            "de" : 0.3,
+            "es" : 0.1,
+            "fr" : 0.2,
+            "global" : 0.6,
+            "mx" : 0.2,
+            "uk" : 0.3,
+            "us" : 0.6
+         },
+         "recommendedPodcastSeries" : [
+            "GA0000N0000HH74",
+            "GA0000N000000TD",
+            "GA0000N0000HCT3"
+         ],
+         "seriesID" : "GA0000N00006264",
+         "seriesRootID" : "GA0001800008RTZ",
+         "sourceFeed" : {
+            "author" : "Team Coco & Earwolf",
+            "categories" : [
+               "Comedy"
+            ],
+            "contentType" : "Episodic",
+            "copyright" : "2021 Team Coco & Earwolf",
+            "description" : "Conan writers Mike Sweeney and Jessie Gaskell are giving listeners the inside story on some of Conanâs most iconic late-night moments, stretching from his 1993 debut on NBCâs Late Night to his recent CONAN on TBS finale. Starting from the very beginning, theyâll speak with some of Conanâs most iconic guests, writers, and the man himself.\n\nWeâve got all kinds of great stories this season - like that time Conan got in hot water with the government of Finland, or how the Late Night team helped Jack McBrayer land 30 Rock. Other guests include Masturbating Bear creator Brian Reich, former intern Vanessa Bayer, even Liza Powell OâBrien shares what it was like to meet her future husband on a remote involving a chainsaw. Subscribe now!",
+            "explicitLanguage" : true,
+            "feedUrl" : "https://feeds.simplecast.com/_eCNTWZL",
+            "generator" : "https://simplecast.com",
+            "imageUrl" : "https://image.simplecastcdn.com/images/4c34268c-befa-42d1-bc39-a88924fc8e81/c4e38625-0448-4154-ac0e-8f80a541654b/3000x3000/inco-keyart-3000x3000-final-rev2.jpg?aid=rss_feed",
+            "keywords" : [],
+            "language" : "en-US",
+            "owner" : "Team Coco & Earwolf",
+            "websiteUrl" : "https://www.earwolf.com/show/inside-conan-an-important-hollywood-podcast/"
+         },
+         "subtitle" : null,
+         "summary" : "Conan writers Mike Sweeney and Jessie Gaskell are giving listeners the inside story on some of Conanâs most iconic late-night moments, stretching from his 1993 debut on NBCâs Late Night to his recent CONAN on TBS finale. Starting from the very beginning, theyâll speak with some of Conanâs most iconic guests, writers, and the man himself.\n\nWeâve got all kinds of great stories this season - like that time Conan got in hot water with the government of Finland, or how the Late Night team helped Jack McBrayer land 30 Rock. Other guests include Masturbating Bear creator Brian Reich, former intern Vanessa Bayer, even Liza Powell OâBrien shares what it was like to meet her future husband on a remote involving a chainsaw. Subscribe now!",
+         "title" : "Inside Conan: An Important Hollywood Podcast"
+      },
+      {
+         "availabilities" : [
+            {
+               "license" : "Open",
+               "name" : "All"
+            }
+         ],
+         "avgEpisodeDurationSeconds" : 1929,
+         "categories" : [
+            [
+               {
+                  "descriptorID" : "90280",
+                  "display" : "TV & Film",
+                  "level" : 1
+               },
+               {
+                  "descriptorID" : "90518",
+                  "display" : "TV",
+                  "level" : 2
+               },
+               {
+                  "descriptorID" : "91116",
+                  "display" : "Specific TV Shows",
+                  "level" : 3
+               }
+            ],
+            [
+               {
+                  "descriptorID" : "90280",
+                  "display" : "TV & Film",
+                  "level" : 1
+               },
+               {
+                  "descriptorID" : "90514",
+                  "display" : "TV & Film Commentary & Analysis",
+                  "level" : 2
+               }
+            ]
+         ],
+         "country" : "US",
+         "credits" : [
+            {
+               "name" : "Steven Moffat",
+               "personID" : "272683",
+               "role" : {
+                  "display" : "Host"
+               }
+            },
+            {
+               "name" : "Arthur Conan Doyle",
+               "personID" : "289841",
+               "role" : {
+                  "display" : "Subject"
+               }
+            }
+         ],
+         "description" : "Join the producers of the hit BBC series as they discuss the show and how it updates Conan Doyleâs classic tales for 21st-century London.",
+         "editorialStatus" : "enhanced",
+         "language" : "en",
+         "lastPublishDateTime" : "2012-05-08T15:01:00Z",
+         "lastUpdateDateTime" : "2021-05-13T19:05:54Z",
+         "numEpisodes" : 1,
+         "objectType" : "series",
+         "popularity" : {
+            "au" : 0.1,
+            "ca" : 0.1,
+            "de" : 0.1,
+            "es" : 0.1,
+            "fr" : 0.1,
+            "global" : 0.2,
+            "mx" : 0.1,
+            "uk" : 0.1,
+            "us" : 0.2
+         },
+         "recommendedPodcastSeries" : [],
+         "seriesID" : "GA0000N00003N3H",
+         "seriesRootID" : "GA000180000bSCZ",
+         "sourceFeed" : {
+            "author" : "Apple Inc.",
+            "categories" : [
+               "TV & Film"
+            ],
+            "contentType" : null,
+            "copyright" : "â & Â© 2011 Apple Inc.",
+            "description" : "Join the producers of the hit BBC series as they discuss the show and how it updates Conan Doyleâs classic tales for 21st-century London.",
+            "explicitLanguage" : null,
+            "feedUrl" : "http://itstreaming.apple.com/podcasts/filmmaker/standalone/sherlock.xml",
+            "generator" : null,
+            "imageUrl" : "http://itstreaming.apple.com/podcasts/filmmaker/standalone/sherlock.jpg",
+            "keywords" : [
+               "Steven Moffat",
+               "sherlock",
+               "bbc"
+            ],
+            "language" : "en-US",
+            "owner" : "Apple Inc.",
+            "websiteUrl" : "http://www.apple.com"
+         },
+         "subtitle" : null,
+         "summary" : "Join the producers of the hit BBC series as they discuss the show and how it updates Conan Doyleâs classic tales for 21st-century London.",
+         "title" : "Steven Moffat, \"Sherlock\": Meet the Producers"
+      },
+      {
+         "availabilities" : [
+            {
+               "license" : "Open",
+               "name" : "All"
+            }
+         ],
+         "avgEpisodeDurationSeconds" : 3120,
+         "categories" : [
+            [
+               {
+                  "descriptorID" : "90280",
+                  "display" : "TV & Film",
+                  "level" : 1
+               },
+               {
+                  "descriptorID" : "90513",
+                  "display" : "Entertainment Talk",
+                  "level" : 2
+               }
+            ],
+            [
+               {
+                  "descriptorID" : "90280",
+                  "display" : "TV & Film",
+                  "level" : 1
+               },
+               {
+                  "descriptorID" : "90515",
+                  "display" : "TV & Film Business",
+                  "level" : 2
+               }
+            ],
+            [
+               {
+                  "descriptorID" : "90280",
+                  "display" : "TV & Film",
+                  "level" : 1
+               },
+               {
+                  "descriptorID" : "90514",
+                  "display" : "TV & Film Commentary & Analysis",
+                  "level" : 2
+               },
+               {
+                  "descriptorID" : "90914",
+                  "display" : "TV & Film Interviews",
+                  "level" : 3
+               }
+            ]
+         ],
+         "country" : null,
+         "credits" : [
+            {
+               "name" : "Conan O'Brien",
+               "personID" : "69751",
+               "role" : {
+                  "display" : "Host"
+               }
+            },
+            {
+               "name" : "Matt Gourley",
+               "personID" : "906324",
+               "role" : {
+                  "display" : "Co-Host"
+               }
+            },
+            {
+               "name" : "Sona Movsesian",
+               "personID" : "1280951",
+               "role" : {
+                  "display" : "Co-Host"
+               }
+            }
+         ],
+         "description" : "After 25 years at the Late Night desk, Conan realized that the only people at his holiday party are the men and women who work for him. Over the years and despite thousands of interviews, Conan has never made a real and lasting friendship with any of his celebrity guests. So, he started a podcast to do just that. Deeper, unboundedly playful, and free from FCC regulations, Conan OâBrien Needs a Friend is a weekly opportunity for Conan to hang out with the people he enjoys most and perhaps find some real friendship along the way.",
+         "editorialStatus" : "enhanced",
+         "language" : "en",
+         "lastPublishDateTime" : "2021-04-05T04:00:00Z",
+         "lastUpdateDateTime" : "2021-09-28T19:43:51Z",
+         "numEpisodes" : 139,
+         "objectType" : "series",
+         "popularity" : {
+            "au" : 0.1,
+            "ca" : 0.1,
+            "de" : 0.1,
+            "es" : 0.1,
+            "fr" : 0.1,
+            "global" : 0.1,
+            "mx" : 0.1,
+            "uk" : 0.1,
+            "us" : 0.1
+         },
+         "recommendedPodcastSeries" : [],
+         "seriesID" : "GA0000N0001SRVW",
+         "seriesRootID" : "GA000180001NRb8",
+         "sourceFeed" : {
+            "author" : "Podcasts1",
+            "categories" : [
+               "Comedy"
+            ],
+            "contentType" : "Episodic",
+            "copyright" : "Copyright Podcasts1",
+            "description" : "After 25 years at the Late Night desk, Conan realized that the only people at his holiday party are the men and women who work for him.Over the years and despite thousands of interviews, Conan has never made a real and lasting friendship with any of his celebrity guests. So, he started a podcast to do just that.Deeper, unboundedly playful, and free from FCC regulations, Conan OâBrien Needs a Friend is a weekly opportunity for Conan to hang out with the people he enjoys most and perhaps find some real friendship along the way.",
+            "explicitLanguage" : false,
+            "feedUrl" : "https://www.spreaker.com/show/4863921/episodes/feed",
+            "generator" : null,
+            "imageUrl" : "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/13e7326eddab21ec71a15d657e82f486.jpg",
+            "keywords" : [],
+            "language" : "en",
+            "owner" : "Podcasts1",
+            "websiteUrl" : "https://www.spreaker.com/show/conan-o-brien-needs-a-friend_1"
+         },
+         "subtitle" : "After 25 years at the Late Night desk, Conan realized that the only people at his holiday party are the men and women who work for him.Over the years and despite thousands of interviews, Conan has never made a real and lasting friendship with any of...",
+         "summary" : "After 25 years at the Late Night desk, Conan realized that the only people at his holiday party are the men and women who work for him.Over the years and despite thousands of interviews, Conan has never made a real and lasting friendship with any of his celebrity guests. So, he started a podcast to do just that.Deeper, unboundedly playful, and free from FCC regulations, Conan OâBrien Needs a Friend is a weekly opportunity for Conan to hang out with the people he enjoys most and perhaps find some real friendship along the way.",
+         "title" : "Conan OâBrien Needs a Friend"
+      }
+   ]
+}

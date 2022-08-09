@@ -1,0 +1,19 @@
+search do_smartplaylist_search_id_album_track ===========================================
+{
+   "item" : [
+      {
+         "album" : {
+            "albumId" : "GN2NBD1MV953H0G",
+            "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/09E0/511D/FEE4/4C2E_xlarge_front.jpg",
+            "albumName" : "The Silver Scream",
+            "trackCount" : "1"
+         },
+         "artist" : {
+            "artistId" : "GN12EW2MCSHPP2R",
+            "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/AFFC/736D/EFF2/51EF_xlarge_front.jpg",
+            "artistName" : "ICE NINE KILLS"
+         },
+         "releaseYear" : 2018
+      }
+   ]
+}

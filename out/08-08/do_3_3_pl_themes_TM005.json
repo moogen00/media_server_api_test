@@ -1,0 +1,36 @@
+{
+   "childCount" : 3,
+   "data" : [
+      {
+         "parentThemeId" : "TM005",
+         "plThemeId" : "PL013",
+         "plThemeName" : "Weekend on the beach"
+      },
+      {
+         "parentThemeId" : "TM005",
+         "plThemeId" : "PL014",
+         "plThemeName" : "Sunny Day"
+      },
+      {
+         "parentThemeId" : "TM005",
+         "plThemeId" : "PL015",
+         "plThemeName" : "Family Drive"
+      }
+   ],
+   "podData" : [
+      {
+         "podcastCategoryId" : "90271",
+         "podcastCategoryName" : "Music"
+      },
+      {
+         "podcastCategoryId" : "90269",
+         "podcastCategoryName" : "Kids"
+      },
+      {
+         "podcastCategoryId" : "90276",
+         "podcastCategoryName" : "Sports"
+      }
+   ],
+   "themeId" : "TM005",
+   "themeName" : "Sunday Vibes"
+}

@@ -1,0 +1,36 @@
+{
+   "childCount" : 3,
+   "data" : [
+      {
+         "parentThemeId" : "TM008",
+         "plThemeId" : "PL004",
+         "plThemeName" : "Done for the day celebration mix"
+      },
+      {
+         "parentThemeId" : "TM008",
+         "plThemeId" : "PL005",
+         "plThemeName" : "Time for Peace"
+      },
+      {
+         "parentThemeId" : "TM008",
+         "plThemeId" : "PL006",
+         "plThemeName" : "Clean up your brain"
+      }
+   ],
+   "podData" : [
+      {
+         "podcastCategoryId" : "90277",
+         "podcastCategoryName" : "Story Telling"
+      },
+      {
+         "podcastCategoryId" : "90265",
+         "podcastCategoryName" : "Comedy"
+      },
+      {
+         "podcastCategoryId" : "90271",
+         "podcastCategoryName" : "Music"
+      }
+   ],
+   "themeId" : "TM008",
+   "themeName" : "Weekend Evening"
+}

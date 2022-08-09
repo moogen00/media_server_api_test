@@ -1,0 +1,170 @@
+3.6 Aod Playback Endpoint do_playback_aod_offset5_limit10 ===========================================
+{
+   "data" : [
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/d4b6503e-df9e-4e15-8bb0-fcdd4231b2c4/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=d4b6503e-df9e-4e15-8bb0-fcdd4231b2c4&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 28569256
+         },
+         "description" : "They left to join the so-called caliphate and took an oath of allegiance to a terrorist group intent on destroying the West. Now they want to come home. What should the United States do with the American wives of Islamic State fighters? Guest: Rukmini Callimachi, who covers terrorism and the Islamic State for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1766,
+         "episodeID" : "GA0000P0000FGmB",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/d4b6503e-df9e-4e15-8bb0-fcdd4231b2c4/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "They left to join the so-called caliphate and took an oath of allegiance to a terrorist group intent on destroying the West. Now they want to come home. What should the United States do with the American wives of Islamic State fighters? Guest: Rukmini Callimachi, who covers terrorism and the Islamic State for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "They left to join the so-called caliphate and took an oath of allegiance to a terrorist group intent on destroying the West. Now they want to come home. What should the United States do with the American wives of Islamic State fighters? Guest: Rukmini Callimachi, who covers terrorism and the Islamic State for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "The American Women Who Joined ISIS"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/793dbad2-82e9-4a8d-b605-df7744756efc/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=793dbad2-82e9-4a8d-b605-df7744756efc&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 22459118
+         },
+         "description" : "The agency has delivered its report on Judge Brett M. Kavanaugh to the Senate. Republicans say it reveals nothing new â but Democrats say it was specifically designed to reveal nothing new. Guest: Sheryl Gay Stolberg, who covers Congress for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1385,
+         "episodeID" : "GA0000P0000FGZD",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/793dbad2-82e9-4a8d-b605-df7744756efc/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "The agency has delivered its report on Judge Brett M. Kavanaugh to the Senate. Republicans say it reveals nothing new â but Democrats say it was specifically designed to reveal nothing new. Guest: Sheryl Gay Stolberg, who covers Congress for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "The agency has delivered its report on Judge Brett M. Kavanaugh to the Senate. Republicans say it reveals nothing new â but Democrats say it was specifically designed to reveal nothing new. Guest: Sheryl Gay Stolberg, who covers Congress for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "What the F.B.I. Found (and Didnât Find)"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/91519636-f48a-431c-b2cf-920561fc55c4/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=91519636-f48a-431c-b2cf-920561fc55c4&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 30556252
+         },
+         "description" : "This week, âThe Dailyâ is revisiting some of our favorite episodes of the year and checking in on what has happened since the stories first ran. Today, we return to a New York Times investigation into Fred and Donald Trumpâs taxes. After spending much of the past year poring over never-before-seen documents, our colleagues unearthed new information about the presidentâs financial history that contradict his story of being a self-made billionaire. Guests: David Barstow, Susanne Craig and Russ Buettner, investigative reporters for The Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1891,
+         "episodeID" : "GA0000P0000FGh6",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/91519636-f48a-431c-b2cf-920561fc55c4/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "This week, âThe Dailyâ is revisiting some of our favorite episodes of the year and checking in on what has happened since the stories first ran. Today, we return to a New York Times investigation into Fred and Donald Trumpâs taxes. After spending much of the past year poring over never-before-seen documents, our colleagues unearthed new information about the presidentâs financial history that contradict his story of being a self-made billionaire. Guests: David Barstow, Susanne Craig and Russ Buettner, investigative reporters for The Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "This week, âThe Dailyâ is revisiting some of our favorite episodes of the year and checking in on what has happened since the stories first ran. Today, we return to a New York Times investigation into Fred and Donald Trumpâs taxes. After spending much of the past year poring over never-before-seen documents, our colleagues unearthed new information about the presidentâs financial history that contradict his story of being a self-made billionaire. Guests: David Barstow, Susanne Craig and Russ Buettner, investigative reporters for The Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "An Ongoing Look Into the Origins of Trumpâs Wealth"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/b79d4573-f841-4473-bf22-b8fb25143a6f/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=b79d4573-f841-4473-bf22-b8fb25143a6f&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 34829024
+         },
+         "description" : "She gave a raw, reluctant account of sexual assault. He gave an angry, outraged denial. And once again, the United States Senate must take a side. Guest: Kate Zernike, who covers politics for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 2158,
+         "episodeID" : "GA0000P0000FGZ7",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/b79d4573-f841-4473-bf22-b8fb25143a6f/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "She gave a raw, reluctant account of sexual assault. He gave an angry, outraged denial. And once again, the United States Senate must take a side. Guest: Kate Zernike, who covers politics for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "She gave a raw, reluctant account of sexual assault. He gave an angry, outraged denial. And once again, the United States Senate must take a side. Guest: Kate Zernike, who covers politics for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "The Blasey-Kavanaugh Hearing"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/044b90d3-a7a6-4912-8d05-f5105ae58b37/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=044b90d3-a7a6-4912-8d05-f5105ae58b37&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 20336284
+         },
+         "description" : "He burned fast and bright. A play-by-play of the brief and tumultuous tenure of Anthony Scaramucci. And how President Putinâs bet on a Trump presidency backfired spectacularly. Guests: Glenn Thrush, a White House correspondent for The New York Times; David E. Sanger, chief Washington correspondent. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1252,
+         "episodeID" : "GA0000P0000FGJN",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/044b90d3-a7a6-4912-8d05-f5105ae58b37/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "He burned fast and bright. A play-by-play of the brief and tumultuous tenure of Anthony Scaramucci. And how President Putinâs bet on a Trump presidency backfired spectacularly. Guests: Glenn Thrush, a White House correspondent for The New York Times; David E. Sanger, chief Washington correspondent. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "He burned fast and bright. A play-by-play of the brief and tumultuous tenure of Anthony Scaramucci. And how President Putinâs bet on a Trump presidency backfired spectacularly. Guests: Glenn Thrush, a White House correspondent for The New York Times; David E. Sanger, chief Washington correspondent. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Tuesday, Aug. 1, 2017"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/a5ce4e48-8792-4546-b8f0-ea88caf53a1c/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=a5ce4e48-8792-4546-b8f0-ea88caf53a1c&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 20561982
+         },
+         "description" : "At least 12 of the weapons found in the hotel suite used by the gunman who killed 58 people in Las Vegas on Sunday had been modified. He used a device called a bump stock, which enables a semiautomatic rifle to fire faster, and can be purchased online. Guest: C. J. Chivers, a New York Times investigative reporter and Marine veteran. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1266,
+         "episodeID" : "GA0000P0000FGN1",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/a5ce4e48-8792-4546-b8f0-ea88caf53a1c/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "At least 12 of the weapons found in the hotel suite used by the gunman who killed 58 people in Las Vegas on Sunday had been modified. He used a device called a bump stock, which enables a semiautomatic rifle to fire faster, and can be purchased online. Guest: C. J. Chivers, a New York Times investigative reporter and Marine veteran. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "At least 12 of the weapons found in the hotel suite used by the gunman who killed 58 people in Las Vegas on Sunday had been modified. He used a device called a bump stock, which enables a semiautomatic rifle to fire faster, and can be purchased online. Guest: C. J. Chivers, a New York Times investigative reporter and Marine veteran. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Thursday, Oct. 5, 2017"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/80952d28-220d-4a1a-96c6-cdcce4115380/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=80952d28-220d-4a1a-96c6-cdcce4115380&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 19769115
+         },
+         "description" : "The travel ban litigation, live-streamed. And why the 60-year-old words of the novelist James Baldwin captured in the film âI Am Not Your Negroâ are so resonant right now.",
+         "durationSeconds" : 1216,
+         "episodeID" : "GA0000P0000FGDV",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/80952d28-220d-4a1a-96c6-cdcce4115380/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "The travel ban litigation, live-streamed. And why the 60-year-old words of the novelist James Baldwin captured in the film âI Am Not Your Negroâ are so resonant right now.",
+         "summary" : "The travel ban litigation, live-streamed. And why the 60-year-old words of the novelist James Baldwin captured in the film âI Am Not Your Negroâ are so resonant right now.",
+         "title" : "Wednesday, Feb. 8, 2017"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/6c8b67da-c972-4bce-aa67-504e7492e458/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=6c8b67da-c972-4bce-aa67-504e7492e458&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 20462088
+         },
+         "description" : "What was Jeff Sessions, the new attorney general, doing meeting with the Russian ambassador two months before election day? And who is this mysterious Russian ambassador who has caused so much trouble for not one but two senior officials in the Trump White House? Guests: Matthew Rosenberg, a national security reporter for The New York Times; Peter Baker, our chief White House correspondent. For more information on todayâs episode, visit http://nyti.ms/2mRrvQa.",
+         "durationSeconds" : 1260,
+         "episodeID" : "GA0000P0000FGF7",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/6c8b67da-c972-4bce-aa67-504e7492e458/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "What was Jeff Sessions, the new attorney general, doing meeting with the Russian ambassador two months before election day? And who is this mysterious Russian ambassador who has caused so much trouble for not one but two senior officials in the Trump White House? Guests: Matthew Rosenberg, a national security reporter for The New York Times; Peter Baker, our chief White House correspondent. For more information on todayâs episode, visit http://nyti.ms/2mRrvQa.",
+         "summary" : "What was Jeff Sessions, the new attorney general, doing meeting with the Russian ambassador two months before election day? And who is this mysterious Russian ambassador who has caused so much trouble for not one but two senior officials in the Trump White House? Guests: Matthew Rosenberg, a national security reporter for The New York Times; Peter Baker, our chief White House correspondent. For more information on todayâs episode, visit http://nyti.ms/2mRrvQa.",
+         "title" : "Friday, March 3, 2017"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/c9f7e996-6fe6-487f-913f-407296bd43e2/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=c9f7e996-6fe6-487f-913f-407296bd43e2&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 26156373
+         },
+         "description" : "After two crashes of Boeing 737 Max jets, regulators and lawmakers began asking whether competitive pressure may have led the company to miss safety risks, like an anti-stall system that played a role in both crashes. In reporting that story, our colleagues began to look into whether the problems extended beyond the 737 Max. Guest: Natalie Kitroeff, a business reporter for The New York Times, spoke with John Barnett, a former quality manager at Boeing. For more information on todayâs episode, visit nytimes.com/thedaily. Background reading:In an industry where safety is paramount, concerns involving two crucial Boeing plane models â the 737 Max and the 787 Dreamliner â point to potentially systemic problems at the company.",
+         "durationSeconds" : 1616,
+         "episodeID" : "GA0000P0000FGrS",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/c9f7e996-6fe6-487f-913f-407296bd43e2/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "After two crashes of Boeing 737 Max jets, regulators and lawmakers began asking whether competitive pressure may have led the company to miss safety risks, like an anti-stall system that played a role in both crashes. In reporting that story, our colleagues began to look into whether the problems extended beyond the 737 Max. Guest: Natalie Kitroeff, a business reporter for The New York Times, spoke with John Barnett, a former quality manager at Boeing. For more information on todayâs episode, visit nytimes.com/thedaily.\n\nBackground reading:In an industry where safety is paramount, concerns involving two crucial Boeing plane models â the 737 Max and the 787 Dreamliner â point to potentially systemic problems at the company.",
+         "summary" : "After two crashes of Boeing 737 Max jets, regulators and lawmakers began asking whether competitive pressure may have led the company to miss safety risks, like an anti-stall system that played a role in both crashes. In reporting that story, our colleagues began to look into whether the problems extended beyond the 737 Max. Guest: Natalie Kitroeff, a business reporter for The New York Times, spoke with John Barnett, a former quality manager at Boeing. For more information on todayâs episode, visit nytimes.com/thedaily.\n\nBackground reading:In an industry where safety is paramount, concerns involving two crucial Boeing plane models â the 737 Max and the 787 Dreamliner â point to potentially systemic problems at the company.",
+         "title" : "The Whistle-Blowers at Boeing"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/f86aa677-52cc-4a00-848b-7715d3bcd043/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=f86aa677-52cc-4a00-848b-7715d3bcd043&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 21375337
+         },
+         "description" : "Bill Cosby has been convicted of sexual assault following years of accusations from dozens of women. What changed between the first trial, which ended in a hung jury, and this one? Guests: Graham Bowley, an investigative reporter at The Times who has been covering the Cosby proceedings; Lili Bernard, a former guest star on âThe Cosby Showâ and one of more than 50 women who have spoken out against the entertainer. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1317,
+         "episodeID" : "GA0000P0000FGTJ",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/f86aa677-52cc-4a00-848b-7715d3bcd043/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "Bill Cosby has been convicted of sexual assault following years of accusations from dozens of women. What changed between the first trial, which ended in a hung jury, and this one? Guests: Graham Bowley, an investigative reporter at The Times who has been covering the Cosby proceedings; Lili Bernard, a former guest star on âThe Cosby Showâ and one of more than 50 women who have spoken out against the entertainer. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "Bill Cosby has been convicted of sexual assault following years of accusations from dozens of women. What changed between the first trial, which ended in a hung jury, and this one? Guests: Graham Bowley, an investigative reporter at The Times who has been covering the Cosby proceedings; Lili Bernard, a former guest star on âThe Cosby Showâ and one of more than 50 women who have spoken out against the entertainer. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "The Cosby Verdict and #MeToo"
+      }
+   ],
+   "meta" : {
+      "limit" : 10,
+      "offset" : 5,
+      "total" : 1593
+   }
+}

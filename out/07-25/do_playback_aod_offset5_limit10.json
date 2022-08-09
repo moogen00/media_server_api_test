@@ -1,0 +1,170 @@
+3.6 Aod Playback Endpoint do_playback_aod_offset5_limit10 ===========================================
+{
+   "data" : [
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/e3f25915-ffd3-4449-ada4-a7745f978c6c/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=e3f25915-ffd3-4449-ada4-a7745f978c6c&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 40065672
+         },
+         "description" : "As the Baltimore Police Department tried to repair its public image, a corruption trial exposed the startling depths of misconduct and delivered a fresh blow to the communityâs trust. An elite group of officers â part of a task force created during the peak of zero-tolerance policing â had been stealing from residents for years. For more information on todayâs episode, visit nytimes.com/thedaily. This episode includes disturbing language and scenes of graphic violence.",
+         "durationSeconds" : 2485,
+         "episodeID" : "GA0000P0000FGVN",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/e3f25915-ffd3-4449-ada4-a7745f978c6c/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "As the Baltimore Police Department tried to repair its public image, a corruption trial exposed the startling depths of misconduct and delivered a fresh blow to the communityâs trust. An elite group of officers â part of a task force created during the peak of zero-tolerance policing â had been stealing from residents for years. For more information on todayâs episode, visit nytimes.com/thedaily.\n\nThis episode includes disturbing language and scenes of graphic violence.",
+         "summary" : "As the Baltimore Police Department tried to repair its public image, a corruption trial exposed the startling depths of misconduct and delivered a fresh blow to the communityâs trust. An elite group of officers â part of a task force created during the peak of zero-tolerance policing â had been stealing from residents for years. For more information on todayâs episode, visit nytimes.com/thedaily.\n\nThis episode includes disturbing language and scenes of graphic violence.",
+         "title" : "âCharm City,â Part 4: The Police Scandal That Shook Baltimore"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/28d19c72-bb1f-4938-baca-3d1dea744d17/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=28d19c72-bb1f-4938-baca-3d1dea744d17&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 18913133
+         },
+         "description" : "Hurricane Irma roared into Florida, where, in the wake of Hurricane Harvey, an apocalyptic forecast forced one of the largest evacuations in American history. Guests: Jean Eisen, a 93-year-old in Miami who refused to evacuate; Antonella Giannantonio, a 51-year-old Miami resident who drove north on Wednesday and stopped in Tampa, where she is now in the path of the storm; Jess Bidgood, a Times reporter in Tampa. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1163,
+         "episodeID" : "GA0000P0000FGMH",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/28d19c72-bb1f-4938-baca-3d1dea744d17/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "Hurricane Irma roared into Florida, where, in the wake of Hurricane Harvey, an apocalyptic forecast forced one of the largest evacuations in American history. Guests: Jean Eisen, a 93-year-old in Miami who refused to evacuate;Â Antonella Giannantonio, a 51-year-old Miami resident who drove north on Wednesday and stopped in Tampa, where she is now in the path of the storm; Jess Bidgood, a Times reporter in Tampa. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "Hurricane Irma roared into Florida, where, in the wake of Hurricane Harvey, an apocalyptic forecast forced one of the largest evacuations in American history. Guests: Jean Eisen, a 93-year-old in Miami who refused to evacuate;Â Antonella Giannantonio, a 51-year-old Miami resident who drove north on Wednesday and stopped in Tampa, where she is now in the path of the storm; Jess Bidgood, a Times reporter in Tampa. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Monday, Sept. 11, 2017"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/58edab8a-0221-4045-956d-68388dbe0188/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=58edab8a-0221-4045-956d-68388dbe0188&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 20189998
+         },
+         "description" : "For months, the federal investigation into possible links between the Trump campaign and Russia focused on Washington. Now, the inquiry has led back to New York, the presidentâs hometown, and to one man: Michael D. Cohen. Guest: Jim Rutenberg, who has been reporting on Mr. Cohen, President Trumpâs longtime personal lawyer, for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1243,
+         "episodeID" : "GA0000P0000FGT8",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/58edab8a-0221-4045-956d-68388dbe0188/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "For months, the federal investigation into possible links between the Trump campaign and Russia focused on Washington. Now, the inquiry has led back to New York, the presidentâs hometown, and to one man: Michael D. Cohen. Guest: Jim Rutenberg, who has been reporting on Mr. Cohen, President Trumpâs longtime personal lawyer, for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "For months, the federal investigation into possible links between the Trump campaign and Russia focused on Washington. Now, the inquiry has led back to New York, the presidentâs hometown, and to one man: Michael D. Cohen. Guest: Jim Rutenberg, who has been reporting on Mr. Cohen, President Trumpâs longtime personal lawyer, for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Tuesday, Apr. 17, 2018"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/3f2d70dd-b754-4702-89bd-b67e11a1784b/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=3f2d70dd-b754-4702-89bd-b67e11a1784b&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 27690699
+         },
+         "description" : "Last week, a long-awaited report showed that the worst consequences of global warming would occur even sooner than previously thought. Hereâs the story behind the findings. Guests: Coral Davenport, who covers energy and the environment for The New York Times, and William D. Nordhaus, who was awarded a Nobel this year for his work on the economics of climate change. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1712,
+         "episodeID" : "GA0000P0000FGZT",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/3f2d70dd-b754-4702-89bd-b67e11a1784b/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "Last week, a long-awaited report showed that the worst consequences of global warming would occur even sooner than previously thought. Hereâs the story behind the findings. Guests: Coral Davenport, who covers energy and the environment for The New York Times, and William D. Nordhaus, who was awarded a Nobel this year for his work on the economics of climate change. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "Last week, a long-awaited report showed that the worst consequences of global warming would occur even sooner than previously thought. Hereâs the story behind the findings. Guests: Coral Davenport, who covers energy and the environment for The New York Times, and William D. Nordhaus, who was awarded a Nobel this year for his work on the economics of climate change. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "A New Climate Tipping Point"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/b2db8ac0-2059-4722-9c72-64c73a95a8a7/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=b2db8ac0-2059-4722-9c72-64c73a95a8a7&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 22484175
+         },
+         "description" : "What weâve learned about President Trumpâs Oval Office meeting with top Russian officials the day after he fired James Comey, the F.B.I. director investigating his campaignâs ties to Russia. Plus: how efforts by the U.S. government to protect against a cyberattack may have enabled one. Guests: Matthew Rosenberg, who covers intelligence and national security; David E. Sanger, the chief Washington correspondent for The Times. For more information on todayâs episode, visit http://nyti.ms/2pVBUrl.",
+         "durationSeconds" : 1386,
+         "episodeID" : "GA0000P0000FGGh",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/b2db8ac0-2059-4722-9c72-64c73a95a8a7/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "What weâve learned about President Trumpâs Oval Office meeting with top Russian officials the day after he fired James Comey, the F.B.I. director investigating his campaignâs ties to Russia. Plus: how efforts by the U.S. government to protect against a cyberattack may have enabled one. Guests: Matthew Rosenberg, who covers intelligence and national security; David E. Sanger, the chief Washington correspondent for The Times. For more information on todayâs episode, visit http://nyti.ms/2pVBUrl.",
+         "summary" : "What weâve learned about President Trumpâs Oval Office meeting with top Russian officials the day after he fired James Comey, the F.B.I. director investigating his campaignâs ties to Russia. Plus: how efforts by the U.S. government to protect against a cyberattack may have enabled one. Guests: Matthew Rosenberg, who covers intelligence and national security; David E. Sanger, the chief Washington correspondent for The Times. For more information on todayâs episode, visit http://nyti.ms/2pVBUrl.",
+         "title" : "Tuesday, May 16, 2017"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/439dcddf-5cff-4426-94f3-d9d7bdbf51da/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=439dcddf-5cff-4426-94f3-d9d7bdbf51da&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 23825839
+         },
+         "description" : "While on his way to the historic summit meeting with Kim Jong-un of North Korea, President Trump isolated himself from other world leaders by refusing to endorse a joint statement of the Group of 7 nations, which had just met in Canada. Why is the president picking fights with Americaâs closest allies and embracing its longtime opponents? Guest: Mark Landler, a White House correspondent for The New York Times, who is reporting from Singapore on the talks between Mr. Trump and Mr. Kim. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1470,
+         "episodeID" : "GA0000P0000FGVS",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/439dcddf-5cff-4426-94f3-d9d7bdbf51da/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "While on his way to the historic summit meeting with Kim Jong-un of North Korea, President Trump isolated himself from other world leaders by refusing to endorse a joint statement of the Group of 7 nations, which had just met in Canada. Why is the president picking fights with Americaâs closest allies and embracing its longtime opponents? Guest: Mark Landler, a White House correspondent for The New York Times, who is reporting from Singapore on the talks between Mr. Trump and Mr. Kim. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "While on his way to the historic summit meeting with Kim Jong-un of North Korea, President Trump isolated himself from other world leaders by refusing to endorse a joint statement of the Group of 7 nations, which had just met in Canada. Why is the president picking fights with Americaâs closest allies and embracing its longtime opponents? Guest: Mark Landler, a White House correspondent for The New York Times, who is reporting from Singapore on the talks between Mr. Trump and Mr. Kim. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "Alienating Allies and Wooing Enemies"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/d7144935-6a2c-424a-8ef7-38d25f142330/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=d7144935-6a2c-424a-8ef7-38d25f142330&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 24283493
+         },
+         "description" : "The Trump administrationâs recent border policy is, in part, a response to the large numbers of migrants who have been making the journey to the United States from Central America. For many, staying in their native countries is no longer an option. Guest: Azam Ahmed, the New York Times bureau chief for Mexico, Central America and the Caribbean. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1499,
+         "episodeID" : "GA0000P0000FGW2",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/d7144935-6a2c-424a-8ef7-38d25f142330/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "The Trump administrationâs recent border policy is, in part, a response to the large numbers of migrants who have been making the journey to the United States from Central America. For many, staying in their native countries is no longer an option. Guest: Azam Ahmed, the New York Times bureau chief for Mexico, Central America and the Caribbean. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "The Trump administrationâs recent border policy is, in part, a response to the large numbers of migrants who have been making the journey to the United States from Central America. For many, staying in their native countries is no longer an option. Guest: Azam Ahmed, the New York Times bureau chief for Mexico, Central America and the Caribbean. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "What Migrants Are Fleeing"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/4b71b140-ff1d-4751-ad29-9eff8fb2f1da/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=4b71b140-ff1d-4751-ad29-9eff8fb2f1da&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 33605257
+         },
+         "description" : "The New York Times has introduced a documentary audio series that follows Rukmini Callimachi, who covers terrorism for The Times, on her quest to understand ISIS. Today, as a special episode of âThe Daily,â we offer Chapter 8 of âCaliphate,â in which Rukmini finds a trove of secret documents that lead her to the mother of an ISIS official. For more information about the series, visit nytimes.com/caliphate. This episode includes disturbing language and scenes of graphic violence.",
+         "durationSeconds" : 2081,
+         "episodeID" : "GA0000P0000FGVR",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/4b71b140-ff1d-4751-ad29-9eff8fb2f1da/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "The New York Times has introduced a documentary audio series that follows Rukmini Callimachi, who covers terrorism for The Times, on her quest to understand ISIS. Today, as a special episode of âThe Daily,â we offer Chapter 8 of âCaliphate,â in which Rukmini finds a trove of secret documents that lead her to the mother of an ISIS official. For more information about the series, visit nytimes.com/caliphate.\n\nThis episode includes disturbing language and scenes of graphic violence.",
+         "summary" : "The New York Times has introduced a documentary audio series that follows Rukmini Callimachi, who covers terrorism for The Times, on her quest to understand ISIS. Today, as a special episode of âThe Daily,â we offer Chapter 8 of âCaliphate,â in which Rukmini finds a trove of secret documents that lead her to the mother of an ISIS official. For more information about the series, visit nytimes.com/caliphate.\n\nThis episode includes disturbing language and scenes of graphic violence.",
+         "title" : "The Daily Presents âCaliphate,â Chapter 8"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/a430855a-5b06-4453-954a-ef7452f53b3a/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=a430855a-5b06-4453-954a-ef7452f53b3a&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 34141064
+         },
+         "description" : "Senator John McCain was proud of his reputation as a maverick in American politics. Through pivotal moments in his life â as a prisoner of war, a young congressman, a presidential candidate, and, ultimately, an elder statesman â that reputation was both validated and challenged. Guests: Elisabeth Bumiller, the Washington bureau chief for The New York Times; Carl Hulse, The Timesâs chief Washington correspondent; Mark Landler, who covers the White House for The Times; and Scott Shane, who writes about national security for The Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 2115,
+         "episodeID" : "GA0000P0000FGXJ",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/a430855a-5b06-4453-954a-ef7452f53b3a/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "Senator John McCain was proud of his reputation as a maverick in American politics. Through pivotal moments in his life â as a prisoner of war, a young congressman, a presidential candidate, and, ultimately, an elder statesman â that reputation was both validated and challenged. Guests: Elisabeth Bumiller, the Washington bureau chief for The New York Times; Carl Hulse, The Timesâs chief Washington correspondent; Mark Landler, who covers the White House for The Times; and Scott Shane, who writes about national security for The Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "Senator John McCain was proud of his reputation as a maverick in American politics. Through pivotal moments in his life â as a prisoner of war, a young congressman, a presidential candidate, and, ultimately, an elder statesman â that reputation was both validated and challenged. Guests: Elisabeth Bumiller, the Washington bureau chief for The New York Times; Carl Hulse, The Timesâs chief Washington correspondent; Mark Landler, who covers the White House for The Times; and Scott Shane, who writes about national security for The Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "The Paradoxes of John McCain"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/ed675ad7-fc2f-4c48-8f07-626c321fd4a3/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=ed675ad7-fc2f-4c48-8f07-626c321fd4a3&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 23925731
+         },
+         "description" : "Nearly 30 million Latinos in the United States are eligible to vote, representing almost 13 percent of the American electorate. Why is so little attention being paid to them in the midterm elections? Guest: Jose A. Del Real, a national correspondent for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "durationSeconds" : 1476,
+         "episodeID" : "GA0000P0000FGZb",
+         "imageUrl" : "https://image.simplecastcdn.com/images/03d8b4/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/ed675ad7-fc2f-4c48-8f07-626c321fd4a3/3000x3000/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg?aid=rss_feed",
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "Nearly 30 million Latinos in the United States are eligible to vote, representing almost 13 percent of the American electorate. Why is so little attention being paid to them in the midterm elections? Guest: Jose A. Del Real, a national correspondent for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "summary" : "Nearly 30 million Latinos in the United States are eligible to vote, representing almost 13 percent of the American electorate. Why is so little attention being paid to them in the midterm elections? Guest: Jose A. Del Real, a national correspondent for The New York Times. For more information on todayâs episode, visit nytimes.com/thedaily.",
+         "title" : "The Voters Both Parties Are Ignoring"
+      }
+   ],
+   "meta" : {
+      "limit" : 10,
+      "offset" : 5,
+      "total" : 1581
+   }
+}

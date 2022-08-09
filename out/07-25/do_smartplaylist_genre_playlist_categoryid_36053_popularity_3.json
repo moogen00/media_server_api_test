@@ -1,0 +1,79 @@
+Smart PlayList By Genre Endpoint do_smartplaylist_genre_playlist_categoryid ===========================================
+{
+   "descType" : "genre",
+   "limit" : 3,
+   "trackList" : [
+      {
+         "album" : {
+            "albumID" : "GN9WFRVKQM86R1J",
+            "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/CE0A/DA99/8AD9/60F7_medium_front.jpg",
+            "albumName" : "The Greatest Hits Of The 80's",
+            "trackCount" : "138"
+         },
+         "artist" : {
+            "artistId" : "GN5YEMTW4NW5NBS",
+            "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/CAA1/B039/2D77/C556_xlarge_front.jpg",
+            "artistName" : "Journey"
+         },
+         "category" : {
+            "genreId" : "18804",
+            "genreName" : "Power Ballad",
+            "moodId" : "90097",
+            "moodName" : "Dark Loud Strumming Ramshackle Ballad"
+         },
+         "duration" : "252733",
+         "releaseYear" : 1981,
+         "tidalTrackId" : "1290294",
+         "trackId" : "GN3C81KW961XBSH",
+         "trackName" : "Don't Stop Believin'"
+      },
+      {
+         "album" : {
+            "albumID" : "GNCDNJXM8SADXR2",
+            "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/CB90/E0BC/6ACB/DAC5_xlarge_front.jpg",
+            "albumName" : "Appetite For Destruction",
+            "trackCount" : "12"
+         },
+         "artist" : {
+            "artistId" : "GN9PSA15CBMRGAC",
+            "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/AC62/105C/4F84/BAB3_xlarge_front.jpg",
+            "artistName" : "Guns N' Roses"
+         },
+         "category" : {
+            "genreId" : "2682",
+            "genreName" : "Pop Metal",
+            "moodId" : "34373",
+            "moodName" : "Loud Strumming Melancholy"
+         },
+         "duration" : "356400",
+         "releaseYear" : 1987,
+         "tidalTrackId" : "91059922",
+         "trackId" : "GN1QQVGSXXSJS54",
+         "trackName" : "Sweet Child O' Mine"
+      },
+      {
+         "album" : {
+            "albumID" : "GN9M90CSGAF09SR",
+            "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/A892/B152/3518/3B28_xlarge_front.jpg",
+            "albumName" : "Now This Is Music 8, Vol. 1",
+            "trackCount" : "14"
+         },
+         "artist" : {
+            "artistId" : "GNAW7TXP7F98F2E",
+            "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/F604/EB94/9AB0/2130_xlarge_front.jpg",
+            "artistName" : "Whitesnake"
+         },
+         "category" : {
+            "genreId" : "2682",
+            "genreName" : "Pop Metal",
+            "moodId" : "34385",
+            "moodName" : "Tough Loud Party"
+         },
+         "duration" : "275306",
+         "releaseYear" : 1987,
+         "tidalTrackId" : "121727627",
+         "trackId" : "GN7X09K57PW2AXA",
+         "trackName" : "Here I Go Again '87"
+      }
+   ]
+}

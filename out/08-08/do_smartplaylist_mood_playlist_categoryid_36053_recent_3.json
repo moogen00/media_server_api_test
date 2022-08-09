@@ -1,0 +1,6 @@
+Smart PlayList By Genre Endpoint do_smartplaylist_mood_playlist_categoryid ===========================================
+{
+   "descType" : "mood",
+   "limit" : 0,
+   "trackList" : []
+}

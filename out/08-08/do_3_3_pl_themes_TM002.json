@@ -1,0 +1,36 @@
+{
+   "childCount" : 3,
+   "data" : [
+      {
+         "parentThemeId" : "TM002",
+         "plThemeId" : "PL004",
+         "plThemeName" : "Done for the day celebration mix"
+      },
+      {
+         "parentThemeId" : "TM002",
+         "plThemeId" : "PL005",
+         "plThemeName" : "Time for Peace"
+      },
+      {
+         "parentThemeId" : "TM002",
+         "plThemeId" : "PL006",
+         "plThemeName" : "Clean up your brain"
+      }
+   ],
+   "podData" : [
+      {
+         "podcastCategoryId" : "90277",
+         "podcastCategoryName" : "Story Telling"
+      },
+      {
+         "podcastCategoryId" : "90265",
+         "podcastCategoryName" : "Comedy"
+      },
+      {
+         "podcastCategoryId" : "90279",
+         "podcastCategoryName" : "True Crime"
+      }
+   ],
+   "themeId" : "TM002",
+   "themeName" : "Unwind"
+}

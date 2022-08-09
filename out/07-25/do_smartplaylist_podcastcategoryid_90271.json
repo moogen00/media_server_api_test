@@ -1,0 +1,528 @@
+3.4 Smart PlayList Endpoint\n3.4.2 By Podcast Series ID do_smartplaylist_podcastcategoryid ===========================================
+{
+   "data" : [
+      {
+         "seriesId" : "GA0000N000000PG",
+         "sourceFeed" : {
+            "author" : "Loud Speakers Network",
+            "categories" : [
+               "Comedy"
+            ],
+            "contentType" : null,
+            "description" : "Join bloggers Kid Fury and Crissle for their weekly podcast covering hip-hop and pop culture's most trying stars. Throwing shade and spilling tea with a flippant and humorous attitude, no star is safe from Fury and Crissle unless their name is BeyoncÃ©. (Or Blue Ivy.)\n\nAs transplants to New York City (Kid Fury from Miami and Crissle from Oklahoma City), The Read also serves as an on-air therapy session for two friends trying to adjust to life (and rats) in the big city.\n\nThe Read is part of the LoudSpeakers Network and is published every week on iTunes, iHeart Radio Talk, Soundcloud & Stitcher.",
+            "imageUrl" : "https://i1.sndcdn.com/avatars-000509949912-3iu5k0-original.jpg",
+            "language" : "en",
+            "owner" : "The Read"
+         },
+         "subtitle" : "Join bloggers Kid Fury and Crissle for their weekâ¦",
+         "summary" : null,
+         "title" : "The Read"
+      },
+      {
+         "seriesId" : "GA0000N000000Pm",
+         "sourceFeed" : {
+            "author" : "Desus Nice & THE KID MERO",
+            "categories" : [
+               "Comedy"
+            ],
+            "contentType" : null,
+            "description" : "Desus Nice (@Desusnice) and The Kid Mero (@thekidmero) are the Bodega Boys \nhttps://twitter.com/BodegaBoys",
+            "imageUrl" : "https://i1.sndcdn.com/avatars-000640749609-23bmyn-original.jpg",
+            "language" : "en",
+            "owner" : "Bodega Boys"
+         },
+         "subtitle" : "Desus Nice (@Desusnice) and The Kid Mero (@thekidâ¦",
+         "summary" : null,
+         "title" : "Bodega Boys"
+      },
+      {
+         "seriesId" : "GA0000N0000MSh2",
+         "sourceFeed" : {
+            "author" : "PodcastOne",
+            "categories" : [
+               "Society & Culture",
+               "Music",
+               "Business"
+            ],
+            "contentType" : "Episodic",
+            "description" : "The multi-hyphenate Rapper, Actor, Entrepreneur, Family Man, Philanthropist and Activist, Tip \"T.I.\" Harris is bridging the gap and shedding light on important social topics and much more in an authentic, eyebrow-raising dialogue that might make you want to pull out your dictionaryâ¦expeditiously.",
+            "imageUrl" : "https://img.podcastone.com/images/1996/EXPEDITIOUSLY3000X3000.png",
+            "language" : "en-US",
+            "owner" : "PodcastOne"
+         },
+         "subtitle" : "The multi-hyphenate Rapper, Actor, Entrepreneur, Family Man, Philanthropist and Activist, Tip \"T.I.\" Harris is bridging the gap and shedding light on important social topics and much more in an authentic, eyebrow-raising dialogue...",
+         "summary" : "The multi-hyphenate Rapper, Actor, Entrepreneur, Family Man, Philanthropist and Activist, Tip \"T.I.\" Harris is bridging the gap and shedding light on important social topics and much more in an authentic, eyebrow-raising dialogue that might make you want to pull out your dictionaryâ¦expeditiously.",
+         "title" : "ExpediTIously With Tip \"T.I.\" Harris"
+      },
+      {
+         "seriesId" : "GA0000N0000NC2B",
+         "sourceFeed" : {
+            "author" : "WNYC Studios & OSM Audio",
+            "categories" : [
+               "Music",
+               "Society & Culture"
+            ],
+            "contentType" : "Serial",
+            "description" : "The story of a legend at the crossroads of Americaâs culture wars.",
+            "imageUrl" : "https://media.wnyc.org/i/1400/1400/l/80/2019/09/dolly-parton-america-logo-unbranded.jpg",
+            "language" : "en-US",
+            "owner" : "WNYC Studios & OSM Audio"
+         },
+         "subtitle" : "In this intensely divided moment, one of the few things everyone still seems to agree on is Dolly Partonâbut why? That simple question leads to a deeply personal, historical, and musical rethinking of one of Americaâs great icons. Join us for a 9-episode",
+         "summary" : "In this intensely divided moment, one of the few things everyone still seems to agree on is Dolly Partonâbut why? That simple question leads to a deeply personal, historical, and musical rethinking of one of Americaâs great icons. Join us for a 9-episode journey into the Dollyverse. Hosted by Jad Abumrad. Produced and reported by Shima Oliaee. Dolly Partonâs America is a production from OSM Audio and WNYC Studios.",
+         "title" : "Dolly Parton's America"
+      },
+      {
+         "seriesId" : "GA0000N00000008",
+         "sourceFeed" : {
+            "author" : "Snap Judgment and PRX",
+            "categories" : [
+               "Arts"
+            ],
+            "contentType" : "Episodic",
+            "description" : "<p>Snap Judgment (Storytelling, with a BEAT) mixes real stories with killer beats to produce cinematic, dramatic, kick-ass radio. Snapâs raw, musical brand of storytelling dares listeners to see the world through the eyes of another.</p>",
+            "imageUrl" : "https://f.prxu.org/320/images/dda44d31-2ea0-427b-b8e2-d8b8a55cd582/SnapPRX.jpg",
+            "language" : "en-US",
+            "owner" : "Snap Judgment and PRX"
+         },
+         "subtitle" : "Snap Judgment (Storytelling, with a BEAT) mixes real stories with killer beats to produce cinematic, dramatic, kick-ass radio. Snapâs raw, musical brand of storytelling dares listeners to see the world through the eyes of another. \r\nWNYC Studios is a list",
+         "summary" : "Snap Judgment (Storytelling, with a BEAT) mixes real stories with killer beats to produce cinematic, dramatic, kick-ass radio. Snapâs raw, musical brand of storytelling dares listeners to see the world through the eyes of another.",
+         "title" : "Snap Judgment"
+      },
+      {
+         "seriesId" : "GA0000N000000SC",
+         "sourceFeed" : {
+            "author" : "Barstool Sports",
+            "categories" : [
+               "Music"
+            ],
+            "contentType" : null,
+            "description" : "The Million Dollaz Worth of Game show, a weekly podcast with rapper/actor @GillieDaKing and social media influencer and disruptor @Wallo267 - The perfect blend of discussing music, real life issues, personal experiences, honest advice and comedy",
+            "imageUrl" : "https://chumley.barstoolsports.com/union/2021/01/06/BARSTOOL-2021-0002-MDWOGxNAV-2500x2500px.b691effe.jpg?crop=1400%3A1400%2Csmart",
+            "language" : "en-US",
+            "owner" : "Barstool Sports"
+         },
+         "subtitle" : "The Million Dollaz Worth of Game show, a weekly podcast with rapper/actor @GillieDaKing and social media influencer and disruptor @Wallo267 - The perfect blend of discussing music, real life issues, personal experiences, honest advice and comedy",
+         "summary" : null,
+         "title" : "Million Dollaz Worth of Game"
+      },
+      {
+         "seriesId" : "GA0000N000000TJ",
+         "sourceFeed" : {
+            "author" : "iHeartPodcasts",
+            "categories" : [
+               "Comedy",
+               "Music",
+               "Arts"
+            ],
+            "contentType" : "Episodic",
+            "description" : "Listen to 'The Bobby Bones Show' by downloading the daily full replay.",
+            "imageUrl" : "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/a4a372db-132b-4b16-8f9c-ae27017c48cd/473a2576-d031-4145-922c-ae27017c48d6/image.jpg?t=1643065489&size=Large",
+            "language" : "en-US",
+            "owner" : "iHeartPodcasts"
+         },
+         "subtitle" : null,
+         "summary" : "Listen to 'The Bobby Bones Show' by downloading the daily full replay.",
+         "title" : "The Bobby Bones Show"
+      },
+      {
+         "seriesId" : "GA0000N000002B3",
+         "sourceFeed" : {
+            "author" : "TiÃ«sto",
+            "categories" : [
+               "Music"
+            ],
+            "contentType" : "Episodic",
+            "description" : "Subscribe to CLUBLIFE by TiÃ«sto for an hour of the best club tracks from around the world with your favorite DJ. For more info about TiÃ«sto please visit www.tiesto.com<br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+            "imageUrl" : "https://assets.pippa.io/shows/593eded1acfa040562f3480b/1498193742563-410dd1ca1771ce4bbe597ed412704d37.jpg",
+            "language" : "en",
+            "owner" : "TiÃ«sto"
+         },
+         "subtitle" : "Subscribe to CLUBLIFE by TiÃ«sto for an hour of the best club tracks from around the world with your favorite DJ.",
+         "summary" : "Subscribe to CLUBLIFE by TiÃ«sto for an hour of the best club tracks from around the world with your favorite DJ. For more info about TiÃ«sto please visit www.tiesto.com<br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+         "title" : "Clublife"
+      },
+      {
+         "seriesId" : "GA0000N000002BP",
+         "sourceFeed" : {
+            "author" : "Above & Beyond",
+            "categories" : [
+               "Music"
+            ],
+            "contentType" : null,
+            "description" : "Group Therapy is the weekly radio show from Above & Beyond also known as ABGT",
+            "imageUrl" : "http://static.aboveandbeyond.nu/assets/logos/Group_Therapy_Podcast_600x600.jpg",
+            "language" : "en",
+            "owner" : "Above & Beyond"
+         },
+         "subtitle" : null,
+         "summary" : "Group Therapy is the weekly radio show from Above & Beyond also known as ABGT",
+         "title" : "Above & Beyond: Group Therapy"
+      },
+      {
+         "seriesId" : "GA0000N000002BW",
+         "sourceFeed" : {
+            "author" : "Hrishikesh Hirway",
+            "categories" : [
+               "Music"
+            ],
+            "contentType" : "Episodic",
+            "description" : "<p>Song Exploder is a podcast where musicians take apart their songs, and piece by piece, tell the story of how they were made. Each episode features an artist discussing a song of theirs, breaking down the sounds and ideas that went into the writing and recording. Hosted and produced by Hrishikesh Hirway.</p>",
+            "imageUrl" : "https://f.prxu.org/song-exploder/images/21201be4-830d-49ca-ac82-310d64511f5d/songexploder-logo.png",
+            "language" : "en",
+            "owner" : "Hrishikesh Hirway"
+         },
+         "subtitle" : "Song Exploder",
+         "summary" : "Song Exploder is a podcast where musicians take apart their songs, and piece by piece, tell the story of how they were made. Each episode features an artist discussing a song of theirs, breaking down the sounds and ideas that went into the writing and recording. Hosted and produced by Hrishikesh Hirway.",
+         "title" : "Song Exploder"
+      },
+      {
+         "seriesId" : "GA0000N000002C2",
+         "sourceFeed" : {
+            "author" : "The Black Effect and iHeartPodcasts",
+            "categories" : [
+               "Music",
+               "Society & Culture"
+            ],
+            "contentType" : "Episodic",
+            "description" : "Legendary Queens rapper-turned show host N.O.R.E. teams up with Miami hip-hop pioneer DJ EFN for a night of boozy conversation and boisterous storytelling. The hosts and guests engage together in fun, light-hearted conversation - looking back at their paths to success, highlighting their lives, friendships, and iconic moments within their career. In this unfiltered series, drinks are flowing and jokes are rolling - take a seat at the table with N.O.R.E & EFN. You Gotta Relax!",
+            "imageUrl" : "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/df6d181a-09ea-4bf2-adc6-ae33005f650d/image.jpg?t=1644040042&size=Large",
+            "language" : "en-US",
+            "owner" : "The Black Effect and iHeartPodcasts"
+         },
+         "subtitle" : null,
+         "summary" : "Legendary Queens rapper-turned show host N.O.R.E. teams up with Miami hip-hop pioneer DJ EFN for a night of boozy conversation and boisterous storytelling. The hosts and guests engage together in fun, light-hearted conversation - looking back at their paths to success, highlighting their lives, friendships, and iconic moments within their career. In this unfiltered series, drinks are flowing and jokes are rolling - take a seat at the table with N.O.R.E & EFN. You Gotta Relax!",
+         "title" : "Drink Champs"
+      },
+      {
+         "seriesId" : "GA0000N000002CP",
+         "sourceFeed" : {
+            "author" : "Cole Cuchna | Spotify",
+            "categories" : [
+               "Music",
+               "Arts",
+               "Society & Culture"
+            ],
+            "contentType" : "Serial",
+            "description" : "Learn more about the albums you love with Dissect. Analyzing one album per season, one song per episode, Dissect dives deep into albums like Childish Gambino'sÂ Because the Internet,Â Beyonce'sÂ Lemonade, Kendrick Lamar'sÂ To Pimp a ButterflyÂ &Â DAMN.,Â Kanye West'sÂ My Beautiful Dark Twisted Fantasy,Â Frank Ocean'sÂ Blonde, and more. Let's Dissect.",
+            "imageUrl" : "https://megaphone.imgix.net/podcasts/8515bb4e-78e7-11ea-ad4d-738f44e139ea/image/Podcast_Dissect-S9_Swimming_ASpotifyOriginal_3000x3000.jpg?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+            "language" : "en-US",
+            "owner" : "Cole Cuchna | Spotify"
+         },
+         "subtitle" : null,
+         "summary" : "Learn more about the albums you love with Dissect. Analyzing one album per season, one song per episode, Dissect dives deep into albums like Childish Gambino'sÂ Because the Internet,Â Beyonce'sÂ Lemonade, Kendrick Lamar'sÂ To Pimp a ButterflyÂ &Â DAMN.,Â Kanye West'sÂ My Beautiful Dark Twisted Fantasy,Â Frank Ocean'sÂ Blonde, and more. Let's Dissect.",
+         "title" : "Dissect"
+      },
+      {
+         "seriesId" : "GA0000N000002DT",
+         "sourceFeed" : {
+            "author" : "Nashville Podcast Network",
+            "categories" : [
+               "Music"
+            ],
+            "contentType" : "Episodic",
+            "description" : "A show Bobby Bones does from his house. In-depth interviews with songwriters, producers and artists in Nashville that reveal the stories behind the biggest songs, candid anecdotes and personal stories.",
+            "imageUrl" : "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/a69fc5d5-e818-4c23-8d21-ae320081d883/87c8bef8-9ed4-45bf-b882-ae320081d891/image.jpg?t=1643961169&size=Large",
+            "language" : "en-US",
+            "owner" : null
+         },
+         "subtitle" : null,
+         "summary" : "A show Bobby Bones does from his house. In-depth interviews with songwriters, producers and artists in Nashville that reveal the stories behind the biggest songs, candid anecdotes and personal stories.",
+         "title" : "Bobbycast"
+      },
+      {
+         "seriesId" : "GA0000N000002FC",
+         "sourceFeed" : {
+            "author" : "Chris Jericho",
+            "categories" : [
+               "Sports"
+            ],
+            "contentType" : "Episodic",
+            "description" : "Heâs a multiple world champion pro wrestler, lead singer of Fozzy, and a New York Times best-selling author. Listen in as Chris Jericho interviews some of the biggest names in wrestling, entertainment, comedy, and the paranormal. Donât miss his unique, engaging, weekly take on all things pop culture.",
+            "imageUrl" : "https://image.simplecastcdn.com/images/5b7d8c77-15ba-4eff-a999-2e725db21db5/6a58dcb6-f4df-48eb-94a1-17ef525fd6bc/3000x3000/tij2021vf7-3000.jpg?aid=rss_feed",
+            "language" : "en",
+            "owner" : "Chris Jericho"
+         },
+         "subtitle" : "Recorded from all over the globe, multiple time world champion pro wrestler, lead singer of Fozzy and New York Times best-selling author Chris Jericho rocks the podcast world with \"Talk Is Jericho,\" his unique, weekly take...",
+         "summary" : "Heâs a multiple world champion pro wrestler, lead singer of Fozzy, and a New York Times best-selling author. Listen in as Chris Jericho interviews some of the biggest names in wrestling, entertainment, comedy, and the paranormal. Donât miss his unique, engaging, weekly take on all things pop culture.",
+         "title" : "Talk Is Jericho"
+      },
+      {
+         "seriesId" : "GA0000N000002NV",
+         "sourceFeed" : {
+            "author" : "DIVE Studios & Studio71",
+            "categories" : [
+               "Music"
+            ],
+            "contentType" : "Episodic",
+            "description" : "Daebak (ëë°), a Korean word and phrase to describe something spectacular. Cue âDaebak Showâ hosted by Eric Nam, a long-time veteran in the industry as both a K-pop artist and celebrity personality. Here we celebrate music and mediaâs greatest hits, the people behind them, and get a glimpse into the industry. Catch up with us every Monday!\n\nPatreon members receive special perks like ad-free listening! To learn more, visit www.patreon.com/divestudios\n\nConnect with us on Instagram, Twitter, and Facebook @thedivestudios\n\nWe wanna make the podcast even better, help us learn how we can:Â https://bit.ly/2EcYbu4Â \nFor advertising opportunities please emailÂ PodcastPartnerships@Studio71us.comÂ Â Â \nPrivacy Policy:Â https://www.studio71.com/us/terms-and-conditions-use/#Privacy%20Policy",
+            "imageUrl" : "https://megaphone.imgix.net/podcasts/1d0efc6a-2a9c-11eb-93f7-cb4e43ba1a92/image/Daebak_Show_Season_2_Cover_Art__NEW_2021_.jpg?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+            "language" : "en",
+            "owner" : "DIVE Studios & Studio71"
+         },
+         "subtitle" : "It&apos;s hard to keep up with all the new K-pop releases and even harder to get an insider look at the K-pop industry. Each Monday, join Eric Nam, a long-time veteran in the industry as both a K-pop artist and celebrity personality, as he reviews the ...",
+         "summary" : "Daebak (ëë°), a Korean word and phrase to describe something spectacular. Cue âDaebak Showâ hosted by Eric Nam, a long-time veteran in the industry as both a K-pop artist and celebrity personality. Here we celebrate music and mediaâs greatest hits, the people behind them, and get a glimpse into the industry. Catch up with us every Monday!\n\nPatreon members receive special perks like ad-free listening! To learn more, visit www.patreon.com/divestudios\n\nConnect with us on Instagram, Twitter, and Facebook @thedivestudios\n\nWe wanna make the podcast even better, help us learn how we can:Â https://bit.ly/2EcYbu4Â \nFor advertising opportunities please emailÂ PodcastPartnerships@Studio71us.comÂ Â Â \nPrivacy Policy:Â https://www.studio71.com/us/terms-and-conditions-use/#Privacy%20Policy",
+         "title" : "Daebak Show w/ Eric Nam"
+      },
+      {
+         "seriesId" : "GA0000N000004H4",
+         "sourceFeed" : {
+            "author" : "Double Elvis | Amazon Music",
+            "categories" : [
+               "Music",
+               "True Crime",
+               "Society & Culture"
+            ],
+            "contentType" : "Episodic",
+            "description" : "<p><em>Disgraceland</em> is a music and true crime podcast that tells the jaw dropping stories of musicians behaving very badlyâ¦ and some even getting away with murder. Named âBest Podcastâ by the Webby Awards and multiple winner at the iHeart Podcast Awards, <em>Disgraceland</em> dives into the unbelievable histories of the worldâs most famous musical artists. Jerry Lee Lewis committing murder? Guns âN Roses inciting a riot? Jay Zâs nightclub stabbing? Cardi Bâs admitted robberies? Taylor Swiftâs many stalkers? Host Jake Brennan gets into all of this and more. Listen to new episodes of <em>Disgraceland</em> every Tuesday wherever you get you podcasts. And for even more episodes, check out all nine seasons for free only on Amazon Music: <a href=\"https://amazon.com/disgraceland\" rel=\"noopener noreferrer\" target=\"_blank\">amazon.com/Disgraceland</a>.</p>",
+            "imageUrl" : "https://content.production.cdn.art19.com/images/36/ed/fe/6e/36edfe6e-3b88-44ca-834c-481de8693553/84dbaf4038899bb51f44dfcd03a36f96e768c836fdd973f218aaff3b5619c16c79799768f6ee86dd9b91a6490f8f57c1c5b749476fab4275f1b8ea9ccc9e6cfc.jpeg",
+            "language" : "en",
+            "owner" : "Jake Brennan"
+         },
+         "subtitle" : null,
+         "summary" : "<p><em>Disgraceland</em> is a music and true crime podcast that tells the jaw dropping stories of musicians behaving very badlyâ¦ and some even getting away with murder. Named âBest Podcastâ by the Webby Awards and multiple winner at the iHeart Podcast Awards, <em>Disgraceland</em> dives into the unbelievable histories of the worldâs most famous musical artists. Jerry Lee Lewis committing murder? Guns âN Roses inciting a riot? Jay Zâs nightclub stabbing? Cardi Bâs admitted robberies? Taylor Swiftâs many stalkers? Host Jake Brennan gets into all of this and more. Listen to new episodes of <em>Disgraceland</em> every Tuesday wherever you get you podcasts. And for even more episodes, check out all nine seasons for free only on Amazon Music: <a href=\"https://amazon.com/disgraceland\" rel=\"noopener noreferrer\" target=\"_blank\">amazon.com/Disgraceland</a>.</p>",
+         "title" : "Disgraceland"
+      },
+      {
+         "seriesId" : "GA0000N000004Z0",
+         "sourceFeed" : {
+            "author" : "Tyler Mahan Coe",
+            "categories" : [
+               "History"
+            ],
+            "contentType" : "Episodic",
+            "description" : "Step right up. Come on in.",
+            "imageUrl" : "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/13702076/13702076-1617717471500-07236c48fd35.jpg",
+            "language" : "en-US",
+            "owner" : "Tyler Mahan Coe"
+         },
+         "subtitle" : "The podcast about 20th Century county music and the lives of those who gave it to us.",
+         "summary" : "Step right up. Come on in.",
+         "title" : "Cocaine & Rhinestones: The History of Country Music"
+      },
+      {
+         "seriesId" : "GA0000N000004mM",
+         "sourceFeed" : {
+            "author" : "NPR",
+            "categories" : [
+               "TV & Film",
+               "Arts",
+               "News",
+               "Music"
+            ],
+            "contentType" : "Episodic",
+            "description" : "Get obsessed with us. Five days a week, Pop Culture Happy Hour serves you recommendations and commentary on the buzziest movies, TV, music, books, videogames and more. Join arts journalists Linda Holmes, Glen Weldon, Stephen Thompson, and Aisha Harris - plus a rotating cast of guest pop culture aficionados. The Happy Hour team leaves room at the table for exploring a range of reactions and opinions on every bit of the pop universe. From lowbrow to highbrow to the stuff in between, they take it all with a shot of cheer.<br /><br /><em>Make your happy hour even happier with Pop Culture Happy Hour Plus! Your subscription supports the podcast and unlocks a sponsor-free feed. </em><em>Learn more at </em><em>plus.npr.org/</em><em>happyhour</em>",
+            "imageUrl" : "https://media.npr.org/assets/img/2021/03/22/pchh_podcast-tile-21_sq-16ede85b6991ee201c4a839ece7e5bcc19da55ef.jpg?s=1400",
+            "language" : "en",
+            "owner" : "NPR"
+         },
+         "subtitle" : "Daily pop cultural commentary in high spirits.",
+         "summary" : "Get obsessed with us. Five days a week, Pop Culture Happy Hour serves you recommendations and commentary on the buzziest movies, TV, music, books, videogames and more. Join arts journalists Linda Holmes, Glen Weldon, Stephen Thompson, and Aisha Harris - plus a rotating cast of guest pop culture aficionados. The Happy Hour team leaves room at the table for exploring a range of reactions and opinions on every bit of the pop universe. From lowbrow to highbrow to the stuff in between, they take it all with a shot of cheer.<br /><br /><em>Make your happy hour even happier with Pop Culture Happy Hour Plus! Your subscription supports the podcast and unlocks a sponsor-free feed. </em><em>Learn more at </em><em>plus.npr.org/</em><em>happyhour</em>",
+         "title" : "Pop Culture Happy Hour"
+      },
+      {
+         "seriesId" : "GA0000N000004r1",
+         "sourceFeed" : {
+            "author" : "The Ringer",
+            "categories" : [
+               "TV & Film"
+            ],
+            "contentType" : "Episodic",
+            "description" : "Every week, The Ringer's Andy Greenwald and Chris Ryan -- longtime friends and pop culture addicts -- break down the latest in TV, movies, and music.",
+            "imageUrl" : "https://megaphone.imgix.net/podcasts/f78d6b50-7837-11ea-9c78-731a047fd120/image/uploads_2F1607721943505-uouns5vxkdn-eef3ebc47f2313bb90f7cbc90637c023_2Fthe%2BWatch%2B_28no%2Bsponsor_29.jpg?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+            "language" : "en",
+            "owner" : "The Ringer"
+         },
+         "subtitle" : null,
+         "summary" : "Every week, The Ringer's Andy Greenwald and Chris Ryan -- longtime friends and pop culture addicts -- break down the latest in TV, movies, and music.",
+         "title" : "The Watch"
+      },
+      {
+         "seriesId" : "GA0000N0000HH6N",
+         "sourceFeed" : {
+            "author" : "Dacre Montgomery",
+            "categories" : [
+               "Arts"
+            ],
+            "contentType" : "Episodic",
+            "description" : "Beat poetry set to music. \n\nI have spent two years compiling my poetry and these wonderfully talented musicians have helped me bring it to life. \n\nThere are five core human drives that influence human behavior.\n\nTo AQUIRE\nTo BOND\nTo LEARN \nTo DEFEND \nTo FEEL ....\n\nThis podcast is a depiction of what DRIVES ME and how much my experiences have shaped who I am. \nIt is supposed to be altogether meditative, confronting and hopefully...universally relatable. \n\nWhat drives you...?\n\nProduced by Christopher Mottram &amp; Liv Pollock | Created by Dacre Montgomery",
+            "imageUrl" : "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/1597858/1597858-1583289415405-4517974ea29ff.jpg",
+            "language" : "en",
+            "owner" : "Dacre Montgomery"
+         },
+         "subtitle" : null,
+         "summary" : "Beat poetry set to music. \n\nI have spent two years compiling my poetry and these wonderfully talented musicians have helped me bring it to life. \n\nThere are five core human drives that influence human behavior.\n\nTo AQUIRE\nTo BOND\nTo LEARN \nTo DEFEND \nTo FEEL ....\n\nThis podcast is a depiction of what DRIVES ME and how much my experiences have shaped who I am. \nIt is supposed to be altogether meditative, confronting and hopefully...universally relatable. \n\nWhat drives you...?\n\nProduced by Christopher Mottram &amp; Liv Pollock | Created by Dacre Montgomery",
+         "title" : "DKMH"
+      },
+      {
+         "seriesId" : "GA0000N0000HPNS",
+         "sourceFeed" : {
+            "author" : "DIVE Studios & Studio71",
+            "categories" : [
+               "Music"
+            ],
+            "contentType" : "Episodic",
+            "description" : "The Tablo Podcast is hosted by rapper, writer, luminary, dad, and guru Tablo of Epik High. This K-pop Asian dad will have people laughing their butts off with his unique brand of dark humor, tearing up with heartfelt stories, learning valuable life lessons, geeking out over geek-worthy subject matter, and tickling their intellectual curiosity through his deep conversations with amazing, eclectic guests. This podcast is not the podcast we deserve, but the one we definitely need. Patreon members receive special perks like ad-free listening! To learn more, visit www.patreon.com/divestudios Connect with us on Instagram and Twitter @thetablopodcast and @thedivestudios for life-changing content.\nWe wanna make the podcast even better, help us learn how we can:Â https://bit.ly/2EcYbu4Â \nFor advertising opportunities please emailÂ PodcastPartnerships@Studio71us.comÂ Â Â \nPrivacy Policy:Â https://www.studio71.com/us/terms-and-conditions-use/#Privacy%20Policy",
+            "imageUrl" : "https://megaphone.imgix.net/podcasts/2455abcc-13c2-11eb-b8f0-d33ee9eae3f9/image/2552787-1572047192251-409af9ed77a51.jpg?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+            "language" : "en",
+            "owner" : "DIVE Studios & Studio71"
+         },
+         "subtitle" : "The Tablo Podcast is hosted by rapper, writer, luminary, dad, and guru Tablo of Epik High. This K-pop Asian dad will have people laughing their butts off with his unique brand of dark humor, tearing up with heartfelt stories, learning valuable life les...",
+         "summary" : "The Tablo Podcast is hosted by rapper, writer, luminary, dad, and guru Tablo of Epik High. This K-pop Asian dad will have people laughing their butts off with his unique brand of dark humor, tearing up with heartfelt stories, learning valuable life lessons, geeking out over geek-worthy subject matter, and tickling their intellectual curiosity through his deep conversations with amazing, eclectic guests. This podcast is not the podcast we deserve, but the one we definitely need. Patreon members receive special perks like ad-free listening! To learn more, visit www.patreon.com/divestudios Connect with us on Instagram and Twitter @thetablopodcast and @thedivestudios for life-changing content.\nWe wanna make the podcast even better, help us learn how we can:Â https://bit.ly/2EcYbu4Â \nFor advertising opportunities please emailÂ PodcastPartnerships@Studio71us.comÂ Â Â \nPrivacy Policy:Â https://www.studio71.com/us/terms-and-conditions-use/#Privacy%20Policy",
+         "title" : "The Tablo Podcast"
+      },
+      {
+         "seriesId" : "GA0000N0000Jbrm",
+         "sourceFeed" : {
+            "author" : "Spotify Studios",
+            "categories" : [
+               "Music"
+            ],
+            "contentType" : null,
+            "description" : "From Spotify Studios & Slate Studios, this is Showstopper, the podcast that takes you inside the playlists of your favorite tv shows and films. Each week, Spotifyâs Xavier Jernigan spotlights one of TV and filmâs greatest hits and explores its unique soundtrack through interviews with the music supervisors, composers and talent who create it. Showstopper is produced by FannieCo.",
+            "imageUrl" : "https://i.scdn.co/image/bdc15fb46bc5e380e9da538c7d816cf1b4336707",
+            "language" : "en",
+            "owner" : null
+         },
+         "subtitle" : null,
+         "summary" : null,
+         "title" : "Showstopper"
+      },
+      {
+         "seriesId" : "GA0000N0000Jbrt",
+         "sourceFeed" : {
+            "author" : "Spotify Studios",
+            "categories" : [
+               "Music"
+            ],
+            "contentType" : null,
+            "description" : "Guy Raz digs into the stories behind some of the worldâs most famous artists and musicians to find out how they became the person we all recognize today.",
+            "imageUrl" : "https://i.scdn.co/image/37981d093a31f540488b3b6f7c6c2d6c9cf23863",
+            "language" : "en-US",
+            "owner" : null
+         },
+         "subtitle" : null,
+         "summary" : null,
+         "title" : "The Rewind With Guy Raz"
+      },
+      {
+         "seriesId" : "GA0000N0000MrFW",
+         "sourceFeed" : {
+            "author" : "Spotify Studios",
+            "categories" : [
+               "Music"
+            ],
+            "contentType" : null,
+            "description" : "The rise and fall of London punk visionaries, The Clash. Narrated by Chuck D (Public Enemy, Prophets of Rage), this is the incredible, untold story of \"the only band that matters.\" A Spotify Original, produced in partnership with BBC Studios.",
+            "imageUrl" : "https://i.scdn.co/image/6c5f939798ce396888c9090c38114691f1f13680",
+            "language" : "en",
+            "owner" : null
+         },
+         "subtitle" : null,
+         "summary" : null,
+         "title" : "Stay Free: The Story of The Clash"
+      },
+      {
+         "seriesId" : "GA0000N0000N82N",
+         "sourceFeed" : {
+            "author" : "David Banner",
+            "categories" : [
+               "Society & Culture",
+               "Music"
+            ],
+            "contentType" : "Episodic",
+            "description" : "Join the bold and unapologetic David Banner as he engages in conversations that will make you laugh, push your thinking, liberate your mind, and move you to disrupt the status quo.",
+            "imageUrl" : "https://ssl-static.libsyn.com/p/assets/8/2/2/d/822de2353c6d345e/David_Banner_Itunes_Dark_Orange.jpg",
+            "language" : "en",
+            "owner" : "Curtis Daniel"
+         },
+         "subtitle" : null,
+         "summary" : "Join the bold and unapologetic David Banner as he engages in conversations that will make you laugh, push your thinking, liberate your mind, and move you to disrupt the status quo.",
+         "title" : "The David Banner Podcast"
+      },
+      {
+         "seriesId" : "GA0000N0000RVHH",
+         "sourceFeed" : {
+            "author" : "iHeartPodcasts and Fatherly",
+            "categories" : [
+               "Arts",
+               "Music",
+               "Society & Culture"
+            ],
+            "contentType" : "Serial",
+            "description" : "Raffi Cavoukian is a magical musician. His songs, like âBaby Belugaâ and âDown by the Bay,â have wordplay and rhyme schemes that are as crowd-pleasing as they come âÂ sweet, silly sing-alongs for kids and adults alike. But his work is anything but simple. Much like the folk singers who inspired him, a radical philosophy underscores all that he does. In \"Finding Raffi,â comedian, writer, and podcaster Chris Garcia takes us on a journey through a 10-part series tracing Raffiâs life from aspiring folk singer to international kidsâ superstar to outspoken activist for climate action and a child-centric world. Produced in partnership with Rococo Punch.",
+            "imageUrl" : "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/f7113f18-d795-4ba4-9280-ae39004e9e79/7c0f989c-abd4-437c-aae4-ae39004e9e9a/image.jpg?t=1644554779&size=Large",
+            "language" : "en-US",
+            "owner" : "iHeartPodcasts and Fatherly"
+         },
+         "subtitle" : "Finding Fred",
+         "summary" : "Raffi Cavoukian is a magical musician. His songs, like âBaby Belugaâ and âDown by the Bay,â have wordplay and rhyme schemes that are as crowd-pleasing as they come âÂ sweet, silly sing-alongs for kids and adults alike. But his work is anything but simple. Much like the folk singers who inspired him, a radical philosophy underscores all that he does. In \"Finding Raffi,â comedian, writer, and podcaster Chris Garcia takes us on a journey through a 10-part series tracing Raffiâs life from aspiring folk singer to international kidsâ superstar to outspoken activist for climate action and a child-centric world. Produced in partnership with Rococo Punch.",
+         "title" : "Finding Raffi"
+      },
+      {
+         "seriesId" : "GA0000N0000VZCB",
+         "sourceFeed" : {
+            "author" : "Spotify Studios",
+            "categories" : [],
+            "contentType" : null,
+            "description" : "Are & Be | The Podcast is the premier Spotify Original Podcast dedicated to highlighting artists, producers, songwriters and other creatives who contribute to the creation of music that keeps R&B alive. Join Chad Foster, of Spotify Studios, every week as he intimately talks with some of R&B's supreme vocalists, songwriters, producers, and executives about the creative processes and untold stories of some of your favorite songs and albums.",
+            "imageUrl" : "https://i.scdn.co/image/91d716e2313fee7d92322aa69cea3e7af618e127",
+            "language" : "en",
+            "owner" : null
+         },
+         "subtitle" : null,
+         "summary" : null,
+         "title" : "Are & Be | The Podcast"
+      },
+      {
+         "seriesId" : "GA0000N0000VZCF",
+         "sourceFeed" : {
+            "author" : "Spotify Studios",
+            "categories" : [],
+            "contentType" : null,
+            "description" : "19-year-old independent artist mxmtoon went to New York City for the first time to make her first full length album, the masquerade, in just 21 days. A year ago, she was a high school student uploading her songs in secret in her childhood bedroom in Oakland. Now sheâs in New York City with a producer sheâs never met before and the biggest challenge of her career in front of her. This podcast traces her path to this pivotal moment while she fights pressure, trolls, self-doubt, and most importantly, the clock - she has only 3 weeks to finish the record.",
+            "imageUrl" : "https://i.scdn.co/image/4ea60eb66ddebadd79849e0f4a5530f142dd11bb",
+            "language" : "en",
+            "owner" : null
+         },
+         "subtitle" : null,
+         "summary" : null,
+         "title" : "21 Days With Mxmtoon"
+      },
+      {
+         "seriesId" : "GA0000N0000VZCN",
+         "sourceFeed" : {
+            "author" : "Spotify Studios",
+            "categories" : [],
+            "contentType" : null,
+            "description" : "Under Cover, a podcast that explores an artist through the lens of a cover song as they discuss their memories, inspirations and the creative process behind reinterpreting a song that they love.",
+            "imageUrl" : "https://i.scdn.co/image/41e81a55dbf64f0371a2c3d7a03d81624f834619",
+            "language" : "en",
+            "owner" : null
+         },
+         "subtitle" : null,
+         "summary" : null,
+         "title" : "Under Cover"
+      },
+      {
+         "seriesId" : "GA0000N0000VZCR",
+         "sourceFeed" : {
+            "author" : "Spotify Studios",
+            "categories" : [],
+            "contentType" : null,
+            "description" : "Your boys from Midland attempt to uncover the truth behind infamous stories from country music history.",
+            "imageUrl" : "https://i.scdn.co/image/c0a1659970d9c0cac44d306c615fca1f7e059a02",
+            "language" : "en",
+            "owner" : null
+         },
+         "subtitle" : null,
+         "summary" : null,
+         "title" : "Set It Straight With Midland"
+      }
+   ],
+   "meta" : {
+      "limit" : 30,
+      "offset" : 0,
+      "total" : 77107
+   }
+}

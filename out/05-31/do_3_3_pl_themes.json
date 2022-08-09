@@ -1,0 +1,37 @@
+3.3 PL Theme Endpoint do_3_3_pl_themes ===========================================
+{
+   "childCount" : 3,
+   "data" : [
+      {
+         "parentThemeId" : "TM003",
+         "plThemeId" : "PL007",
+         "plThemeName" : "Ultimate feel good playlist"
+      },
+      {
+         "parentThemeId" : "TM003",
+         "plThemeId" : "PL008",
+         "plThemeName" : "Meditation"
+      },
+      {
+         "parentThemeId" : "TM003",
+         "plThemeId" : "PL009",
+         "plThemeName" : "Get energized"
+      }
+   ],
+   "podData" : [
+      {
+         "podcastCategoryId" : "90279",
+         "podcastCategoryName" : "True Crime"
+      },
+      {
+         "podcastCategoryId" : "90265",
+         "podcastCategoryName" : "Comedy"
+      },
+      {
+         "podcastCategoryId" : "90271",
+         "podcastCategoryName" : "Music"
+      }
+   ],
+   "themeId" : "TM003",
+   "themeName" : "Traffic Jams"
+}

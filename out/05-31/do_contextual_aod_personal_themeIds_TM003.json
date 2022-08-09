@@ -1,0 +1,43 @@
+contextual_aod_personal do_contextual_aod_personal_themeIds ===========================================
+{
+   "personalAodData" : [
+      {
+         "categoryName" : "Comedy",
+         "image" : "https://content.production.cdn.art19.com/images/d1/7c/55/42/d17c5542-9279-439f-a74b-51a35509b3b3/9e5dedf1df328ad9e6afad027be451d8a6004ace9a608a56ef5dff947e3c1da029eae177362aa133272af86fded608e7f62b10755ab476c341bdf1a988e49408.jpeg",
+         "seriesID" : "GA0000N000000RZ",
+         "title" : "Hello From the Magic Tavern"
+      },
+      {
+         "categoryName" : "Comedy",
+         "image" : "https://i.scdn.co/image/af1a89dc4b8a136ac1926e99f118d02704b87455",
+         "seriesID" : "GA0000N0001JZF8",
+         "title" : "Story Pirates"
+      },
+      {
+         "categoryName" : "Comedy",
+         "image" : "https://image.simplecastcdn.com/images/e92a01ab-5b37-4cfb-95ba-46364813a9d2/10e11905-96c6-460f-b592-19ec643f5bc8/3000x3000/avatars-000155841882-28wjit-original.jpg?aid=rss_feed",
+         "seriesID" : "GA0000N000057Z3",
+         "title" : "Beef and Dairy Network"
+      }
+   ],
+   "recommendedAodData" : [
+      {
+         "categoryName" : "True Crime",
+         "image" : "https://megaphone.imgix.net/podcasts/a57182f8-1ffe-11e9-8e74-4b4d4b64cfd9/image/UAV-Ryan_Duke_Cover-1.jpg?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+         "seriesID" : "GA0000N000002hC",
+         "title" : "Up and Vanished"
+      },
+      {
+         "categoryName" : "True Crime",
+         "image" : "https://images.theabcdn.com/i/36105430.jpg",
+         "seriesID" : "GA0000N0000031H",
+         "title" : "True Crime Obsessed"
+      },
+      {
+         "categoryName" : "TV & Film",
+         "image" : "https://megaphone.imgix.net/podcasts/f78d6b50-7837-11ea-9c78-731a047fd120/image/uploads_2F1607721943505-uouns5vxkdn-eef3ebc47f2313bb90f7cbc90637c023_2Fthe%2BWatch%2B_28no%2Bsponsor_29.jpg?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+         "seriesID" : "GA0000N000004r1",
+         "title" : "The Watch"
+      }
+   ]
+}

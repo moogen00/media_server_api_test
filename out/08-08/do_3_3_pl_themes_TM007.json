@@ -1,0 +1,36 @@
+{
+   "childCount" : 3,
+   "data" : [
+      {
+         "parentThemeId" : "TM007",
+         "plThemeId" : "PL017",
+         "plThemeName" : "Highway"
+      },
+      {
+         "parentThemeId" : "TM007",
+         "plThemeId" : "PL014",
+         "plThemeName" : "Sunny Day"
+      },
+      {
+         "parentThemeId" : "TM007",
+         "plThemeId" : "PL007",
+         "plThemeName" : "Ultimate feel good playlist"
+      }
+   ],
+   "podData" : [
+      {
+         "podcastCategoryId" : "90271",
+         "podcastCategoryName" : "Music"
+      },
+      {
+         "podcastCategoryId" : "90272",
+         "podcastCategoryName" : "News"
+      },
+      {
+         "podcastCategoryId" : "90276",
+         "podcastCategoryName" : "Sports"
+      }
+   ],
+   "themeId" : "TM007",
+   "themeName" : "Sunny Day Cruising"
+}

@@ -1,0 +1,416 @@
+3.4 Smart PlayList Endpoint\n3.4.1 By PL Theme ID do_smartplaylist_plthemeid ===========================================
+{
+   "playlistsOption" : {
+      "language" : "en",
+      "limit" : 20,
+      "origin" : "NA",
+      "plThemeName" : "PL007",
+      "priority" : "Random"
+   },
+   "tracks" : {
+      "count" : 20,
+      "offset" : 0,
+      "trackList" : [
+         {
+            "album" : {
+               "albumId" : "GN2GCVJGN8T9VX9",
+               "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/DE73/97E6/1868/EEDC_xlarge_front.jpg",
+               "albumName" : "I Don't Care [Acoustic]"
+            },
+            "artists" : {
+               "artistId" : "GN9JMQGF8KZ0F04",
+               "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/4EE2/66B2/CDF9/94F8_medium_front.jpg",
+               "artistName" : "Ed Sheeran"
+            },
+            "duration" : "238220",
+            "genreId" : "88041",
+            "genreName" : "Indie Folk Rave-Up",
+            "moodId" : "89973",
+            "moodName" : "Mellow / Folksy",
+            "recordingId" : "GNFTDQVWKBSZR6K",
+            "recordingName" : "I Don't Care [Acoustic]",
+            "tidalTrackId" : "109961752"
+         },
+         {
+            "album" : {
+               "albumId" : "GN10KJ1KB10T3QF",
+               "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/26A6/3C1A/69CD/22C1_xlarge_front.jpg",
+               "albumName" : "Beautiful Crazy"
+            },
+            "artists" : {
+               "artistId" : "GN257DVD98DYBNK",
+               "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/5101/B75E/CDEC/229C_xlarge_front.jpg",
+               "artistName" : "Luke Combs"
+            },
+            "duration" : "193200",
+            "genreId" : "84039",
+            "genreName" : "Country Power Ballad",
+            "moodId" : "90213",
+            "moodName" : "Big Sincere Strumming Loving Emotion",
+            "recordingId" : "GNFA3K9F26BTKAT",
+            "recordingName" : "Beautiful Crazy",
+            "tidalTrackId" : "89338890"
+         },
+         {
+            "album" : {
+               "albumId" : "GN1H8CN8KG2V3FT",
+               "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/529F/C10C/9589/D1E0_xlarge_front.jpg",
+               "albumName" : "Tequila Little Time"
+            },
+            "artists" : {
+               "artistId" : "GN4CM1QJDSFBRQ7",
+               "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/C6CD/2534/E4FE/190A_xlarge_front.jpg",
+               "artistName" : "Jon Pardi"
+            },
+            "duration" : "207161",
+            "genreId" : "84117",
+            "genreName" : "Indie Folk",
+            "moodId" : "90253",
+            "moodName" : "Jaunty Expressive Earnest Tuneful",
+            "recordingId" : "GN2Z8PSKZMA7FTR",
+            "recordingName" : "Tequila Little Time",
+            "tidalTrackId" : "118427793"
+         },
+         {
+            "album" : {
+               "albumId" : "GN8NQ11R8S3NJ12",
+               "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/C5AD/D73E/3B17/1E76_xlarge_front.jpg",
+               "albumName" : "Glad You Exist"
+            },
+            "artists" : {
+               "artistId" : "GN00RFF1H92XGWX",
+               "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/6A9F/6CA4/091B/7CA6_medium_front.jpg",
+               "artistName" : "Dan + Shay"
+            },
+            "duration" : "144760",
+            "genreId" : "84234",
+            "genreName" : "Adult Alternative Pop",
+            "moodId" : "90015",
+            "moodName" : "Heartfelt Sensitive Lite Strolling Groove",
+            "recordingId" : "GN5SH4WX516T182",
+            "recordingName" : "Glad You Exist",
+            "tidalTrackId" : "169684919"
+         },
+         {
+            "album" : {
+               "albumId" : "GN79WXBAX5FYHNR",
+               "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/418D/7400/9B02/74D8_xlarge_front.jpg",
+               "albumName" : "Intentions (Acoustic)"
+            },
+            "artists" : {
+               "artistId" : "GN3ZQYRAWQ5ZW4A",
+               "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/6E68/9041/26EB/1201_xlarge_front.jpg",
+               "artistName" : "Justin Bieber"
+            },
+            "duration" : "160611",
+            "genreId" : "84416",
+            "genreName" : "Indi Soft Pop",
+            "moodId" : "89971",
+            "moodName" : "Soulful Happy Friendly Relaxed",
+            "recordingId" : "GNDCA4JXAKSZ7M1",
+            "recordingName" : "Intentions (Acoustic)",
+            "tidalTrackId" : "113603819"
+         },
+         {
+            "album" : {
+               "albumId" : "GN9Z7CYWSW5MJY8",
+               "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/1B58/0D5D/65E5/3428_xlarge_front.jpg",
+               "albumName" : "Hits Forever - Greatest Country Songs"
+            },
+            "artists" : {
+               "artistId" : "GN8MX1H71RB2FD6",
+               "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/4766/CB20/A347/3C42_xlarge_front.jpg",
+               "artistName" : "Darius Rucker"
+            },
+            "duration" : "235146",
+            "genreId" : "84035",
+            "genreName" : "Contemporary Country",
+            "moodId" : "34175",
+            "moodName" : "Casual / Kick-Back / Easy-Going",
+            "recordingId" : "GN3XXWDHQK3GZ7H",
+            "recordingName" : "Come Back Song",
+            "tidalTrackId" : "4530028"
+         },
+         {
+            "album" : {
+               "albumId" : "GN90YSHP1Z24BP8",
+               "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/6AB2/0109/BE6F/F498_xlarge_front.jpg",
+               "albumName" : "The Foundation"
+            },
+            "artists" : {
+               "artistId" : "GNEH952HX54K7PJ",
+               "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/6341/120F/4666/4020_xlarge_front.jpg",
+               "artistName" : "Zac Brown Band"
+            },
+            "duration" : "261359",
+            "genreId" : "88041",
+            "genreName" : "Indie Folk Rave-Up",
+            "moodId" : "34175",
+            "moodName" : "Casual / Kick-Back / Easy-Going",
+            "recordingId" : "GN2S7ZKGZ0322KQ",
+            "recordingName" : "Toes",
+            "tidalTrackId" : "118418359"
+         },
+         {
+            "album" : {
+               "albumId" : "GNB37X8BZ6GJDE6",
+               "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/4322/FAE2/1BBD/111F_xlarge_front.jpg",
+               "albumName" : "Better Together"
+            },
+            "artists" : {
+               "artistId" : "GN4PY1EK1C2AJ5D",
+               "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/9BCA/E7F6/210B/CE3A_xlarge_front.jpg",
+               "artistName" : "Jack Johnson"
+            },
+            "duration" : "207720",
+            "genreId" : "84118",
+            "genreName" : "Alternative Singer-Songwriter",
+            "moodId" : "34175",
+            "moodName" : "Casual / Kick-Back / Easy-Going",
+            "recordingId" : "GN4XG4ASZ5B8NAN",
+            "recordingName" : "Better Together",
+            "tidalTrackId" : "139189463"
+         },
+         {
+            "album" : {
+               "albumId" : "GN90YSHP1Z24BP8",
+               "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/6AB2/0109/BE6F/F498_xlarge_front.jpg",
+               "albumName" : "The Foundation"
+            },
+            "artists" : {
+               "artistId" : "GNEH952HX54K7PJ",
+               "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/6341/120F/4666/4020_xlarge_front.jpg",
+               "artistName" : "Zac Brown Band"
+            },
+            "duration" : "238493",
+            "genreId" : "84037",
+            "genreName" : "Contemporary Country Rock",
+            "moodId" : "89986",
+            "moodName" : "Friendly Upbeat Down-Home Good Times",
+            "recordingId" : "GN34291DY2CGTBQ",
+            "recordingName" : "Chicken Fried",
+            "tidalTrackId" : "77261306"
+         },
+         {
+            "album" : {
+               "albumId" : "GN9X27K702QZGJK",
+               "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/B419/56D6/C59B/D352_xlarge_front.jpg",
+               "albumName" : "We Sing. We Dance. We Steal Things. (Latin Version) (Latin Ameri"
+            },
+            "artists" : {
+               "artistId" : "GNCTQ4KQ7H0XPE0",
+               "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/E281/10AB/C5AB/B22F_large_front.jpg",
+               "artistName" : "Jason Mraz"
+            },
+            "duration" : "242091",
+            "genreId" : "84234",
+            "genreName" : "Adult Alternative Pop",
+            "moodId" : "90015",
+            "moodName" : "Heartfelt Sensitive Lite Strolling Groove",
+            "recordingId" : "GN91YKNXFXXSMMY",
+            "recordingName" : "I'm Yours (Album Version)",
+            "tidalTrackId" : "3215463"
+         },
+         {
+            "album" : {
+               "albumId" : "GNC4P1F2M8QX9RD",
+               "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/DB16/CCB8/29B1/E725_xlarge_front.jpg",
+               "albumName" : "Soul"
+            },
+            "artists" : {
+               "artistId" : "GNCYBQCQT5PPSBC",
+               "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/1807/CD21/DD14/203B_xlarge_front.jpg",
+               "artistName" : "Eric Church"
+            },
+            "duration" : "249746",
+            "genreId" : "84117",
+            "genreName" : "Indie Folk",
+            "moodId" : "89971",
+            "moodName" : "Soulful Happy Friendly Relaxed",
+            "recordingId" : "GNAKTV84NDR2K4D",
+            "recordingName" : "Rock & Roll Found Me",
+            "tidalTrackId" : "180824367"
+         },
+         {
+            "album" : {
+               "albumId" : "GNAFGP7ZYK8MC99",
+               "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/5175/EEAA/EC2E/5FD5_xlarge_front.jpg",
+               "albumName" : "Time, Tequila & Therapy"
+            },
+            "artists" : {
+               "artistId" : "GNE22J73S3MBCQ9",
+               "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/9930/C010/A588/A358_medium_front.jpg",
+               "artistName" : "Old Dominion"
+            },
+            "duration" : "162920",
+            "genreId" : "84117",
+            "genreName" : "Indie Folk",
+            "moodId" : "34175",
+            "moodName" : "Casual / Kick-Back / Easy-Going",
+            "recordingId" : "GNE0XQEGE8K8EXT",
+            "recordingName" : "All I Know About Girls",
+            "tidalTrackId" : "199268129"
+         },
+         {
+            "album" : {
+               "albumId" : "GN6CTCY5N1CABGB",
+               "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/6AB2/0109/BE6F/F498_xlarge_front.jpg",
+               "albumName" : "The Foundation (Walmart Exclusive)"
+            },
+            "artists" : {
+               "artistId" : "GNEH952HX54K7PJ",
+               "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/6341/120F/4666/4020_xlarge_front.jpg",
+               "artistName" : "Zac Brown Band"
+            },
+            "duration" : "239200",
+            "genreId" : "88041",
+            "genreName" : "Indie Folk Rave-Up",
+            "moodId" : "89986",
+            "moodName" : "Friendly Upbeat Down-Home Good Times",
+            "recordingId" : "GN8V2D1GHR5TTX1",
+            "recordingName" : "Chicken Fried (Album)",
+            "tidalTrackId" : "37918154"
+         },
+         {
+            "album" : {
+               "albumId" : "GN3SAWV3NMVA961",
+               "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/42B7/690F/F057/168E_xlarge_front.jpg",
+               "albumName" : "Rumor"
+            },
+            "artists" : {
+               "artistId" : "GN3FMAVT4YE318V",
+               "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/5761/3BC5/76F3/9070_large_front.jpg",
+               "artistName" : "Lee Brice"
+            },
+            "duration" : "224235",
+            "genreId" : "84037",
+            "genreName" : "Contemporary Country Rock",
+            "moodId" : "34401",
+            "moodName" : "Strong Secure Stable Reassuring",
+            "recordingId" : "GN2M5ESKBG9H7E0",
+            "recordingName" : "Rumor",
+            "tidalTrackId" : "77965334"
+         },
+         {
+            "album" : {
+               "albumId" : "GNBGW7XATMX2VYD",
+               "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/B8BB/5C36/D1AB/360B_xlarge_front.jpg",
+               "albumName" : "Recovery"
+            },
+            "artists" : {
+               "artistId" : "GN1TCP4AJBF40EC",
+               "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/5275/08B4/D190/4167_xlarge_front.jpg",
+               "artistName" : "Eminem"
+            },
+            "duration" : "250133",
+            "genreId" : "84271",
+            "genreName" : "Midwestern Rap",
+            "moodId" : "34393",
+            "moodName" : "Arousing / Energizing Fun Groove",
+            "recordingId" : "GN7VE0PTCCWPGGY",
+            "recordingName" : "I'm Not Afraid",
+            "tidalTrackId" : "15884289"
+         },
+         {
+            "album" : {
+               "albumId" : "GN0P3ATZJS50YC0",
+               "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/4FFB/EF6A/2985/7413_xlarge_front.jpg",
+               "albumName" : "In Between Dreams"
+            },
+            "artists" : {
+               "artistId" : "GN4PY1EK1C2AJ5D",
+               "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/9BCA/E7F6/210B/CE3A_xlarge_front.jpg",
+               "artistName" : "Jack Johnson"
+            },
+            "duration" : "211733",
+            "genreId" : "84117",
+            "genreName" : "Indie Folk",
+            "moodId" : "34175",
+            "moodName" : "Casual / Kick-Back / Easy-Going",
+            "recordingId" : "GN3XY709QYASG15",
+            "recordingName" : "Better Together",
+            "tidalTrackId" : "139189463"
+         },
+         {
+            "album" : {
+               "albumId" : "GN0YZ9J6BAGZKQG",
+               "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/F615/1044/891D/FC03_medium_front.jpg",
+               "albumName" : "Body Talk: Moonlit Nights"
+            },
+            "artists" : {
+               "artistId" : "GN4GC2J9GE0Y4ND",
+               "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/FD3F/D5AC/B22E/143F_xlarge_front.jpg",
+               "artistName" : "Fleetwood Mac"
+            },
+            "duration" : "257533",
+            "genreId" : "84319",
+            "genreName" : "Classic Soul Ballad",
+            "moodId" : "89975",
+            "moodName" : "Worldly Sultry Expressive Jazzy Jaunty",
+            "recordingId" : "GNBWRM3AMDT5VAN",
+            "recordingName" : "Dreams",
+            "tidalTrackId" : "586573"
+         },
+         {
+            "album" : {
+               "albumId" : "GNA7J2DNX3B4PTR",
+               "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/7B3C/4F25/F2B8/877F_xlarge_front.jpg",
+               "albumName" : "25 Years: The Chain"
+            },
+            "artists" : {
+               "artistId" : "GN4GC2J9GE0Y4ND",
+               "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/FD3F/D5AC/B22E/143F_xlarge_front.jpg",
+               "artistName" : "Fleetwood Mac"
+            },
+            "duration" : "254639",
+            "genreId" : "84315",
+            "genreName" : "Soft Rock",
+            "moodId" : "89975",
+            "moodName" : "Worldly Sultry Expressive Jazzy Jaunty",
+            "recordingId" : "GN1ZMEV8S24576R",
+            "recordingName" : "Dreams",
+            "tidalTrackId" : "586573"
+         },
+         {
+            "album" : {
+               "albumId" : "GN16NZ5WHWEXWRN",
+               "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/4FFB/EF6A/2985/7413_xlarge_front.jpg",
+               "albumName" : "In Between Dreams"
+            },
+            "artists" : {
+               "artistId" : "GN4PY1EK1C2AJ5D",
+               "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/9BCA/E7F6/210B/CE3A_xlarge_front.jpg",
+               "artistName" : "Jack Johnson"
+            },
+            "duration" : "191946",
+            "genreId" : "84291",
+            "genreName" : "Acoustic Pop",
+            "moodId" : "34175",
+            "moodName" : "Casual / Kick-Back / Easy-Going",
+            "recordingId" : "GN2PVSP8Y711YCP",
+            "recordingName" : "Banana Pancakes",
+            "tidalTrackId" : "77660808"
+         },
+         {
+            "album" : {
+               "albumId" : "GNA2A6NS321XWKB",
+               "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/8342/C9D8/6AC5/B8C0_xlarge_front.jpg",
+               "albumName" : "Now That's What I Call A Song"
+            },
+            "artists" : {
+               "artistId" : "GNCTQ4KQ7H0XPE0",
+               "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/E281/10AB/C5AB/B22F_large_front.jpg",
+               "artistName" : "Jason Mraz"
+            },
+            "duration" : "213160",
+            "genreId" : "84234",
+            "genreName" : "Adult Alternative Pop",
+            "moodId" : "34178",
+            "moodName" : "Pulsing Casual / Kick-Back / Easy-Going",
+            "recordingId" : "GN4D6QXA0RSGSX3",
+            "recordingName" : "I'm Yours",
+            "tidalTrackId" : "10707636"
+         }
+      ]
+   }
+}

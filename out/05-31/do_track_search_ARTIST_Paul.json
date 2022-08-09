@@ -1,0 +1,37 @@
+3.7 Track Endpoint do_track_search ===========================================
+{
+   "albums" : {
+      "items" : [],
+      "limit" : 3,
+      "offset" : 0,
+      "totalNumberOfItems" : 0
+   },
+   "artists" : {
+      "items" : [
+         {
+            "id" : 8849,
+            "name" : "Paul McCartney",
+            "picture" : "1c0576d5-fc95-4047-8438-9d9ee9cc9157"
+         },
+         {
+            "id" : 15038,
+            "name" : "Paul Wall",
+            "picture" : "4c0fe81d-f3e8-45d1-a027-3458e39f8273"
+         },
+         {
+            "id" : 6928,
+            "name" : "Paul Simon",
+            "picture" : "b8fa4711-1678-4e48-99da-d48447b2ab6f"
+         }
+      ],
+      "limit" : 3,
+      "offset" : 0,
+      "totalNumberOfItems" : 300
+   },
+   "tracks" : {
+      "items" : [],
+      "limit" : 3,
+      "offset" : 0,
+      "totalNumberOfItems" : 0
+   }
+}

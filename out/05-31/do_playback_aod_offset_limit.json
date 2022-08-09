@@ -1,0 +1,170 @@
+3.6 Aod Playback Endpoint do_playback_aod_offset_limit ===========================================
+{
+   "data" : [
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/889f7a89-0172-4df3-884d-f88b41dae519/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=889f7a89-0172-4df3-884d-f88b41dae519&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 35608722
+         },
+         "description" : "This episode contains strong language.Â \r\nHeading into deliberations in the trial of the three white men in Georgia accused of chasing down and killing Ahmaud Arbery, an unarmed Black man, it was not clear which way the jurors were leaning.Â \r\nIn the end, the mostly white jury found all three men guilty of murder. We look at the prosecutionâs decision not to make race a central tenet of their case, and how the verdict was reached.Â \r\nGuest: Richard Fausset, a correspondent based in Atlanta.Â \r\nSign up here to get The Daily in your inbox each morning. And for an exclusive look at how the biggest stories on our show come together, subscribe to our newsletter.Â \r\nBackground reading:Â How a prosecutor addressed a mostly white jury and won a conviction in the Ahmaud Arbery case.âItâs good to see racism loseâ: The murder convictions were praised by many.Â \r\nFor more information on todayâs episode, visit nytimes.com/thedaily. Transcripts of each episode will be made available by the next workday.Â ",
+         "durationSeconds" : 2225,
+         "episodeID" : "GA0000P002Pr23P",
+         "imageUrl" : null,
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "This episode contains strong language. \r\n\r\nHeading into deliberations in the trial of the three white men in Georgia accused of chasing down and killing Ahmaud Arbery, an unarmed Black man, it was not clear which way the jurors were leaning. \r\n\r\nIn the end, the mostly white jury found all three men guilty of murder. We look at the prosecutionâs decision not to make race a central tenet of their case, and how the verdict was reached. \r\n\r\nGuest: Richard Fausset, a correspondent based in Atlanta.",
+         "summary" : "This episode contains strong language. \n\nHeading into deliberations in the trial of the three white men in Georgia accused of chasing down and killing Ahmaud Arbery, an unarmed Black man, it was not clear which way the jurors were leaning. \n\nIn the end, the mostly white jury found all three men guilty of murder. We look at the prosecutionâs decision not to make race a central tenet of their case, and how the verdict was reached. \n\nGuest: Richard Fausset, a correspondent based in Atlanta.",
+         "title" : "A Prosecutorâs Winning Strategy in the Ahmaud Arbery Case"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/de44a5e4-0e49-4829-b230-4b4bac005c6f/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=de44a5e4-0e49-4829-b230-4b4bac005c6f&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 32288763
+         },
+         "description" : "\r\nThis episode contains strong language.Â \r\nThe mysterious story of a German soldier, a faked Syrian identity and a loaded gun in an airport bathroom cracks the door open to a network of far-right extremists inside the German military and the police. They are preparing for the day democracy collapses â a day they call Day X. But just how dangerous are they?\r\nSee all episodes of Day X atÂ nytimes.com/dayx",
+         "durationSeconds" : 2018,
+         "episodeID" : "GA0000P00271HDM",
+         "imageUrl" : null,
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "This episode contains strong language. \r\nThe mysterious story of a German soldier, a faked Syrian identity and a loaded gun in an airport bathroom cracks the door open to a network of far-right extremists inside the German military and the police. They are preparing for the day democracy collapses â a day they call Day X. But just how dangerous are they?\r\n\r\nSee all episodes of Day X at nytimes.com/dayx",
+         "summary" : "This episode contains strong language. \nThe mysterious story of a German soldier, a faked Syrian identity and a loaded gun in an airport bathroom cracks the door open to a network of far-right extremists inside the German military and the police. They are preparing for the day democracy collapses â a day they call Day X. But just how dangerous are they?\n\nSee all episodes of Day X at nytimes.com/dayx",
+         "title" : "Day X, Part 1: Shadow Army?"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/8e88496e-f3a4-4f0c-95c0-a2e71c325d08/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=8e88496e-f3a4-4f0c-95c0-a2e71c325d08&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 56770299
+         },
+         "description" : "\r\nOn this episode of The Ezra Klein Show, former President Barack Obama discusses Joe Biden, aliens and what he got right and wrong during his two terms in office.\r\nEach Tuesday and Friday for The New York Times Opinion section, Ezra Klein invites you into a conversation on something that matters. Subscribe to the show wherever you listen to podcasts.",
+         "durationSeconds" : 3549,
+         "episodeID" : "GA0000P0027HNtR",
+         "imageUrl" : null,
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "On this episode of The Ezra Klein Show, former President Barack Obama discusses Joe Biden, aliens and what he got right and wrong during his two terms in office.\r\n\r\nEach Tuesday and Friday for The New York Times Opinion section, Ezra Klein invites you into a conversation on something that matters. Subscribe to the show wherever you listen to podcasts.",
+         "summary" : "On this episode of The Ezra Klein Show, former President Barack Obama discusses Joe Biden, aliens and what he got right and wrong during his two terms in office.\n\nEach Tuesday and Friday for The New York Times Opinion section, Ezra Klein invites you into a conversation on something that matters. Subscribe to the show wherever you listen to podcasts.",
+         "title" : "Bonus: Ezra Klein Talks to Obama About How America Went From \"Yes We Can\" to \"MAGA\""
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/a0b7700d-329b-4d72-b86c-41903a25c137/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=a0b7700d-329b-4d72-b86c-41903a25c137&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 19426503
+         },
+         "description" : "For decades, nuclear weapons did not figure prominently in Chinaâs military planning. However, recent satellite images suggest that the country may be looking to quintuple its nuclear arsenal.Â \r\nWhy is China changing strategy now?\r\nGuest: David E. Sanger, a White House and national security correspondent for The New York Times.Â \r\nÂ \r\nSign up here to get The Daily in your inbox each morning. And for an exclusive look at how the biggest stories on our show come together, subscribe to our newsletter.Â \r\nBackground reading:Â Is China scrapping its âminimum deterrentâ strategy and joining an arms race? Or is it merely looking to create a negotiating card?\r\nFor more information on todayâs episode, visit nytimes.com/thedaily. Transcripts of each episode will be made available by the next workday.Â ",
+         "durationSeconds" : 1215,
+         "episodeID" : "GA0000P002CW6h0",
+         "imageUrl" : null,
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "For decades, nuclear weapons did not figure prominently in Chinaâs military planning. However, recent satellite images suggest that the country may be looking to quintuple its nuclear arsenal. \r\n\r\nWhy is China changing strategy now?\r\n\r\nGuest: David E. Sanger, a White House and national security correspondent for The New York Times.",
+         "summary" : "For decades, nuclear weapons did not figure prominently in Chinaâs military planning. However, recent satellite images suggest that the country may be looking to quintuple its nuclear arsenal. \n\nWhy is China changing strategy now?\n\nGuest: David E. Sanger, a White House and national security correspondent for The New York Times.",
+         "title" : "Why Is China Expanding Its Nuclear Arsenal?"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/d645ccfb-7be7-4261-bb73-f051b479b1fc/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=d645ccfb-7be7-4261-bb73-f051b479b1fc&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 49519555
+         },
+         "description" : "\r\nDuring the pandemic, cheerleader-ish girls performing slithery hip-hop dances to rap music on TikTok has been the height of entertainment â enjoyed both genuinely and for laughs.\r\nAddison Rae, one such TikToker, is the second-most-popular human being on the platform, having amassed a following larger than the population of the United Kingdom.\r\nIn seeking to monetize this popularity, she has followed a path forged by many social media stars and A-list celebrities like Rihanna and Kylie Jenner: She has started her own beauty brand.\r\nOn todayâs Sunday Read, a look at how beauty has entered a phase of total pop-culture domination and how influencers are changing the way the sell works by mining the intimate relationships they have with their fans.\r\nThis story was written by Vanessa Grigoriadis and recorded by Audm. To hear more audio stories from publishers like The New York Times, download Audm for iPhone or Android.",
+         "durationSeconds" : 3095,
+         "episodeID" : "GA0000P0022934F",
+         "imageUrl" : null,
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "During the pandemic, cheerleader-ish girls performing slithery hip-hop dances to rap music on TikTok has been the height of entertainment â enjoyed both genuinely and for laughs.\r\n\r\nAddison Rae, one such TikToker, is the second-most-popular human being on the platform, having amassed a following larger than the population of the United Kingdom.\r\n\r\nIn seeking to monetize this popularity, she has followed a path forged by many social media stars and A-list celebrities like Rihanna and Kylie Jenner: She has started her own beauty brand.\r\n\r\nOn todayâs Sunday Read, a look at how beauty has entered a phase of total pop-culture domination and how influencers are changing the way the sell works by mining the intimate relationships they have with their fans.",
+         "summary" : "During the pandemic, cheerleader-ish girls performing slithery hip-hop dances to rap music on TikTok has been the height of entertainment â enjoyed both genuinely and for laughs.\n\nAddison Rae, one such TikToker, is the second-most-popular human being on the platform, having amassed a following larger than the population of the United Kingdom.\n\nIn seeking to monetize this popularity, she has followed a path forged by many social media stars and A-list celebrities like Rihanna and Kylie Jenner: She has started her own beauty brand.\n\nOn todayâs Sunday Read, a look at how beauty has entered a phase of total pop-culture domination and how influencers are changing the way the sell works by mining the intimate relationships they have with their fans.",
+         "title" : "The Sunday Read: \"The Beauty of 78.5 Million Followers\""
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/9b088e2c-b015-48bf-8cfb-dcec79d94dc4/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=9b088e2c-b015-48bf-8cfb-dcec79d94dc4&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 62418185
+         },
+         "description" : "Over the past decade, Eric Coomer has helped make Dominion Voting Systems one of the largest providers of voting machines and software in the United States.\r\nHe was accustomed to working long days during the postelection certification process, but November 2020 was different.\r\nPresident Trump was demanding recounts. His allies had spent months stoking fears of election fraud. And then, on Nov. 8, Sidney Powell, a lawyer representing the Trump campaign, appeared on Fox News and claimed, without evidence, that Dominion had an algorithm that switched votes from Trump to Joe Biden.\r\nThis is the story of how the 2020 election upended Mr. Coomerâs life.\r\nThis story was written by Susan Dominus and recorded by Audm. To hear more audio stories from publications like The New York Times, download Audm for iPhone or Android.",
+         "durationSeconds" : 3902,
+         "episodeID" : "GA0000P002JZV26",
+         "imageUrl" : null,
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "Over the past decade, Eric Coomer has helped make Dominion Voting Systems one of the largest providers of voting machines and software in the United States.\r\n\r\nHe was accustomed to working long days during the postelection certification process, but November 2020 was different.\r\n\r\nPresident Trump was demanding recounts. His allies had spent months stoking fears of election fraud. And then, on Nov. 8, Sidney Powell, a lawyer representing the Trump campaign, appeared on Fox News and claimed, without evidence, that Dominion had an algorithm that switched votes from Trump to Joe Biden.\r\n\r\nThis is the story of how the 2020 election upended Mr. Coomerâs life.",
+         "summary" : "Over the past decade, Eric Coomer has helped make Dominion Voting Systems one of the largest providers of voting machines and software in the United States.\n\nHe was accustomed to working long days during the postelection certification process, but November 2020 was different.\n\nPresident Trump was demanding recounts. His allies had spent months stoking fears of election fraud. And then, on Nov. 8, Sidney Powell, a lawyer representing the Trump campaign, appeared on Fox News and claimed, without evidence, that Dominion had an algorithm that switched votes from Trump to Joe Biden.\n\nThis is the story of how the 2020 election upended Mr. Coomerâs life.",
+         "title" : "The Sunday Read: âHe Was the âPerfect Villainâ for Voting Conspiracistsâ"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/702f9b08-f1f0-4c11-afb4-57ac6872ecc0/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=702f9b08-f1f0-4c11-afb4-57ac6872ecc0&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 30425910
+         },
+         "description" : "\r\nRecently, Apple released a seemingly innocuous software update: a new privacy feature that would explicitly ask iPhone users whether an app should be allowed to track them across other apps and sites.Â \r\n\r\nFor Facebook, however, this feature is anything but innocuous â it strikes at the heart of the companyâs business model.\r\n\r\nThe dispute represents a further deterioration in the frosty relations between the two companies. Whatâs at the heart of this conflict, and why have the stakes become so high for both sides?Â \r\n\r\nGuest: Mike Isaac, a technology correspondent for The New York Times.Â \r\n\r\nSign up here to get The Daily in your inbox each morning. And for an exclusive look at how the biggest stories on our show come together, subscribe to our newsletter.Â \r\nBackground reading:Â The chief executives of Facebook and Apple have opposing visions for the future of the internet. Their differences have recently escalated. With Appleâs latest mobile software update, we can decide whether apps monitor and share our activities with others. Hereâs what to know.\r\nFor more information on todayâs episode, visit nytimes.com/thedaily. Transcripts of each episode will be made available by the next workday.Â ",
+         "durationSeconds" : 1902,
+         "episodeID" : "GA0000P0025SD9X",
+         "imageUrl" : null,
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "Recently, Apple released a seemingly innocuous software update: a new privacy feature that would explicitly ask iPhone users whether an app should be allowed to track them across other apps and sites. \r\n\r\nFor Facebook, however, this feature is anything but innocuous â it strikes at the heart of the companyâs business model.\r\n\r\nThe dispute represents a further deterioration in the frosty relations between the two companies. Whatâs at the heart of this conflict, and why have the stakes become so high for both sides? \r\n\r\nGuest: Mike Isaac, a technology correspondent for The New York Times.",
+         "summary" : "Recently, Apple released a seemingly innocuous software update: a new privacy feature that would explicitly ask iPhone users whether an app should be allowed to track them across other apps and sites. \n\nFor Facebook, however, this feature is anything but innocuous â it strikes at the heart of the companyâs business model.\n\nThe dispute represents a further deterioration in the frosty relations between the two companies. Whatâs at the heart of this conflict, and why have the stakes become so high for both sides? \n\nGuest: Mike Isaac, a technology correspondent for The New York Times.",
+         "title" : "Apple vs. Facebook"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/d948f69b-5304-45f8-b136-f4ffba29e1a2/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=d948f69b-5304-45f8-b136-f4ffba29e1a2&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 21617435
+         },
+         "description" : "\r\nIn the past few weeks, some of the biggest industries in the U.S. have been held up by cyberattacks.\r\n\r\nThe first big infiltration was at Colonial Pipeline, a major conduit of gas, jet fuel and diesel to the East Coast. Then, J.B.S., one of the worldâs largest beef suppliers, was hit.\r\n\r\nThe so-called ransomware attacks have long been a worry. But who are the hackers and how can they be stopped?\r\n\r\nGuest: Nicole Perlroth, a reporter covering cybersecurity and digital espionage for The New York Times.Â \r\n\r\nSign up here to get The Daily in your inbox each morning. And for an exclusive look at how the biggest stories on our show come together, subscribe to our newsletter.Â \r\n\r\nThe Daily is doing a live online event: We follow up with students and faculty from our series Odessa. And we hear from the team who made the documentary. Times subscribers can join us June 10 (2021).\r\n\r\nBackground reading:Â The Biden administration has taken steps to counter the growing threat of cyberattacks on U.S. businesses. The F.B.I. director compares the danger of ransomware to the 9/11 terror threat. As the ransomware industry exploded, a Russian-speaking outfit called DarkSide offered would-be computer criminals not just the tools, but also customer support. Hereâs how the group became a hacking powerhouse. Itâs been almost a decade since Leon Panetta, then the secretary of defense, warned of an impending âCyber Pearl Harbor.â He didnât want to be right.\r\n\r\nFor more information on todayâs episode, visit nytimes.com/thedaily. Transcripts of each episode will be made available by the next workday.Â ",
+         "durationSeconds" : 1351,
+         "episodeID" : "GA0000P0027SXGJ",
+         "imageUrl" : null,
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "In the past few weeks, some of the biggest industries in the U.S. have been held up by cyberattacks.\r\n\r\nThe first big infiltration was at Colonial Pipeline, a major conduit of gas, jet fuel and diesel to the East Coast. Then, J.B.S., one of the worldâs largest beef suppliers, was hit.\r\n\r\nThe so-called ransomware attacks have long been a worry. But who are the hackers and how can they be stopped?\r\n\r\nGuest: Nicole Perlroth, a reporter covering cybersecurity and digital espionage for The New York Times.",
+         "summary" : "In the past few weeks, some of the biggest industries in the U.S. have been held up by cyberattacks.\n\nThe first big infiltration was at Colonial Pipeline, a major conduit of gas, jet fuel and diesel to the East Coast. Then, J.B.S., one of the worldâs largest beef suppliers, was hit.\n\nThe so-called ransomware attacks have long been a worry. But who are the hackers and how can they be stopped?\n\nGuest: Nicole Perlroth, a reporter covering cybersecurity and digital espionage for The New York Times.",
+         "title" : "Who is Hacking the U.S. Economy?"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/7db0a99c-de1d-4289-bab8-4c7ca109ea3c/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=7db0a99c-de1d-4289-bab8-4c7ca109ea3c&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 23606517
+         },
+         "description" : "The For the People Act, a bill created by House Democrats after the 2018 midterm elections, could have been the most sweeping expansion of voting rights in a generation.\r\nOn Tuesday night, however, Senate Republicans filibustered the bill before it could even be debated.\r\nWhat lessons can we take from its demise?Â \r\nGuest: Nicholas Fandos, a congressional correspondent for The New York Times.Â \r\nSign up here to get The Daily in your inbox each morning. And for an exclusive look at how the biggest stories on our show come together, subscribe to our newsletter.Â \r\nBackground reading:Â By blocking the sweeping voting rights bill, Republicans dealt a blow to Democratsâ attempts to counter a wave of state-level ballot restrictions, while also supercharging a campaign to end the legislative filibuster.In the wake of the billâs demise, Democrats and civil rights groups have reaffirmed their resolve to fight for voting protections in Congress.\r\nFor more information on todayâs episode, visit nytimes.com/thedaily. Transcripts of each episode will be made available by the next workday.",
+         "durationSeconds" : 1475,
+         "episodeID" : "GA0000P00290XCh",
+         "imageUrl" : null,
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "The For the People Act, a bill created by House Democrats after the 2018 midterm elections, could have been the most sweeping expansion of voting rights in a generation.\r\n\r\nOn Tuesday night, however, Senate Republicans filibustered the bill before it could even be debated.\r\n\r\nWhat lessons can we take from its demise? \r\n\r\nGuest: Nicholas Fandos, a congressional correspondent for The New York Times.",
+         "summary" : "The For the People Act, a bill created by House Democrats after the 2018 midterm elections, could have been the most sweeping expansion of voting rights in a generation.\n\nOn Tuesday night, however, Senate Republicans filibustered the bill before it could even be debated.\n\nWhat lessons can we take from its demise? \n\nGuest: Nicholas Fandos, a congressional correspondent for The New York Times.",
+         "title" : "Lessons From the Demise of a Voting Rights Bill"
+      },
+      {
+         "audioEnclosure" : {
+            "audioUrl" : "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/48b6d515-d682-40ed-85b8-8860c58805ab/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=48b6d515-d682-40ed-85b8-8860c58805ab&feed=54nAGcIl",
+            "mimeType" : "audio/mpeg",
+            "sizeBytes" : 31858254
+         },
+         "description" : "\r\nThis episode contains references to suicide, self-harm and eating disorders.\r\nIn 1995, Diana, Princess of Wales, made a decision that was unprecedented for a member of the British royal family: She sat down with the BBC to speak openly about the details of her life.\r\nOn Sunday, her younger son, Prince Harry, and his wife, Meghan, told Oprah Winfrey of their own travails within the family.\r\nToday, we look at the similarities between these two interviews.\r\nGuest: Sarah Lyall, a writer at large for The New York Times.Â \r\nSign up here to get The Daily in your inbox each morning. And for an exclusive look at how the biggest stories on our show come together, subscribe to our newsletter.Â \r\nBackground reading:Â A quarter-century after Diana broke her silence about life among the British royals, Meghan, Duchess of Sussex, did the same. Their stories were remarkably similar. The Sussexes have accused the royal family of failing to protect them, both emotionally and financially. Hereâs what we learned from Meghan and Harryâs interview with Oprah Winfrey.Â \r\nFor more information on todayâs episode, visit nytimes.com/thedaily. Transcripts of each episode will be made available by the next workday.Â ",
+         "durationSeconds" : 1992,
+         "episodeID" : "GA0000P001tbFS0",
+         "imageUrl" : null,
+         "language" : "en",
+         "objectType" : "episode",
+         "subtitle" : "This episode contains references to suicide, self-harm and eating disorders.\r\n\r\nIn 1995, Diana, Princess of Wales, made a decision that was unprecedented for a member of the British royal family: She sat down with the BBC to speak openly about the details of her life.\r\n\r\nOn Sunday, her younger son, Prince Harry, and his wife, Meghan, told Oprah Winfrey of their own travails within the family.\r\n\r\nToday, we look at the similarities between these two interviews.",
+         "summary" : "This episode contains references to suicide, self-harm and eating disorders.\n\nIn 1995, Diana, Princess of Wales, made a decision that was unprecedented for a member of the British royal family: She sat down with the BBC to speak openly about the details of her life.\n\nOn Sunday, her younger son, Prince Harry, and his wife, Meghan, told Oprah Winfrey of their own travails within the family.\n\nToday, we look at the similarities between these two interviews.",
+         "title" : "Diana and Meghan"
+      }
+   ],
+   "meta" : {
+      "limit" : 10,
+      "offset" : 0,
+      "total" : 1535
+   }
+}

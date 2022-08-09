@@ -1,0 +1,79 @@
+Smart PlayList By Genre Endpoint do_smartplaylist_genre_playlist_categoryid ===========================================
+{
+   "descType" : "genre",
+   "limit" : 3,
+   "trackList" : [
+      {
+         "album" : {
+            "albumID" : "GN5RCHVD2V29G52",
+            "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/1EF2/4BDB/6788/56E5_xlarge_front.jpg",
+            "albumName" : "Hard Skool",
+            "trackCount" : "1"
+         },
+         "artist" : {
+            "artistId" : "GN9PSA15CBMRGAC",
+            "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/AC62/105C/4F84/BAB3_xlarge_front.jpg",
+            "artistName" : "Guns N' Roses"
+         },
+         "category" : {
+            "genreId" : "2682",
+            "genreName" : "Pop Metal",
+            "moodId" : "34382",
+            "moodName" : "Loud, Wild & Rowdy"
+         },
+         "duration" : "221892",
+         "releaseYear" : 2021,
+         "tidalTrackId" : "198563586",
+         "trackId" : "GNE3M9VKQD5Z17B",
+         "trackName" : "Hard Skool"
+      },
+      {
+         "album" : {
+            "albumID" : "GN1ZA7YFDXBNBCK",
+            "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/FE79/B928/0755/0EA5_xlarge_front.jpg",
+            "albumName" : "Papercuts",
+            "trackCount" : "1"
+         },
+         "artist" : {
+            "artistId" : "GN2CF53Q8B3J8EA",
+            "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/951B/28FA/B67C/3613_xlarge_front.jpg",
+            "artistName" : "Machine Gun Kelly"
+         },
+         "category" : {
+            "genreId" : "2702",
+            "genreName" : "Rap Metal",
+            "moodId" : "34373",
+            "moodName" : "Loud Strumming Melancholy"
+         },
+         "duration" : "180370",
+         "releaseYear" : 2021,
+         "tidalTrackId" : "193337905",
+         "trackId" : "GN0DZVHV45AQSJD",
+         "trackName" : "Papercuts"
+      },
+      {
+         "album" : {
+            "albumID" : "GNAP2K0E206FPVH",
+            "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/20EA/1046/7BBB/AFBF_xlarge_front.jpg",
+            "albumName" : "DiE4u",
+            "trackCount" : "1"
+         },
+         "artist" : {
+            "artistId" : "GNDEPZZF8XX0M66",
+            "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/A56B/A168/0F0C/228E_xlarge_front.jpg",
+            "artistName" : "Bring Me The Horizon"
+         },
+         "category" : {
+            "genreId" : "2674",
+            "genreName" : "Alternative Metal",
+            "moodId" : "90099",
+            "moodName" : "Sensitive Powerful Melancholy Emotion"
+         },
+         "duration" : "207141",
+         "releaseYear" : 2021,
+         "tidalTrackId" : "196077295",
+         "trackId" : "GNE9TZ7HM2CK5ZT",
+         "trackName" : "DiE4u"
+      }
+   ]
+}

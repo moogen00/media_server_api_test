@@ -1,0 +1,773 @@
+search do_smartplaylist_search_name_track ===========================================
+{
+   "item" : [
+      {
+         "album" : {
+            "albumId" : "GN2NBD1MV953H0G",
+            "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/09E0/511D/FEE4/4C2E_xlarge_front.jpg",
+            "albumName" : "The Silver Scream",
+            "trackCount" : "13"
+         },
+         "artist" : {
+            "artistId" : "GN12EW2MCSHPP2R",
+            "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/AFFC/736D/EFF2/51EF_xlarge_front.jpg",
+            "artistName" : "ICE NINE KILLS"
+         },
+         "category" : {
+            "genreId" : "2709",
+            "genreName" : "Metalcore",
+            "moodId" : "34383",
+            "moodName" : "Loud Positive Aggressive Raw Excitement"
+         },
+         "duration" : "179800",
+         "releaseYear" : 2018,
+         "tidalTrackId" : null,
+         "trackId" : "GN1ZNP8P02KB13B",
+         "trackName" : "SAVAGES"
+      },
+      {
+         "album" : {
+            "albumId" : "GN3TV9KDNJ1Q6N9",
+            "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/E669/C059/048A/21DE_xlarge_front.jpg",
+            "albumName" : "Born Into This",
+            "trackCount" : "15"
+         },
+         "artist" : {
+            "artistId" : "GN7KQNM3X5AVNFR",
+            "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/BBB3/6C52/A086/5C8C_xlarge_front.jpg",
+            "artistName" : "The Cult"
+         },
+         "category" : {
+            "genreId" : "19042",
+            "genreName" : "Pre-Grunge Alternative Rock",
+            "moodId" : "34373",
+            "moodName" : "Loud Strumming Melancholy"
+         },
+         "duration" : "234080",
+         "releaseYear" : 2001,
+         "tidalTrackId" : null,
+         "trackId" : "GN7F2CDEJZ9PHDZ",
+         "trackName" : "Savages"
+      },
+      {
+         "album" : {
+            "albumId" : "GN3Y1KY58DFARC4",
+            "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/2055/957A/D107/5671_xlarge_front.jpg",
+            "albumName" : "Pocahontas: An Original Walt Disney Records Soundtrack",
+            "trackCount" : "28"
+         },
+         "artist" : {
+            "artistId" : "GNFERXFRTW781BC",
+            "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/2055/957A/D107/5671_xlarge_front.jpg",
+            "artistName" : "Pocahontas Film Cast"
+         },
+         "category" : {
+            "genreId" : "3262",
+            "genreName" : "Movie Animation Original Music",
+            "moodId" : "34214",
+            "moodName" : "Dramatic - Thrilling"
+         },
+         "duration" : "135199",
+         "releaseYear" : 1995,
+         "tidalTrackId" : null,
+         "trackId" : "GN1CNHSQE6HZ095",
+         "trackName" : "Savages (Part 2)"
+      },
+      {
+         "album" : {
+            "albumId" : "GNE8Z8WDG5DZ7CX",
+            "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/50B5/0DF1/4539/41D4_xlarge_front.jpg",
+            "albumName" : "The Silver Scream (FINAL CUT)",
+            "trackCount" : "19"
+         },
+         "artist" : {
+            "artistId" : "GN12EW2MCSHPP2R",
+            "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/AFFC/736D/EFF2/51EF_xlarge_front.jpg",
+            "artistName" : "ICE NINE KILLS"
+         },
+         "category" : {
+            "genreId" : "2709",
+            "genreName" : "Metalcore",
+            "moodId" : "34170",
+            "moodName" : "Sensitive Glossy Heartfelt Lite"
+         },
+         "duration" : "191683",
+         "releaseYear" : 2019,
+         "tidalTrackId" : null,
+         "trackId" : "GN601WQK8D27EDB",
+         "trackName" : "Savages [Acoustic]"
+      },
+      {
+         "album" : {
+            "albumId" : "GN3TV9KDNJ1Q6N9",
+            "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/E669/C059/048A/21DE_xlarge_front.jpg",
+            "albumName" : "Born Into This",
+            "trackCount" : "15"
+         },
+         "artist" : {
+            "artistId" : "GN7KQNM3X5AVNFR",
+            "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/BBB3/6C52/A086/5C8C_xlarge_front.jpg",
+            "artistName" : "The Cult"
+         },
+         "category" : {
+            "genreId" : "19042",
+            "genreName" : "Pre-Grunge Alternative Rock",
+            "moodId" : "34376",
+            "moodName" : "Loud Anxious Agitated Tense"
+         },
+         "duration" : "271600",
+         "releaseYear" : 2007,
+         "tidalTrackId" : null,
+         "trackId" : "GN696PP344YV3GV",
+         "trackName" : "Savages [Extended]"
+      },
+      {
+         "album" : {
+            "albumId" : "GNB2GFBWK2H39WP",
+            "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/352F/4980/D730/7479_large_front.jpg",
+            "albumName" : "Born Into This",
+            "trackCount" : "5"
+         },
+         "artist" : {
+            "artistId" : "GN7KQNM3X5AVNFR",
+            "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/BBB3/6C52/A086/5C8C_xlarge_front.jpg",
+            "artistName" : "The Cult"
+         },
+         "category" : {
+            "genreId" : "19042",
+            "genreName" : "Pre-Grunge Alternative Rock",
+            "moodId" : "34213",
+            "moodName" : "Edgy Inspiring Intense Fun Determination"
+         },
+         "duration" : "271600",
+         "releaseYear" : 2007,
+         "tidalTrackId" : null,
+         "trackId" : "GN8TJBWVFKM3YE0",
+         "trackName" : "Savages [Full Length Version]"
+      },
+      {
+         "album" : {
+            "albumId" : "GNAZY8H7JRAQSGY",
+            "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/5EEF/7BA5/BB13/BE3C_xlarge_front.jpg",
+            "albumName" : "Walt Disney Records The Legacy Collection: Pocahontas",
+            "trackCount" : "42"
+         },
+         "artist" : {
+            "artistId" : "GNFERXFRTW781BC",
+            "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/2055/957A/D107/5671_xlarge_front.jpg",
+            "artistName" : "Pocahontas Film Cast"
+         },
+         "category" : {
+            "genreId" : "3294",
+            "genreName" : "Disney",
+            "moodId" : "34164",
+            "moodName" : "Smooth Sentimental Teary Nostalgia"
+         },
+         "duration" : "237626",
+         "releaseYear" : 2015,
+         "tidalTrackId" : null,
+         "trackId" : "GN8RGZH7CKSSV0A",
+         "trackName" : "Savages"
+      },
+      {
+         "album" : {
+            "albumId" : "GNBMQS470NPJRX4",
+            "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/FA18/35EA/54A3/F25B_xlarge_front.jpg",
+            "albumName" : "I Heard They KILL Live",
+            "trackCount" : "19"
+         },
+         "artist" : {
+            "artistId" : "GN12EW2MCSHPP2R",
+            "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/AFFC/736D/EFF2/51EF_xlarge_front.jpg",
+            "artistName" : "ICE NINE KILLS"
+         },
+         "category" : {
+            "genreId" : "2709",
+            "genreName" : "Metalcore",
+            "moodId" : "34379",
+            "moodName" : "Aggressive Evil"
+         },
+         "duration" : "182240",
+         "releaseYear" : 2020,
+         "tidalTrackId" : null,
+         "trackId" : "GN44Y07YPCVQPS1",
+         "trackName" : "SAVAGES [Live]"
+      },
+      {
+         "album" : {
+            "albumId" : "GNABNBG1SNWEHAD",
+            "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/20C1/869F/6A5D/6409_xlarge_front.jpg",
+            "albumName" : "Savages",
+            "trackCount" : "1"
+         },
+         "artist" : {
+            "artistId" : "GNFP2E9G8JF225J",
+            "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/4C92/0D27/2F6D/3D82_medium_front.jpg",
+            "artistName" : "Breathe Carolina"
+         },
+         "category" : {
+            "genreId" : "23644",
+            "genreName" : "Emo Pop",
+            "moodId" : "34393",
+            "moodName" : "Arousing / Energizing Fun Groove"
+         },
+         "duration" : "201858",
+         "releaseYear" : 2013,
+         "tidalTrackId" : null,
+         "trackId" : "GNBT1KBE7Y6SYEC",
+         "trackName" : "Savages"
+      },
+      {
+         "album" : {
+            "albumId" : "GN022QECEFVR4ZZ",
+            "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/C7BF/DE01/EEF1/CA6E_xlarge_front.jpg",
+            "albumName" : "As Is Now",
+            "trackCount" : "14"
+         },
+         "artist" : {
+            "artistId" : "GN4QRYF4HB5G8QJ",
+            "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/0877/E4BA/CBF2/EE0B_xlarge_front.jpg",
+            "artistName" : "Paul Weller"
+         },
+         "category" : {
+            "genreId" : "2780",
+            "genreName" : "Alternative Singer-Songwriter",
+            "moodId" : "34373",
+            "moodName" : "Loud Strumming Melancholy"
+         },
+         "duration" : "178000",
+         "releaseYear" : 0,
+         "tidalTrackId" : null,
+         "trackId" : "GN8FB8EYGZ04BWY",
+         "trackName" : "Savages"
+      },
+      {
+         "album" : {
+            "albumId" : "GN98SAK57HWH9R7",
+            "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/9980/D5C8/0B84/815F_xlarge_front.jpg",
+            "albumName" : "Shadow Works",
+            "trackCount" : "12"
+         },
+         "artist" : {
+            "artistId" : "GN8NKGEBBP0FXY0",
+            "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/5AD8/9EBC/6F56/F124_xlarge_front.jpg",
+            "artistName" : "Kerli"
+         },
+         "category" : {
+            "genreId" : "23672",
+            "genreName" : "Darkwave",
+            "moodId" : "34393",
+            "moodName" : "Arousing / Energizing Fun Groove"
+         },
+         "duration" : "189100",
+         "releaseYear" : 2018,
+         "tidalTrackId" : null,
+         "trackId" : "GN1SDWZMMPYNCH8",
+         "trackName" : "Savages"
+      },
+      {
+         "album" : {
+            "albumId" : "GN7J9TXX8V8EXDT",
+            "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/C98B/D43F/C1E9/D517_xlarge_front.jpg",
+            "albumName" : "Catch Flame! [Live]",
+            "trackCount" : "23"
+         },
+         "artist" : {
+            "artistId" : "GN4QRYF4HB5G8QJ",
+            "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/0877/E4BA/CBF2/EE0B_xlarge_front.jpg",
+            "artistName" : "Paul Weller"
+         },
+         "category" : {
+            "genreId" : "2780",
+            "genreName" : "Alternative Singer-Songwriter",
+            "moodId" : "34373",
+            "moodName" : "Loud Strumming Melancholy"
+         },
+         "duration" : "184000",
+         "releaseYear" : 0,
+         "tidalTrackId" : null,
+         "trackId" : "GN05XP3AA6ZM76P",
+         "trackName" : "Savages"
+      },
+      {
+         "album" : {
+            "albumId" : "GN22ZKXBPD128WK",
+            "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/2045/DFFC/CD7C/A519_xlarge_front.jpg",
+            "albumName" : "The Average Savage",
+            "trackCount" : "17"
+         },
+         "artist" : {
+            "artistId" : "GNFXF5TKXPVJA8G",
+            "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/178F/2823/E2EB/D03E_xlarge_front.jpg",
+            "artistName" : "Snotty Nose Rez Kids"
+         },
+         "category" : {
+            "genreId" : "19006",
+            "genreName" : "Alternative Rap",
+            "moodId" : "34193",
+            "moodName" : "Cool Confident Wary"
+         },
+         "duration" : "300069",
+         "releaseYear" : 2017,
+         "tidalTrackId" : null,
+         "trackId" : "GN5AY6T99D0PA5Z",
+         "trackName" : "Savages (Featuring Drezus)"
+      },
+      {
+         "album" : {
+            "albumId" : "GNDAVCBZVKBT660",
+            "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/C89A/4E5A/033F/A336_xlarge_front.jpg",
+            "albumName" : "Savages",
+            "trackCount" : "1"
+         },
+         "artist" : {
+            "artistId" : "GN5JED2NBPQQ6QG",
+            "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/5E55/AC4C/0A0F/C70D_medium_front.jpg",
+            "artistName" : "Borgore"
+         },
+         "category" : {
+            "genreId" : "19001",
+            "genreName" : "Urban Crossover: Rap",
+            "moodId" : "34393",
+            "moodName" : "Arousing / Energizing Fun Groove"
+         },
+         "duration" : "198431",
+         "releaseYear" : 2017,
+         "tidalTrackId" : null,
+         "trackId" : "GN2M0M4SJ4NAVJF",
+         "trackName" : "Savages"
+      },
+      {
+         "album" : {
+            "albumId" : "GNF1HNT4WF3GJD2",
+            "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/3CCC/9974/C2F7/BE4F_xlarge_front.jpg",
+            "albumName" : "Savages",
+            "trackCount" : "6"
+         },
+         "artist" : {
+            "artistId" : "GN0B447WCX6ATMJ",
+            "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/6459/4C0E/79A4/CD4A_xlarge_front.jpg",
+            "artistName" : "Royal Deluxe"
+         },
+         "category" : {
+            "genreId" : "2919",
+            "genreName" : "Adult Alternative Rock: Male",
+            "moodId" : "34373",
+            "moodName" : "Loud Strumming Melancholy"
+         },
+         "duration" : "247942",
+         "releaseYear" : 2019,
+         "tidalTrackId" : null,
+         "trackId" : "GND8526HTZVHMNF",
+         "trackName" : "Savages"
+      },
+      {
+         "album" : {
+            "albumId" : "GN7JBDP7MN8PKJ2",
+            "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/2717/0747/FA20/4AF9_xlarge_front.jpg",
+            "albumName" : "Trust The Shooter",
+            "trackCount" : "12"
+         },
+         "artist" : {
+            "artistId" : "GNB4W8BMEWDPRWQ",
+            "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/31A2/264D/A490/B421_xlarge_front.jpg",
+            "artistName" : "Royce Da 5'9\""
+         },
+         "category" : {
+            "genreId" : "2982",
+            "genreName" : "Midwestern Rap",
+            "moodId" : "34194",
+            "moodName" : "Confident Swaggering"
+         },
+         "duration" : "276000",
+         "releaseYear" : 2016,
+         "tidalTrackId" : null,
+         "trackId" : "GNCHQMYAREX6TAX",
+         "trackName" : "Savages"
+      },
+      {
+         "album" : {
+            "albumId" : "GN38A8BWNEG528R",
+            "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/D8A6/2B0E/79C7/E766_xlarge_front.jpg",
+            "albumName" : "Villains",
+            "trackCount" : "22"
+         },
+         "artist" : {
+            "artistId" : "GN0Y30CQD15REPQ",
+            "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/8BF8/F9B7/8710/06A3_xlarge_front.jpg",
+            "artistName" : "Jonathan Young"
+         },
+         "category" : {
+            "genreId" : "2669",
+            "genreName" : "Death Metal",
+            "moodId" : "34380",
+            "moodName" : "Wild Loud Dark Groove"
+         },
+         "duration" : "102986",
+         "releaseYear" : 2019,
+         "tidalTrackId" : null,
+         "trackId" : "GN3HTF9HJM0FE8R",
+         "trackName" : "Savages"
+      },
+      {
+         "album" : {
+            "albumId" : "GN7RA1Y772ZBAJP",
+            "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/80ED/0FDB/F0F9/72A0_xlarge_front.jpg",
+            "albumName" : "Zifukoro",
+            "trackCount" : "18"
+         },
+         "artist" : {
+            "artistId" : "GNDXCVQCX3JNTZ1",
+            "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/48C9/F902/09C3/4DAE_xlarge_front.jpg",
+            "artistName" : "Niska"
+         },
+         "category" : {
+            "genreId" : "82707",
+            "genreName" : "French Gangsta Rap",
+            "moodId" : "34193",
+            "moodName" : "Cool Confident Wary"
+         },
+         "duration" : "220253",
+         "releaseYear" : 2016,
+         "tidalTrackId" : null,
+         "trackId" : "GN346N26NZQ1CMJ",
+         "trackName" : "Savages"
+      },
+      {
+         "album" : {
+            "albumId" : "GN49P7VZGZBN0X8",
+            "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/D349/974D/A44A/966B_xlarge_front.jpg",
+            "albumName" : "Savages",
+            "trackCount" : "1"
+         },
+         "artist" : {
+            "artistId" : "GNFNJN3EEMGQB5D",
+            "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/D349/974D/A44A/966B_xlarge_front.jpg",
+            "artistName" : "Anna Mae"
+         },
+         "category" : {
+            "genreId" : "2853",
+            "genreName" : "Dance Pop",
+            "moodId" : "34199",
+            "moodName" : "Twangy Upbeat"
+         },
+         "duration" : "192522",
+         "releaseYear" : 2017,
+         "tidalTrackId" : null,
+         "trackId" : "GN2Z3J39NDGE9MM",
+         "trackName" : "Savages"
+      },
+      {
+         "album" : {
+            "albumId" : "GN097PHNXCHEXC3",
+            "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/F0C6/5D41/4340/DDE7_xlarge_front.jpg",
+            "albumName" : "The Love That Remains",
+            "trackCount" : "11"
+         },
+         "artist" : {
+            "artistId" : "GN9SHW5EGG7C4X2",
+            "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/B837/2931/F80B/2C93_xlarge_front.jpg",
+            "artistName" : "Savoir Adore"
+         },
+         "category" : {
+            "genreId" : "2755",
+            "genreName" : "Techno Pop",
+            "moodId" : "34217",
+            "moodName" : "Precious Dreamy Psychedelic Brooding Saturation"
+         },
+         "duration" : "235807",
+         "releaseYear" : 2016,
+         "tidalTrackId" : null,
+         "trackId" : "GN0N3XAJD07CQFZ",
+         "trackName" : "Savages"
+      },
+      {
+         "album" : {
+            "albumId" : "GN2W5PG7279QK3K",
+            "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/9E1B/1F66/A5FC/D2AA_xlarge_front.jpg",
+            "albumName" : "Hello Dog Friendly",
+            "trackCount" : "11"
+         },
+         "artist" : {
+            "artistId" : "GN5DFDK9S4H5S90",
+            "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/78F7/B702/F45C/B373_xlarge_front.jpg",
+            "artistName" : "Porridge Radio"
+         },
+         "category" : {
+            "genreId" : "18810",
+            "genreName" : "Post-Punk Revival",
+            "moodId" : "34211",
+            "moodName" : "Dark Gritty Energetic Fun"
+         },
+         "duration" : "166022",
+         "releaseYear" : 2016,
+         "tidalTrackId" : null,
+         "trackId" : "GN6PN2T4YPQFJV6",
+         "trackName" : "Savages"
+      },
+      {
+         "album" : {
+            "albumId" : "GNAK8X2XJ11X68T",
+            "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/2E3C/BCCD/4EE3/DB52_xlarge_front.jpg",
+            "albumName" : "Savages",
+            "trackCount" : "1"
+         },
+         "artist" : {
+            "artistId" : "GN8N703CEC09VXD",
+            "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/1DF3/2234/81F2/7A04_xlarge_front.jpg",
+            "artistName" : "Council"
+         },
+         "category" : {
+            "genreId" : "83145",
+            "genreName" : "Modern Indie",
+            "moodId" : "34374",
+            "moodName" : "Heavy Alienated / Brooding"
+         },
+         "duration" : "192795",
+         "releaseYear" : 2020,
+         "tidalTrackId" : null,
+         "trackId" : "GN4SAXVYN1SN1FZ",
+         "trackName" : "Savages"
+      },
+      {
+         "album" : {
+            "albumId" : "GN7PZQ29184SW1F",
+            "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/1581/D95D/5250/FFD1_xlarge_front.jpg",
+            "albumName" : "Savages",
+            "trackCount" : "2"
+         },
+         "artist" : {
+            "artistId" : "GNCAJSE8N8PBWDK",
+            "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/1581/D95D/5250/FFD1_xlarge_front.jpg",
+            "artistName" : "Sunnery James, Ryan Marciano X Bruno Martini Feat. Mayra"
+         },
+         "category" : {
+            "genreId" : "2878",
+            "genreName" : "Progressive House",
+            "moodId" : "34203",
+            "moodName" : "Passionate Dramatic Fiery Groove"
+         },
+         "duration" : "175073",
+         "releaseYear" : 2018,
+         "tidalTrackId" : null,
+         "trackId" : "GN1NS6FNN1TXX96",
+         "trackName" : "Savages"
+      },
+      {
+         "album" : {
+            "albumId" : "GND4BNKNJFKXK1K",
+            "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/FCCF/42EB/F194/6F0C_xlarge_front.jpg",
+            "albumName" : "The Love That Remains: Acoustic",
+            "trackCount" : "5"
+         },
+         "artist" : {
+            "artistId" : "GN9SHW5EGG7C4X2",
+            "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/B837/2931/F80B/2C93_xlarge_front.jpg",
+            "artistName" : "Savoir Adore"
+         },
+         "category" : {
+            "genreId" : "2755",
+            "genreName" : "Techno Pop",
+            "moodId" : "34165",
+            "moodName" : "Flowing Gentle Bittersweet"
+         },
+         "duration" : "203990",
+         "releaseYear" : 2016,
+         "tidalTrackId" : null,
+         "trackId" : "GNBNY21R90DNDC0",
+         "trackName" : "Savages (Acoustic)"
+      },
+      {
+         "album" : {
+            "albumId" : "GN6VSQZ92GJZH3A",
+            "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/E4CA/B1D6/0E28/781F_xlarge_front.jpg",
+            "albumName" : "Recklezz Scissorhandz",
+            "trackCount" : "20"
+         },
+         "artist" : {
+            "artistId" : "GND80Y9KXZH3CVT",
+            "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/2881/E861/A017/F71F_xlarge_front.jpg",
+            "artistName" : "Rico Recklezz"
+         },
+         "category" : {
+            "genreId" : "85689",
+            "genreName" : "Drill",
+            "moodId" : "34395",
+            "moodName" : "Hard Dark Beat"
+         },
+         "duration" : "236148",
+         "releaseYear" : 2017,
+         "tidalTrackId" : null,
+         "trackId" : "GN1BCFAH2Y98WVA",
+         "trackName" : "Savages and Goonz"
+      },
+      {
+         "album" : {
+            "albumId" : "GNAFPP72J7WE4DF",
+            "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/E785/549A/F6CC/0681_xlarge_front.jpg",
+            "albumName" : "THE FALL",
+            "trackCount" : "15"
+         },
+         "artist" : {
+            "artistId" : "GN81WTWPGAW0K5W",
+            "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/F06D/6062/6740/86DC_xlarge_front.jpg",
+            "artistName" : "Porchy"
+         },
+         "category" : {
+            "genreId" : "31364",
+            "genreName" : "Brithop",
+            "moodId" : "34193",
+            "moodName" : "Cool Confident Wary"
+         },
+         "duration" : "176666",
+         "releaseYear" : 2019,
+         "tidalTrackId" : null,
+         "trackId" : "GNBMM37QKNB7J1W",
+         "trackName" : "SAVAGES & BANDITS"
+      },
+      {
+         "album" : {
+            "albumId" : "GNFZZVDAE2V59GX",
+            "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/EB49/D9B8/B2EC/A7CA_medium_front.jpg",
+            "albumName" : "Love Thee, Not Chaos",
+            "trackCount" : "4"
+         },
+         "artist" : {
+            "artistId" : "GN197F1MRH4W5QD",
+            "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/AE9A/F408/5E5E/F813_xlarge_front.jpg",
+            "artistName" : "Lynette Williams"
+         },
+         "category" : {
+            "genreId" : "2775",
+            "genreName" : "Alternative Folk",
+            "moodId" : "34167",
+            "moodName" : "Soft Tender / Sincere"
+         },
+         "duration" : "240797",
+         "releaseYear" : 2016,
+         "tidalTrackId" : null,
+         "trackId" : "GNEX0E71ZQD22JG",
+         "trackName" : "Savages"
+      },
+      {
+         "album" : {
+            "albumId" : "GN9CVRGR8QSC43F",
+            "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/2FD9/061B/AE3A/BC84_xlarge_front.jpg",
+            "albumName" : "Gang Unit",
+            "trackCount" : "13"
+         },
+         "artist" : {
+            "artistId" : "GN7P99QA3SY209K",
+            "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/3128/11E2/4BAF/155A_xlarge_front.jpg",
+            "artistName" : "Woosh"
+         },
+         "category" : {
+            "genreId" : "85690",
+            "genreName" : "UK Drill",
+            "moodId" : "34193",
+            "moodName" : "Cool Confident Wary"
+         },
+         "duration" : "210861",
+         "releaseYear" : 2019,
+         "tidalTrackId" : null,
+         "trackId" : "GN7XKM6M4Z79TC9",
+         "trackName" : "Savages"
+      },
+      {
+         "album" : {
+            "albumId" : "GN1ZBRHBJXR84RE",
+            "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/7EF5/A2D0/CDE7/CE7C_xlarge_front.jpg",
+            "albumName" : "Savages",
+            "trackCount" : "1"
+         },
+         "artist" : {
+            "artistId" : "GN68PCHG1G8051Q",
+            "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/C781/2AB6/3E3A/C354_xlarge_front.jpg",
+            "artistName" : "ZÃE"
+         },
+         "category" : {
+            "genreId" : "2779",
+            "genreName" : "Alternative Female Prog Rock",
+            "moodId" : "34197",
+            "moodName" : "Dark Groovy / Savvy"
+         },
+         "duration" : "225600",
+         "releaseYear" : 2021,
+         "tidalTrackId" : null,
+         "trackId" : "GNCJVEV44Y65YCM",
+         "trackName" : "Savages"
+      },
+      {
+         "album" : {
+            "albumId" : "GN51P6DHV8NFKJP",
+            "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/9125/12DA/4C7D/DD02_xlarge_front.jpg",
+            "albumName" : "The Black Peril",
+            "trackCount" : "24"
+         },
+         "artist" : {
+            "artistId" : "GN8JNX4CDDZA9VA",
+            "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/53B0/7CC5/FB1A/051A_large_front.jpg",
+            "artistName" : "Soweto Kinch"
+         },
+         "category" : {
+            "genreId" : "2989",
+            "genreName" : "Conscious Hip-Hop",
+            "moodId" : "34193",
+            "moodName" : "Cool Confident Wary"
+         },
+         "duration" : "151613",
+         "releaseYear" : 2019,
+         "tidalTrackId" : null,
+         "trackId" : "GN58AECYMWYM9AF",
+         "trackName" : "Savages"
+      },
+      {
+         "album" : {
+            "albumId" : "GNFP7K073RZ3AKH",
+            "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/8B1B/C691/BE02/DAB0_xlarge_front.jpg",
+            "albumName" : "Subterrene",
+            "trackCount" : "10"
+         },
+         "artist" : {
+            "artistId" : "GNB4SBQS5EEPWJC",
+            "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/0986/BC3E/1C42/D92F_large_front.jpg",
+            "artistName" : "Casey Neill & The Norway Rats"
+         },
+         "category" : {
+            "genreId" : "2788",
+            "genreName" : "Alt Country",
+            "moodId" : "34371",
+            "moodName" : "Energetic Emo-Yearning"
+         },
+         "duration" : "247360",
+         "releaseYear" : 2018,
+         "tidalTrackId" : null,
+         "trackId" : "GN0JFNT7YMZ49GG",
+         "trackName" : "Savages"
+      },
+      {
+         "album" : {
+            "albumId" : "GN7PZQ29184SW1F",
+            "albumImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/1581/D95D/5250/FFD1_xlarge_front.jpg",
+            "albumName" : "Savages",
+            "trackCount" : "2"
+         },
+         "artist" : {
+            "artistId" : "GNCAJSE8N8PBWDK",
+            "artistImage" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/1581/D95D/5250/FFD1_xlarge_front.jpg",
+            "artistName" : "Sunnery James, Ryan Marciano X Bruno Martini Feat. Mayra"
+         },
+         "category" : {
+            "genreId" : "2878",
+            "genreName" : "Progressive House",
+            "moodId" : "34203",
+            "moodName" : "Passionate Dramatic Fiery Groove"
+         },
+         "duration" : "205166",
+         "releaseYear" : 2018,
+         "tidalTrackId" : null,
+         "trackId" : "GNDTVKCDVNA81Z2",
+         "trackName" : "Savages [Extended Mix]"
+      }
+   ]
+}

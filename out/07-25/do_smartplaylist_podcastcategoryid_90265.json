@@ -1,0 +1,536 @@
+3.4 Smart PlayList Endpoint\n3.4.2 By Podcast Series ID do_smartplaylist_podcastcategoryid ===========================================
+{
+   "data" : [
+      {
+         "seriesId" : "GA0000N000000NS",
+         "sourceFeed" : {
+            "author" : "The Last Podcast Network",
+            "categories" : [
+               "True Crime",
+               "Comedy",
+               "Society & Culture"
+            ],
+            "contentType" : "Episodic",
+            "description" : "The Last Podcast On The Left covers all the horrors our world has to offer both imagined and real, from demons and slashers to cults and serial killers, The Last Podcast is guaranteed to satisfy your blood lust.",
+            "imageUrl" : "https://image.simplecastcdn.com/images/cdb1f1d8-cb70-41f6-9aae-fb6751090e20/ef892a1f-68b7-414a-af5d-630a7dad3c68/3000x3000/lpotl.jpg?aid=rss_feed",
+            "language" : "en",
+            "owner" : "The Last Podcast Network"
+         },
+         "subtitle" : "The Last Podcast On The Left covers all the horrors our world has to offer both imagined and real",
+         "summary" : "The Last Podcast On The Left covers all the horrors our world has to offer both imagined and real, from demons and slashers to cults and serial killers, The Last Podcast is guaranteed to satisfy your blood lust.",
+         "title" : "Last Podcast on the Left"
+      },
+      {
+         "seriesId" : "GA0000N000000P0",
+         "sourceFeed" : {
+            "author" : "VIEWS",
+            "categories" : [
+               "Comedy"
+            ],
+            "contentType" : "Episodic",
+            "description" : "In this weekly podcast, David Dobrik, a 24-year-old, sexy, millionaire YouTuber and Jason Nash, a 40-something single dad with a vlog of his own, take you behind-the-scenes of their vlogs and show you what living the âYouTube lifeâ is really like. Join these two as they confess their most intimate thoughts, discuss pop-culture, and dissect their own contentious relationship. New episodes drop every Tuesday!",
+            "imageUrl" : "https://megaphone.imgix.net/podcasts/311ec404-0f98-11e9-930e-0f22df78a419/image/uploads_2F1614195372377-zkqqr8yqd8-b51f4d17be7e63c23fea020d2e3736d7_2FVIEWSLOGOUPDATED_1800.jpg?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+            "language" : "en",
+            "owner" : "VIEWS"
+         },
+         "subtitle" : null,
+         "summary" : "In this weekly podcast, David Dobrik, a 24-year-old, sexy, millionaire YouTuber and Jason Nash, a 40-something single dad with a vlog of his own, take you behind-the-scenes of their vlogs and show you what living the âYouTube lifeâ is really like. Join these two as they confess their most intimate thoughts, discuss pop-culture, and dissect their own contentious relationship. New episodes drop every Tuesday!",
+         "title" : "Views With David Dobrik & Jason Nash"
+      },
+      {
+         "seriesId" : "GA0000N000000PZ",
+         "sourceFeed" : {
+            "author" : "Team Coco & Earwolf",
+            "categories" : [
+               "Comedy"
+            ],
+            "contentType" : "Episodic",
+            "description" : "After 25 years at the Late Night desk, Conan realized that the only people at his holiday party are the men and women who work for him. Over the years and despite thousands of interviews, Conan has never made a real and lasting friendship with any of his celebrity guests. So, he started a podcast to do just that.Deeper, unboundedly playful, and free from FCC regulations, Conan OâBrien Needs a Friend is a weekly opportunity for Conan to hang out with the people he enjoys most and perhaps find some real friendship along the way.",
+            "imageUrl" : "https://image.simplecastcdn.com/images/5b7d8c77-15ba-4eff-a999-2e725db21db5/2ca29cb6-c010-4780-a9ba-7e5e1729f565/3000x3000/conaf-cover.jpg?aid=rss_feed",
+            "language" : "en-US",
+            "owner" : "Team Coco & Earwolf"
+         },
+         "subtitle" : null,
+         "summary" : "After 25 years at the Late Night desk, Conan realized that the only people at his holiday party are the men and women who work for him. Over the years and despite thousands of interviews, Conan has never made a real and lasting friendship with any of his celebrity guests. So, he started a podcast to do just that.Deeper, unboundedly playful, and free from FCC regulations, Conan OâBrien Needs a Friend is a weekly opportunity for Conan to hang out with the people he enjoys most and perhaps find some real friendship along the way.",
+         "title" : "Conan OâBrien Needs a Friend"
+      },
+      {
+         "seriesId" : "GA0000N000000RW",
+         "sourceFeed" : {
+            "author" : "Misfits Network",
+            "categories" : [
+               "Comedy"
+            ],
+            "contentType" : "Episodic",
+            "description" : "The most scuffed podcast on the internet.",
+            "imageUrl" : "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/8163057/8163057-1645815664722-8a54efab7ff5e.jpg",
+            "language" : "en-US",
+            "owner" : "Misfits Network"
+         },
+         "subtitle" : null,
+         "summary" : "The most scuffed podcast on the internet.",
+         "title" : "The Misfits Podcast"
+      },
+      {
+         "seriesId" : "GA0000N0000N085",
+         "sourceFeed" : {
+            "author" : "Earwolf & Jenna Fischer and Angela Kinsey",
+            "categories" : [
+               "Comedy"
+            ],
+            "contentType" : "Episodic",
+            "description" : "The Office co-stars and best friends, Jenna Fischer and Angela Kinsey, are doing the ultimate The Office re-watch podcast for you. Each week Jenna and Angela will break down an episode of The Office and give exclusive behind the scene stories that only two people who were there, can tell you.",
+            "imageUrl" : "https://image.simplecastcdn.com/images/eeecdf60-9801-4195-90c3-84742003404a/744ba99d-a29f-4567-a058-15727130fcbe/3000x3000/image.jpg?aid=rss_feed",
+            "language" : "en-US",
+            "owner" : "Earwolf"
+         },
+         "subtitle" : null,
+         "summary" : "The Office co-stars and best friends, Jenna Fischer and Angela Kinsey, are doing the ultimate The Office re-watch podcast for you. Each week Jenna and Angela will break down an episode of The Office and give exclusive behind the scene stories that only two people who were there, can tell you.",
+         "title" : "Office Ladies"
+      },
+      {
+         "seriesId" : "GA0000N000000NF",
+         "sourceFeed" : {
+            "author" : "Chris Hardwick",
+            "categories" : [
+               "Comedy",
+               "TV & Film"
+            ],
+            "contentType" : "Episodic",
+            "description" : "<p>I am Chris Hardwick. This podcast used to be called Nerdist. Now it is not. It is still basically just me talking about stuff and things with my two nerdy friends Jonah Ray and Matt Mira when theyâre available, and usually someone more famous and smarter than all of us. Swearing is still fun, so we still do that occasionally. I hope you like this new iteration which is the same as before, but if a name hangs you up unhealthily Iâm sure you will not hesitate to unfurl your rage not only in the âreviewsâ section but also now on all the various social media platforms that have popped up since we started in 2010, effectively murdering blogs.</p>",
+            "imageUrl" : "https://content.production.cdn.art19.com/images/58/a1/cf/f4/58a1cff4-2127-476f-a386-eb043b863a7a/577d912b5d1f36c085da75e9b1590c392669d508757552874e76c4d4d1fe8d0143ed8b003d90b5a6e8eb5ef72763a9f889c5ca7818e8d5dc4740ffab7e19d414.jpeg",
+            "language" : "en",
+            "owner" : "Chris Hardwick"
+         },
+         "subtitle" : null,
+         "summary" : "<p>I am Chris Hardwick. This podcast used to be called Nerdist. Now it is not. It is still basically just me talking about stuff and things with my two nerdy friends Jonah Ray and Matt Mira when theyâre available, and usually someone more famous and smarter than all of us. Swearing is still fun, so we still do that occasionally. I hope you like this new iteration which is the same as before, but if a name hangs you up unhealthily Iâm sure you will not hesitate to unfurl your rage not only in the âreviewsâ section but also now on all the various social media platforms that have popped up since we started in 2010, effectively murdering blogs.</p>",
+         "title" : "ID10T With Chris Hardwick"
+      },
+      {
+         "seriesId" : "GA0000N000000NH",
+         "sourceFeed" : {
+            "author" : "Marc Maron",
+            "categories" : [
+               "Comedy"
+            ],
+            "contentType" : "Episodic",
+            "description" : "Marc Maron welcomes comedians, actors, directors, writers, authors, musicians and folks from all walks of life to his home for amazingly revealing conversations. Marc's probing, comprehensive interview style allows guests to express themselves in ways listeners have never heard.<br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p> \nSign up here for WTF+ to get the full show archives and weekly bonus material! <a target=\"_blank\" rel=\"payment\" href=\"https://plus.acast.com/s/wtf-with-marc-maron-podcast\">https://plus.acast.com/s/wtf-with-marc-maron-podcast</a>",
+            "imageUrl" : "https://assets.pippa.io/shows/62a222737c02140013aa4c03/1656679440477-8e0e5db81e3f07c927b0032af2591499.jpeg",
+            "language" : "en",
+            "owner" : "Marc Maron"
+         },
+         "subtitle" : "Get all your WTF needs at wtfpod.com",
+         "summary" : "Marc Maron welcomes comedians, actors, directors, writers, authors, musicians and folks from all walks of life to his home for amazingly revealing conversations. Marc's probing, comprehensive interview style allows guests to express themselves in ways listeners have never heard.<br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p> \nSign up here for WTF+ to get the full show archives and weekly bonus material! <a target=\"_blank\" rel=\"payment\" href=\"https://plus.acast.com/s/wtf-with-marc-maron-podcast\">https://plus.acast.com/s/wtf-with-marc-maron-podcast</a>",
+         "title" : "WTF With Marc Maron Podcast"
+      },
+      {
+         "seriesId" : "GA0000N000000NM",
+         "sourceFeed" : {
+            "author" : "PodcastOne / Carolla Digital",
+            "categories" : [
+               "Comedy"
+            ],
+            "contentType" : "Episodic",
+            "description" : "Welcome to the new home for Adam's rantings and ravings. This is the #1 Daily Downloaded Podcast in the World. GET IT ON as Adam shares his thoughts on current events, relationships, airport security, specialty pizzas, politics, and anything else he can complain about. Five days a week and completely uncensored, Adam welcomes a wide range of guests to join him in studio for in depth interviews and a front row seat to his unparalleled ranting. Let's not forget Bryan Bishop (Bald Bryan) on sound effects.\n\nCheck it out as Adam hangs out with some of his pals like: Larry Miller, David Allen Grier, Dr. Drew Pinksy, Dana Gould, Doug Benson, and many, many more.",
+            "imageUrl" : "https://img.podcastone.com/images/313/carolla.png",
+            "language" : "en-US",
+            "owner" : "PodcastOne / Carolla Digital"
+         },
+         "subtitle" : "Welcome to the new home for Adam's rantings and ravings. This is the #1 daily downloaded podcast in the world. Get it on as Adam shares his thoughts on current events, relationships, airport security, specialty pizzas, politics, and more.\r\n\r\nCheck it out as Adam hangs out with some of his pals like Larry Miller, David Allen Grier, Dr. Drew Pinksy, Dana Gould, Doug Benson, and more.",
+         "summary" : "Welcome to the new home for Adam's rantings and ravings. This is the #1 Daily Downloaded Podcast in the World. GET IT ON as Adam shares his thoughts on current events, relationships, airport security, specialty pizzas, politics, and anything else he can complain about. Five days a week and completely uncensored, Adam welcomes a wide range of guests to join him in studio for in depth interviews and a front row seat to his unparalleled ranting. Let's not forget Bryan Bishop (Bald Bryan) on sound effects.\n\nCheck it out as Adam hangs out with some of his pals like: Larry Miller, David Allen Grier, Dr. Drew Pinksy, Dana Gould, Doug Benson, and many, many more.",
+         "title" : "Adam Carolla Show"
+      },
+      {
+         "seriesId" : "GA0000N000000NP",
+         "sourceFeed" : {
+            "author" : "All Things Comedy",
+            "categories" : [
+               "Comedy"
+            ],
+            "contentType" : "Episodic",
+            "description" : "<p>Bill Burr rants about relationship advice, sports and the Illuminati. </p>",
+            "imageUrl" : "https://www.omnycontent.com/d/playlist/885ace83-027a-47ad-ad67-aca7002f1df8/caa92bb1-73cc-4abc-8b6d-aca8005d0d23/471fc444-1378-4268-86ea-aca8005d0d3b/image.jpg?t=1609911530&size=Large",
+            "language" : "en-US",
+            "owner" : "Bill Burr"
+         },
+         "subtitle" : null,
+         "summary" : "Bill Burr rants about relationship advice, sports and the Illuminati.",
+         "title" : "Monday Morning Podcast"
+      },
+      {
+         "seriesId" : "GA0000N000000NR",
+         "sourceFeed" : {
+            "author" : "Earwolf and Scott Aukerman",
+            "categories" : [
+               "Comedy"
+            ],
+            "contentType" : "Episodic",
+            "description" : "Join host Scott Aukerman (\"Comedy Bang! Bang!\" on IFC, \"Mr. Show\") for a weekly podcast that blends conversation and character work from today's funniest comedians. While Scott begins by traditionally interviewing the celebrities, the open-door policy means an assortment of eccentric oddballs can pop by at any moment to chat, compete in games, and engage in comic revelry. With all that, and regular bonus episodes, we bet your favorite part will still be the plugs!",
+            "imageUrl" : "https://image.simplecastcdn.com/images/a35fca4e-944a-4ccb-bc7b-d678b2c11e9d/ff9cb7ab-74e1-4a8a-98c5-48613e5d500b/3000x3000/ear-cover-comedybangbang-2018refresh-3000x3000-final-1.jpg?aid=rss_feed",
+            "language" : "en-US",
+            "owner" : "Earwolf"
+         },
+         "subtitle" : null,
+         "summary" : "Join host Scott Aukerman (\"Comedy Bang! Bang!\" on IFC, \"Mr. Show\") for a weekly podcast that blends conversation and character work from today's funniest comedians. While Scott begins by traditionally interviewing the celebrities, the open-door policy means an assortment of eccentric oddballs can pop by at any moment to chat, compete in games, and engage in comic revelry. With all that, and regular bonus episodes, we bet your favorite part will still be the plugs!",
+         "title" : "Comedy Bang Bang: The Podcast"
+      },
+      {
+         "seriesId" : "GA0000N000000Nh",
+         "sourceFeed" : {
+            "author" : "Earwolf and Paul Scheer, June Diane Raphael, Jason Mantzoukas",
+            "categories" : [
+               "Comedy"
+            ],
+            "contentType" : "Episodic",
+            "description" : "Have you ever seen a movie so bad that it's amazing? Paul Scheer, June Diane Raphael and Jason Mantzoukas want to hear about it! We'll watch it with our funniest friends, and report back to you with the results.",
+            "imageUrl" : "https://image.simplecastcdn.com/images/a35fca4e-944a-4ccb-bc7b-d678b2c11e9d/9a9cbdd6-22c3-4a6f-be04-49316ffeeaa7/3000x3000/ear-cover-hdtgm-3000x3000-r2017-final.jpg?aid=rss_feed",
+            "language" : "en-US",
+            "owner" : "Earwolf"
+         },
+         "subtitle" : null,
+         "summary" : "Have you ever seen a movie so bad that it's amazing? Paul Scheer, June Diane Raphael and Jason Mantzoukas want to hear about it! We'll watch it with our funniest friends, and report back to you with the results.",
+         "title" : "How Did This Get Made?"
+      },
+      {
+         "seriesId" : "GA0000N000000Nr",
+         "sourceFeed" : {
+            "author" : "WNYC Studios",
+            "categories" : [
+               "Comedy",
+               "Society & Culture"
+            ],
+            "contentType" : "Episodic",
+            "description" : "Phoebe Robinson and Jessica Williams host a live comedy show in Brooklyn.",
+            "imageUrl" : "https://media.wnyc.org/i/1400/1400/l/80/1/2DQ_1400X1400_NoWNYCSTUDIOS_2.png",
+            "language" : "en-US",
+            "owner" : "WNYC Studios"
+         },
+         "subtitle" : "Phoebe Robinson and Jessica Williams are funny. Theyâre black. Theyâre BFFs. And they host a a live comedy show in Brooklyn. Join the 2 Dope Queens, along with their favorite comedians, for stories about sex, romance, race, hair journeys, living in New Y",
+         "summary" : "Phoebe Robinson and Jessica Williams are funny. Theyâre black. Theyâre BFFs. And they host a a live comedy show in Brooklyn. Join the 2 Dope Queens, along with their favorite comedians, for stories about sex, romance, race, hair journeys, living in New York, and Billy Joel. Plus a whole bunch of other S**t. \r\nWNYC Studios is a listener-supported producer of other leading podcasts including Radiolab, Snap Judgment, Sooo Many White Guys, On the Media, Hereâs the Thing with Alec Baldwin and many others.\r\nÂ© WNYC Studios",
+         "title" : "2 Dope Queens"
+      },
+      {
+         "seriesId" : "GA0000N000000P1",
+         "sourceFeed" : {
+            "author" : "Corinne Fisher and Krystyna Hutchinson",
+            "categories" : [
+               "Comedy",
+               "Health & Fitness"
+            ],
+            "contentType" : "Episodic",
+            "description" : "Hailed as changing the way society thinks about female sexuality, Guys We Fucked continues to pave the way toward a healthier outlook on sex. Hosted by stand-up comedians Corinne Fisher and Krystyna Hutchinson, this critically acclaimed podcast will be your new best friend. Tune in every Friday to hear discussions on the most taboo kinks, interviews with revolutionaries in sexual health, cultural icons, and, occasionally, guys theyâve fucked.",
+            "imageUrl" : "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/f419fe2b-a674-461e-b326-ae3900513296/c4643461-dbd9-49e0-a65f-ae39005132a4/image.jpg?t=1644555347&size=Large",
+            "language" : "en-US",
+            "owner" : "Luminary and iHeartPodcasts"
+         },
+         "subtitle" : "Welcome to GUYS WE F****D: THE ANTI SLUT-SHAMING â¦",
+         "summary" : "Hailed as changing the way society thinks about female sexuality, Guys We Fucked continues to pave the way toward a healthier outlook on sex. Hosted by stand-up comedians Corinne Fisher and Krystyna Hutchinson, this critically acclaimed podcast will be your new best friend. Tune in every Friday to hear discussions on the most taboo kinks, interviews with revolutionaries in sexual health, cultural icons, and, occasionally, guys theyâve fucked.",
+         "title" : "Guys We F...ed"
+      },
+      {
+         "seriesId" : "GA0000N000000P2",
+         "sourceFeed" : {
+            "author" : "Joey Coco Diaz",
+            "categories" : [
+               "Comedy",
+               "TV & Film"
+            ],
+            "contentType" : "Episodic",
+            "description" : "Uncle Joey's Joint with: Joey Coco Diaz is a twice-weekly podcast hosted by Comedian Joey Coco Diaz. Joey doesn't hold anything back and lets you know exactly what's on his mind. Welcome to The Joint.",
+            "imageUrl" : "https://ssl-static.libsyn.com/p/assets/a/b/8/3/ab8375826bbc162f/Uncle_Joeys_Joint.jpg",
+            "language" : "en",
+            "owner" : "Joey Coco Diaz"
+         },
+         "subtitle" : "Joey Diaz talking about what actually matters.",
+         "summary" : "Uncle Joey's Joint with: Joey Coco Diaz is a twice-weekly podcast hosted by Comedian Joey Coco Diaz. Joey doesn't hold anything back and lets you know exactly what's on his mind. Welcome to The Joint.",
+         "title" : "Uncle Joey's Joint"
+      },
+      {
+         "seriesId" : "GA0000N000000P3",
+         "sourceFeed" : {
+            "author" : "YMH Studios",
+            "categories" : [
+               "Comedy",
+               "TV & Film"
+            ],
+            "contentType" : "Episodic",
+            "description" : "Christina Pazsitzky and Tom Segura are comedians who are also married. They are the Mommies and they welcome you to join them. Dental updates! Dudes! Stories! Wiping!",
+            "imageUrl" : "https://image.simplecastcdn.com/images/bb5948cd-50b8-4042-b16f-2557631e4bb4/765acd0f-8305-4f4d-8de9-0da98012c05a/3000x3000/2019-ymhpod-coverart1.jpg?aid=rss_feed",
+            "language" : "en",
+            "owner" : "Tom Segura"
+         },
+         "subtitle" : "Are you my mommy?",
+         "summary" : "Christina Pazsitzky and Tom Segura are comedians who are also married. They are the Mommies and they welcome you to join them. Dental updates! Dudes! Stories! Wiping!",
+         "title" : "Your Mom's House With Christina P. and Tom Segura"
+      },
+      {
+         "seriesId" : "GA0000N000000P8",
+         "sourceFeed" : {
+            "author" : "The McElroys",
+            "categories" : [
+               "Comedy"
+            ],
+            "contentType" : "Episodic",
+            "description" : "Free advice from three of the world's most qualified, most related experts: Justin, Travis and Griffin McElroy. For one-half to three-quarters of an hour every Monday, we tell people how to live their lives, because we're obviously doing such a great job of it so far.",
+            "imageUrl" : "https://image.simplecastcdn.com/images/9ba52d4c-4e8c-4203-a3de-be89969671f2/13b53677-6ef7-4079-a079-80814f584e14/3000x3000/mbmbam-cover-final.jpg?aid=rss_feed",
+            "language" : "en",
+            "owner" : "Justin McElroy"
+         },
+         "subtitle" : "My Brother, My Brother and Me is an advice show for the modern age.",
+         "summary" : "Free advice from three of the world's most qualified, most related experts: Justin, Travis and Griffin McElroy. For one-half to three-quarters of an hour every Monday, we tell people how to live their lives, because we're obviously doing such a great job of it so far.",
+         "title" : "My Brother, My Brother and Me"
+      },
+      {
+         "seriesId" : "GA0000N000000P9",
+         "sourceFeed" : {
+            "author" : "My Dad Wrote A Porno",
+            "categories" : [
+               "Comedy"
+            ],
+            "contentType" : "Serial",
+            "description" : "Imagine if your Dad wrote a dirty book. Most people would try to ignore it and pretend it had never happened - but not Jamie Morton. Instead, he's decided to read it to the world in this award-winning comedy podcast. With the help of his friends, James Cooper and Alice Levine, Jamie will be reading a chapter each episode and discovering more about his father than he ever bargained for.<br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+            "imageUrl" : "https://assets.pippa.io/shows/61b9f45b1a8cbe48893cedf4/show-cover.jpg",
+            "language" : "en",
+            "owner" : "Medium Maze"
+         },
+         "subtitle" : "Imagine if your Dad wrote a dirty book. Most people would try to ignore it and pretend it had never happened - but not Jamie Morton. Instead, he&apos;s decided to read it to the world in this award-winning comedy podcast.",
+         "summary" : "Imagine if your Dad wrote a dirty book. Most people would try to ignore it and pretend it had never happened - but not Jamie Morton. Instead, he's decided to read it to the world in this award-winning comedy podcast. With the help of his friends, James Cooper and Alice Levine, Jamie will be reading a chapter each episode and discovering more about his father than he ever bargained for.<br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+         "title" : "My Dad Wrote A Porno"
+      },
+      {
+         "seriesId" : "GA0000N000000PJ",
+         "sourceFeed" : {
+            "author" : "All Things Comedy",
+            "categories" : [
+               "Comedy",
+               "History",
+               "Society & Culture"
+            ],
+            "contentType" : "Episodic",
+            "description" : "<p>Comedians Dave Anthony and Gareth Reynolds picks a subject from history and examine it.</p>",
+            "imageUrl" : "https://www.omnycontent.com/d/playlist/885ace83-027a-47ad-ad67-aca7002f1df8/22b063ac-654d-428f-bd69-ae2400349cde/65ff0206-b585-4e2a-9872-ae240034c9c9/image.jpg?t=1642981771&size=Large",
+            "language" : "en-US",
+            "owner" : "Dave Anthony and Gareth Reynolds"
+         },
+         "subtitle" : null,
+         "summary" : "Comedians Dave Anthony and Gareth Reynolds picks a subject from history and examine it.",
+         "title" : "The Dollop With Dave Anthony and Gareth Reynolds"
+      },
+      {
+         "seriesId" : "GA0000N000000PP",
+         "sourceFeed" : {
+            "author" : "Mythical & Ramble",
+            "categories" : [
+               "Comedy"
+            ],
+            "contentType" : "Episodic",
+            "description" : "Join Rhett and Link, hosts of the popular daily YouTube show Good Mythical Morning and authors of the New York Times bestseller âBook of Mythicalityâ in a candid weekly conversation for your Internetainment.",
+            "imageUrl" : "https://megaphone.imgix.net/podcasts/daef779e-0f93-11e9-8be1-ef6a540ab876/image/uploads_2F1602433438482-2roanrs8nqu-ea4e973e69e02f805b99e58be33418cb_2FEB_Icon_2020.jpg?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+            "language" : "en",
+            "owner" : "Rhett & Link"
+         },
+         "subtitle" : null,
+         "summary" : "Join Rhett and Link, hosts of the popular daily YouTube show Good Mythical Morning and authors of the New York Times bestseller âBook of Mythicalityâ in a candid weekly conversation for your Internetainment.",
+         "title" : "Ear Biscuits"
+      },
+      {
+         "seriesId" : "GA0000N000000Pb",
+         "sourceFeed" : {
+            "author" : "Jenna & Julien Podcast",
+            "categories" : [
+               "Comedy"
+            ],
+            "contentType" : null,
+            "description" : "Welcome to the Jenna & Julien Podcast where we talk about all the things. If you are looking for your everyday, normal, by the book podcast, then you're in the wrong place. We created this because we tend to have awesome, random, and sometimes drunk conversations that we realized had to be shared with the lovely internet world. So here we are. \n\nWe also like to ustream during the podcast to get some live interaction and also quick on-the-spot input on our chats--you can participate here: http://www.ustream.tv/channel/jsolo123\n\nSubscribe to this channel for new podcasts EVERY MONDAY\n\niTunes: http://itunes.com/jennajulienpodcast\n\nSoundCloud: http://soundcloud.com/JennaJulienPodcast\n\nYou can follow us on all the things:\nInstagram: http://instagram.com/jennajulienpod\nTwitter: https://twitter.com/jennajulienpod\nYouTube: http://youtube.com/JennaJulienPodcast\n\nJenna: \nIG: http://instagram.com/jennamarbles\nTW: https://twitter.com/Jenna_Marbles\nYT: https://www.youtube.com/user/JennaMar...\n\nJulien:\nIG: http://instagram.com/juliensolomita\nTW: https://twitter.com/JulienSolomita\nYT: https://www.youtube.com/user/TheFight...\nCategory",
+            "imageUrl" : "https://i1.sndcdn.com/avatars-000312413773-fkl7bp-original.jpg",
+            "language" : "en",
+            "owner" : "Jenna & Julien Podcast"
+         },
+         "subtitle" : "Welcome to the Jenna & Julien Podcast where we taâ¦",
+         "summary" : null,
+         "title" : "Jenna & Julien Podcast"
+      },
+      {
+         "seriesId" : "GA0000N000000Pm",
+         "sourceFeed" : {
+            "author" : "Desus Nice & THE KID MERO",
+            "categories" : [
+               "Comedy"
+            ],
+            "contentType" : null,
+            "description" : "Desus Nice (@Desusnice) and The Kid Mero (@thekidmero) are the Bodega Boys \nhttps://twitter.com/BodegaBoys",
+            "imageUrl" : "https://i1.sndcdn.com/avatars-000640749609-23bmyn-original.jpg",
+            "language" : "en",
+            "owner" : "Bodega Boys"
+         },
+         "subtitle" : "Desus Nice (@Desusnice) and The Kid Mero (@thekidâ¦",
+         "summary" : null,
+         "title" : "Bodega Boys"
+      },
+      {
+         "seriesId" : "GA0000N000000Pt",
+         "sourceFeed" : {
+            "author" : "Theo Von",
+            "categories" : [
+               "Comedy"
+            ],
+            "contentType" : "Episodic",
+            "description" : "<p>What happened this past weekend. And sometimes what happened on other days. </p>",
+            "imageUrl" : "https://www.omnycontent.com/d/playlist/9b7dacdf-a925-4f95-84dc-ac46003451ff/d32c6294-eba5-4807-abed-acb8002fdc1c/457951e4-f7cd-44ce-a5ff-acb8002fdc26/image.jpg?t=1611284058&size=Large",
+            "language" : "en-US",
+            "owner" : "Theo Von"
+         },
+         "subtitle" : null,
+         "summary" : "What happened this past weekend. And sometimes what happened on other days.",
+         "title" : "This Past Weekend"
+      },
+      {
+         "seriesId" : "GA0000N000000R2",
+         "sourceFeed" : {
+            "author" : "Justin McElroy, Dr. Sydnee McElroy",
+            "categories" : [
+               "Comedy",
+               "Health & Fitness",
+               "History"
+            ],
+            "contentType" : "Episodic",
+            "description" : "Join Dr. Sydnee McElroy and her husband Justin McElroy for a tour of all the dumb, bad, gross, weird and wrong ways we've tried to fix people.",
+            "imageUrl" : "https://image.simplecastcdn.com/images/a5445fde-0e70-4659-8f18-442f9aabbaac/f24cf20c-122b-425f-a782-cc2aecad305c/3000x3000/sawbones-logo-final.png?aid=rss_feed",
+            "language" : "en",
+            "owner" : "Justin McElroy"
+         },
+         "subtitle" : "A Marital Tour of Misguided Medicine",
+         "summary" : "Join Dr. Sydnee McElroy and her husband Justin McElroy for a tour of all the dumb, bad, gross, weird and wrong ways we've tried to fix people.",
+         "title" : "Sawbones: A Marital Tour of Misguided Medicine"
+      },
+      {
+         "seriesId" : "GA0000N000000R3",
+         "sourceFeed" : {
+            "author" : "Chris D'Elia",
+            "categories" : [
+               "Comedy",
+               "Society & Culture",
+               "TV & Film"
+            ],
+            "contentType" : "Episodic",
+            "description" : "Chris D'Elia (comedian: No Pain, Comedians of the World, Man on Fire, Incorrigible on Netflix, White Male Black Comic on Comedy Central) sits down every week to talk about what's on his mind.",
+            "imageUrl" : "https://megaphone.imgix.net/podcasts/ff781218-e9a9-11eb-bdba-237733a8df25/image/Congratulations-2022-Key-9.jpg?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+            "language" : "en",
+            "owner" : "Chris D'Elia"
+         },
+         "subtitle" : "A man unraveling on the internet.",
+         "summary" : "Chris D'Elia (comedian: No Pain, Comedians of the World, Man on Fire, Incorrigible on Netflix, White Male Black Comic on Comedy Central) sits down every week to talk about what's on his mind.",
+         "title" : "Congratulations With Chris D'Elia"
+      },
+      {
+         "seriesId" : "GA0000N000000R6",
+         "sourceFeed" : {
+            "author" : "Ethan Klein",
+            "categories" : [
+               "Comedy"
+            ],
+            "contentType" : "Episodic",
+            "description" : "The official podcast of comedians Ethan & Hila Klein of h3h3productions.",
+            "imageUrl" : "https://megaphone.imgix.net/podcasts/0214c2b6-e5a2-11eb-9b5f-db8f4937453a/image/H3_Podcast_SQUARE_LOGO.jpeg?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+            "language" : "en-US",
+            "owner" : "Ethan Klein"
+         },
+         "subtitle" : "H3 Podcast hosted by Ethan Klein",
+         "summary" : "The official podcast of comedians Ethan & Hila Klein of h3h3productions.",
+         "title" : "H3 Podcast"
+      },
+      {
+         "seriesId" : "GA0000N000000R9",
+         "sourceFeed" : {
+            "author" : "Barstool Sports",
+            "categories" : [
+               "Comedy"
+            ],
+            "contentType" : null,
+            "description" : "<p>Hosted by KFC and Feitelberg, KFC Radio is the quintessential bar conversation brought to podcast form. Listener interaction is the name of the game as Barstool readers and listeners contribute their Stoolie Voicemails to drive the conversation to strange places including embarrassing personal stories, bizarre hypothetical questions, and more. New episodes of the hilarious Barstool Network flagship show are released every Tuesday and Thursday.</p>",
+            "imageUrl" : "https://chumley.barstoolsports.com/union/2022/04/07/KFC-Headshot.cb0fa5c3.jpeg?crop=1400%3A1400%2Csmart",
+            "language" : "en-US",
+            "owner" : "Barstool Sports"
+         },
+         "subtitle" : "<p>Featuring all of the regular Barstool personalities, KFC Radio is the quintessential bar conversation brought to podcast form. Listener interaction is the name of the game as Barstool readers and listeners contribute their Stoolie Voicemails to drive t",
+         "summary" : null,
+         "title" : "KFC Radio"
+      },
+      {
+         "seriesId" : "GA0000N000000RP",
+         "sourceFeed" : {
+            "author" : "Ashley Hesseltine and Rayna Greenberg",
+            "categories" : [
+               "Comedy",
+               "Health & Fitness"
+            ],
+            "contentType" : "Episodic",
+            "description" : "Why do guys just want to f*ck you once then stalk your Instagram forever? Should you ditch the apps and meet people in the wild? How do you get over a breakup when you feel like you're gonna die?\n\nThese are all topics discussed on Girls Gotta Eat -- a comedy podcast about dating, sex, and relationships co-hosted by Ashley Hesseltine and Rayna Greenberg.",
+            "imageUrl" : "https://ssl-static.libsyn.com/p/assets/e/2/9/1/e291d87a3bab426f/2020_GGE_cover_art.jpg",
+            "language" : "en",
+            "owner" : "Ashley Hesseltine"
+         },
+         "subtitle" : "A podcast about dating/sex/relationships from the ladies behind @OneHungryJew and @BrosBeingBasic",
+         "summary" : "Why do guys just want to f*ck you once then stalk your Instagram forever? Should you ditch the apps and meet people in the wild? How do you get over a breakup when you feel like you're gonna die?\n\nThese are all topics discussed on Girls Gotta Eat -- a comedy podcast about dating, sex, and relationships co-hosted by Ashley Hesseltine and Rayna Greenberg.",
+         "title" : "Girls Gotta Eat"
+      },
+      {
+         "seriesId" : "GA0000N000000RR",
+         "sourceFeed" : {
+            "author" : "Santagato Studios",
+            "categories" : [
+               "Comedy"
+            ],
+            "contentType" : "Episodic",
+            "description" : "The Basement Yard is a podcast ran by me, Joe Santagato. I would write a long description about what this podcast will be about but I'm not even sure.. Enjoy!",
+            "imageUrl" : "https://megaphone.imgix.net/podcasts/32e8a5a8-1714-11ec-b830-87112fca5b19/image/Basement_Yard_Logo.png?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+            "language" : "en",
+            "owner" : "Joe Santagato"
+         },
+         "subtitle" : null,
+         "summary" : "The Basement Yard is a podcast ran by me, Joe Santagato. I would write a long description about what this podcast will be about but I'm not even sure.. Enjoy!",
+         "title" : "The Basement Yard"
+      },
+      {
+         "seriesId" : "GA0000N000000RZ",
+         "sourceFeed" : {
+            "author" : "Arnie Niekamp",
+            "categories" : [
+               "Comedy",
+               "Fiction"
+            ],
+            "contentType" : "Episodic",
+            "description" : "Arnie Niekamp fell through a dimensional portal behind a Burger King into the fantastical land of Foon. He's still getting a slight wifi signal, so he uploads a weekly podcast from the tavern the Vermilion Minotaur where he interviews wizards, monsters and adventurers. It's a major discovery!",
+            "imageUrl" : "https://content.production.cdn.art19.com/images/d1/7c/55/42/d17c5542-9279-439f-a74b-51a35509b3b3/9e5dedf1df328ad9e6afad027be451d8a6004ace9a608a56ef5dff947e3c1da029eae177362aa133272af86fded608e7f62b10755ab476c341bdf1a988e49408.jpeg",
+            "language" : "en",
+            "owner" : "Arnie Niekamp"
+         },
+         "subtitle" : null,
+         "summary" : "Arnie Niekamp fell through a dimensional portal behind a Burger King into the fantastical land of Foon. He's still getting a slight wifi signal, so he uploads a weekly podcast from the tavern the Vermilion Minotaur where he interviews wizards, monsters and adventurers. It's a major discovery!",
+         "title" : "Hello From the Magic Tavern"
+      },
+      {
+         "seriesId" : "GA0000N000000Rt",
+         "sourceFeed" : {
+            "author" : "All Things Comedy",
+            "categories" : [
+               "Comedy",
+               "Society & Culture"
+            ],
+            "contentType" : "Episodic",
+            "description" : "A no-holds-barred arena for half truths, social no-nos, and animal behavior-featuring comedian Bobby Lee and his best friend Khalyla.\n\nEvery Wednesday.",
+            "imageUrl" : "https://www.omnycontent.com/d/playlist/885ace83-027a-47ad-ad67-aca7002f1df8/7bdc2f7e-cc52-4dd7-b327-aca8005d16cb/4a6219e8-f1d3-4cf7-bd93-aca8005d16e7/image.jpg?t=1657085533&size=Large",
+            "language" : "en-US",
+            "owner" : "Gilbert Galon"
+         },
+         "subtitle" : null,
+         "summary" : "A no-holds-barred arena for half truths, social no-nos, and animal behavior-featuring comedian Bobby Lee and his best friend Khalyla.\n\nEvery Wednesday.",
+         "title" : "TigerBelly"
+      }
+   ],
+   "meta" : {
+      "limit" : 30,
+      "offset" : 0,
+      "total" : 109601
+   }
+}

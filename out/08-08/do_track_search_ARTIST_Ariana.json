@@ -1,0 +1,37 @@
+3.7 Track Endpoint do_track_search ===========================================
+{
+   "albums" : {
+      "items" : [],
+      "limit" : 3,
+      "offset" : 0,
+      "totalNumberOfItems" : 0
+   },
+   "artists" : {
+      "items" : [
+         {
+            "id" : 4332277,
+            "name" : "Ariana Grande",
+            "picture" : "6b7554b8-5899-40a8-8c13-09af915f1ba7"
+         },
+         {
+            "id" : 24017766,
+            "name" : "Ariana Ribera",
+            "picture" : null
+         },
+         {
+            "id" : 7239484,
+            "name" : "Ariana DeBose",
+            "picture" : null
+         }
+      ],
+      "limit" : 3,
+      "offset" : 0,
+      "totalNumberOfItems" : 300
+   },
+   "tracks" : {
+      "items" : [],
+      "limit" : 3,
+      "offset" : 0,
+      "totalNumberOfItems" : 0
+   }
+}

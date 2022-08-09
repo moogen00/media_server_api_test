@@ -1,0 +1,36 @@
+{
+   "childCount" : 3,
+   "data" : [
+      {
+         "parentThemeId" : "TM011",
+         "plThemeId" : "PL016",
+         "plThemeName" : "Rainy Day Driving"
+      },
+      {
+         "parentThemeId" : "TM011",
+         "plThemeId" : "PL005",
+         "plThemeName" : "Time for Peace"
+      },
+      {
+         "parentThemeId" : "TM011",
+         "plThemeId" : "PL006",
+         "plThemeName" : "Clean up your brain"
+      }
+   ],
+   "podData" : [
+      {
+         "podcastCategoryId" : "90271",
+         "podcastCategoryName" : "Music"
+      },
+      {
+         "podcastCategoryId" : "90272",
+         "podcastCategoryName" : "News"
+      },
+      {
+         "podcastCategoryId" : "90276",
+         "podcastCategoryName" : "Sports"
+      }
+   ],
+   "themeId" : "TM011",
+   "themeName" : "Rainy Day Unwind"
+}

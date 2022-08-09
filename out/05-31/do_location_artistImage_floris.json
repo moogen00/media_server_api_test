@@ -1,0 +1,19 @@
+3.23 Image Search Endpoint artistImage do_location_artistImage ===========================================
+[
+   {
+      "location" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/AAB7/4D3E/034A/C149_xlarge_front.jpg",
+      "name" : "Floris"
+   },
+   {
+      "location" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/E530/E388/2245/AA2C_xlarge_front.jpg",
+      "name" : "Floris Bates"
+   },
+   {
+      "location" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/20AA/59E4/7FE5/FDFA_xlarge_front.jpg",
+      "name" : "Floris De Rycker: Ratas Del Viejo Mundo"
+   },
+   {
+      "location" : "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/67F6/D205/5F2D/669D_xlarge_front.jpg",
+      "name" : "Florist"
+   }
+]

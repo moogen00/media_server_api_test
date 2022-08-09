@@ -1,0 +1,43 @@
+contextual_aod_personal do_contextual_aod_personal_themeIds ===========================================
+{
+   "personalAodData" : [
+      {
+         "categoryName" : "Comedy",
+         "image" : "https://content.production.cdn.art19.com/images/d1/7c/55/42/d17c5542-9279-439f-a74b-51a35509b3b3/9e5dedf1df328ad9e6afad027be451d8a6004ace9a608a56ef5dff947e3c1da029eae177362aa133272af86fded608e7f62b10755ab476c341bdf1a988e49408.jpeg",
+         "seriesID" : "GA0000N000000RZ",
+         "title" : "Hello From the Magic Tavern"
+      },
+      {
+         "categoryName" : "Comedy",
+         "image" : "https://www.omnycontent.com/d/playlist/77bedd50-a734-42aa-9c08-ad86013ca0f9/1bdbfc2f-7f68-43f0-863a-ad8d012bc79e/e4b4b7ed-31e1-471a-b430-ad8d012bc7a8/image.jpg?t=1629742290&size=Large",
+         "seriesID" : "GA0000N0000VrZ2",
+         "title" : "Review Revue"
+      },
+      {
+         "categoryName" : "Comedy",
+         "image" : "https://megaphone.imgix.net/podcasts/6c4e26b2-c529-11ea-ba5d-43198d8ba37b/image/YKWD_Logo_TLBLogo_1400x1400.jpg?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+         "seriesID" : "GA0000N000000VC",
+         "title" : "Robert Kelly's You Know What Dude!"
+      }
+   ],
+   "recommendedAodData" : [
+      {
+         "categoryName" : "True Crime",
+         "image" : "https://content.production.cdn.art19.com/images/1b/bc/fe/05/1bbcfe05-f4a9-4450-9fe7-77084830de38/476fd5af015ba1883b95ba0cf96e96b0145dca0381246f4e42903fa814b540309faf8b3c5402a4d1e7b374e332b49bfa8b29a2c2b607fb2c695604a4335fbd3a.jpeg",
+         "seriesID" : "GA0000N000000RD",
+         "title" : "Small Town Murder"
+      },
+      {
+         "categoryName" : "Comedy",
+         "image" : "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/1772800/1772800-1558038546790-ab73ec38f5836.jpg",
+         "seriesID" : "GA0000N0000NNWJ",
+         "title" : "rSlash"
+      },
+      {
+         "categoryName" : "Music",
+         "image" : "https://i1.sndcdn.com/avatars-000509949912-3iu5k0-original.jpg",
+         "seriesID" : "GA0000N000000PG",
+         "title" : "The Read"
+      }
+   ]
+}

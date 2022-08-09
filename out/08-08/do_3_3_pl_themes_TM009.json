@@ -1,0 +1,36 @@
+{
+   "childCount" : 3,
+   "data" : [
+      {
+         "parentThemeId" : "TM009",
+         "plThemeId" : "PL018",
+         "plThemeName" : "Romantic Music "
+      },
+      {
+         "parentThemeId" : "TM009",
+         "plThemeId" : "PL005",
+         "plThemeName" : "Time for Peace"
+      },
+      {
+         "parentThemeId" : "TM009",
+         "plThemeId" : "PL006",
+         "plThemeName" : "Clean up your brain"
+      }
+   ],
+   "podData" : [
+      {
+         "podcastCategoryId" : "90277",
+         "podcastCategoryName" : "Story Telling"
+      },
+      {
+         "podcastCategoryId" : "90265",
+         "podcastCategoryName" : "Comedy"
+      },
+      {
+         "podcastCategoryId" : "90271",
+         "podcastCategoryName" : "Music"
+      }
+   ],
+   "themeId" : "TM009",
+   "themeName" : "Midnight Blue"
+}

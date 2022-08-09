@@ -1,0 +1,36 @@
+{
+   "childCount" : 3,
+   "data" : [
+      {
+         "parentThemeId" : "TM004",
+         "plThemeId" : "PL010",
+         "plThemeName" : "Awakening Music"
+      },
+      {
+         "parentThemeId" : "TM004",
+         "plThemeId" : "PL011",
+         "plThemeName" : "Energizing"
+      },
+      {
+         "parentThemeId" : "TM004",
+         "plThemeId" : "PL012",
+         "plThemeName" : "Brain-wash"
+      }
+   ],
+   "podData" : [
+      {
+         "podcastCategoryId" : "90265",
+         "podcastCategoryName" : "Comedy"
+      },
+      {
+         "podcastCategoryId" : "90271",
+         "podcastCategoryName" : "Music"
+      },
+      {
+         "podcastCategoryId" : "90279",
+         "podcastCategoryName" : "True Crime"
+      }
+   ],
+   "themeId" : "TM004",
+   "themeName" : "Caffeine Infusion"
+}
